@@ -35,6 +35,9 @@ body{padding-top:44px}
 .demo-info{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:18px;margin-top:22px}
 .demo-info .card{padding:22px}
 .demo-info h3{margin:0 0 6px}
+.vcard{cursor:pointer}.vcard .vc-open{cursor:pointer}
+.vcard:not(.flipped) .vc-back{pointer-events:none}.vcard.flipped .vc-front{pointer-events:none}
+.m-photo.has-logo{background:#fff}.m-photo.has-logo img{object-fit:contain!important;padding:8px;background:#fff}
 @media (max-width:640px){.demo-banner{height:52px;font-size:12.5px}body{padding-top:52px}.top{top:52px}}
 </style>
 <style>/* required styles */
@@ -2150,7 +2153,7 @@ const COUNTRIES = {
 };
 const EU_ALL = {AL:{it:"Albania",en:"Albania",de:"Albanien"},AD:{it:"Andorra",en:"Andorra",de:"Andorra"},AM:{it:"Armenia",en:"Armenia",de:"Armenien"},AT:{it:"Austria",en:"Austria",de:"Österreich"},AZ:{it:"Azerbaigian",en:"Azerbaijan",de:"Aserbaidschan"},BY:{it:"Bielorussia",en:"Belarus",de:"Belarus"},BE:{it:"Belgio",en:"Belgium",de:"Belgien"},BA:{it:"Bosnia ed Erzegovina",en:"Bosnia and Herzegovina",de:"Bosnien und Herzegowina"},BG:{it:"Bulgaria",en:"Bulgaria",de:"Bulgarien"},CY:{it:"Cipro",en:"Cyprus",de:"Zypern"},HR:{it:"Croazia",en:"Croatia",de:"Kroatien"},DK:{it:"Danimarca",en:"Denmark",de:"Dänemark"},EE:{it:"Estonia",en:"Estonia",de:"Estland"},FI:{it:"Finlandia",en:"Finland",de:"Finnland"},FR:{it:"Francia",en:"France",de:"Frankreich"},GE:{it:"Georgia",en:"Georgia",de:"Georgien"},DE:{it:"Germania",en:"Germany",de:"Deutschland"},GR:{it:"Grecia",en:"Greece",de:"Griechenland"},IE:{it:"Irlanda",en:"Ireland",de:"Irland"},IS:{it:"Islanda",en:"Iceland",de:"Island"},IT:{it:"Italia",en:"Italy",de:"Italien"},XK:{it:"Kosovo",en:"Kosovo",de:"Kosovo"},LV:{it:"Lettonia",en:"Latvia",de:"Lettland"},LI:{it:"Liechtenstein",en:"Liechtenstein",de:"Liechtenstein"},LT:{it:"Lituania",en:"Lithuania",de:"Litauen"},LU:{it:"Lussemburgo",en:"Luxembourg",de:"Luxemburg"},MT:{it:"Malta",en:"Malta",de:"Malta"},MD:{it:"Moldavia",en:"Moldova",de:"Moldau"},MC:{it:"Monaco",en:"Monaco",de:"Monaco"},ME:{it:"Montenegro",en:"Montenegro",de:"Montenegro"},NO:{it:"Norvegia",en:"Norway",de:"Norwegen"},NL:{it:"Paesi Bassi",en:"Netherlands",de:"Niederlande"},PL:{it:"Polonia",en:"Poland",de:"Polen"},PT:{it:"Portogallo",en:"Portugal",de:"Portugal"},GB:{it:"Regno Unito",en:"United Kingdom",de:"Vereinigtes Königreich"},CZ:{it:"Repubblica Ceca",en:"Czech Republic",de:"Tschechien"},MK:{it:"Macedonia del Nord",en:"North Macedonia",de:"Nordmazedonien"},RO:{it:"Romania",en:"Romania",de:"Rumänien"},RU:{it:"Russia",en:"Russia",de:"Russland"},SM:{it:"San Marino",en:"San Marino",de:"San Marino"},RS:{it:"Serbia",en:"Serbia",de:"Serbien"},SK:{it:"Slovacchia",en:"Slovakia",de:"Slowakei"},SI:{it:"Slovenia",en:"Slovenia",de:"Slowenien"},ES:{it:"Spagna",en:"Spain",de:"Spanien"},SE:{it:"Svezia",en:"Sweden",de:"Schweden"},CH:{it:"Svizzera",en:"Switzerland",de:"Schweiz"},TR:{it:"Turchia",en:"Turkey",de:"Türkei"},UA:{it:"Ucraina",en:"Ukraine",de:"Ukraine"},HU:{it:"Ungheria",en:"Hungary",de:"Ungarn"},VA:{it:"Città del Vaticano",en:"Vatican City",de:"Vatikanstadt"}};
 const LANGS = {it:{it:"Italiano",en:"Italian",de:"Italienisch"},en:{it:"Inglese",en:"English",de:"Englisch"},de:{it:"Tedesco",en:"German",de:"Deutsch"},fr:{it:"Francese",en:"French",de:"Französisch"},es:{it:"Spagnolo",en:"Spanish",de:"Spanisch"}};
-const CERTS = ["DOP","DOCG","IGP","Bio"];
+const CERTS = ["DOP","DOC","DOCG","IGP","IGT","Bio"];
 
 // Product sheets: d = description, a = storage / pairing. Keys: stand id + index.
 const PD = Object.assign({}, ...((window.VETRINE&&VETRINE.EX)||[]).map(e=>e.pd||{}));
@@ -2464,6 +2467,7 @@ function renderList(list){
     if(on) track("vetrina_girata",{stand:c.dataset.id});
     const f = c.querySelector(on?".vc-back [data-open]":".vc-open"); if(f) setTimeout(()=>f.focus({preventScroll:true}),420);
   }));
+  el.querySelectorAll(".vcard").forEach(c=>c.addEventListener("click",ev=>{ if(ev.target.closest("button,a")) return; if(!c.classList.contains("flipped")) openStand(c.dataset.id); }));
   const gm = document.getElementById("gal-more"); if(gm) gm.onclick = ()=>{ galAll = true; renderList(list); };
   FX.cards();
 }
@@ -2539,7 +2543,7 @@ function openStand(id,mode){
   modal.innerHTML = `
     <div class="m-head">
       <div class="m-bg" aria-hidden="true">${pic("stand-"+e.id,"","")}</div>
-      <div class="m-photo" role="img" aria-label="${t("m.photo")}">${pic("stand-"+e.id,"",icon(e.cat,56))}</div>
+      <div class="m-photo${IMG["logo-"+e.id]?" has-logo":""}" role="img" aria-label="${t("m.photo")}">${IMG["logo-"+e.id]?pic("logo-"+e.id,e.n,""):pic("stand-"+e.id,"",icon(e.cat,56))}</div>
       <div><h2 id="m-title">${esc(e.n)}</h2><p>${t("stand.code",e.id,(lang==="de"?catName(e.cat):catName(e.cat).toLowerCase()))}. ${esc(e.city)}, ${esc(regLabel(e.reg))}, ${t("since",e.y)}.</p></div>
       <button class="close" type="button" aria-label="${t("m.close")}" id="m-close"><svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg></button>
     </div>
