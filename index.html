@@ -1304,6 +1304,10 @@ body{overflow-x:clip}
 .vc-bg{position:absolute;inset:-14px;display:block}
 .vc-bg img{width:100%;height:100%;object-fit:cover;display:block;filter:saturate(1.15);transition:transform .9s var(--ease);transform:scale(1.04) translate(calc(var(--tx,0)*-8px),calc(var(--ty,0)*-8px))}
 .vcard:hover .vc-bg img{transform:scale(1.14) translate(calc(var(--tx,0)*-12px),calc(var(--ty,0)*-12px))}
+.vc-bg.vc-logo{inset:0;background:#fff;padding:46px 20px 60px;display:flex;align-items:center;justify-content:center}
+.vc-bg.vc-logo img{width:auto;max-width:100%;height:auto;max-height:100%;object-fit:contain;filter:none;transform:none!important}
+.vc-cover.has-logo{background:#fff}
+.vc-cover.has-logo:after{display:none}
 .vc-cover:after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,.05) 30%,color-mix(in srgb,var(--c) 78%,#000) 115%)}
 .vc-shelf{position:absolute;left:14px;bottom:-22px;z-index:2;display:flex}
 .vc-p{width:56px;height:76px;border-radius:10px;overflow:hidden;border:2.5px solid #fff;background:var(--c);color:#fff;display:grid;place-items:center;box-shadow:0 10px 18px -8px rgba(0,0,0,.6);margin-right:-10px;transform:translateY(0) rotate(calc((var(--j) - 1)*-4deg));transition:transform .5s var(--spring);transition-delay:calc(var(--j)*40ms)}
@@ -1813,7 +1817,7 @@ window.FX = (function(){
     if(mq){ const one=Object.keys(CATS).map(k=>`<span>${icon(k,20)}${catName(k)}</span>`).join(""); mq.innerHTML=one+one+one+one; }
     // story demo card
     const e=EX[0];
-    $$("[data-demo-cover]").forEach(el=>{ el.innerHTML=pic("stand-"+e.id,"",""); el.style.setProperty("--c",CATS[e.cat].c); });
+    $$("[data-demo-cover]").forEach(el=>{ el.innerHTML=IMG["logo-"+e.id]?`<span style="position:absolute;inset:0;background:#fff;display:flex;align-items:center;justify-content:center;padding:18px">${pic("logo-"+e.id,e.n,"").replace("<img ",'<img style="width:auto;height:auto;max-width:100%;max-height:100%;object-fit:contain" ')}</span>`:pic("stand-"+e.id,"",""); el.style.setProperty("--c",CATS[e.cat].c); });
     $$("[data-demo-name]").forEach(el=>el.textContent=e.n);
     $$("[data-demo-sub]").forEach(el=>el.textContent=catName(e.cat)+", "+regLabel(e.reg));
     $$("[data-demo-th]").forEach(el=>el.innerHTML=e.p.slice(0,3).map((p,j)=>`<span>${pic(`prod-${e.id}-${j}`,"","")}</span>`).join(""));
@@ -2445,8 +2449,8 @@ function renderList(list){
       <div class="vc-inner">
         <div class="vc-face vc-front">
           <button type="button" class="vc-open" data-cursor="${esc(t("cur.open"))}" aria-label="${esc(t("visit"))}: ${esc(e.n)}">
-            <span class="vc-cover">
-              <span class="vc-bg">${pic("stand-"+e.id,"","")}</span>
+            <span class="vc-cover${IMG["logo-"+e.id]?" has-logo":""}">
+              ${IMG["logo-"+e.id]?`<span class="vc-bg vc-logo">${pic("logo-"+e.id,e.n,"")}</span>`:`<span class="vc-bg">${pic("stand-"+e.id,"","")}</span>`}
               <span class="vc-cat">${icon(catFor(e),15)}${catName(catFor(e))}</span>
               <span class="demo-tag">${t("demo.tag")}</span>
               <span class="vc-shelf">${prodIdx(e,state.cat).slice(0,3).map((pi,j)=>`<span class="vc-p" style="--j:${j}">${pic(`prod-${e.id}-${pi}`,"",icon(catFor(e),24))}</span>`).join("")}</span>
