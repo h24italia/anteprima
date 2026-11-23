@@ -1384,7 +1384,8 @@ footer .fcontact a{color:#fff}
 .prods li.pl:hover{transform:translateY(-6px) rotate(-1deg);box-shadow:0 24px 40px -22px rgba(23,48,46,.7)}
 .prod-btn{display:flex;flex-direction:column;align-items:stretch;gap:0;padding:0;border-radius:16px;height:100%}
 .prods .pi{width:100%;height:auto;aspect-ratio:1/1.05;border-radius:0}
-.prods .pi{position:relative;display:block}
+.prods .pi{position:relative;display:grid;place-items:center}
+.prods .pi>svg{width:38%;height:auto;opacity:.92}
 .prods .pi:has(img){background:#fff}
 .prods .pi img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;padding:8px;box-sizing:border-box;transition:transform .6s var(--ease)}
 .prods li.pl:hover .pi img{transform:scale(1.1)}
@@ -2181,10 +2182,12 @@ const catsOf = e => [...new Set([e.cat, ...(e.cats||[]), ...(e.sub||[]).map(x=>x
 const inCat = (e,k) => catsOf(e).includes(k);
 const catFor = e => (state && state.cat && inCat(e,state.cat)) ? state.cat : e.cat;
 // Prodotti da mostrare per un padiglione: quelli della sottocategoria collegata, altrimenti tutti
+// Padiglione del singolo prodotto (dalla sua sottocategoria), per l'icona quando manca la foto
+const pcat = (e,i) => { const p=e.p[i]||[]; const s=e.sub&&p[2]&&e.sub.find(x=>x.k===p[2]); return (s&&s.cat&&CATS[s.cat])?s.cat:e.cat; };
 const prodIdx = (e,k) => { const s = e.sub && k && e.sub.find(x=>x.cat===k); return e.p.map((p,i)=>i).filter(i=>!s || e.p[i][2]===s.k); };
 const D_DE = Object.fromEntries(EX.map(e=>[e.id,(e.d&&e.d.de)||""]));
-const FMT_DE=[[/bag in box da/g,"Bag-in-Box à"],[/bottiglia da/g,"Flasche à"],[/latta da/g,"Kanister à"],[/litri/g,"Liter"],[/cartone da/g,"Karton à"],[/cassa legno da/g,"Holzkiste à"],[/circa/g,"ca."],[/pezzi/g,"Stück"],[/forma intera/gi,"ganzer Laib"],[/forma/g,"Laib"],[/spicchio/g,"Stück"],[/sottovuoto/g,"vakuumverpackt"],[/intero con osso/g,"ganz, mit Knochen"],[/vasetto/g,"Glas"],[/per ristorazione/g,"für die Gastronomie"]];
-const FMT_EN=[[/bag in box da/g,"bag-in-box of"],[/bottiglia da/g,"bottle of"],[/latta da/g,"tin of"],[/litri/g,"litres"],[/cartone da/g,"case of"],[/cassa legno da/g,"wooden case of"],[/circa/g,"approx."],[/pezzi/g,"pieces"],[/forma intera/gi,"whole wheel"],[/forma/g,"wheel"],[/spicchio/g,"wedge"],[/sottovuoto/g,"vacuum-packed"],[/intero con osso/g,"whole, bone-in"],[/vasetto/g,"jar"],[/per ristorazione/g,"for food service"],[/,(\d)/g,".$1"]];
+const FMT_DE=[[/barattolo da/g,"Glas à"],[/bag in box da/g,"Bag-in-Box à"],[/bottiglia da/g,"Flasche à"],[/latta da/g,"Kanister à"],[/litri/g,"Liter"],[/cartone da/g,"Karton à"],[/cassa legno da/g,"Holzkiste à"],[/circa/g,"ca."],[/pezzi/g,"Stück"],[/forma intera/gi,"ganzer Laib"],[/forma/g,"Laib"],[/spicchio/g,"Stück"],[/sottovuoto/g,"vakuumverpackt"],[/intero con osso/g,"ganz, mit Knochen"],[/vasetto/g,"Glas"],[/per ristorazione/g,"für die Gastronomie"]];
+const FMT_EN=[[/barattolo da/g,"jar of"],[/bag in box da/g,"bag-in-box of"],[/bottiglia da/g,"bottle of"],[/latta da/g,"tin of"],[/litri/g,"litres"],[/cartone da/g,"case of"],[/cassa legno da/g,"wooden case of"],[/circa/g,"approx."],[/pezzi/g,"pieces"],[/forma intera/gi,"whole wheel"],[/forma/g,"wheel"],[/spicchio/g,"wedge"],[/sottovuoto/g,"vacuum-packed"],[/intero con osso/g,"whole, bone-in"],[/vasetto/g,"jar"],[/per ristorazione/g,"for food service"],[/,(\d)/g,".$1"]];
 const fmtP = s => lang==="en" ? FMT_EN.reduce((a,[r,v])=>a.replace(r,v),s) : lang==="de" ? FMT_DE.reduce((a,[r,v])=>a.replace(r,v),s) : s;
 const T = {
  it:{
@@ -2455,7 +2458,7 @@ function renderList(list){
               ${IMG["logo-"+e.id]?`<span class="vc-bg vc-logo">${pic("logo-"+e.id,e.n,"")}</span>`:`<span class="vc-bg">${pic("stand-"+e.id,"","")}</span>`}
               <span class="vc-cat">${icon(catFor(e),15)}${catName(catFor(e))}</span>
               <span class="demo-tag">${t("demo.tag")}</span>
-              <span class="vc-shelf">${prodIdx(e,state.cat).slice(0,3).map((pi,j)=>`<span class="vc-p" style="--j:${j}">${pic(`prod-${e.id}-${pi}`,"",icon(catFor(e),24))}</span>`).join("")}</span>
+              <span class="vc-shelf">${prodIdx(e,state.cat).slice(0,3).map((pi,j)=>`<span class="vc-p" style="--j:${j}">${pic(`prod-${e.id}-${pi}`,"",icon(pcat(e,pi),24))}</span>`).join("")}</span>
             </span>
             <span class="vc-info">
               <span class="vc-name">${esc(e.n)}</span>
@@ -2575,7 +2578,7 @@ function openStand(id,mode){
         <p class="story">${esc(lang==="de"?D_DE[e.id]:e.d[lang])}</p>
         <h3>${t("m.products")}</h3>
         ${subTabs(e)}
-        <ul class="prods">${e.p.map((p,i)=>`<li class="pl"${p[2]?` data-sub="${p[2]}"`:""}${e.sub&&p[2]&&p[2]!==curSub(e)?" hidden":""}><button class="prod-btn" type="button" data-pi="${i}" aria-label="${t("pd.open")}: ${esc(p[0])}"><span class="pi">${pic(`prod-${e.id}-${i}`,"",icon(e.cat,22))}</span><span><strong>${esc(p[0])}</strong><small>${p[1]?esc(fmtP(p[1])):t("dm.tbd")}${(PD[e.id+"-"+i]||{}).pr?`<span class="pr">${esc(PD[e.id+"-"+i].pr)}</span>`:""}</small></span><svg class="chev" width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg></button></li>`).join("")}</ul>
+        <ul class="prods">${e.p.map((p,i)=>`<li class="pl"${p[2]?` data-sub="${p[2]}"`:""}${e.sub&&p[2]&&p[2]!==curSub(e)?" hidden":""}><button class="prod-btn" type="button" data-pi="${i}" aria-label="${t("pd.open")}: ${esc(p[0])}"><span class="pi">${pic(`prod-${e.id}-${i}`,"",icon(pcat(e,i),22))}</span><span><strong>${esc(p[0])}</strong><small>${p[1]?esc(fmtP(p[1])):t("dm.tbd")}${(PD[e.id+"-"+i]||{}).pr?`<span class="pr">${esc(PD[e.id+"-"+i].pr)}</span>`:""}</small></span><svg class="chev" width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg></button></li>`).join("")}</ul>
       </div>
       <div>
         <dl class="factsheet">
@@ -2619,7 +2622,7 @@ function openProduct(e,i){
   modal.innerHTML = `
     <div class="m-head">
       <div class="m-bg" aria-hidden="true">${pic("stand-"+e.id,"","")}</div>
-      <div class="m-photo" role="img" aria-label="${esc(p[0])}" style="width:150px;aspect-ratio:3/4">${pic(k2,"",icon(e.cat,56))}</div>
+      <div class="m-photo" role="img" aria-label="${esc(p[0])}" style="width:150px;aspect-ratio:3/4">${pic(k2,"",icon(pcat(e,i),56))}</div>
       <div><button class="p-back" type="button" id="p-back"><svg width="16" height="16" viewBox="0 0 24 24" aria-hidden="true"><path d="M15 6l-6 6 6 6" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>${t("pd.back")}</button>
       <h2 id="m-title">${esc(p[0])}</h2><p>${esc(e.n)}, ${esc(regLabel(e.reg))}</p></div>
       <button class="close" type="button" aria-label="${t("m.close")}" id="m-close"><svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg></button>
