@@ -949,6 +949,14 @@ footer .wrap{display:flex;flex-wrap:wrap;gap:12px;justify-content:space-between}
 .m-body h3{font-size:19px;margin:0 0 10px}
 .m-body p.story{margin:0 0 22px;font-size:17px}
 .prods{list-style:none;padding:0;margin:0;display:grid;gap:8px}
+.subtabs{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 14px}
+.subtab{all:unset;box-sizing:border-box;cursor:pointer;padding:8px 16px;border-radius:999px;border:1.5px solid var(--c);color:var(--c);font-weight:700;font-size:14px;line-height:1.2;transition:background .2s,color .2s}
+.subtab small{font-weight:600;opacity:.75;margin-left:6px}
+.subtab:hover{background:rgba(23,48,46,.05)}
+.subtab[aria-selected="true"]{background:var(--c);color:#fff}
+.subtab:focus-visible{outline:3px solid var(--c);outline-offset:2px}
+.prods li.pl[hidden]{display:none}
+.prods .pr{display:block;margin-top:4px;font-weight:800;color:var(--ink)}
 .prods li{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:10px 12px;display:grid;grid-template-columns:40px 1fr;gap:12px;align-items:center}
 .prods .pi{width:56px;height:56px;border-radius:10px;background:var(--c);display:grid;place-items:center;color:#fff;overflow:hidden}
 .prods small{display:block;color:var(--ink-2)}
@@ -2161,9 +2169,16 @@ const PD = Object.assign({}, ...((window.VETRINE&&VETRINE.EX)||[]).map(e=>e.pd||
 // Fictional demo exhibitors
 const EX = ((window.VETRINE && VETRINE.EX) || []).map(e=>Object.assign({certs:[],exp:[],lg:["it"],p:[]},e));
 
+// Padiglioni: cat è il principale; cats aggiunge altri padiglioni a mano
+// Regola: se una vetrina ha sottocategorie collegate a un padiglione (sub[].cat), compare in ognuno di quei padiglioni
+const catsOf = e => [...new Set([e.cat, ...(e.cats||[]), ...(e.sub||[]).map(x=>x.cat).filter(k=>k&&CATS[k])])];
+const inCat = (e,k) => catsOf(e).includes(k);
+const catFor = e => (state && state.cat && inCat(e,state.cat)) ? state.cat : e.cat;
+// Prodotti da mostrare per un padiglione: quelli della sottocategoria collegata, altrimenti tutti
+const prodIdx = (e,k) => { const s = e.sub && k && e.sub.find(x=>x.cat===k); return e.p.map((p,i)=>i).filter(i=>!s || e.p[i][2]===s.k); };
 const D_DE = Object.fromEntries(EX.map(e=>[e.id,(e.d&&e.d.de)||""]));
-const FMT_DE=[[/cartone da/g,"Karton à"],[/cassa legno da/g,"Holzkiste à"],[/circa/g,"ca."],[/pezzi/g,"Stück"],[/forma intera/gi,"ganzer Laib"],[/forma/g,"Laib"],[/spicchio/g,"Stück"],[/sottovuoto/g,"vakuumverpackt"],[/intero con osso/g,"ganz, mit Knochen"],[/vasetto/g,"Glas"],[/per ristorazione/g,"für die Gastronomie"]];
-const FMT_EN=[[/cartone da/g,"case of"],[/cassa legno da/g,"wooden case of"],[/circa/g,"approx."],[/pezzi/g,"pieces"],[/forma intera/gi,"whole wheel"],[/forma/g,"wheel"],[/spicchio/g,"wedge"],[/sottovuoto/g,"vacuum-packed"],[/intero con osso/g,"whole, bone-in"],[/vasetto/g,"jar"],[/per ristorazione/g,"for food service"],[/,(\d)/g,".$1"]];
+const FMT_DE=[[/bag in box da/g,"Bag-in-Box à"],[/bottiglia da/g,"Flasche à"],[/latta da/g,"Kanister à"],[/litri/g,"Liter"],[/cartone da/g,"Karton à"],[/cassa legno da/g,"Holzkiste à"],[/circa/g,"ca."],[/pezzi/g,"Stück"],[/forma intera/gi,"ganzer Laib"],[/forma/g,"Laib"],[/spicchio/g,"Stück"],[/sottovuoto/g,"vakuumverpackt"],[/intero con osso/g,"ganz, mit Knochen"],[/vasetto/g,"Glas"],[/per ristorazione/g,"für die Gastronomie"]];
+const FMT_EN=[[/bag in box da/g,"bag-in-box of"],[/bottiglia da/g,"bottle of"],[/latta da/g,"tin of"],[/litri/g,"litres"],[/cartone da/g,"case of"],[/cassa legno da/g,"wooden case of"],[/circa/g,"approx."],[/pezzi/g,"pieces"],[/forma intera/gi,"whole wheel"],[/forma/g,"wheel"],[/spicchio/g,"wedge"],[/sottovuoto/g,"vacuum-packed"],[/intero con osso/g,"whole, bone-in"],[/vasetto/g,"jar"],[/per ristorazione/g,"for food service"],[/,(\d)/g,".$1"]];
 const fmtP = s => lang==="en" ? FMT_EN.reduce((a,[r,v])=>a.replace(r,v),s) : lang==="de" ? FMT_DE.reduce((a,[r,v])=>a.replace(r,v),s) : s;
 const T = {
  it:{
@@ -2382,13 +2397,13 @@ function setActive(id,fly){
 function filtered(){
   const q = state.q.trim().toLowerCase();
   return EX.filter(e=>{
-    if(state.cat && e.cat!==state.cat) return false;
+    if(state.cat && !inCat(e,state.cat)) return false;
     if(state.reg && e.reg!==state.reg) return false;
     if(state.exp && !e.exp.includes(state.exp)) return false;
     if(state.moq && e.moq>Number(state.moq)) return false;
     for(const c of state.certs){ if(!e.certs.includes(c)) return false; }
     if(q){
-      const hay = [e.n,e.city,regLabel(e.reg),CATS[e.cat].it,CATS[e.cat].en,e.d.it,e.d.en,D_DE[e.id],CATS[e.cat].de,...e.p.map(p=>p[0])].join(" ").toLowerCase();
+      const hay = [e.n,e.city,regLabel(e.reg),...catsOf(e).flatMap(k=>[CATS[k].it,CATS[k].en,CATS[k].de]),...(e.sub||[]).flatMap(x=>[x.n.it,x.n.en,x.n.de]),e.d.it,e.d.en,D_DE[e.id],...e.p.map(p=>p[0])].join(" ").toLowerCase();
       if(!hay.includes(q)) return false;
     }
     return true;
@@ -2426,15 +2441,15 @@ function renderList(list){
   const lim = (galAll || mob || activeFilters() || state.q.trim()) ? list.length : Math.min(9,list.length);
   const flipIco = '<svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 12a8 8 0 0 1 13.7-5.6L20 8.5M20 4v4.5h-4.5M20 12a8 8 0 0 1-13.7 5.6L4 15.500M4 20v-4.500h4.500" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>';
   el.innerHTML = list.slice(0,lim).map((e,i)=>`
-    <article class="vcard${e.id===activeId?" active":""}" data-id="${e.id}" style="--c:${CATS[e.cat].c};--i:${Math.min(i,9)}">
+    <article class="vcard${e.id===activeId?" active":""}" data-id="${e.id}" style="--c:${CATS[catFor(e)].c};--i:${Math.min(i,9)}">
       <div class="vc-inner">
         <div class="vc-face vc-front">
           <button type="button" class="vc-open" data-cursor="${esc(t("cur.open"))}" aria-label="${esc(t("visit"))}: ${esc(e.n)}">
             <span class="vc-cover">
               <span class="vc-bg">${pic("stand-"+e.id,"","")}</span>
-              <span class="vc-cat">${icon(e.cat,15)}${catName(e.cat)}</span>
+              <span class="vc-cat">${icon(catFor(e),15)}${catName(catFor(e))}</span>
               <span class="demo-tag">${t("demo.tag")}</span>
-              <span class="vc-shelf">${e.p.slice(0,3).map((p,j)=>`<span class="vc-p" style="--j:${j}">${pic(`prod-${e.id}-${j}`,"",icon(e.cat,24))}</span>`).join("")}</span>
+              <span class="vc-shelf">${prodIdx(e,state.cat).slice(0,3).map((pi,j)=>`<span class="vc-p" style="--j:${j}">${pic(`prod-${e.id}-${pi}`,"",icon(catFor(e),24))}</span>`).join("")}</span>
             </span>
             <span class="vc-info">
               <span class="vc-name">${esc(e.n)}</span>
@@ -2512,10 +2527,10 @@ function scrollToMap(){
 }
 function renderPavs(){
   document.getElementById("pavs").innerHTML = Object.keys(CATS).map(k=>{
-    const ex = EX.filter(e=>e.cat===k);
+    const ex = EX.filter(e=>inCat(e,k));
     const regs = [...new Set(ex.map(e=>regLabel(e.reg)))];
     return `<button type="button" class="pav" data-pav="${k}" style="--c:${CATS[k].c}" aria-pressed="${state.cat===k}" title="${esc(t("pav.regs")+" "+regs.join(", "))}">
-      <span class="pav-bg" aria-hidden="true">${icon(k,130)}</span><span class="pav-th" aria-hidden="true">${ex.slice(0,4).map((e,j)=>IMG["prod-"+e.id+"-0"]?`<span style="--j:${j}">${pic("prod-"+e.id+"-0","","")}</span>`:"").join("")}</span><span class="n" aria-hidden="true">${t("pav.n",ex.length)}</span>
+      <span class="pav-bg" aria-hidden="true">${icon(k,130)}</span><span class="pav-th" aria-hidden="true">${ex.slice(0,4).map((e,j)=>{const pi=prodIdx(e,k)[0]||0;return IMG["prod-"+e.id+"-"+pi]?`<span style="--j:${j}">${pic("prod-"+e.id+"-"+pi,"","")}</span>`:"";}).join("")}</span><span class="n" aria-hidden="true">${t("pav.n",ex.length)}</span>
       <h3>${catName(k)}</h3><p>${t("pav.regs")} ${regs.join(", ")}.</p></button>`;
   }).join("");
   document.querySelectorAll("[data-pav]").forEach(b=>b.onclick=()=>{
@@ -2536,15 +2551,15 @@ let lastFocus = null, openId = null;
 function openStand(id,mode){
   const e = EX.find(x=>x.id===id); if(!e) return;
   const fxFresh = !scrim.classList.contains("open");
-  if(fxFresh){ lastFocus = document.activeElement; track("stand_aperto",{stand:e.id,categoria:e.cat}); }
+  if(fxFresh){ lastFocus = document.activeElement; track("stand_aperto",{stand:e.id,categoria:e.cat}); const ps = e.sub && state.cat && e.sub.find(x=>x.cat===state.cat); if(ps) SUBSEL[e.id]=ps.k; }
   openId = id; setActive(id,false);
-  const c = CATS[e.cat].c;
+  const c = CATS[catFor(e)].c;
   modal.style.setProperty("--c",c);
   modal.innerHTML = `
     <div class="m-head">
       <div class="m-bg" aria-hidden="true">${pic("stand-"+e.id,"","")}</div>
       <div class="m-photo${IMG["logo-"+e.id]?" has-logo":""}" role="img" aria-label="${t("m.photo")}">${IMG["logo-"+e.id]?pic("logo-"+e.id,e.n,""):pic("stand-"+e.id,"",icon(e.cat,56))}</div>
-      <div><h2 id="m-title">${esc(e.n)}</h2><p>${t("stand.code",e.id,(lang==="de"?catName(e.cat):catName(e.cat).toLowerCase()))}. ${esc(e.city)}, ${esc(regLabel(e.reg))}, ${t("since",e.y)}.</p></div>
+      <div><h2 id="m-title">${esc(e.n)}</h2><p>${t(catsOf(e).length>1?"stand.codes":"stand.code",e.id,catsOf(e).map(k=>lang==="de"?catName(k):catName(k).toLowerCase()).join(lang==="de"?", ":"; "))}. ${esc(e.city)}, ${esc(regLabel(e.reg))}${e.y?", "+t("since",e.y):""}.</p></div>
       <button class="close" type="button" aria-label="${t("m.close")}" id="m-close"><svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg></button>
     </div>
     <p class="demo-m">${t("demo.m")}</p>
@@ -2553,7 +2568,8 @@ function openStand(id,mode){
         <h3>${t("m.story")}</h3>
         <p class="story">${esc(lang==="de"?D_DE[e.id]:e.d[lang])}</p>
         <h3>${t("m.products")}</h3>
-        <ul class="prods">${e.p.map((p,i)=>`<li class="pl"><button class="prod-btn" type="button" data-pi="${i}" aria-label="${t("pd.open")}: ${esc(p[0])}"><span class="pi">${pic(`prod-${e.id}-${i}`,"",icon(e.cat,22))}</span><span><strong>${esc(p[0])}</strong><small>${p[1]?esc(fmtP(p[1])):t("dm.tbd")}</small></span><svg class="chev" width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg></button></li>`).join("")}</ul>
+        ${subTabs(e)}
+        <ul class="prods">${e.p.map((p,i)=>`<li class="pl"${p[2]?` data-sub="${p[2]}"`:""}${e.sub&&p[2]&&p[2]!==curSub(e)?" hidden":""}><button class="prod-btn" type="button" data-pi="${i}" aria-label="${t("pd.open")}: ${esc(p[0])}"><span class="pi">${pic(`prod-${e.id}-${i}`,"",icon(e.cat,22))}</span><span><strong>${esc(p[0])}</strong><small>${p[1]?esc(fmtP(p[1])):t("dm.tbd")}${(PD[e.id+"-"+i]||{}).pr?`<span class="pr">${esc(PD[e.id+"-"+i].pr)}</span>`:""}</small></span><svg class="chev" width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg></button></li>`).join("")}</ul>
       </div>
       <div>
         <dl class="factsheet">
@@ -2573,9 +2589,23 @@ function openStand(id,mode){
   document.getElementById("m-close").onclick = closeStand; bindDemo(e);
   modal.querySelectorAll("[data-req]").forEach(b=>b.onclick=()=>reqForm(e,b.dataset.req));
   modal.querySelectorAll("[data-pi]").forEach(b=>b.onclick=()=>openProduct(e,+b.dataset.pi));
+  modal.querySelectorAll("[data-subtab]").forEach(b=>b.onclick=()=>{
+    SUBSEL[e.id]=b.dataset.subtab;
+    modal.querySelectorAll("[data-subtab]").forEach(x=>x.setAttribute("aria-selected",x===b?"true":"false"));
+    modal.querySelectorAll(".prods li.pl[data-sub]").forEach(li=>li.hidden=li.dataset.sub!==b.dataset.subtab);
+    track("sottocategoria_aperta",{stand:e.id,sottocategoria:b.dataset.subtab});
+  });
   if(mode) reqForm(e,mode); else if(focusPi!=null){ const b=modal.querySelector(`[data-pi="${focusPi}"]`); focusPi=null; if(b) b.focus(); } else document.getElementById("m-close").focus();
 }
 let focusPi = null;
+const SUBSEL = {};
+const subName = s => (s && s.n && (s.n[lang]||s.n.it)) || "";
+function curSub(e){ return (e.sub && (SUBSEL[e.id] || (e.sub[0]&&e.sub[0].k))) || null; }
+function subTabs(e){
+  if(!e.sub || !e.sub.length) return "";
+  const cur = curSub(e);
+  return `<div class="subtabs" role="tablist" aria-label="${t("m.subs")}">${e.sub.map(s=>`<button class="subtab" type="button" role="tab" data-subtab="${s.k}" aria-selected="${s.k===cur?"true":"false"}">${esc(subName(s))}<small>${e.p.filter(p=>p[2]===s.k).length}</small></button>`).join("")}</div>`;
+}
 function openProduct(e,i){
   const p = e.p[i], k = `${e.id}-${i}`, k2 = `prod-${e.id}-${i}`, d = PD[k] || {d:{it:"",en:"",de:""},a:{it:"",en:"",de:""}};
   const certs = d.c || e.certs;
@@ -2597,8 +2627,9 @@ function openProduct(e,i){
       </div>
       <div>
         <dl class="factsheet">
-          <div><dt>${t("pd.cat")}</dt><dd>${catName(e.cat)}</dd></div>
+          <div><dt>${t("pd.cat")}</dt><dd>${(e.sub&&p[2])?esc(subName(e.sub.find(s=>s.k===p[2]))):catName(e.cat)}</dd></div>
           <div><dt>${t("pd.fmt")}</dt><dd>${p[1]?esc(fmtP(p[1])):TBD()}</dd></div>
+          ${d.pr?`<div><dt>${t("m.price")}</dt><dd>${esc(d.pr)}</dd></div>`:""}
           <div><dt>${t("m.certs")}</dt><dd>${certs.length?certs.join(", "):TBD()}</dd></div>
           <div><dt>${t("m.moq")}</dt><dd>${t("m.moqv",e.moq)}</dd></div>
           <div><dt>${t("pd.prod")}</dt><dd>${esc(e.n)}, ${esc(e.city)}</dd></div>
@@ -2609,7 +2640,7 @@ function openProduct(e,i){
       </div>
     </div>`;
   document.getElementById("m-close").onclick = closeStand;
-  document.getElementById("p-back").onclick = ()=>{ focusPi=i; openStand(e.id); };
+  document.getElementById("p-back").onclick = ()=>{ focusPi=i; if(p[2]) SUBSEL[e.id]=p[2]; openStand(e.id); };
   document.getElementById("p-req").onclick = ()=>{ openStand(e.id); };
   modal.scrollTop = 0; scrim.scrollTop = 0; FX.modal(false);
   document.getElementById("p-back").focus();
@@ -2731,6 +2762,12 @@ const DM = {
 Object.assign(T.it,{"hero.a":"Ecco come vedranno","hero.b":"i buyer europei.","hero.c":"Anteprima riservata.","hero.cta1":"Esplora la fiera"});
 Object.assign(T.en,{"hero.c":"Private preview.","hero.cta1":"Explore the fair"});
 Object.assign(T.de,{"hero.c":"Private Vorschau.","hero.cta1":"Messe erkunden"});
+Object.assign(T.it,{"stand.codes":(id,c)=>`Stand ${id}, padiglioni ${c}`});
+Object.assign(T.en,{"stand.codes":(id,c)=>`Stand ${id}, pavilions ${c}`});
+Object.assign(T.de,{"stand.codes":(id,c)=>`Stand ${id}, Hallen ${c}`});
+Object.assign(T.it,{"m.subs":"Sottocategorie","m.price":"Prezzo al pubblico"});
+Object.assign(T.en,{"m.subs":"Subcategories","m.price":"Retail price"});
+Object.assign(T.de,{"m.subs":"Unterkategorien","m.price":"Endverbraucherpreis"});
 T.it.facts=(n,r)=>`${n} ${n===1?"azienda fondatrice":"aziende fondatrici"} da ${r} ${r===1?"regione":"regioni"}, in anteprima prima della pubblicazione.`;
 T.en.facts=(n,r)=>`${n} founding ${n===1?"company":"companies"} from ${r} ${r===1?"region":"regions"}, previewed before publication.`;
 T.de.facts=(n,r)=>`${n} ${n===1?"Gründungsunternehmen":"Gründungsunternehmen"} aus ${r} ${r===1?"Region":"Regionen"}, als Vorschau vor der Veröffentlichung.`;
