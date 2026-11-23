@@ -7,7 +7,8 @@
    sub (sottocategorie cliccabili nella vetrina: [{k, cat, n:{it,en,de}}], facoltativo), fonti (link usati).
    REGOLA SOTTOCATEGORIE: ogni sottocategoria ha "cat" = padiglione (vino, olio, liquori, ...). La vetrina compare
    automaticamente in tutti quei padiglioni, e aprendola da un padiglione si apre già sulla sottocategoria giusta.
-   IMG: foto per chiave "logo-ID", "stand-ID" (foto di copertina), "prod-ID-indice".
+   IMG: foto per chiave "logo-ID" (logo ufficiale dal sito dell'azienda: è anche la copertina della scheda in fiera),
+   "prod-ID-indice". "stand-ID" (foto di copertina) va usato solo se manca il logo.
    Un dato non trovato resta null o vuoto: il sito mostra "Da completare". */
 window.VETRINE = {
   "EX": [
@@ -347,13 +348,11 @@ window.VETRINE = {
   ],
   "IMG": {
     "logo-V-01": "https://www.agricolacasagarello.it/wp-content/uploads/2022/07/casa_garello_logo.jpg",
-    "stand-V-01": "https://www.agricolacasagarello.it/wp-content/uploads/2022/08/casa_garello_agriturismo_oltrepo_pavese_degustazione_e_visite_in_cantina.jpg",
     "prod-V-01-0": "https://www.agricolacasagarello.it/wp-content/uploads/2023/02/bosco_delle_gazze_in_rovere_casa_garello_salice_terme-553x800.jpg",
     "prod-V-01-1": "https://www.agricolacasagarello.it/wp-content/uploads/2023/02/barbera_casa_garello_salice_terme-553x800.jpg",
     "prod-V-01-2": "https://www.agricolacasagarello.it/wp-content/uploads/2023/02/sabbione_vino_rosso_affinato_in_rovere_casa_garello_salice_terme-553x800.jpg",
     "prod-V-01-3": "https://www.agricolacasagarello.it/wp-content/uploads/2023/02/degustazione_mista-3-rossi-3-bianchi-553x800.jpg",
     "logo-V-02": "https://poderelucano.com/wp-content/uploads/2020/09/logo-podere-lucano-300x98.png.webp",
-    "stand-V-02": "https://poderelucano.com/wp-content/uploads/2021/11/MG_3162-1-1024x973.jpg.webp",
     "prod-V-02-0": "https://poderelucano.com/wp-content/uploads/2026/07/mastantuono-img.jpg.webp",
     "prod-V-02-1": "https://poderelucano.com/wp-content/uploads/2020/09/ee274288-6a00-45c0-9ba8-96faebc9a948.jpg.webp",
     "prod-V-02-2": "https://poderelucano.com/wp-content/uploads/2020/09/symposium-2.jpg.webp",
