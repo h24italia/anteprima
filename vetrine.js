@@ -344,6 +344,967 @@ window.VETRINE = {
         "https://poderelucano.com/olio-shop/",
         "https://poderelucano.com/azienda/"
       ]
+    },
+    {
+      "id": "V-03",
+      "n": "Il Monaco Felice",
+      "cat": "conserve",
+      "reg": "Campania",
+      "city": "Agropoli (SA)",
+      "lat": 40.35,
+      "lng": 14.99,
+      "y": null,
+      "certs": [],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "d": {
+        "it": "Azienda di agricoltura naturale di Vito Monaco ad Agropoli, nel Parco Nazionale del Cilento, Vallo di Diano e Alburni, con un opificio agricolo annesso. Lavora a filiera chiusa: coltiva e trasforma solo erbe officinali e frutta di produzione propria e di stagione, dal campo al vaso. Produce liquori botanici per infusione naturale, infusi di erbe, sciroppi analcolici, confetture extra e composte dolci e salate, senza coloranti, additivi, pectine aggiunte, addensanti o conservanti di sintesi. La produzione segue le stagioni e ogni referenza è disponibile fino a esaurimento scorte.",
+        "en": "Natural farm run by Vito Monaco in Agropoli, in the Cilento, Vallo di Diano and Alburni National Park, with its own small processing workshop. It works as a closed supply chain: it grows and processes only its own seasonal medicinal herbs and fruit, from field to jar. It makes botanical liqueurs by natural infusion, herb infusions, non-alcoholic syrups, extra jams and sweet and savoury compotes, with no colourings, additives, added pectin, thickeners or synthetic preservatives. Production follows the seasons and each product is available while stocks last.",
+        "de": "Naturlandwirtschaftlicher Betrieb von Vito Monaco in Agropoli, im Nationalpark Cilento, Vallo di Diano und Alburni, mit eigener Verarbeitungswerkstatt. Der Betrieb arbeitet in geschlossener Lieferkette: Er baut nur eigene saisonale Heilkräuter und Früchte an und verarbeitet sie selbst, vom Feld bis ins Glas. Er stellt botanische Liköre durch natürliche Mazeration her, Kräuterauszüge, alkoholfreie Sirupe, Extra-Konfitüren sowie süße und herzhafte Kompotte, ohne Farbstoffe, Zusatzstoffe, zugesetztes Pektin, Verdickungsmittel oder synthetische Konservierungsstoffe. Die Produktion folgt den Jahreszeiten, jedes Produkt ist erhältlich, solange der Vorrat reicht."
+      },
+      "sub": [
+        {
+          "k": "liquori",
+          "cat": "liquori",
+          "n": {
+            "it": "Liquori botanici",
+            "en": "Botanical liqueurs",
+            "de": "Botanische Liköre"
+          }
+        },
+        {
+          "k": "infusi",
+          "cat": "liquori",
+          "n": {
+            "it": "Infusi di erbe",
+            "en": "Herb infusions",
+            "de": "Kräuterauszüge"
+          }
+        },
+        {
+          "k": "sciroppi",
+          "cat": "conserve",
+          "n": {
+            "it": "Sciroppi analcolici",
+            "en": "Non-alcoholic syrups",
+            "de": "Alkoholfreie Sirupe"
+          }
+        },
+        {
+          "k": "confetture",
+          "cat": "conserve",
+          "n": {
+            "it": "Confetture e composte",
+            "en": "Jams and compotes",
+            "de": "Konfitüren und Kompotte"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Liquore botanico, Melograno",
+          "bottiglia da 500 ml",
+          "liquori"
+        ],
+        [
+          "Liquore botanico, Arancio",
+          "bottiglia da 500 ml",
+          "liquori"
+        ],
+        [
+          "Liquore botanico, Cetrangolo",
+          "bottiglia da 500 ml",
+          "liquori"
+        ],
+        [
+          "Liquore botanico, Mandarino",
+          "bottiglia da 500 ml",
+          "liquori"
+        ],
+        [
+          "Liquore botanico, Bergamotto",
+          "bottiglia da 500 ml",
+          "liquori"
+        ],
+        [
+          "Liquore botanico, Chinotto",
+          "bottiglia da 500 ml",
+          "liquori"
+        ],
+        [
+          "Liquore botanico, Prugnolo",
+          "bottiglia da 500 ml",
+          "liquori"
+        ],
+        [
+          "Liquore botanico, Rosa canina",
+          "bottiglia da 500 ml",
+          "liquori"
+        ],
+        [
+          "Liquore botanico, Viola selvatica",
+          "bottiglia da 500 ml",
+          "liquori"
+        ],
+        [
+          "Liquore botanico, Gelso bianco",
+          "bottiglia da 500 ml",
+          "liquori"
+        ],
+        [
+          "Liquore botanico, Nespolino",
+          "bottiglia da 500 ml",
+          "liquori"
+        ],
+        [
+          "Liquore botanico, Fico bianco",
+          "bottiglia da 500 ml",
+          "liquori"
+        ],
+        [
+          "Liquore botanico, Fico d'india",
+          "bottiglia da 500 ml",
+          "liquori"
+        ],
+        [
+          "Liquore botanico, More selvatiche",
+          "bottiglia da 500 ml",
+          "liquori"
+        ],
+        [
+          "Liquore botanico, Mandorle",
+          "bottiglia da 500 ml",
+          "liquori"
+        ],
+        [
+          "Liquore botanico, Peperoncino",
+          "bottiglia da 500 ml",
+          "liquori"
+        ],
+        [
+          "Infuso di erbe, Alloro",
+          "bottiglia da 500 ml",
+          "infusi"
+        ],
+        [
+          "Infuso di erbe, Rosmarino",
+          "bottiglia da 500 ml",
+          "infusi"
+        ],
+        [
+          "Infuso di erbe, Origano",
+          "bottiglia da 500 ml",
+          "infusi"
+        ],
+        [
+          "Infuso di erbe, Maggiorana",
+          "bottiglia da 500 ml",
+          "infusi"
+        ],
+        [
+          "Infuso di erbe, Melissa",
+          "bottiglia da 500 ml",
+          "infusi"
+        ],
+        [
+          "Infuso di erbe, Menta cioccolato",
+          "bottiglia da 500 ml",
+          "infusi"
+        ],
+        [
+          "Infuso di erbe, Menta cocktail",
+          "bottiglia da 500 ml",
+          "infusi"
+        ],
+        [
+          "Infuso di erbe, Salvia",
+          "bottiglia da 500 ml",
+          "infusi"
+        ],
+        [
+          "Infuso di erbe, Basilico viola",
+          "bottiglia da 500 ml",
+          "infusi"
+        ],
+        [
+          "Infuso di erbe, Foglie di ulivo",
+          "bottiglia da 500 ml",
+          "infusi"
+        ],
+        [
+          "Infuso di erbe, Foglie di fico bianco del Cilento",
+          "bottiglia da 500 ml",
+          "infusi"
+        ],
+        [
+          "Sciroppo botanico analcolico, Menta",
+          "bottiglia da 250 ml",
+          "sciroppi"
+        ],
+        [
+          "Sciroppo botanico analcolico, Salvia",
+          "bottiglia da 250 ml",
+          "sciroppi"
+        ],
+        [
+          "Sciroppo botanico analcolico, Alloro",
+          "bottiglia da 250 ml",
+          "sciroppi"
+        ],
+        [
+          "Sciroppo botanico analcolico, Melissa",
+          "bottiglia da 250 ml",
+          "sciroppi"
+        ],
+        [
+          "Sciroppo botanico analcolico, Maggiorana",
+          "bottiglia da 250 ml",
+          "sciroppi"
+        ],
+        [
+          "Sciroppo botanico analcolico, Basilico viola",
+          "bottiglia da 250 ml",
+          "sciroppi"
+        ],
+        [
+          "Sciroppo botanico analcolico, More selvatiche",
+          "bottiglia da 250 ml",
+          "sciroppi"
+        ],
+        [
+          "Sciroppo botanico analcolico, Foglie di ulivo",
+          "bottiglia da 250 ml",
+          "sciroppi"
+        ],
+        [
+          "Sciroppo botanico analcolico, Foglie di fico bianco del Cilento",
+          "bottiglia da 250 ml",
+          "sciroppi"
+        ],
+        [
+          "Confettura extra, Arancio",
+          "barattolo da 212 ml",
+          "confetture"
+        ],
+        [
+          "Confettura extra, Cetrangolo",
+          "barattolo da 212 ml",
+          "confetture"
+        ],
+        [
+          "Confettura extra, Limone",
+          "barattolo da 212 ml",
+          "confetture"
+        ],
+        [
+          "Confettura extra, Mandarino",
+          "barattolo da 212 ml",
+          "confetture"
+        ],
+        [
+          "Confettura extra, Gelsi bianchi",
+          "barattolo da 212 ml",
+          "confetture"
+        ],
+        [
+          "Confettura extra, Fico bianco",
+          "barattolo da 212 ml",
+          "confetture"
+        ],
+        [
+          "Confettura extra, Fico d'india",
+          "barattolo da 212 ml",
+          "confetture"
+        ],
+        [
+          "Composta salata, Cicoria",
+          "barattolo da 212 ml",
+          "confetture"
+        ],
+        [
+          "Composta salata, Borragine",
+          "barattolo da 212 ml",
+          "confetture"
+        ],
+        [
+          "Composta salata, Broccolo selvatico",
+          "barattolo da 212 ml",
+          "confetture"
+        ],
+        [
+          "Composta salata, Cardo mariano",
+          "barattolo da 212 ml",
+          "confetture"
+        ]
+      ],
+      "pd": {
+        "V-03-0": {
+          "c": [],
+          "pr": "20,00 €",
+          "d": {
+            "it": "Liquore artigianale ottenuto per infusione naturale diretta di frutta, fiori o erbe di produzione propria, senza aromi né estratti industriali.",
+            "en": "Craft liqueur made by direct natural infusion of the farm's own fruit, flowers or herbs, with no flavourings or industrial extracts.",
+            "de": "Handwerklicher Likör aus direkter natürlicher Mazeration von Früchten, Blüten oder Kräutern aus eigenem Anbau, ohne Aromen oder industrielle Extrakte."
+          },
+          "a": {
+            "it": "Produzione autunno/inverno, disponibile fino a esaurimento scorte.",
+            "en": "Autumn/winter production, available while stocks last.",
+            "de": "Herbst-/Winterproduktion, solange der Vorrat reicht."
+          }
+        },
+        "V-03-1": {
+          "c": [],
+          "pr": "20,00 €",
+          "d": {
+            "it": "Liquore artigianale ottenuto per infusione naturale diretta di frutta, fiori o erbe di produzione propria, senza aromi né estratti industriali.",
+            "en": "Craft liqueur made by direct natural infusion of the farm's own fruit, flowers or herbs, with no flavourings or industrial extracts.",
+            "de": "Handwerklicher Likör aus direkter natürlicher Mazeration von Früchten, Blüten oder Kräutern aus eigenem Anbau, ohne Aromen oder industrielle Extrakte."
+          },
+          "a": {
+            "it": "Produzione autunno/inverno, disponibile fino a esaurimento scorte.",
+            "en": "Autumn/winter production, available while stocks last.",
+            "de": "Herbst-/Winterproduktion, solange der Vorrat reicht."
+          }
+        },
+        "V-03-2": {
+          "c": [],
+          "pr": "20,00 €",
+          "d": {
+            "it": "Liquore artigianale ottenuto per infusione naturale diretta di frutta, fiori o erbe di produzione propria, senza aromi né estratti industriali.",
+            "en": "Craft liqueur made by direct natural infusion of the farm's own fruit, flowers or herbs, with no flavourings or industrial extracts.",
+            "de": "Handwerklicher Likör aus direkter natürlicher Mazeration von Früchten, Blüten oder Kräutern aus eigenem Anbau, ohne Aromen oder industrielle Extrakte."
+          },
+          "a": {
+            "it": "Produzione autunno/inverno, disponibile fino a esaurimento scorte.",
+            "en": "Autumn/winter production, available while stocks last.",
+            "de": "Herbst-/Winterproduktion, solange der Vorrat reicht."
+          }
+        },
+        "V-03-3": {
+          "c": [],
+          "pr": "20,00 €",
+          "d": {
+            "it": "Liquore artigianale ottenuto per infusione naturale diretta di frutta, fiori o erbe di produzione propria, senza aromi né estratti industriali.",
+            "en": "Craft liqueur made by direct natural infusion of the farm's own fruit, flowers or herbs, with no flavourings or industrial extracts.",
+            "de": "Handwerklicher Likör aus direkter natürlicher Mazeration von Früchten, Blüten oder Kräutern aus eigenem Anbau, ohne Aromen oder industrielle Extrakte."
+          },
+          "a": {
+            "it": "Produzione autunno/inverno, disponibile fino a esaurimento scorte.",
+            "en": "Autumn/winter production, available while stocks last.",
+            "de": "Herbst-/Winterproduktion, solange der Vorrat reicht."
+          }
+        },
+        "V-03-4": {
+          "c": [],
+          "pr": "20,00 €",
+          "d": {
+            "it": "Liquore artigianale ottenuto per infusione naturale diretta di frutta, fiori o erbe di produzione propria, senza aromi né estratti industriali.",
+            "en": "Craft liqueur made by direct natural infusion of the farm's own fruit, flowers or herbs, with no flavourings or industrial extracts.",
+            "de": "Handwerklicher Likör aus direkter natürlicher Mazeration von Früchten, Blüten oder Kräutern aus eigenem Anbau, ohne Aromen oder industrielle Extrakte."
+          },
+          "a": {
+            "it": "Produzione autunno/inverno, disponibile fino a esaurimento scorte.",
+            "en": "Autumn/winter production, available while stocks last.",
+            "de": "Herbst-/Winterproduktion, solange der Vorrat reicht."
+          }
+        },
+        "V-03-5": {
+          "c": [],
+          "pr": "20,00 €",
+          "d": {
+            "it": "Liquore artigianale ottenuto per infusione naturale diretta di frutta, fiori o erbe di produzione propria, senza aromi né estratti industriali.",
+            "en": "Craft liqueur made by direct natural infusion of the farm's own fruit, flowers or herbs, with no flavourings or industrial extracts.",
+            "de": "Handwerklicher Likör aus direkter natürlicher Mazeration von Früchten, Blüten oder Kräutern aus eigenem Anbau, ohne Aromen oder industrielle Extrakte."
+          },
+          "a": {
+            "it": "Produzione autunno/inverno, disponibile fino a esaurimento scorte.",
+            "en": "Autumn/winter production, available while stocks last.",
+            "de": "Herbst-/Winterproduktion, solange der Vorrat reicht."
+          }
+        },
+        "V-03-6": {
+          "c": [],
+          "pr": "20,00 €",
+          "d": {
+            "it": "Liquore artigianale ottenuto per infusione naturale diretta di frutta, fiori o erbe di produzione propria, senza aromi né estratti industriali.",
+            "en": "Craft liqueur made by direct natural infusion of the farm's own fruit, flowers or herbs, with no flavourings or industrial extracts.",
+            "de": "Handwerklicher Likör aus direkter natürlicher Mazeration von Früchten, Blüten oder Kräutern aus eigenem Anbau, ohne Aromen oder industrielle Extrakte."
+          },
+          "a": {
+            "it": "Produzione autunno/inverno, disponibile fino a esaurimento scorte.",
+            "en": "Autumn/winter production, available while stocks last.",
+            "de": "Herbst-/Winterproduktion, solange der Vorrat reicht."
+          }
+        },
+        "V-03-7": {
+          "c": [],
+          "pr": "20,00 €",
+          "d": {
+            "it": "Liquore artigianale ottenuto per infusione naturale diretta di frutta, fiori o erbe di produzione propria, senza aromi né estratti industriali.",
+            "en": "Craft liqueur made by direct natural infusion of the farm's own fruit, flowers or herbs, with no flavourings or industrial extracts.",
+            "de": "Handwerklicher Likör aus direkter natürlicher Mazeration von Früchten, Blüten oder Kräutern aus eigenem Anbau, ohne Aromen oder industrielle Extrakte."
+          },
+          "a": {
+            "it": "Produzione autunno/inverno, disponibile fino a esaurimento scorte.",
+            "en": "Autumn/winter production, available while stocks last.",
+            "de": "Herbst-/Winterproduktion, solange der Vorrat reicht."
+          }
+        },
+        "V-03-8": {
+          "c": [],
+          "pr": "20,00 €",
+          "d": {
+            "it": "Liquore artigianale ottenuto per infusione naturale diretta di frutta, fiori o erbe di produzione propria, senza aromi né estratti industriali.",
+            "en": "Craft liqueur made by direct natural infusion of the farm's own fruit, flowers or herbs, with no flavourings or industrial extracts.",
+            "de": "Handwerklicher Likör aus direkter natürlicher Mazeration von Früchten, Blüten oder Kräutern aus eigenem Anbau, ohne Aromen oder industrielle Extrakte."
+          },
+          "a": {
+            "it": "Produzione autunno/inverno, disponibile fino a esaurimento scorte.",
+            "en": "Autumn/winter production, available while stocks last.",
+            "de": "Herbst-/Winterproduktion, solange der Vorrat reicht."
+          }
+        },
+        "V-03-9": {
+          "c": [],
+          "pr": "20,00 €",
+          "d": {
+            "it": "Liquore artigianale ottenuto per infusione naturale diretta di frutta, fiori o erbe di produzione propria, senza aromi né estratti industriali.",
+            "en": "Craft liqueur made by direct natural infusion of the farm's own fruit, flowers or herbs, with no flavourings or industrial extracts.",
+            "de": "Handwerklicher Likör aus direkter natürlicher Mazeration von Früchten, Blüten oder Kräutern aus eigenem Anbau, ohne Aromen oder industrielle Extrakte."
+          },
+          "a": {
+            "it": "Produzione primavera/estate, disponibile fino a esaurimento scorte.",
+            "en": "Spring/summer production, available while stocks last.",
+            "de": "Frühjahrs-/Sommerproduktion, solange der Vorrat reicht."
+          }
+        },
+        "V-03-10": {
+          "c": [],
+          "pr": "20,00 €",
+          "d": {
+            "it": "Liquore artigianale ottenuto per infusione naturale diretta di frutta, fiori o erbe di produzione propria, senza aromi né estratti industriali.",
+            "en": "Craft liqueur made by direct natural infusion of the farm's own fruit, flowers or herbs, with no flavourings or industrial extracts.",
+            "de": "Handwerklicher Likör aus direkter natürlicher Mazeration von Früchten, Blüten oder Kräutern aus eigenem Anbau, ohne Aromen oder industrielle Extrakte."
+          },
+          "a": {
+            "it": "Produzione primavera/estate, disponibile fino a esaurimento scorte.",
+            "en": "Spring/summer production, available while stocks last.",
+            "de": "Frühjahrs-/Sommerproduktion, solange der Vorrat reicht."
+          }
+        },
+        "V-03-11": {
+          "c": [],
+          "pr": "20,00 €",
+          "d": {
+            "it": "Liquore artigianale ottenuto per infusione naturale diretta di frutta, fiori o erbe di produzione propria, senza aromi né estratti industriali.",
+            "en": "Craft liqueur made by direct natural infusion of the farm's own fruit, flowers or herbs, with no flavourings or industrial extracts.",
+            "de": "Handwerklicher Likör aus direkter natürlicher Mazeration von Früchten, Blüten oder Kräutern aus eigenem Anbau, ohne Aromen oder industrielle Extrakte."
+          },
+          "a": {
+            "it": "Produzione primavera/estate, disponibile fino a esaurimento scorte.",
+            "en": "Spring/summer production, available while stocks last.",
+            "de": "Frühjahrs-/Sommerproduktion, solange der Vorrat reicht."
+          }
+        },
+        "V-03-12": {
+          "c": [],
+          "pr": "20,00 €",
+          "d": {
+            "it": "Liquore artigianale ottenuto per infusione naturale diretta di frutta, fiori o erbe di produzione propria, senza aromi né estratti industriali.",
+            "en": "Craft liqueur made by direct natural infusion of the farm's own fruit, flowers or herbs, with no flavourings or industrial extracts.",
+            "de": "Handwerklicher Likör aus direkter natürlicher Mazeration von Früchten, Blüten oder Kräutern aus eigenem Anbau, ohne Aromen oder industrielle Extrakte."
+          },
+          "a": {
+            "it": "Produzione primavera/estate, disponibile fino a esaurimento scorte.",
+            "en": "Spring/summer production, available while stocks last.",
+            "de": "Frühjahrs-/Sommerproduktion, solange der Vorrat reicht."
+          }
+        },
+        "V-03-13": {
+          "c": [],
+          "pr": "20,00 €",
+          "d": {
+            "it": "Liquore artigianale ottenuto per infusione naturale diretta di frutta, fiori o erbe di produzione propria, senza aromi né estratti industriali.",
+            "en": "Craft liqueur made by direct natural infusion of the farm's own fruit, flowers or herbs, with no flavourings or industrial extracts.",
+            "de": "Handwerklicher Likör aus direkter natürlicher Mazeration von Früchten, Blüten oder Kräutern aus eigenem Anbau, ohne Aromen oder industrielle Extrakte."
+          },
+          "a": {
+            "it": "Produzione primavera/estate, disponibile fino a esaurimento scorte.",
+            "en": "Spring/summer production, available while stocks last.",
+            "de": "Frühjahrs-/Sommerproduktion, solange der Vorrat reicht."
+          }
+        },
+        "V-03-14": {
+          "c": [],
+          "pr": "20,00 €",
+          "d": {
+            "it": "Liquore artigianale ottenuto per infusione naturale diretta di frutta, fiori o erbe di produzione propria, senza aromi né estratti industriali.",
+            "en": "Craft liqueur made by direct natural infusion of the farm's own fruit, flowers or herbs, with no flavourings or industrial extracts.",
+            "de": "Handwerklicher Likör aus direkter natürlicher Mazeration von Früchten, Blüten oder Kräutern aus eigenem Anbau, ohne Aromen oder industrielle Extrakte."
+          },
+          "a": {
+            "it": "Produzione primavera/estate, disponibile fino a esaurimento scorte.",
+            "en": "Spring/summer production, available while stocks last.",
+            "de": "Frühjahrs-/Sommerproduktion, solange der Vorrat reicht."
+          }
+        },
+        "V-03-15": {
+          "c": [],
+          "pr": "20,00 €",
+          "d": {
+            "it": "Liquore artigianale ottenuto per infusione naturale diretta di frutta, fiori o erbe di produzione propria, senza aromi né estratti industriali.",
+            "en": "Craft liqueur made by direct natural infusion of the farm's own fruit, flowers or herbs, with no flavourings or industrial extracts.",
+            "de": "Handwerklicher Likör aus direkter natürlicher Mazeration von Früchten, Blüten oder Kräutern aus eigenem Anbau, ohne Aromen oder industrielle Extrakte."
+          },
+          "a": {
+            "it": "Produzione primavera/estate, disponibile fino a esaurimento scorte.",
+            "en": "Spring/summer production, available while stocks last.",
+            "de": "Frühjahrs-/Sommerproduktion, solange der Vorrat reicht."
+          }
+        },
+        "V-03-16": {
+          "c": [],
+          "pr": "20,00 €",
+          "d": {
+            "it": "Infuso alcolico di erbe officinali coltivate in azienda, ottenuto per infusione naturale subito dopo la raccolta.",
+            "en": "Spirit infusion of medicinal herbs grown on the farm, made by natural infusion right after harvest.",
+            "de": "Alkoholischer Auszug aus auf dem Hof angebauten Heilkräutern, durch natürliche Mazeration direkt nach der Ernte hergestellt."
+          },
+          "a": {
+            "it": "Disponibile in base alla stagione, fino a esaurimento scorte.",
+            "en": "Seasonal, available while stocks last.",
+            "de": "Saisonal, solange der Vorrat reicht."
+          }
+        },
+        "V-03-17": {
+          "c": [],
+          "pr": "20,00 €",
+          "d": {
+            "it": "Infuso alcolico di erbe officinali coltivate in azienda, ottenuto per infusione naturale subito dopo la raccolta.",
+            "en": "Spirit infusion of medicinal herbs grown on the farm, made by natural infusion right after harvest.",
+            "de": "Alkoholischer Auszug aus auf dem Hof angebauten Heilkräutern, durch natürliche Mazeration direkt nach der Ernte hergestellt."
+          },
+          "a": {
+            "it": "Disponibile in base alla stagione, fino a esaurimento scorte.",
+            "en": "Seasonal, available while stocks last.",
+            "de": "Saisonal, solange der Vorrat reicht."
+          }
+        },
+        "V-03-18": {
+          "c": [],
+          "pr": "20,00 €",
+          "d": {
+            "it": "Infuso alcolico di erbe officinali coltivate in azienda, ottenuto per infusione naturale subito dopo la raccolta.",
+            "en": "Spirit infusion of medicinal herbs grown on the farm, made by natural infusion right after harvest.",
+            "de": "Alkoholischer Auszug aus auf dem Hof angebauten Heilkräutern, durch natürliche Mazeration direkt nach der Ernte hergestellt."
+          },
+          "a": {
+            "it": "Disponibile in base alla stagione, fino a esaurimento scorte.",
+            "en": "Seasonal, available while stocks last.",
+            "de": "Saisonal, solange der Vorrat reicht."
+          }
+        },
+        "V-03-19": {
+          "c": [],
+          "pr": "20,00 €",
+          "d": {
+            "it": "Infuso alcolico di erbe officinali coltivate in azienda, ottenuto per infusione naturale subito dopo la raccolta.",
+            "en": "Spirit infusion of medicinal herbs grown on the farm, made by natural infusion right after harvest.",
+            "de": "Alkoholischer Auszug aus auf dem Hof angebauten Heilkräutern, durch natürliche Mazeration direkt nach der Ernte hergestellt."
+          },
+          "a": {
+            "it": "Disponibile in base alla stagione, fino a esaurimento scorte.",
+            "en": "Seasonal, available while stocks last.",
+            "de": "Saisonal, solange der Vorrat reicht."
+          }
+        },
+        "V-03-20": {
+          "c": [],
+          "pr": "20,00 €",
+          "d": {
+            "it": "Infuso alcolico di erbe officinali coltivate in azienda, ottenuto per infusione naturale subito dopo la raccolta.",
+            "en": "Spirit infusion of medicinal herbs grown on the farm, made by natural infusion right after harvest.",
+            "de": "Alkoholischer Auszug aus auf dem Hof angebauten Heilkräutern, durch natürliche Mazeration direkt nach der Ernte hergestellt."
+          },
+          "a": {
+            "it": "Disponibile in base alla stagione, fino a esaurimento scorte.",
+            "en": "Seasonal, available while stocks last.",
+            "de": "Saisonal, solange der Vorrat reicht."
+          }
+        },
+        "V-03-21": {
+          "c": [],
+          "pr": "20,00 €",
+          "d": {
+            "it": "Infuso alcolico di erbe officinali coltivate in azienda, ottenuto per infusione naturale subito dopo la raccolta.",
+            "en": "Spirit infusion of medicinal herbs grown on the farm, made by natural infusion right after harvest.",
+            "de": "Alkoholischer Auszug aus auf dem Hof angebauten Heilkräutern, durch natürliche Mazeration direkt nach der Ernte hergestellt."
+          },
+          "a": {
+            "it": "Disponibile in base alla stagione, fino a esaurimento scorte.",
+            "en": "Seasonal, available while stocks last.",
+            "de": "Saisonal, solange der Vorrat reicht."
+          }
+        },
+        "V-03-22": {
+          "c": [],
+          "pr": "20,00 €",
+          "d": {
+            "it": "Infuso alcolico di erbe officinali coltivate in azienda, ottenuto per infusione naturale subito dopo la raccolta.",
+            "en": "Spirit infusion of medicinal herbs grown on the farm, made by natural infusion right after harvest.",
+            "de": "Alkoholischer Auszug aus auf dem Hof angebauten Heilkräutern, durch natürliche Mazeration direkt nach der Ernte hergestellt."
+          },
+          "a": {
+            "it": "Disponibile in base alla stagione, fino a esaurimento scorte.",
+            "en": "Seasonal, available while stocks last.",
+            "de": "Saisonal, solange der Vorrat reicht."
+          }
+        },
+        "V-03-23": {
+          "c": [],
+          "pr": "20,00 €",
+          "d": {
+            "it": "Infuso alcolico di erbe officinali coltivate in azienda, ottenuto per infusione naturale subito dopo la raccolta.",
+            "en": "Spirit infusion of medicinal herbs grown on the farm, made by natural infusion right after harvest.",
+            "de": "Alkoholischer Auszug aus auf dem Hof angebauten Heilkräutern, durch natürliche Mazeration direkt nach der Ernte hergestellt."
+          },
+          "a": {
+            "it": "Disponibile in base alla stagione, fino a esaurimento scorte.",
+            "en": "Seasonal, available while stocks last.",
+            "de": "Saisonal, solange der Vorrat reicht."
+          }
+        },
+        "V-03-24": {
+          "c": [],
+          "pr": "20,00 €",
+          "d": {
+            "it": "Infuso alcolico di erbe officinali coltivate in azienda, ottenuto per infusione naturale subito dopo la raccolta.",
+            "en": "Spirit infusion of medicinal herbs grown on the farm, made by natural infusion right after harvest.",
+            "de": "Alkoholischer Auszug aus auf dem Hof angebauten Heilkräutern, durch natürliche Mazeration direkt nach der Ernte hergestellt."
+          },
+          "a": {
+            "it": "Disponibile in base alla stagione, fino a esaurimento scorte.",
+            "en": "Seasonal, available while stocks last.",
+            "de": "Saisonal, solange der Vorrat reicht."
+          }
+        },
+        "V-03-25": {
+          "c": [],
+          "pr": "20,00 €",
+          "d": {
+            "it": "Infuso alcolico di erbe officinali coltivate in azienda, ottenuto per infusione naturale subito dopo la raccolta.",
+            "en": "Spirit infusion of medicinal herbs grown on the farm, made by natural infusion right after harvest.",
+            "de": "Alkoholischer Auszug aus auf dem Hof angebauten Heilkräutern, durch natürliche Mazeration direkt nach der Ernte hergestellt."
+          },
+          "a": {
+            "it": "Disponibile in base alla stagione, fino a esaurimento scorte.",
+            "en": "Seasonal, available while stocks last.",
+            "de": "Saisonal, solange der Vorrat reicht."
+          }
+        },
+        "V-03-26": {
+          "c": [],
+          "pr": "20,00 €",
+          "d": {
+            "it": "Infuso alcolico di erbe officinali coltivate in azienda, ottenuto per infusione naturale subito dopo la raccolta.",
+            "en": "Spirit infusion of medicinal herbs grown on the farm, made by natural infusion right after harvest.",
+            "de": "Alkoholischer Auszug aus auf dem Hof angebauten Heilkräutern, durch natürliche Mazeration direkt nach der Ernte hergestellt."
+          },
+          "a": {
+            "it": "Disponibile in base alla stagione, fino a esaurimento scorte.",
+            "en": "Seasonal, available while stocks last.",
+            "de": "Saisonal, solange der Vorrat reicht."
+          }
+        },
+        "V-03-27": {
+          "c": [],
+          "pr": "5,00 €",
+          "d": {
+            "it": "Sciroppo botanico analcolico di erbe officinali e frutta di produzione propria, 100% naturale.",
+            "en": "Non-alcoholic botanical syrup made from the farm's own medicinal herbs and fruit, 100% natural.",
+            "de": "Alkoholfreier botanischer Sirup aus Heilkräutern und Früchten aus eigenem Anbau, 100% natürlich."
+          },
+          "a": {
+            "it": "Per aromatizzare bevande calde o fredde, cocktail, yogurt o gelati.",
+            "en": "To flavour hot or cold drinks, cocktails, yoghurt or ice cream.",
+            "de": "Zum Aromatisieren von warmen oder kalten Getränken, Cocktails, Joghurt oder Eis."
+          }
+        },
+        "V-03-28": {
+          "c": [],
+          "pr": "5,00 €",
+          "d": {
+            "it": "Sciroppo botanico analcolico di erbe officinali e frutta di produzione propria, 100% naturale.",
+            "en": "Non-alcoholic botanical syrup made from the farm's own medicinal herbs and fruit, 100% natural.",
+            "de": "Alkoholfreier botanischer Sirup aus Heilkräutern und Früchten aus eigenem Anbau, 100% natürlich."
+          },
+          "a": {
+            "it": "Per aromatizzare bevande calde o fredde, cocktail, yogurt o gelati.",
+            "en": "To flavour hot or cold drinks, cocktails, yoghurt or ice cream.",
+            "de": "Zum Aromatisieren von warmen oder kalten Getränken, Cocktails, Joghurt oder Eis."
+          }
+        },
+        "V-03-29": {
+          "c": [],
+          "pr": "5,00 €",
+          "d": {
+            "it": "Sciroppo botanico analcolico di erbe officinali e frutta di produzione propria, 100% naturale.",
+            "en": "Non-alcoholic botanical syrup made from the farm's own medicinal herbs and fruit, 100% natural.",
+            "de": "Alkoholfreier botanischer Sirup aus Heilkräutern und Früchten aus eigenem Anbau, 100% natürlich."
+          },
+          "a": {
+            "it": "Per aromatizzare bevande calde o fredde, cocktail, yogurt o gelati.",
+            "en": "To flavour hot or cold drinks, cocktails, yoghurt or ice cream.",
+            "de": "Zum Aromatisieren von warmen oder kalten Getränken, Cocktails, Joghurt oder Eis."
+          }
+        },
+        "V-03-30": {
+          "c": [],
+          "pr": "5,00 €",
+          "d": {
+            "it": "Sciroppo botanico analcolico di erbe officinali e frutta di produzione propria, 100% naturale.",
+            "en": "Non-alcoholic botanical syrup made from the farm's own medicinal herbs and fruit, 100% natural.",
+            "de": "Alkoholfreier botanischer Sirup aus Heilkräutern und Früchten aus eigenem Anbau, 100% natürlich."
+          },
+          "a": {
+            "it": "Per aromatizzare bevande calde o fredde, cocktail, yogurt o gelati.",
+            "en": "To flavour hot or cold drinks, cocktails, yoghurt or ice cream.",
+            "de": "Zum Aromatisieren von warmen oder kalten Getränken, Cocktails, Joghurt oder Eis."
+          }
+        },
+        "V-03-31": {
+          "c": [],
+          "pr": "5,00 €",
+          "d": {
+            "it": "Sciroppo botanico analcolico di erbe officinali e frutta di produzione propria, 100% naturale.",
+            "en": "Non-alcoholic botanical syrup made from the farm's own medicinal herbs and fruit, 100% natural.",
+            "de": "Alkoholfreier botanischer Sirup aus Heilkräutern und Früchten aus eigenem Anbau, 100% natürlich."
+          },
+          "a": {
+            "it": "Per aromatizzare bevande calde o fredde, cocktail, yogurt o gelati.",
+            "en": "To flavour hot or cold drinks, cocktails, yoghurt or ice cream.",
+            "de": "Zum Aromatisieren von warmen oder kalten Getränken, Cocktails, Joghurt oder Eis."
+          }
+        },
+        "V-03-32": {
+          "c": [],
+          "pr": "5,00 €",
+          "d": {
+            "it": "Sciroppo botanico analcolico di erbe officinali e frutta di produzione propria, 100% naturale.",
+            "en": "Non-alcoholic botanical syrup made from the farm's own medicinal herbs and fruit, 100% natural.",
+            "de": "Alkoholfreier botanischer Sirup aus Heilkräutern und Früchten aus eigenem Anbau, 100% natürlich."
+          },
+          "a": {
+            "it": "Per aromatizzare bevande calde o fredde, cocktail, yogurt o gelati.",
+            "en": "To flavour hot or cold drinks, cocktails, yoghurt or ice cream.",
+            "de": "Zum Aromatisieren von warmen oder kalten Getränken, Cocktails, Joghurt oder Eis."
+          }
+        },
+        "V-03-33": {
+          "c": [],
+          "pr": "5,00 €",
+          "d": {
+            "it": "Sciroppo botanico analcolico di erbe officinali e frutta di produzione propria, 100% naturale.",
+            "en": "Non-alcoholic botanical syrup made from the farm's own medicinal herbs and fruit, 100% natural.",
+            "de": "Alkoholfreier botanischer Sirup aus Heilkräutern und Früchten aus eigenem Anbau, 100% natürlich."
+          },
+          "a": {
+            "it": "Per aromatizzare bevande calde o fredde, cocktail, yogurt o gelati.",
+            "en": "To flavour hot or cold drinks, cocktails, yoghurt or ice cream.",
+            "de": "Zum Aromatisieren von warmen oder kalten Getränken, Cocktails, Joghurt oder Eis."
+          }
+        },
+        "V-03-34": {
+          "c": [],
+          "pr": "5,00 €",
+          "d": {
+            "it": "Sciroppo botanico analcolico di erbe officinali e frutta di produzione propria, 100% naturale.",
+            "en": "Non-alcoholic botanical syrup made from the farm's own medicinal herbs and fruit, 100% natural.",
+            "de": "Alkoholfreier botanischer Sirup aus Heilkräutern und Früchten aus eigenem Anbau, 100% natürlich."
+          },
+          "a": {
+            "it": "Per aromatizzare bevande calde o fredde, cocktail, yogurt o gelati.",
+            "en": "To flavour hot or cold drinks, cocktails, yoghurt or ice cream.",
+            "de": "Zum Aromatisieren von warmen oder kalten Getränken, Cocktails, Joghurt oder Eis."
+          }
+        },
+        "V-03-35": {
+          "c": [],
+          "pr": "5,00 €",
+          "d": {
+            "it": "Sciroppo botanico analcolico di erbe officinali e frutta di produzione propria, 100% naturale.",
+            "en": "Non-alcoholic botanical syrup made from the farm's own medicinal herbs and fruit, 100% natural.",
+            "de": "Alkoholfreier botanischer Sirup aus Heilkräutern und Früchten aus eigenem Anbau, 100% natürlich."
+          },
+          "a": {
+            "it": "Per aromatizzare bevande calde o fredde, cocktail, yogurt o gelati.",
+            "en": "To flavour hot or cold drinks, cocktails, yoghurt or ice cream.",
+            "de": "Zum Aromatisieren von warmen oder kalten Getränken, Cocktails, Joghurt oder Eis."
+          }
+        },
+        "V-03-36": {
+          "c": [],
+          "pr": "6,00 €",
+          "d": {
+            "it": "Confettura extra o composta con un'altissima percentuale di frutta fresca dell'azienda, a basso contenuto di zucchero, senza pectine aggiunte né addensanti.",
+            "en": "Extra jam or compote with a very high share of the farm's fresh fruit, low in sugar, with no added pectin or thickeners.",
+            "de": "Extra-Konfitüre oder Kompott mit sehr hohem Anteil an frischen Früchten vom Hof, zuckerarm, ohne zugesetztes Pektin oder Verdickungsmittel."
+          },
+          "a": {
+            "it": "Disponibile in base alla stagione, fino a esaurimento scorte.",
+            "en": "Seasonal, available while stocks last.",
+            "de": "Saisonal, solange der Vorrat reicht."
+          }
+        },
+        "V-03-37": {
+          "c": [],
+          "pr": "6,00 €",
+          "d": {
+            "it": "Confettura extra o composta con un'altissima percentuale di frutta fresca dell'azienda, a basso contenuto di zucchero, senza pectine aggiunte né addensanti.",
+            "en": "Extra jam or compote with a very high share of the farm's fresh fruit, low in sugar, with no added pectin or thickeners.",
+            "de": "Extra-Konfitüre oder Kompott mit sehr hohem Anteil an frischen Früchten vom Hof, zuckerarm, ohne zugesetztes Pektin oder Verdickungsmittel."
+          },
+          "a": {
+            "it": "Disponibile in base alla stagione, fino a esaurimento scorte.",
+            "en": "Seasonal, available while stocks last.",
+            "de": "Saisonal, solange der Vorrat reicht."
+          }
+        },
+        "V-03-38": {
+          "c": [],
+          "pr": "6,00 €",
+          "d": {
+            "it": "Confettura extra o composta con un'altissima percentuale di frutta fresca dell'azienda, a basso contenuto di zucchero, senza pectine aggiunte né addensanti.",
+            "en": "Extra jam or compote with a very high share of the farm's fresh fruit, low in sugar, with no added pectin or thickeners.",
+            "de": "Extra-Konfitüre oder Kompott mit sehr hohem Anteil an frischen Früchten vom Hof, zuckerarm, ohne zugesetztes Pektin oder Verdickungsmittel."
+          },
+          "a": {
+            "it": "Disponibile in base alla stagione, fino a esaurimento scorte.",
+            "en": "Seasonal, available while stocks last.",
+            "de": "Saisonal, solange der Vorrat reicht."
+          }
+        },
+        "V-03-39": {
+          "c": [],
+          "pr": "6,00 €",
+          "d": {
+            "it": "Confettura extra o composta con un'altissima percentuale di frutta fresca dell'azienda, a basso contenuto di zucchero, senza pectine aggiunte né addensanti.",
+            "en": "Extra jam or compote with a very high share of the farm's fresh fruit, low in sugar, with no added pectin or thickeners.",
+            "de": "Extra-Konfitüre oder Kompott mit sehr hohem Anteil an frischen Früchten vom Hof, zuckerarm, ohne zugesetztes Pektin oder Verdickungsmittel."
+          },
+          "a": {
+            "it": "Disponibile in base alla stagione, fino a esaurimento scorte.",
+            "en": "Seasonal, available while stocks last.",
+            "de": "Saisonal, solange der Vorrat reicht."
+          }
+        },
+        "V-03-40": {
+          "c": [],
+          "pr": "6,00 €",
+          "d": {
+            "it": "Confettura extra o composta con un'altissima percentuale di frutta fresca dell'azienda, a basso contenuto di zucchero, senza pectine aggiunte né addensanti.",
+            "en": "Extra jam or compote with a very high share of the farm's fresh fruit, low in sugar, with no added pectin or thickeners.",
+            "de": "Extra-Konfitüre oder Kompott mit sehr hohem Anteil an frischen Früchten vom Hof, zuckerarm, ohne zugesetztes Pektin oder Verdickungsmittel."
+          },
+          "a": {
+            "it": "Disponibile in base alla stagione, fino a esaurimento scorte.",
+            "en": "Seasonal, available while stocks last.",
+            "de": "Saisonal, solange der Vorrat reicht."
+          }
+        },
+        "V-03-41": {
+          "c": [],
+          "pr": "6,00 €",
+          "d": {
+            "it": "Confettura extra o composta con un'altissima percentuale di frutta fresca dell'azienda, a basso contenuto di zucchero, senza pectine aggiunte né addensanti.",
+            "en": "Extra jam or compote with a very high share of the farm's fresh fruit, low in sugar, with no added pectin or thickeners.",
+            "de": "Extra-Konfitüre oder Kompott mit sehr hohem Anteil an frischen Früchten vom Hof, zuckerarm, ohne zugesetztes Pektin oder Verdickungsmittel."
+          },
+          "a": {
+            "it": "Disponibile in base alla stagione, fino a esaurimento scorte.",
+            "en": "Seasonal, available while stocks last.",
+            "de": "Saisonal, solange der Vorrat reicht."
+          }
+        },
+        "V-03-42": {
+          "c": [],
+          "pr": "6,00 €",
+          "d": {
+            "it": "Confettura extra o composta con un'altissima percentuale di frutta fresca dell'azienda, a basso contenuto di zucchero, senza pectine aggiunte né addensanti.",
+            "en": "Extra jam or compote with a very high share of the farm's fresh fruit, low in sugar, with no added pectin or thickeners.",
+            "de": "Extra-Konfitüre oder Kompott mit sehr hohem Anteil an frischen Früchten vom Hof, zuckerarm, ohne zugesetztes Pektin oder Verdickungsmittel."
+          },
+          "a": {
+            "it": "Disponibile in base alla stagione, fino a esaurimento scorte.",
+            "en": "Seasonal, available while stocks last.",
+            "de": "Saisonal, solange der Vorrat reicht."
+          }
+        },
+        "V-03-43": {
+          "c": [],
+          "pr": "6,00 €",
+          "d": {
+            "it": "Composta salata di erbe selvatiche di stagione, senza addensanti né conservanti di sintesi.",
+            "en": "Savoury compote of seasonal wild greens, with no thickeners or synthetic preservatives.",
+            "de": "Herzhaftes Kompott aus saisonalen Wildkräutern, ohne Verdickungsmittel oder synthetische Konservierungsstoffe."
+          },
+          "a": {
+            "it": "Disponibile in base alla stagione, fino a esaurimento scorte.",
+            "en": "Seasonal, available while stocks last.",
+            "de": "Saisonal, solange der Vorrat reicht."
+          }
+        },
+        "V-03-44": {
+          "c": [],
+          "pr": "6,00 €",
+          "d": {
+            "it": "Composta salata di erbe selvatiche di stagione, senza addensanti né conservanti di sintesi.",
+            "en": "Savoury compote of seasonal wild greens, with no thickeners or synthetic preservatives.",
+            "de": "Herzhaftes Kompott aus saisonalen Wildkräutern, ohne Verdickungsmittel oder synthetische Konservierungsstoffe."
+          },
+          "a": {
+            "it": "Disponibile in base alla stagione, fino a esaurimento scorte.",
+            "en": "Seasonal, available while stocks last.",
+            "de": "Saisonal, solange der Vorrat reicht."
+          }
+        },
+        "V-03-45": {
+          "c": [],
+          "pr": "6,00 €",
+          "d": {
+            "it": "Composta salata di erbe selvatiche di stagione, senza addensanti né conservanti di sintesi.",
+            "en": "Savoury compote of seasonal wild greens, with no thickeners or synthetic preservatives.",
+            "de": "Herzhaftes Kompott aus saisonalen Wildkräutern, ohne Verdickungsmittel oder synthetische Konservierungsstoffe."
+          },
+          "a": {
+            "it": "Disponibile in base alla stagione, fino a esaurimento scorte.",
+            "en": "Seasonal, available while stocks last.",
+            "de": "Saisonal, solange der Vorrat reicht."
+          }
+        },
+        "V-03-46": {
+          "c": [],
+          "pr": "6,00 €",
+          "d": {
+            "it": "Composta salata di erbe selvatiche di stagione, senza addensanti né conservanti di sintesi.",
+            "en": "Savoury compote of seasonal wild greens, with no thickeners or synthetic preservatives.",
+            "de": "Herzhaftes Kompott aus saisonalen Wildkräutern, ohne Verdickungsmittel oder synthetische Konservierungsstoffe."
+          },
+          "a": {
+            "it": "Disponibile in base alla stagione, fino a esaurimento scorte.",
+            "en": "Seasonal, available while stocks last.",
+            "de": "Saisonal, solange der Vorrat reicht."
+          }
+        }
+      },
+      "fonti": [
+        "Listino 2026-2027 per Mercatale (inviato dall'azienda)",
+        "https://aziendailmonacofel.wixsite.com/ilmiosito",
+        "https://www.instagram.com/ilmonaco_felice2015/"
+      ]
     }
   ],
   "IMG": {
@@ -364,6 +1325,7 @@ window.VETRINE = {
     "prod-V-02-8": "https://poderelucano.com/wp-content/uploads/2026/11/terra-dei-lupi-bag-in-box-1-fronte-v3-300x300.jpg",
     "prod-V-02-9": "https://poderelucano.com/wp-content/uploads/2020/09/grappa.jpg.webp",
     "prod-V-02-10": "https://poderelucano.com/wp-content/uploads/2020/09/123er-300x700.png.webp",
-    "prod-V-02-11": "https://poderelucano.com/wp-content/uploads/2020/09/olio_latta.jpg.webp"
+    "prod-V-02-11": "https://poderelucano.com/wp-content/uploads/2020/09/olio_latta.jpg.webp",
+    "logo-V-03": "https://static.wixstatic.com/media/ce12c7_b48d8bc273da4811916d0ab83108cfa7~mv2.jpg"
   }
 };
