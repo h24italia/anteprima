@@ -1384,7 +1384,9 @@ footer .fcontact a{color:#fff}
 .prods li.pl:hover{transform:translateY(-6px) rotate(-1deg);box-shadow:0 24px 40px -22px rgba(23,48,46,.7)}
 .prod-btn{display:flex;flex-direction:column;align-items:stretch;gap:0;padding:0;border-radius:16px;height:100%}
 .prods .pi{width:100%;height:auto;aspect-ratio:1/1.05;border-radius:0}
-.prods .pi img{transition:transform .6s var(--ease)}
+.prods .pi{position:relative;display:block}
+.prods .pi:has(img){background:#fff}
+.prods .pi img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;padding:8px;box-sizing:border-box;transition:transform .6s var(--ease)}
 .prods li.pl:hover .pi img{transform:scale(1.1)}
 .prod-btn>span:nth-child(2){padding:10px 12px 12px;display:block}
 .prod-btn strong{display:block;font:800 15px/1.2 var(--display)}
