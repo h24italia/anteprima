@@ -10428,6 +10428,207 @@ window.VETRINE = {
         "https://mito21.com/stores/",
         "https://mito21.com/contatti/"
       ]
+    },
+    {
+      "id": "V-30",
+      "n": "Deorum Cibus",
+      "cat": "conserve",
+      "reg": "Calabria",
+      "city": "Vibo Valentia Marina (VV)",
+      "lat": 38.716,
+      "lng": 16.127,
+      "y": null,
+      "certs": [],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "d": {
+        "it": "Deorum Cibus, “cibo degli dei”, è un'azienda calabrese di Vibo Valentia Marina, sulla Costa degli Dei, fondata dai fratelli Giuseppe, Davide e Flavio Timpano e quasi interamente dedicata alla valorizzazione del prodotto simbolo del territorio: la 'nduja. Più che un semplice sito produttivo, è un laboratorio di ricerca e sviluppo che trasforma materie prime di pregio in prodotti unici. Il progetto principale è 'Nduja Essentia: la 'nduja di Spilinga reinterpretata con lavorazioni esclusive in nuove forme, dall'estratto liquido concentrato all'olio, fino al miele piccante Nettare. La filosofia è scegliere il valore, senza rincorrere l'industrializzazione né la competizione sui prezzi, per portare nel mondo cultura e tradizioni calabresi. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy.",
+        "en": "Deorum Cibus, “food of the gods”, is a Calabrian company from Vibo Valentia Marina, on the Costa degli Dei, founded by brothers Giuseppe, Davide and Flavio Timpano and almost entirely devoted to the symbol of its territory: 'nduja. More than a production site, it is a research and development laboratory that turns fine raw materials into unique products. The main project is 'Nduja Essentia: 'nduja di Spilinga reinterpreted through exclusive processes into new forms, from concentrated liquid extract to oil and the Nettare hot honey. The philosophy is to choose value rather than chase industrialisation or price competition, and to take Calabrian culture and traditions to the world. The products are distributed by T.F.I. Tipici Foods Italy.",
+        "de": "Deorum Cibus, „Speise der Götter“, ist ein kalabrisches Unternehmen aus Vibo Valentia Marina an der Costa degli Dei, gegründet von den Brüdern Giuseppe, Davide und Flavio Timpano und fast ganz dem Symbolprodukt der Region gewidmet: der 'Nduja. Mehr als eine Produktionsstätte ist es ein Forschungs- und Entwicklungslabor, das hochwertige Rohstoffe in einzigartige Produkte verwandelt. Das Hauptprojekt ist 'Nduja Essentia: die 'Nduja di Spilinga, mit exklusiven Verfahren in neuen Formen interpretiert, vom konzentrierten flüssigen Extrakt über das Öl bis zum scharfen Honig Nettare. Die Philosophie: auf Wert setzen, statt Industrialisierung oder Preiswettbewerb nachzujagen, und kalabrische Kultur und Tradition in die Welt tragen. Die Produkte werden von T.F.I. Tipici Foods Italy vertrieben."
+      },
+      "sub": [
+        {
+          "k": "essentia",
+          "cat": "conserve",
+          "n": {
+            "it": "'Nduja Essentia",
+            "en": "'Nduja Essentia",
+            "de": "'Nduja Essentia"
+          }
+        },
+        {
+          "k": "olio",
+          "cat": "olio",
+          "n": {
+            "it": "Olio con estratto di 'nduja",
+            "en": "Oil with 'nduja extract",
+            "de": "Öl mit 'Nduja-Extrakt"
+          }
+        },
+        {
+          "k": "miele",
+          "cat": "conserve",
+          "n": {
+            "it": "Miele piccante Nettare",
+            "en": "Nettare hot honey",
+            "de": "Scharfer Honig Nettare"
+          }
+        },
+        {
+          "k": "box",
+          "cat": "misti",
+          "n": {
+            "it": "Box assaggio",
+            "en": "Tasting box",
+            "de": "Probierbox"
+          }
+        }
+      ],
+      "p": [
+        [
+          "'Nduja Essentia, Lacrima di 'Nduja di Spilinga",
+          "bottiglia da 100 ml",
+          "essentia"
+        ],
+        [
+          "'Nduja Essentia, Lacrima di 'Nduja di Spilinga",
+          "bottiglia da 250 ml",
+          "essentia"
+        ],
+        [
+          "'Nduja Essentia, Lacrima di 'Nduja di Spilinga",
+          "bottiglia da 750 ml",
+          "essentia"
+        ],
+        [
+          "Lacrima, olio extravergine di oliva con estratto di 'nduja",
+          "bottiglia da 100 ml",
+          "olio"
+        ],
+        [
+          "Nettare, miele all'Essentia di 'nduja",
+          "vasetto da 120 g",
+          "miele"
+        ],
+        [
+          "Nettare, miele all'Essentia di 'nduja, squeezer",
+          "squeezer da 250 g",
+          "miele"
+        ],
+        [
+          "Box “Test Deorum Cibus”",
+          "confezione da 10 pezzi",
+          "box"
+        ]
+      ],
+      "pd": {
+        "V-30-0": {
+          "c": [],
+          "pr": "9,90 € (shop T.F.I.)",
+          "d": {
+            "it": "'Nduja Essentia è l'estratto liquido concentrato di 'nduja di Spilinga, la “lacrima” della 'nduja: un prodotto esclusivo e fuori dagli schemi, pensato per chi cerca sapori unici da usare in cucina. Formato da 10 cl.",
+            "en": "'Nduja Essentia is the concentrated liquid extract of 'nduja di Spilinga, the “tear” of the 'nduja: an exclusive, unconventional product for anyone looking for unique flavours to cook with. 10 cl size.",
+            "de": "'Nduja Essentia ist der konzentrierte flüssige Extrakt der 'Nduja di Spilinga, die „Träne“ der 'Nduja: ein exklusives, ungewöhnliches Produkt für alle, die einzigartige Aromen für die Küche suchen. 10-cl-Format."
+          },
+          "a": {
+            "it": "Poche gocce a crudo per dare una nota piccante e affumicata a primi piatti, pizza, carni, uova e formaggi.",
+            "en": "A few drops, used raw, add a spicy, smoky note to pasta, pizza, meat, eggs and cheese.",
+            "de": "Wenige Tropfen, roh verwendet, geben Pasta, Pizza, Fleisch, Eiern und Käse eine scharfe, rauchige Note."
+          }
+        },
+        "V-30-1": {
+          "c": [],
+          "pr": "19,90 € (shop T.F.I.)",
+          "d": {
+            "it": "'Nduja Essentia è l'estratto liquido concentrato di 'nduja di Spilinga, la “lacrima” della 'nduja: un prodotto esclusivo e fuori dagli schemi, pensato per chi cerca sapori unici da usare in cucina. Formato da 25 cl.",
+            "en": "'Nduja Essentia is the concentrated liquid extract of 'nduja di Spilinga, the “tear” of the 'nduja: an exclusive, unconventional product for anyone looking for unique flavours to cook with. 25 cl size.",
+            "de": "'Nduja Essentia ist der konzentrierte flüssige Extrakt der 'Nduja di Spilinga, die „Träne“ der 'Nduja: ein exklusives, ungewöhnliches Produkt für alle, die einzigartige Aromen für die Küche suchen. 25-cl-Format."
+          },
+          "a": {
+            "it": "Poche gocce a crudo per dare una nota piccante e affumicata a primi piatti, pizza, carni, uova e formaggi.",
+            "en": "A few drops, used raw, add a spicy, smoky note to pasta, pizza, meat, eggs and cheese.",
+            "de": "Wenige Tropfen, roh verwendet, geben Pasta, Pizza, Fleisch, Eiern und Käse eine scharfe, rauchige Note."
+          }
+        },
+        "V-30-2": {
+          "c": [],
+          "pr": "49,90 € (shop T.F.I.)",
+          "d": {
+            "it": "'Nduja Essentia è l'estratto liquido concentrato di 'nduja di Spilinga, la “lacrima” della 'nduja: un prodotto esclusivo e fuori dagli schemi, pensato per chi cerca sapori unici da usare in cucina. Formato da 75 cl, adatto anche alla ristorazione.",
+            "en": "'Nduja Essentia is the concentrated liquid extract of 'nduja di Spilinga, the “tear” of the 'nduja: an exclusive, unconventional product for anyone looking for unique flavours to cook with. 75 cl size, also suited to food service.",
+            "de": "'Nduja Essentia ist der konzentrierte flüssige Extrakt der 'Nduja di Spilinga, die „Träne“ der 'Nduja: ein exklusives, ungewöhnliches Produkt für alle, die einzigartige Aromen für die Küche suchen. 75-cl-Format, auch für die Gastronomie geeignet."
+          },
+          "a": {
+            "it": "Poche gocce a crudo per dare una nota piccante e affumicata a primi piatti, pizza, carni, uova e formaggi.",
+            "en": "A few drops, used raw, add a spicy, smoky note to pasta, pizza, meat, eggs and cheese.",
+            "de": "Wenige Tropfen, roh verwendet, geben Pasta, Pizza, Fleisch, Eiern und Käse eine scharfe, rauchige Note."
+          }
+        },
+        "V-30-3": {
+          "c": [],
+          "pr": "4,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Olio extravergine di oliva con estratto di 'nduja di Spilinga: l'Essentia incontra l'olio EVO in un condimento piccante pronto all'uso.",
+            "en": "Extra virgin olive oil with 'nduja di Spilinga extract: Essentia meets EVO oil in a ready-to-use spicy dressing.",
+            "de": "Natives Olivenöl extra mit Extrakt der 'Nduja di Spilinga: Essentia trifft auf Olivenöl, ein gebrauchsfertiges scharfes Würzöl."
+          },
+          "a": {
+            "it": "A crudo su bruschette, pizza, pasta, legumi e verdure grigliate.",
+            "en": "Raw on bruschetta, pizza, pasta, pulses and grilled vegetables.",
+            "de": "Roh auf Bruschetta, Pizza, Pasta, Hülsenfrüchten und Grillgemüse."
+          }
+        },
+        "V-30-4": {
+          "c": [],
+          "pr": "5,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Nettare: miele di acacia con Essentia di 'nduja di Spilinga in purezza, un miele piccante calabrese senza coloranti né conservanti. In vasetto di vetro.",
+            "en": "Nettare: acacia honey with pure 'nduja di Spilinga Essentia, a Calabrian hot honey with no colourings or preservatives. In a glass jar.",
+            "de": "Nettare: Akazienhonig mit reiner Essentia der 'Nduja di Spilinga, ein kalabrischer scharfer Honig ohne Farb- und Konservierungsstoffe. Im Glas."
+          },
+          "a": {
+            "it": "Su pizza, burger, formaggi, pollo e street food.",
+            "en": "On pizza, burgers, cheese, chicken and street food.",
+            "de": "Auf Pizza, Burgern, Käse, Hähnchen und Streetfood."
+          }
+        },
+        "V-30-5": {
+          "c": [],
+          "pr": "13,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Nettare: miele di acacia con Essentia di 'nduja di Spilinga in purezza, un miele piccante calabrese senza coloranti né conservanti. Nel pratico formato squeezer.",
+            "en": "Nettare: acacia honey with pure 'nduja di Spilinga Essentia, a Calabrian hot honey with no colourings or preservatives. In a handy squeeze bottle.",
+            "de": "Nettare: Akazienhonig mit reiner Essentia der 'Nduja di Spilinga, ein kalabrischer scharfer Honig ohne Farb- und Konservierungsstoffe. In der praktischen Quetschflasche."
+          },
+          "a": {
+            "it": "Su pizza, burger, formaggi, pollo e street food.",
+            "en": "On pizza, burgers, cheese, chicken and street food.",
+            "de": "Auf Pizza, Burgern, Käse, Hähnchen und Streetfood."
+          }
+        },
+        "V-30-6": {
+          "c": [],
+          "pr": "65,00 € (shop T.F.I.)",
+          "d": {
+            "it": "Box di assaggio con 10 pezzi nel formato da 10 cl: 2 bottiglie di Essentia, 4 bottiglie di olio extravergine con estratto di 'nduja e 4 confezioni di miele all'Essentia di 'nduja. Pensato per provare l'intera gamma.",
+            "en": "A tasting box with 10 pieces in the 10 cl size: 2 bottles of Essentia, 4 bottles of extra virgin olive oil with 'nduja extract and 4 packs of honey with 'nduja Essentia. Made for trying the whole range.",
+            "de": "Probierbox mit 10 Stück im 10-cl-Format: 2 Flaschen Essentia, 4 Flaschen natives Olivenöl extra mit 'Nduja-Extrakt und 4 Packungen Honig mit 'Nduja-Essentia. Gedacht, um das ganze Sortiment zu testen."
+          },
+          "a": {
+            "it": "Per gli abbinamenti si veda la scheda di ciascun prodotto.",
+            "en": "For pairings see each product's sheet.",
+            "de": "Empfehlungen siehe beim jeweiligen Produkt."
+          }
+        }
+      },
+      "fonti": [
+        "https://tipicifoodsitaly.it/categoria-prodotto/aziende-partner/essenze-deorum-cibus/",
+        "https://deorumcibus.com/",
+        "https://www.storienogastronomiche.it/?p=126435"
+      ]
     }
   ],
   "IMG": {
@@ -10869,6 +11070,14 @@ window.VETRINE = {
     "prod-V-28-4": "https://images.squarespace-cdn.com/content/v1/67e3350d5f10b04bec7efb68/a1b42ce8-fc24-4b53-a5d9-0697e3857013/DSC07542-removebg+%281%29.png?format=1000w",
     "logo-V-29": "https://mito21.com/wp-content/uploads/2021/10/Mito_Logo-Principale.png",
     "prod-V-29-0": "https://mito21.com/wp-content/uploads/2021/11/panettone_trasparenza-3-e1637057740362.jpg",
-    "prod-V-29-1": "https://mito21.com/wp-content/uploads/2021/11/panettone_alto_trasparenza-1.jpg"
+    "prod-V-29-1": "https://mito21.com/wp-content/uploads/2021/11/panettone_alto_trasparenza-1.jpg",
+    "logo-V-30": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/Essentia_DeorumCibus.png",
+    "prod-V-30-0": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/essentia-lacrima-di-nduja-spilinga.jpg",
+    "prod-V-30-1": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/ESSENTIA-250-ML-SCURA-scaled-1.jpg",
+    "prod-V-30-2": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/essentia-75cl-deorum.jpg",
+    "prod-V-30-3": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/olio-evo-con-lacrima-di-nduja.jpg",
+    "prod-V-30-4": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/miele-all-essentia-nduja-.jpg",
+    "prod-V-30-5": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/nettare_sqeezer.jpg",
+    "prod-V-30-6": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/logo2-deorum.png"
   }
 };
