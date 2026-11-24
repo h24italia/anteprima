@@ -10629,6 +10629,814 @@ window.VETRINE = {
         "https://deorumcibus.com/",
         "https://www.storienogastronomiche.it/?p=126435"
       ]
+    },
+    {
+      "id": "V-31",
+      "n": "Amodeo, essenze di bergamotto",
+      "cat": "misti",
+      "reg": "Calabria",
+      "city": "Reggio Calabria (RC)",
+      "lat": 38.11,
+      "lng": 15.65,
+      "y": null,
+      "certs": [],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "d": {
+        "it": "Amodeo è il marchio delle essenze naturali di bergamotto di Vincenzo Amodeo, di Reggio Calabria, conosciuto come l'ultimo dei mastri “spiritari”: gli artigiani che estraggono a mano l'essenza dalla buccia degli agrumi. Lavora ancora come si faceva nel Settecento, con la spugna naturale di mare, un'arte tramandata di generazione in generazione che oggi quasi nessuno pratica più. Il risultato è un'essenza pura di bergamotto di Reggio Calabria, l'agrume simbolo della costa reggina, usata in profumeria e cosmesi ma sempre più anche in cucina. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy.",
+        "en": "Amodeo è il marchio delle essenze naturali di bergamotto di Vincenzo Amodeo, di Reggio Calabria, conosciuto come l'ultimo dei mastri “spiritari”: gli artigiani che estraggono a mano l'essenza dalla buccia degli agrumi. Lavora ancora come si faceva nel Settecento, con la spugna naturale di mare, un'arte tramandata di generazione in generazione che oggi quasi nessuno pratica più. Il risultato è un'essenza pura di bergamotto di Reggio Calabria, l'agrume simbolo della costa reggina, usata in profumeria e cosmesi ma sempre più anche in cucina. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy.",
+        "de": "Amodeo è il marchio delle essenze naturali di bergamotto di Vincenzo Amodeo, di Reggio Calabria, conosciuto come l'ultimo dei mastri “spiritari”: gli artigiani che estraggono a mano l'essenza dalla buccia degli agrumi. Lavora ancora come si faceva nel Settecento, con la spugna naturale di mare, un'arte tramandata di generazione in generazione che oggi quasi nessuno pratica più. Il risultato è un'essenza pura di bergamotto di Reggio Calabria, l'agrume simbolo della costa reggina, usata in profumeria e cosmesi ma sempre più anche in cucina. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy."
+      },
+      "p": [
+        [
+          "Essenza di bergamotto pura",
+          "bottiglietta da 5,5 ml · bottiglietta da 12 ml"
+        ]
+      ],
+      "pd": {
+        "V-31-0": {
+          "c": [],
+          "pr": "5,5 ml 27,00 € · 12 ml 50,00 € · in confezione regalo 35,00 € e 57,00 € (shop T.F.I.)",
+          "d": {
+            "it": "Essenza pura di bergamotto di Reggio Calabria in bottiglietta, nei formati da 5,5 ml e da 12 ml. Il bergamotto è un agrume dal sapore intenso, profumatissimo e prezioso: molti lo conoscono per gli usi nella cosmesi e nell'aromaterapia, ma trova molte applicazioni anche nella creazione di piatti gourmet. Disponibile in confezione standard o in confezione regalo.",
+            "en": "Essenza pura di bergamotto di Reggio Calabria in bottiglietta, nei formati da 5,5 ml e da 12 ml. Il bergamotto è un agrume dal sapore intenso, profumatissimo e prezioso: molti lo conoscono per gli usi nella cosmesi e nell'aromaterapia, ma trova molte applicazioni anche nella creazione di piatti gourmet. Disponibile in confezione standard o in confezione regalo.",
+            "de": "Essenza pura di bergamotto di Reggio Calabria in bottiglietta, nei formati da 5,5 ml e da 12 ml. Il bergamotto è un agrume dal sapore intenso, profumatissimo e prezioso: molti lo conoscono per gli usi nella cosmesi e nell'aromaterapia, ma trova molte applicazioni anche nella creazione di piatti gourmet. Disponibile in confezione standard o in confezione regalo."
+          },
+          "a": {
+            "it": "Poche gocce per profumare piatti gourmet, dolci e cocktail.",
+            "en": "Poche gocce per profumare piatti gourmet, dolci e cocktail.",
+            "de": "Poche gocce per profumare piatti gourmet, dolci e cocktail."
+          }
+        }
+      },
+      "fonti": [
+        "https://tipicifoodsitaly.it/categoria-prodotto/aziende-partner/essenze-amodeo/",
+        "https://www.strettoweb.com/2023/10/reggio-calabria-vincenzo-amodeo-spiritaro-artigiano-bergamotto/1614389/",
+        "https://www.facebook.com/amodeosrls/"
+      ]
+    },
+    {
+      "id": "V-32",
+      "n": "Salumificio Callà",
+      "cat": "salumi",
+      "reg": "Calabria",
+      "city": "Mileto (VV)",
+      "lat": 38.608,
+      "lng": 16.068,
+      "y": 1965,
+      "certs": [],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "d": {
+        "it": "Il Salumificio Callà ha sede a Mileto, in Calabria, non lontano da Vibo Valentia. Tutto comincia nel 1965, quando l'allevatore Vittorio Callà apre una macelleria con l'aiuto della famiglia; nel 1978 la seconda generazione costruisce un macello per seguire l'intera filiera e garantire il corretto trattamento degli animali. Oggi l'azienda è guidata dalla generazione successiva e produce da oltre mezzo secolo salumi artigianali calabresi secondo le ricette di famiglia: capocollo, salsiccia e soppressata, dolci o piccanti, da suini calabresi, con ingredienti naturali e stagionature lente. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy.",
+        "en": "Il Salumificio Callà ha sede a Mileto, in Calabria, non lontano da Vibo Valentia. Tutto comincia nel 1965, quando l'allevatore Vittorio Callà apre una macelleria con l'aiuto della famiglia; nel 1978 la seconda generazione costruisce un macello per seguire l'intera filiera e garantire il corretto trattamento degli animali. Oggi l'azienda è guidata dalla generazione successiva e produce da oltre mezzo secolo salumi artigianali calabresi secondo le ricette di famiglia: capocollo, salsiccia e soppressata, dolci o piccanti, da suini calabresi, con ingredienti naturali e stagionature lente. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy.",
+        "de": "Il Salumificio Callà ha sede a Mileto, in Calabria, non lontano da Vibo Valentia. Tutto comincia nel 1965, quando l'allevatore Vittorio Callà apre una macelleria con l'aiuto della famiglia; nel 1978 la seconda generazione costruisce un macello per seguire l'intera filiera e garantire il corretto trattamento degli animali. Oggi l'azienda è guidata dalla generazione successiva e produce da oltre mezzo secolo salumi artigianali calabresi secondo le ricette di famiglia: capocollo, salsiccia e soppressata, dolci o piccanti, da suini calabresi, con ingredienti naturali e stagionature lente. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy."
+      },
+      "p": [
+        [
+          "Capocollo a tranci, dolce o piccante",
+          "trancio da 400 g circa"
+        ],
+        [
+          "Salsiccia curva rossa, dolce o piccante",
+          "pezzo da 350 g circa"
+        ],
+        [
+          "Soppressata in budello intera, dolce o piccante",
+          "pezzo da 400 g circa"
+        ]
+      ],
+      "pd": {
+        "V-32-0": {
+          "c": [],
+          "pr": "8,90 € al pezzo, 21,90 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "Immancabile sulle tavole calabresi, il capicollo è un salume dal sapore morbido e delicato, arricchito dalle note del peperoncino e dagli aromi naturali. Si ottiene dalla parte superiore del collo e della spalla del suino: la carne viene disossata, massaggiata con il sale e lasciata riposare per giorni, poi privata del sale in eccesso, aromatizzata con aromi naturali e peperoncino calabrese, avvolta in pellicola naturale e legata con spago e con la tradizionale steccatura di canne. Stagiona almeno quattro mesi in ambiente fresco, asciutto e ventilato. Al taglio ha il tipico colore tra il rosso e il rosato, con piccole striature bianche di grasso che danno morbidezza e sapore. Disponibile dolce o piccante. Ingredienti: capocollo, sale, pepe nero, antiossidante E301, conservanti E250 ed E252. Senza coloranti, senza glutine e senza derivati del latte.",
+            "en": "Immancabile sulle tavole calabresi, il capicollo è un salume dal sapore morbido e delicato, arricchito dalle note del peperoncino e dagli aromi naturali. Si ottiene dalla parte superiore del collo e della spalla del suino: la carne viene disossata, massaggiata con il sale e lasciata riposare per giorni, poi privata del sale in eccesso, aromatizzata con aromi naturali e peperoncino calabrese, avvolta in pellicola naturale e legata con spago e con la tradizionale steccatura di canne. Stagiona almeno quattro mesi in ambiente fresco, asciutto e ventilato. Al taglio ha il tipico colore tra il rosso e il rosato, con piccole striature bianche di grasso che danno morbidezza e sapore. Disponibile dolce o piccante. Ingredienti: capocollo, sale, pepe nero, antiossidante E301, conservanti E250 ed E252. Senza coloranti, senza glutine e senza derivati del latte.",
+            "de": "Immancabile sulle tavole calabresi, il capicollo è un salume dal sapore morbido e delicato, arricchito dalle note del peperoncino e dagli aromi naturali. Si ottiene dalla parte superiore del collo e della spalla del suino: la carne viene disossata, massaggiata con il sale e lasciata riposare per giorni, poi privata del sale in eccesso, aromatizzata con aromi naturali e peperoncino calabrese, avvolta in pellicola naturale e legata con spago e con la tradizionale steccatura di canne. Stagiona almeno quattro mesi in ambiente fresco, asciutto e ventilato. Al taglio ha il tipico colore tra il rosso e il rosato, con piccole striature bianche di grasso che danno morbidezza e sapore. Disponibile dolce o piccante. Ingredienti: capocollo, sale, pepe nero, antiossidante E301, conservanti E250 ed E252. Senza coloranti, senza glutine e senza derivati del latte."
+          },
+          "a": {
+            "it": "Affettato nell'antipasto calabrese, nei primi e nei secondi piatti; per merenda in un panino casereccio con pecorino calabrese e marmellata di cipolla.",
+            "en": "Affettato nell'antipasto calabrese, nei primi e nei secondi piatti; per merenda in un panino casereccio con pecorino calabrese e marmellata di cipolla.",
+            "de": "Affettato nell'antipasto calabrese, nei primi e nei secondi piatti; per merenda in un panino casereccio con pecorino calabrese e marmellata di cipolla."
+          }
+        },
+        "V-32-1": {
+          "c": [],
+          "pr": "6,50 € al pezzo, 16,90 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "La salsiccia è il più popolare fra i salumi calabresi. Si produce con le carni magre della spalla e della sottocostola di suino calabrese, con l'aggiunta di pancetta che dà gusto e morbidezza. Le carni, tritate a grana media, sono impastate con aromi naturali, sale e, nella versione piccante, peperoncino rosso calabrese; l'impasto riposa una notte intera e viene insaccato in budelli naturali forati e legati con spago, nella tipica forma arcuata detta curva. Stagiona almeno cinquanta giorni. Al taglio è morbida e compatta, di colore rosso intenso, dal profumo inconfondibile e leggermente speziata. Ingredienti: carne di suino, peperoncino dolce o piccante, sale, pepe nero. Senza conservanti né coloranti, senza glutine e senza derivati del latte.",
+            "en": "La salsiccia è il più popolare fra i salumi calabresi. Si produce con le carni magre della spalla e della sottocostola di suino calabrese, con l'aggiunta di pancetta che dà gusto e morbidezza. Le carni, tritate a grana media, sono impastate con aromi naturali, sale e, nella versione piccante, peperoncino rosso calabrese; l'impasto riposa una notte intera e viene insaccato in budelli naturali forati e legati con spago, nella tipica forma arcuata detta curva. Stagiona almeno cinquanta giorni. Al taglio è morbida e compatta, di colore rosso intenso, dal profumo inconfondibile e leggermente speziata. Ingredienti: carne di suino, peperoncino dolce o piccante, sale, pepe nero. Senza conservanti né coloranti, senza glutine e senza derivati del latte.",
+            "de": "La salsiccia è il più popolare fra i salumi calabresi. Si produce con le carni magre della spalla e della sottocostola di suino calabrese, con l'aggiunta di pancetta che dà gusto e morbidezza. Le carni, tritate a grana media, sono impastate con aromi naturali, sale e, nella versione piccante, peperoncino rosso calabrese; l'impasto riposa una notte intera e viene insaccato in budelli naturali forati e legati con spago, nella tipica forma arcuata detta curva. Stagiona almeno cinquanta giorni. Al taglio è morbida e compatta, di colore rosso intenso, dal profumo inconfondibile e leggermente speziata. Ingredienti: carne di suino, peperoncino dolce o piccante, sale, pepe nero. Senza conservanti né coloranti, senza glutine e senza derivati del latte."
+          },
+          "a": {
+            "it": "Da sola o nel pane casereccio, nelle ricette della tradizione con carne e verdure; per un aperitivo veloce con pecorino, fave e un bicchiere di vino rosso.",
+            "en": "Da sola o nel pane casereccio, nelle ricette della tradizione con carne e verdure; per un aperitivo veloce con pecorino, fave e un bicchiere di vino rosso.",
+            "de": "Da sola o nel pane casereccio, nelle ricette della tradizione con carne e verdure; per un aperitivo veloce con pecorino, fave e un bicchiere di vino rosso."
+          }
+        },
+        "V-32-2": {
+          "c": [],
+          "pr": "7,90 € al pezzo, 18,90 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "La soppressata è il più nobile fra i salumi calabresi, dal gusto intenso e deciso. Nasce da tagli pregiati di coscia e spalla di suini allevati e macellati in Calabria, con una tecnica tramandata di generazione in generazione: la carne, privata dei nervi, è tagliata a grana grossa a punta di coltello, con una leggera quantità di parti grasse della parte anteriore del lombo per la giusta morbidezza. Si lavora con sale, aromi naturali e, nella versione piccante, peperoncino rosso calabrese; riposa una notte, viene insaccata in budelli naturali di suino legati a mano e stagiona almeno sessanta giorni. Al taglio è compatta, leggermente morbida, di colore rosso intenso, con la “lacrima” in evidenza. Senza coloranti e conservanti, senza glutine e senza derivati del latte.",
+            "en": "La soppressata è il più nobile fra i salumi calabresi, dal gusto intenso e deciso. Nasce da tagli pregiati di coscia e spalla di suini allevati e macellati in Calabria, con una tecnica tramandata di generazione in generazione: la carne, privata dei nervi, è tagliata a grana grossa a punta di coltello, con una leggera quantità di parti grasse della parte anteriore del lombo per la giusta morbidezza. Si lavora con sale, aromi naturali e, nella versione piccante, peperoncino rosso calabrese; riposa una notte, viene insaccata in budelli naturali di suino legati a mano e stagiona almeno sessanta giorni. Al taglio è compatta, leggermente morbida, di colore rosso intenso, con la “lacrima” in evidenza. Senza coloranti e conservanti, senza glutine e senza derivati del latte.",
+            "de": "La soppressata è il più nobile fra i salumi calabresi, dal gusto intenso e deciso. Nasce da tagli pregiati di coscia e spalla di suini allevati e macellati in Calabria, con una tecnica tramandata di generazione in generazione: la carne, privata dei nervi, è tagliata a grana grossa a punta di coltello, con una leggera quantità di parti grasse della parte anteriore del lombo per la giusta morbidezza. Si lavora con sale, aromi naturali e, nella versione piccante, peperoncino rosso calabrese; riposa una notte, viene insaccata in budelli naturali di suino legati a mano e stagiona almeno sessanta giorni. Al taglio è compatta, leggermente morbida, di colore rosso intenso, con la “lacrima” in evidenza. Senza coloranti e conservanti, senza glutine e senza derivati del latte."
+          },
+          "a": {
+            "it": "Regina degli antipasti, ottima nel pane per uno spuntino o per dare sapore ai primi piatti; si sposa con vini rossi ben strutturati.",
+            "en": "Regina degli antipasti, ottima nel pane per uno spuntino o per dare sapore ai primi piatti; si sposa con vini rossi ben strutturati.",
+            "de": "Regina degli antipasti, ottima nel pane per uno spuntino o per dare sapore ai primi piatti; si sposa con vini rossi ben strutturati."
+          }
+        }
+      },
+      "fonti": [
+        "https://tipicifoodsitaly.it/categoria-prodotto/aziende-partner/salumi-salumificio-calla/",
+        "https://www.italyabroad.com/our_producers/salumificio-calla-calabria"
+      ]
+    },
+    {
+      "id": "V-33",
+      "n": "'Nduja San Donato",
+      "cat": "salumi",
+      "reg": "Calabria",
+      "city": "Spilinga (VV)",
+      "lat": 38.628,
+      "lng": 15.905,
+      "y": null,
+      "certs": [],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "d": {
+        "it": "'Nduja San Donato, della famiglia Pugliese, è tra le prime aziende artigianali nate proprio nel territorio in cui ha origine la 'nduja: Spilinga, alle pendici del Monte Poro, in provincia di Vibo Valentia. Produce e commercializza l'originale 'Nduja di Spilinga con pochi ingredienti, carne di suino, sale e peperoncino rosso calabrese essiccato al sole: dopo un periodo di affumicatura artigianale, la 'nduja stagiona naturalmente nel budello del maiale, per un tempo che varia in base alla pezzatura. La gamma va dal budello crespo all'orba, fino all'orba gigante e al vasetto. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy.",
+        "en": "'Nduja San Donato, della famiglia Pugliese, è tra le prime aziende artigianali nate proprio nel territorio in cui ha origine la 'nduja: Spilinga, alle pendici del Monte Poro, in provincia di Vibo Valentia. Produce e commercializza l'originale 'Nduja di Spilinga con pochi ingredienti, carne di suino, sale e peperoncino rosso calabrese essiccato al sole: dopo un periodo di affumicatura artigianale, la 'nduja stagiona naturalmente nel budello del maiale, per un tempo che varia in base alla pezzatura. La gamma va dal budello crespo all'orba, fino all'orba gigante e al vasetto. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy.",
+        "de": "'Nduja San Donato, della famiglia Pugliese, è tra le prime aziende artigianali nate proprio nel territorio in cui ha origine la 'nduja: Spilinga, alle pendici del Monte Poro, in provincia di Vibo Valentia. Produce e commercializza l'originale 'Nduja di Spilinga con pochi ingredienti, carne di suino, sale e peperoncino rosso calabrese essiccato al sole: dopo un periodo di affumicatura artigianale, la 'nduja stagiona naturalmente nel budello del maiale, per un tempo che varia in base alla pezzatura. La gamma va dal budello crespo all'orba, fino all'orba gigante e al vasetto. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy."
+      },
+      "sub": [
+        {
+          "k": "budello",
+          "cat": "salumi",
+          "n": {
+            "it": "'Nduja in budello",
+            "en": "'Nduja in budello",
+            "de": "'Nduja in budello"
+          }
+        },
+        {
+          "k": "vasetto",
+          "cat": "conserve",
+          "n": {
+            "it": "'Nduja in vasetto",
+            "en": "'Nduja in vasetto",
+            "de": "'Nduja in vasetto"
+          }
+        }
+      ],
+      "p": [
+        [
+          "'Nduja in budello Crespo",
+          "pezzo da 500 g circa",
+          "budello"
+        ],
+        [
+          "'Nduja in budello Orba",
+          "pezzo da 1 kg circa",
+          "budello"
+        ],
+        [
+          "'Nduja in budello Orba Gigante",
+          "pezzi da 8 kg fino a 100 kg",
+          "budello"
+        ],
+        [
+          "'Nduja in vasetto",
+          "vasetto da 90 g · vasetto da 180 g",
+          "vasetto"
+        ]
+      ],
+      "pd": {
+        "V-33-0": {
+          "c": [],
+          "pr": "8,00 € (shop T.F.I.)",
+          "d": {
+            "it": "La 'nduja è un insaccato spalmabile prodotto con le parti grasse del suino (lardello, guanciale, pancetta e rifilature di parti magre). Alla carne, lavorata con crivelli a fori stretti, si aggiungono nelle giuste dosi peperoncino rosso piccante calabrese e sale. Dopo il riposo, l'insacco e qualche giorno di affumicatura artigianale, stagiona naturalmente, in base al peso, all'interno del budello stesso del maiale. Insaccata nel budello crespo, nel formato da circa 500 grammi.",
+            "en": "La 'nduja è un insaccato spalmabile prodotto con le parti grasse del suino (lardello, guanciale, pancetta e rifilature di parti magre). Alla carne, lavorata con crivelli a fori stretti, si aggiungono nelle giuste dosi peperoncino rosso piccante calabrese e sale. Dopo il riposo, l'insacco e qualche giorno di affumicatura artigianale, stagiona naturalmente, in base al peso, all'interno del budello stesso del maiale. Insaccata nel budello crespo, nel formato da circa 500 grammi.",
+            "de": "La 'nduja è un insaccato spalmabile prodotto con le parti grasse del suino (lardello, guanciale, pancetta e rifilature di parti magre). Alla carne, lavorata con crivelli a fori stretti, si aggiungono nelle giuste dosi peperoncino rosso piccante calabrese e sale. Dopo il riposo, l'insacco e qualche giorno di affumicatura artigianale, stagiona naturalmente, in base al peso, all'interno del budello stesso del maiale. Insaccata nel budello crespo, nel formato da circa 500 grammi."
+          },
+          "a": {
+            "it": "Spalmata su pane e bruschette, su pizza, nei sughi e con i formaggi. Conservare in luogo fresco e asciutto, lontano dal sole e da fonti di calore.",
+            "en": "Spalmata su pane e bruschette, su pizza, nei sughi e con i formaggi. Conservare in luogo fresco e asciutto, lontano dal sole e da fonti di calore.",
+            "de": "Spalmata su pane e bruschette, su pizza, nei sughi e con i formaggi. Conservare in luogo fresco e asciutto, lontano dal sole e da fonti di calore."
+          }
+        },
+        "V-33-1": {
+          "c": [],
+          "pr": "18,00 € (shop T.F.I.)",
+          "d": {
+            "it": "La 'nduja è un insaccato spalmabile prodotto con le parti grasse del suino (lardello, guanciale, pancetta e rifilature di parti magre). Alla carne, lavorata con crivelli a fori stretti, si aggiungono nelle giuste dosi peperoncino rosso piccante calabrese e sale. Dopo il riposo, l'insacco e qualche giorno di affumicatura artigianale, stagiona naturalmente, in base al peso, all'interno del budello stesso del maiale. Insaccata nell'orba, il budello cieco del maiale, nel formato da circa 1 kg.",
+            "en": "La 'nduja è un insaccato spalmabile prodotto con le parti grasse del suino (lardello, guanciale, pancetta e rifilature di parti magre). Alla carne, lavorata con crivelli a fori stretti, si aggiungono nelle giuste dosi peperoncino rosso piccante calabrese e sale. Dopo il riposo, l'insacco e qualche giorno di affumicatura artigianale, stagiona naturalmente, in base al peso, all'interno del budello stesso del maiale. Insaccata nell'orba, il budello cieco del maiale, nel formato da circa 1 kg.",
+            "de": "La 'nduja è un insaccato spalmabile prodotto con le parti grasse del suino (lardello, guanciale, pancetta e rifilature di parti magre). Alla carne, lavorata con crivelli a fori stretti, si aggiungono nelle giuste dosi peperoncino rosso piccante calabrese e sale. Dopo il riposo, l'insacco e qualche giorno di affumicatura artigianale, stagiona naturalmente, in base al peso, all'interno del budello stesso del maiale. Insaccata nell'orba, il budello cieco del maiale, nel formato da circa 1 kg."
+          },
+          "a": {
+            "it": "Spalmata su pane e bruschette, su pizza, nei sughi e con i formaggi. Conservare in luogo fresco e asciutto, lontano dal sole e da fonti di calore.",
+            "en": "Spalmata su pane e bruschette, su pizza, nei sughi e con i formaggi. Conservare in luogo fresco e asciutto, lontano dal sole e da fonti di calore.",
+            "de": "Spalmata su pane e bruschette, su pizza, nei sughi e con i formaggi. Conservare in luogo fresco e asciutto, lontano dal sole e da fonti di calore."
+          }
+        },
+        "V-33-2": {
+          "c": [],
+          "pr": "16,90 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "La 'nduja è un insaccato spalmabile prodotto con le parti grasse del suino (lardello, guanciale, pancetta e rifilature di parti magre). Alla carne, lavorata con crivelli a fori stretti, si aggiungono nelle giuste dosi peperoncino rosso piccante calabrese e sale. Dopo il riposo, l'insacco e qualche giorno di affumicatura artigianale, stagiona naturalmente, in base al peso, all'interno del budello stesso del maiale. Nel formato Orba Gigante viene confezionata in pezzi da 8 kg fino a 100 kg.",
+            "en": "La 'nduja è un insaccato spalmabile prodotto con le parti grasse del suino (lardello, guanciale, pancetta e rifilature di parti magre). Alla carne, lavorata con crivelli a fori stretti, si aggiungono nelle giuste dosi peperoncino rosso piccante calabrese e sale. Dopo il riposo, l'insacco e qualche giorno di affumicatura artigianale, stagiona naturalmente, in base al peso, all'interno del budello stesso del maiale. Nel formato Orba Gigante viene confezionata in pezzi da 8 kg fino a 100 kg.",
+            "de": "La 'nduja è un insaccato spalmabile prodotto con le parti grasse del suino (lardello, guanciale, pancetta e rifilature di parti magre). Alla carne, lavorata con crivelli a fori stretti, si aggiungono nelle giuste dosi peperoncino rosso piccante calabrese e sale. Dopo il riposo, l'insacco e qualche giorno di affumicatura artigianale, stagiona naturalmente, in base al peso, all'interno del budello stesso del maiale. Nel formato Orba Gigante viene confezionata in pezzi da 8 kg fino a 100 kg."
+          },
+          "a": {
+            "it": "Spalmata su pane e bruschette, su pizza, nei sughi e con i formaggi. Conservare in luogo fresco e asciutto, lontano dal sole e da fonti di calore.",
+            "en": "Spalmata su pane e bruschette, su pizza, nei sughi e con i formaggi. Conservare in luogo fresco e asciutto, lontano dal sole e da fonti di calore.",
+            "de": "Spalmata su pane e bruschette, su pizza, nei sughi e con i formaggi. Conservare in luogo fresco e asciutto, lontano dal sole e da fonti di calore."
+          }
+        },
+        "V-33-3": {
+          "c": [],
+          "pr": "90 g 4,90 € · 180 g 6,90 € (shop T.F.I.)",
+          "d": {
+            "it": "'Nduja prima affumicata e stagionata in orba naturale secondo il normale ciclo di produzione, poi estratta e rilavorata con l'aggiunta di olio di semi di girasole, più neutro per sapore e odore rispetto al comune olio d'oliva. Viene infine posta in vasetto e pastorizzata.",
+            "en": "'Nduja prima affumicata e stagionata in orba naturale secondo il normale ciclo di produzione, poi estratta e rilavorata con l'aggiunta di olio di semi di girasole, più neutro per sapore e odore rispetto al comune olio d'oliva. Viene infine posta in vasetto e pastorizzata.",
+            "de": "'Nduja prima affumicata e stagionata in orba naturale secondo il normale ciclo di produzione, poi estratta e rilavorata con l'aggiunta di olio di semi di girasole, più neutro per sapore e odore rispetto al comune olio d'oliva. Viene infine posta in vasetto e pastorizzata."
+          },
+          "a": {
+            "it": "Pronta da spalmare su crostini e bruschette o da sciogliere nei sughi e sulla pizza.",
+            "en": "Pronta da spalmare su crostini e bruschette o da sciogliere nei sughi e sulla pizza.",
+            "de": "Pronta da spalmare su crostini e bruschette o da sciogliere nei sughi e sulla pizza."
+          }
+        }
+      },
+      "fonti": [
+        "https://tipicifoodsitaly.it/categoria-prodotto/aziende-partner/salumi-nduja-san-donato/",
+        "https://www.ice.it/it/area-clienti/repository/vetrine/564507/1789210972.1252.pdf"
+      ]
+    },
+    {
+      "id": "V-34",
+      "n": "Cantine Dastoli",
+      "cat": "vino",
+      "reg": "Calabria",
+      "city": "Filadelfia (VV)",
+      "lat": 38.785,
+      "lng": 16.292,
+      "y": null,
+      "certs": [
+        "Bio"
+      ],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "d": {
+        "it": "Cantine Dastoli è la cantina della famiglia Dastoli a Filadelfia, in provincia di Vibo Valentia, alle pendici dell'oasi naturalistica del lago dell'Angitola. Radicata nel territorio, la famiglia coltiva la passione per il vino da circa un secolo. Le uve provengono da vigneti di proprietà condotti in agricoltura biologica e raccolti a mano; la vinificazione è naturale, senza lieviti aggiunti né chiarifiche, con l'obiettivo di migliorare di continuo ispirandosi al passato. In gamma lo Zibibbo Castelmonardo, il bianco Brisèlla da Malvasia, il Rosso Calabrese da Nerello Calabrese e il rosato Ciaramìdu. La cantina si può visitare, con degustazione dei vini. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy.",
+        "en": "Cantine Dastoli è la cantina della famiglia Dastoli a Filadelfia, in provincia di Vibo Valentia, alle pendici dell'oasi naturalistica del lago dell'Angitola. Radicata nel territorio, la famiglia coltiva la passione per il vino da circa un secolo. Le uve provengono da vigneti di proprietà condotti in agricoltura biologica e raccolti a mano; la vinificazione è naturale, senza lieviti aggiunti né chiarifiche, con l'obiettivo di migliorare di continuo ispirandosi al passato. In gamma lo Zibibbo Castelmonardo, il bianco Brisèlla da Malvasia, il Rosso Calabrese da Nerello Calabrese e il rosato Ciaramìdu. La cantina si può visitare, con degustazione dei vini. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy.",
+        "de": "Cantine Dastoli è la cantina della famiglia Dastoli a Filadelfia, in provincia di Vibo Valentia, alle pendici dell'oasi naturalistica del lago dell'Angitola. Radicata nel territorio, la famiglia coltiva la passione per il vino da circa un secolo. Le uve provengono da vigneti di proprietà condotti in agricoltura biologica e raccolti a mano; la vinificazione è naturale, senza lieviti aggiunti né chiarifiche, con l'obiettivo di migliorare di continuo ispirandosi al passato. In gamma lo Zibibbo Castelmonardo, il bianco Brisèlla da Malvasia, il Rosso Calabrese da Nerello Calabrese e il rosato Ciaramìdu. La cantina si può visitare, con degustazione dei vini. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy."
+      },
+      "sub": [
+        {
+          "k": "bianchi",
+          "cat": "vino",
+          "n": {
+            "it": "Vini bianchi",
+            "en": "Vini bianchi",
+            "de": "Vini bianchi"
+          }
+        },
+        {
+          "k": "rossi",
+          "cat": "vino",
+          "n": {
+            "it": "Rosso e rosato",
+            "en": "Rosso e rosato",
+            "de": "Rosso e rosato"
+          }
+        },
+        {
+          "k": "box",
+          "cat": "vino",
+          "n": {
+            "it": "Box",
+            "en": "Box",
+            "de": "Box"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Castelmonardo, Zibibbo",
+          "bottiglia da 750 ml",
+          "bianchi"
+        ],
+        [
+          "Brisèlla, bianco da uve Malvasia",
+          "bottiglia da 750 ml",
+          "bianchi"
+        ],
+        [
+          "Rosso Calabrese, Nerello Calabrese",
+          "bottiglia da 750 ml",
+          "rossi"
+        ],
+        [
+          "Ciaramìdu, rosato",
+          "bottiglia da 750 ml",
+          "rossi"
+        ],
+        [
+          "Box “Test vini Dastoli”",
+          "confezione da 6 bottiglie da 750 ml",
+          "box"
+        ],
+        [
+          "Box “Mix vini Dastoli”",
+          "confezione da 12 bottiglie da 750 ml",
+          "box"
+        ]
+      ],
+      "pd": {
+        "V-34-0": {
+          "c": [],
+          "pr": "12,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Vino bianco da uve Zibibbo, prodotto alle pendici dell'oasi naturalistica del lago dell'Angitola, una delle riserve più importanti del Mediterraneo. Sapore pieno, fresco e avvolgente, caratteristico del vitigno. Colore giallo paglierino brillante. Gradazione 13,5% vol.",
+            "en": "Vino bianco da uve Zibibbo, prodotto alle pendici dell'oasi naturalistica del lago dell'Angitola, una delle riserve più importanti del Mediterraneo. Sapore pieno, fresco e avvolgente, caratteristico del vitigno. Colore giallo paglierino brillante. Gradazione 13,5% vol.",
+            "de": "Vino bianco da uve Zibibbo, prodotto alle pendici dell'oasi naturalistica del lago dell'Angitola, una delle riserve più importanti del Mediterraneo. Sapore pieno, fresco e avvolgente, caratteristico del vitigno. Colore giallo paglierino brillante. Gradazione 13,5% vol."
+          },
+          "a": {
+            "it": "Come aperitivo e con piatti delicati e importanti della cucina mediterranea.",
+            "en": "Come aperitivo e con piatti delicati e importanti della cucina mediterranea.",
+            "de": "Come aperitivo e con piatti delicati e importanti della cucina mediterranea."
+          }
+        },
+        "V-34-1": {
+          "c": [],
+          "pr": "8,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Vino bianco da uve Malvasia, prodotto alle pendici dell'oasi naturalistica del lago dell'Angitola, una delle riserve più importanti del Mediterraneo. Gusto delicato, fruttato e fresco, con ottima persistenza. Colore giallo paglierino vivace. Gradazione 12,5% vol.",
+            "en": "Vino bianco da uve Malvasia, prodotto alle pendici dell'oasi naturalistica del lago dell'Angitola, una delle riserve più importanti del Mediterraneo. Gusto delicato, fruttato e fresco, con ottima persistenza. Colore giallo paglierino vivace. Gradazione 12,5% vol.",
+            "de": "Vino bianco da uve Malvasia, prodotto alle pendici dell'oasi naturalistica del lago dell'Angitola, una delle riserve più importanti del Mediterraneo. Gusto delicato, fruttato e fresco, con ottima persistenza. Colore giallo paglierino vivace. Gradazione 12,5% vol."
+          },
+          "a": {
+            "it": "Perfetto con il pesce, le carni bianche e le pietanze delicate.",
+            "en": "Perfetto con il pesce, le carni bianche e le pietanze delicate.",
+            "de": "Perfetto con il pesce, le carni bianche e le pietanze delicate."
+          }
+        },
+        "V-34-2": {
+          "c": [],
+          "pr": "8,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Vino rosso da uve Nerello Calabrese, prodotto alle pendici dell'oasi naturalistica del lago dell'Angitola, una delle riserve più importanti del Mediterraneo. Eleganti sentori di frutta a bacca rossa; gusto robusto, elegante e fruttato, con una piacevole e delicata speziatura nel finale. Colore rosso intenso. Gradazione 13,5% vol.",
+            "en": "Vino rosso da uve Nerello Calabrese, prodotto alle pendici dell'oasi naturalistica del lago dell'Angitola, una delle riserve più importanti del Mediterraneo. Eleganti sentori di frutta a bacca rossa; gusto robusto, elegante e fruttato, con una piacevole e delicata speziatura nel finale. Colore rosso intenso. Gradazione 13,5% vol.",
+            "de": "Vino rosso da uve Nerello Calabrese, prodotto alle pendici dell'oasi naturalistica del lago dell'Angitola, una delle riserve più importanti del Mediterraneo. Eleganti sentori di frutta a bacca rossa; gusto robusto, elegante e fruttato, con una piacevole e delicata speziatura nel finale. Colore rosso intenso. Gradazione 13,5% vol."
+          },
+          "a": {
+            "it": "Ideale con carni alla griglia e pietanze della cucina mediterranea.",
+            "en": "Ideale con carni alla griglia e pietanze della cucina mediterranea.",
+            "de": "Ideale con carni alla griglia e pietanze della cucina mediterranea."
+          }
+        },
+        "V-34-3": {
+          "c": [],
+          "pr": "8,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Vino rosato prodotto alle pendici dell'oasi naturalistica del lago dell'Angitola, una delle riserve più importanti del Mediterraneo. Vigneto allevato a cordone orizzontale con sesto d'impianto 2,50 x 0,85 metri, circa 5000 piante per ettaro e una resa media di 70 quintali d'uva, su terreno mediamente calcareo di origine granitica. Gradazione 11,5% vol.",
+            "en": "Vino rosato prodotto alle pendici dell'oasi naturalistica del lago dell'Angitola, una delle riserve più importanti del Mediterraneo. Vigneto allevato a cordone orizzontale con sesto d'impianto 2,50 x 0,85 metri, circa 5000 piante per ettaro e una resa media di 70 quintali d'uva, su terreno mediamente calcareo di origine granitica. Gradazione 11,5% vol.",
+            "de": "Vino rosato prodotto alle pendici dell'oasi naturalistica del lago dell'Angitola, una delle riserve più importanti del Mediterraneo. Vigneto allevato a cordone orizzontale con sesto d'impianto 2,50 x 0,85 metri, circa 5000 piante per ettaro e una resa media di 70 quintali d'uva, su terreno mediamente calcareo di origine granitica. Gradazione 11,5% vol."
+          },
+          "a": {
+            "it": "Ideale con carni o pesce alla griglia e pietanze della cucina mediterranea.",
+            "en": "Ideale con carni o pesce alla griglia e pietanze della cucina mediterranea.",
+            "de": "Ideale con carni o pesce alla griglia e pietanze della cucina mediterranea."
+          }
+        },
+        "V-34-4": {
+          "c": [],
+          "pr": "61,40 € (shop T.F.I.)",
+          "d": {
+            "it": "Box di assaggio con 6 bottiglie da 750 ml: 2 di bianco Castelmonardo, 2 di Rosso Calabrese e 2 di bianco Brisèlla.",
+            "en": "Box di assaggio con 6 bottiglie da 750 ml: 2 di bianco Castelmonardo, 2 di Rosso Calabrese e 2 di bianco Brisèlla.",
+            "de": "Box di assaggio con 6 bottiglie da 750 ml: 2 di bianco Castelmonardo, 2 di Rosso Calabrese e 2 di bianco Brisèlla."
+          },
+          "a": {
+            "it": "Per gli abbinamenti si veda la scheda di ciascun vino.",
+            "en": "Per gli abbinamenti si veda la scheda di ciascun vino.",
+            "de": "Per gli abbinamenti si veda la scheda di ciascun vino."
+          }
+        },
+        "V-34-5": {
+          "c": [],
+          "pr": "118,80 € (shop T.F.I.)",
+          "d": {
+            "it": "Box con 12 bottiglie da 750 ml: 3 di bianco Castelmonardo, 3 di Rosso Calabrese, 3 di rosato Ciaramìdu e 3 di bianco Brisèlla.",
+            "en": "Box con 12 bottiglie da 750 ml: 3 di bianco Castelmonardo, 3 di Rosso Calabrese, 3 di rosato Ciaramìdu e 3 di bianco Brisèlla.",
+            "de": "Box con 12 bottiglie da 750 ml: 3 di bianco Castelmonardo, 3 di Rosso Calabrese, 3 di rosato Ciaramìdu e 3 di bianco Brisèlla."
+          },
+          "a": {
+            "it": "Per gli abbinamenti si veda la scheda di ciascun vino.",
+            "en": "Per gli abbinamenti si veda la scheda di ciascun vino.",
+            "de": "Per gli abbinamenti si veda la scheda di ciascun vino."
+          }
+        }
+      },
+      "fonti": [
+        "https://tipicifoodsitaly.it/categoria-prodotto/aziende-partner/cantine/vini-cantine-dastoli/",
+        "https://www.cantinedastoli.it/azienda-cantina-vini-calabria"
+      ]
+    },
+    {
+      "id": "V-35",
+      "n": "Frantoio Badia",
+      "cat": "olio",
+      "reg": "Calabria",
+      "city": "Limbadi (VV)",
+      "lat": 38.557,
+      "lng": 15.965,
+      "y": 1920,
+      "certs": [
+        "Bio"
+      ],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "d": {
+        "it": "Il Frantoio Badia lavora dal 1920. Agli inizi del Novecento il capostipite Domenico Corigliano, maestro oleario, avviò in anticipo sui tempi un oleificio con macine in pietra in contrada Comerci, a Badia di Nicotera, da cui il frantoio prende il nome. Dopo tre generazioni di famiglia l'impianto si è trasferito a Limbadi, in provincia di Vibo Valentia, dove oggi lavora le olive del comprensorio con tecnologia moderna e macchine rispettose dell'ambiente. Produce olio extravergine di oliva, anche biologico e aromatizzato con gli agrumi e il peperoncino di Calabria, in bottiglia e in latta. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy.",
+        "en": "Il Frantoio Badia lavora dal 1920. Agli inizi del Novecento il capostipite Domenico Corigliano, maestro oleario, avviò in anticipo sui tempi un oleificio con macine in pietra in contrada Comerci, a Badia di Nicotera, da cui il frantoio prende il nome. Dopo tre generazioni di famiglia l'impianto si è trasferito a Limbadi, in provincia di Vibo Valentia, dove oggi lavora le olive del comprensorio con tecnologia moderna e macchine rispettose dell'ambiente. Produce olio extravergine di oliva, anche biologico e aromatizzato con gli agrumi e il peperoncino di Calabria, in bottiglia e in latta. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy.",
+        "de": "Il Frantoio Badia lavora dal 1920. Agli inizi del Novecento il capostipite Domenico Corigliano, maestro oleario, avviò in anticipo sui tempi un oleificio con macine in pietra in contrada Comerci, a Badia di Nicotera, da cui il frantoio prende il nome. Dopo tre generazioni di famiglia l'impianto si è trasferito a Limbadi, in provincia di Vibo Valentia, dove oggi lavora le olive del comprensorio con tecnologia moderna e macchine rispettose dell'ambiente. Produce olio extravergine di oliva, anche biologico e aromatizzato con gli agrumi e il peperoncino di Calabria, in bottiglia e in latta. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy."
+      },
+      "sub": [
+        {
+          "k": "evo",
+          "cat": "olio",
+          "n": {
+            "it": "Extravergine",
+            "en": "Extravergine",
+            "de": "Extravergine"
+          }
+        },
+        {
+          "k": "bio",
+          "cat": "olio",
+          "n": {
+            "it": "Extravergine Bio",
+            "en": "Extravergine Bio",
+            "de": "Extravergine Bio"
+          }
+        },
+        {
+          "k": "aroma",
+          "cat": "olio",
+          "n": {
+            "it": "Aromatizzati Bio",
+            "en": "Aromatizzati Bio",
+            "de": "Aromatizzati Bio"
+          }
+        },
+        {
+          "k": "box",
+          "cat": "olio",
+          "n": {
+            "it": "Box",
+            "en": "Box",
+            "de": "Box"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Olio extravergine di oliva in bottiglia",
+          "bottiglia da 250 ml · bottiglia da 500 ml · bottiglia da 1 litro",
+          "evo"
+        ],
+        [
+          "Olio extravergine di oliva in latta",
+          "latta da 3 litri",
+          "evo"
+        ],
+        [
+          "Olio extravergine di oliva in latta",
+          "latta da 5 litri",
+          "evo"
+        ],
+        [
+          "Olio extravergine di oliva Bio in bottiglia",
+          "bottiglia da 250 ml · bottiglia da 500 ml · bottiglia da 750 ml",
+          "bio"
+        ],
+        [
+          "Olio extravergine Bio aromatizzato: limone, arancia o peperoncino",
+          "bottiglia da 250 ml",
+          "aroma"
+        ],
+        [
+          "Box “Olio Badia”",
+          "confezione da 5 bottiglie",
+          "box"
+        ]
+      ],
+      "pd": {
+        "V-35-0": {
+          "c": [],
+          "pr": "250 ml 6,90 € · 500 ml 9,50 € · 1 litro 14,90 € (shop T.F.I.)",
+          "d": {
+            "it": "All'analisi descrittiva l'extravergine Frantoio Badia mostra all'olfatto un fruttato di oliva di media intensità, che ricorda le drupe colte verdi, con decisi sentori di mela golden, erba, pomodoro ed erbe aromatiche, in equilibrio con note persistenti di verdure cotte. Al palato sorprende per la fluidità e per i toni decisi dell'amaro, che ricorda la mandorla, in armonia con il piccante di peperoncino. Una nota balsamica accompagna le sensazioni retrolfattive di cicoria e cardo, con chiusura netta di noce fresca.",
+            "en": "All'analisi descrittiva l'extravergine Frantoio Badia mostra all'olfatto un fruttato di oliva di media intensità, che ricorda le drupe colte verdi, con decisi sentori di mela golden, erba, pomodoro ed erbe aromatiche, in equilibrio con note persistenti di verdure cotte. Al palato sorprende per la fluidità e per i toni decisi dell'amaro, che ricorda la mandorla, in armonia con il piccante di peperoncino. Una nota balsamica accompagna le sensazioni retrolfattive di cicoria e cardo, con chiusura netta di noce fresca.",
+            "de": "All'analisi descrittiva l'extravergine Frantoio Badia mostra all'olfatto un fruttato di oliva di media intensità, che ricorda le drupe colte verdi, con decisi sentori di mela golden, erba, pomodoro ed erbe aromatiche, in equilibrio con note persistenti di verdure cotte. Al palato sorprende per la fluidità e per i toni decisi dell'amaro, che ricorda la mandorla, in armonia con il piccante di peperoncino. Una nota balsamica accompagna le sensazioni retrolfattive di cicoria e cardo, con chiusura netta di noce fresca."
+          },
+          "a": {
+            "it": "A crudo su verdure, legumi, zuppe, pesce e carni alla griglia. Conservare in luogo fresco, al riparo da luce e calore.",
+            "en": "A crudo su verdure, legumi, zuppe, pesce e carni alla griglia. Conservare in luogo fresco, al riparo da luce e calore.",
+            "de": "A crudo su verdure, legumi, zuppe, pesce e carni alla griglia. Conservare in luogo fresco, al riparo da luce e calore."
+          }
+        },
+        "V-35-1": {
+          "c": [],
+          "pr": "41,90 € (shop T.F.I.)",
+          "d": {
+            "it": "All'analisi descrittiva l'extravergine Frantoio Badia mostra all'olfatto un fruttato di oliva di media intensità, che ricorda le drupe colte verdi, con decisi sentori di mela golden, erba, pomodoro ed erbe aromatiche, in equilibrio con note persistenti di verdure cotte. Al palato sorprende per la fluidità e per i toni decisi dell'amaro, che ricorda la mandorla, in armonia con il piccante di peperoncino. Una nota balsamica accompagna le sensazioni retrolfattive di cicoria e cardo, con chiusura netta di noce fresca. Nella latta da 3 litri, per la dispensa e la ristorazione.",
+            "en": "All'analisi descrittiva l'extravergine Frantoio Badia mostra all'olfatto un fruttato di oliva di media intensità, che ricorda le drupe colte verdi, con decisi sentori di mela golden, erba, pomodoro ed erbe aromatiche, in equilibrio con note persistenti di verdure cotte. Al palato sorprende per la fluidità e per i toni decisi dell'amaro, che ricorda la mandorla, in armonia con il piccante di peperoncino. Una nota balsamica accompagna le sensazioni retrolfattive di cicoria e cardo, con chiusura netta di noce fresca. Nella latta da 3 litri, per la dispensa e la ristorazione.",
+            "de": "All'analisi descrittiva l'extravergine Frantoio Badia mostra all'olfatto un fruttato di oliva di media intensità, che ricorda le drupe colte verdi, con decisi sentori di mela golden, erba, pomodoro ed erbe aromatiche, in equilibrio con note persistenti di verdure cotte. Al palato sorprende per la fluidità e per i toni decisi dell'amaro, che ricorda la mandorla, in armonia con il piccante di peperoncino. Una nota balsamica accompagna le sensazioni retrolfattive di cicoria e cardo, con chiusura netta di noce fresca. Nella latta da 3 litri, per la dispensa e la ristorazione."
+          },
+          "a": {
+            "it": "A crudo su verdure, legumi, zuppe, pesce e carni alla griglia. Conservare in luogo fresco, al riparo da luce e calore.",
+            "en": "A crudo su verdure, legumi, zuppe, pesce e carni alla griglia. Conservare in luogo fresco, al riparo da luce e calore.",
+            "de": "A crudo su verdure, legumi, zuppe, pesce e carni alla griglia. Conservare in luogo fresco, al riparo da luce e calore."
+          }
+        },
+        "V-35-2": {
+          "c": [],
+          "pr": "69,90 € (shop T.F.I.)",
+          "d": {
+            "it": "All'analisi descrittiva l'extravergine Frantoio Badia mostra all'olfatto un fruttato di oliva di media intensità, che ricorda le drupe colte verdi, con decisi sentori di mela golden, erba, pomodoro ed erbe aromatiche, in equilibrio con note persistenti di verdure cotte. Al palato sorprende per la fluidità e per i toni decisi dell'amaro, che ricorda la mandorla, in armonia con il piccante di peperoncino. Una nota balsamica accompagna le sensazioni retrolfattive di cicoria e cardo, con chiusura netta di noce fresca. Nella latta da 5 litri, per la dispensa e la ristorazione.",
+            "en": "All'analisi descrittiva l'extravergine Frantoio Badia mostra all'olfatto un fruttato di oliva di media intensità, che ricorda le drupe colte verdi, con decisi sentori di mela golden, erba, pomodoro ed erbe aromatiche, in equilibrio con note persistenti di verdure cotte. Al palato sorprende per la fluidità e per i toni decisi dell'amaro, che ricorda la mandorla, in armonia con il piccante di peperoncino. Una nota balsamica accompagna le sensazioni retrolfattive di cicoria e cardo, con chiusura netta di noce fresca. Nella latta da 5 litri, per la dispensa e la ristorazione.",
+            "de": "All'analisi descrittiva l'extravergine Frantoio Badia mostra all'olfatto un fruttato di oliva di media intensità, che ricorda le drupe colte verdi, con decisi sentori di mela golden, erba, pomodoro ed erbe aromatiche, in equilibrio con note persistenti di verdure cotte. Al palato sorprende per la fluidità e per i toni decisi dell'amaro, che ricorda la mandorla, in armonia con il piccante di peperoncino. Una nota balsamica accompagna le sensazioni retrolfattive di cicoria e cardo, con chiusura netta di noce fresca. Nella latta da 5 litri, per la dispensa e la ristorazione."
+          },
+          "a": {
+            "it": "A crudo su verdure, legumi, zuppe, pesce e carni alla griglia. Conservare in luogo fresco, al riparo da luce e calore.",
+            "en": "A crudo su verdure, legumi, zuppe, pesce e carni alla griglia. Conservare in luogo fresco, al riparo da luce e calore.",
+            "de": "A crudo su verdure, legumi, zuppe, pesce e carni alla griglia. Conservare in luogo fresco, al riparo da luce e calore."
+          }
+        },
+        "V-35-3": {
+          "c": [
+            "Bio"
+          ],
+          "pr": "250 ml 6,90 € · 500 ml 8,90 € · 750 ml 12,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Extravergine biologico Frantoio Badia. All'analisi descrittiva l'extravergine Frantoio Badia mostra all'olfatto un fruttato di oliva di media intensità, che ricorda le drupe colte verdi, con decisi sentori di mela golden, erba, pomodoro ed erbe aromatiche, in equilibrio con note persistenti di verdure cotte. Al palato sorprende per la fluidità e per i toni decisi dell'amaro, che ricorda la mandorla, in armonia con il piccante di peperoncino. Una nota balsamica accompagna le sensazioni retrolfattive di cicoria e cardo, con chiusura netta di noce fresca.",
+            "en": "Extravergine biologico Frantoio Badia. All'analisi descrittiva l'extravergine Frantoio Badia mostra all'olfatto un fruttato di oliva di media intensità, che ricorda le drupe colte verdi, con decisi sentori di mela golden, erba, pomodoro ed erbe aromatiche, in equilibrio con note persistenti di verdure cotte. Al palato sorprende per la fluidità e per i toni decisi dell'amaro, che ricorda la mandorla, in armonia con il piccante di peperoncino. Una nota balsamica accompagna le sensazioni retrolfattive di cicoria e cardo, con chiusura netta di noce fresca.",
+            "de": "Extravergine biologico Frantoio Badia. All'analisi descrittiva l'extravergine Frantoio Badia mostra all'olfatto un fruttato di oliva di media intensità, che ricorda le drupe colte verdi, con decisi sentori di mela golden, erba, pomodoro ed erbe aromatiche, in equilibrio con note persistenti di verdure cotte. Al palato sorprende per la fluidità e per i toni decisi dell'amaro, che ricorda la mandorla, in armonia con il piccante di peperoncino. Una nota balsamica accompagna le sensazioni retrolfattive di cicoria e cardo, con chiusura netta di noce fresca."
+          },
+          "a": {
+            "it": "A crudo su verdure, legumi, zuppe, pesce e carni alla griglia. Conservare in luogo fresco, al riparo da luce e calore.",
+            "en": "A crudo su verdure, legumi, zuppe, pesce e carni alla griglia. Conservare in luogo fresco, al riparo da luce e calore.",
+            "de": "A crudo su verdure, legumi, zuppe, pesce e carni alla griglia. Conservare in luogo fresco, al riparo da luce e calore."
+          }
+        },
+        "V-35-4": {
+          "c": [
+            "Bio"
+          ],
+          "pr": "9,50 € (shop T.F.I.)",
+          "d": {
+            "it": "Extravergine biologico aromatizzato, nato per unire il meglio dell'olio agli aromi tipici della Calabria. Tre gusti: limone, arancia e peperoncino.",
+            "en": "Extravergine biologico aromatizzato, nato per unire il meglio dell'olio agli aromi tipici della Calabria. Tre gusti: limone, arancia e peperoncino.",
+            "de": "Extravergine biologico aromatizzato, nato per unire il meglio dell'olio agli aromi tipici della Calabria. Tre gusti: limone, arancia e peperoncino."
+          },
+          "a": {
+            "it": "Si accosta a piatti vari: il limone e l'arancia su pesce, insalate e carni bianche, il peperoncino su pasta, pizza e legumi.",
+            "en": "Si accosta a piatti vari: il limone e l'arancia su pesce, insalate e carni bianche, il peperoncino su pasta, pizza e legumi.",
+            "de": "Si accosta a piatti vari: il limone e l'arancia su pesce, insalate e carni bianche, il peperoncino su pasta, pizza e legumi."
+          }
+        },
+        "V-35-5": {
+          "c": [],
+          "pr": "77,30 € (shop T.F.I.)",
+          "d": {
+            "it": "Box con cinque referenze: un extravergine da 500 ml, un extravergine da 1 litro, un extravergine Bio da 500 ml, un Bio aromatizzato al limone da 250 ml e un Bio aromatizzato al peperoncino da 250 ml.",
+            "en": "Box con cinque referenze: un extravergine da 500 ml, un extravergine da 1 litro, un extravergine Bio da 500 ml, un Bio aromatizzato al limone da 250 ml e un Bio aromatizzato al peperoncino da 250 ml.",
+            "de": "Box con cinque referenze: un extravergine da 500 ml, un extravergine da 1 litro, un extravergine Bio da 500 ml, un Bio aromatizzato al limone da 250 ml e un Bio aromatizzato al peperoncino da 250 ml."
+          },
+          "a": {
+            "it": "Per gli usi si veda la scheda di ciascun olio.",
+            "en": "Per gli usi si veda la scheda di ciascun olio.",
+            "de": "Per gli usi si veda la scheda di ciascun olio."
+          }
+        }
+      },
+      "fonti": [
+        "https://tipicifoodsitaly.it/categoria-prodotto/aziende-partner/olii-frantoio-badia/",
+        "https://www.vetrinedicalabria.it/home/produttori-di-olio/frantoio-badia/"
+      ]
+    },
+    {
+      "id": "V-36",
+      "n": "Cantine Re Dauno",
+      "cat": "vino",
+      "reg": "Puglia",
+      "city": "San Severo (FG)",
+      "lat": 41.686,
+      "lng": 15.381,
+      "y": 2013,
+      "certs": [],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "d": {
+        "it": "Cantine Re Dauno nasce a San Severo, ai piedi dei Monti Dauni, in provincia di Foggia, dal sogno coraggioso di una famiglia: produrre spumanti Metodo Classico in una terra dove quest'arte era ancora sconosciuta. Fondata da Francesco Toma con Angelina Radatti, affina i propri spumanti dal 2013 nei sotterranei di un palazzo del 1927. Lavora uve del territorio come Bombino Bianco e Nero di Troia, insieme al Pinot Nero, con seconda fermentazione in bottiglia e lunghi riposi sui lieviti, da 24 fino a 48 mesi. Secondo la leggenda fu l'eroe Diomede a fondare l'antica San Severo. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy.",
+        "en": "Cantine Re Dauno nasce a San Severo, ai piedi dei Monti Dauni, in provincia di Foggia, dal sogno coraggioso di una famiglia: produrre spumanti Metodo Classico in una terra dove quest'arte era ancora sconosciuta. Fondata da Francesco Toma con Angelina Radatti, affina i propri spumanti dal 2013 nei sotterranei di un palazzo del 1927. Lavora uve del territorio come Bombino Bianco e Nero di Troia, insieme al Pinot Nero, con seconda fermentazione in bottiglia e lunghi riposi sui lieviti, da 24 fino a 48 mesi. Secondo la leggenda fu l'eroe Diomede a fondare l'antica San Severo. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy.",
+        "de": "Cantine Re Dauno nasce a San Severo, ai piedi dei Monti Dauni, in provincia di Foggia, dal sogno coraggioso di una famiglia: produrre spumanti Metodo Classico in una terra dove quest'arte era ancora sconosciuta. Fondata da Francesco Toma con Angelina Radatti, affina i propri spumanti dal 2013 nei sotterranei di un palazzo del 1927. Lavora uve del territorio come Bombino Bianco e Nero di Troia, insieme al Pinot Nero, con seconda fermentazione in bottiglia e lunghi riposi sui lieviti, da 24 fino a 48 mesi. Secondo la leggenda fu l'eroe Diomede a fondare l'antica San Severo. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy."
+      },
+      "sub": [
+        {
+          "k": "bianchi",
+          "cat": "vino",
+          "n": {
+            "it": "Metodo Classico",
+            "en": "Metodo Classico",
+            "de": "Metodo Classico"
+          }
+        },
+        {
+          "k": "rose",
+          "cat": "vino",
+          "n": {
+            "it": "Metodo Classico Rosé",
+            "en": "Metodo Classico Rosé",
+            "de": "Metodo Classico Rosé"
+          }
+        },
+        {
+          "k": "magnum",
+          "cat": "vino",
+          "n": {
+            "it": "Magnum in cassetta di legno",
+            "en": "Magnum in cassetta di legno",
+            "de": "Magnum in cassetta di legno"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Pas Dosé, 100% Bombino Bianco",
+          "bottiglia da 750 ml",
+          "bianchi"
+        ],
+        [
+          "Brut, 100% Bombino Bianco",
+          "bottiglia da 750 ml",
+          "bianchi"
+        ],
+        [
+          "Gold, 60% Bombino Bianco e 40% Pinot Nero",
+          "bottiglia da 750 ml",
+          "bianchi"
+        ],
+        [
+          "Brut Rosé, 100% Pinot Nero",
+          "bottiglia da 750 ml",
+          "rose"
+        ],
+        [
+          "Rosé Nature, 100% Nero di Troia",
+          "bottiglia da 750 ml",
+          "rose"
+        ],
+        [
+          "Gold Limited Edition, magnum",
+          "magnum da 1,5 litri in cassetta di legno",
+          "magnum"
+        ],
+        [
+          "Rosé Nature, magnum",
+          "magnum da 1,5 litri in cassetta di legno",
+          "magnum"
+        ]
+      ],
+      "pd": {
+        "V-36-0": {
+          "c": [],
+          "pr": "19,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Spumante Metodo Classico. Uve: 100% Bombino Bianco (IGP Puglia), zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 24 mesi. Gradazione 12,5% vol.",
+            "en": "Spumante Metodo Classico. Uve: 100% Bombino Bianco (IGP Puglia), zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 24 mesi. Gradazione 12,5% vol.",
+            "de": "Spumante Metodo Classico. Uve: 100% Bombino Bianco (IGP Puglia), zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 24 mesi. Gradazione 12,5% vol."
+          },
+          "a": {
+            "it": "Ideale per aperitivi, crudi di mare, antipasti misti e portate di pesce.",
+            "en": "Ideale per aperitivi, crudi di mare, antipasti misti e portate di pesce.",
+            "de": "Ideale per aperitivi, crudi di mare, antipasti misti e portate di pesce."
+          }
+        },
+        "V-36-1": {
+          "c": [],
+          "pr": "19,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Spumante Metodo Classico. Uve: 100% Bombino Bianco (IGP Puglia) vinificato in purezza, zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 24 mesi. Gradazione 12,5% vol.",
+            "en": "Spumante Metodo Classico. Uve: 100% Bombino Bianco (IGP Puglia) vinificato in purezza, zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 24 mesi. Gradazione 12,5% vol.",
+            "de": "Spumante Metodo Classico. Uve: 100% Bombino Bianco (IGP Puglia) vinificato in purezza, zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 24 mesi. Gradazione 12,5% vol."
+          },
+          "a": {
+            "it": "Accompagna ogni pasto, dall'aperitivo al dolce.",
+            "en": "Accompagna ogni pasto, dall'aperitivo al dolce.",
+            "de": "Accompagna ogni pasto, dall'aperitivo al dolce."
+          }
+        },
+        "V-36-2": {
+          "c": [],
+          "pr": "21,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Spumante Metodo Classico. Uve: 60% Bombino Bianco (IGP Puglia) e 40% Pinot Nero, zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 24 mesi. Gradazione 12,5% vol.",
+            "en": "Spumante Metodo Classico. Uve: 60% Bombino Bianco (IGP Puglia) e 40% Pinot Nero, zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 24 mesi. Gradazione 12,5% vol.",
+            "de": "Spumante Metodo Classico. Uve: 60% Bombino Bianco (IGP Puglia) e 40% Pinot Nero, zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 24 mesi. Gradazione 12,5% vol."
+          },
+          "a": {
+            "it": "Eccellente come aperitivo, indicato a tutto pasto.",
+            "en": "Eccellente come aperitivo, indicato a tutto pasto.",
+            "de": "Eccellente come aperitivo, indicato a tutto pasto."
+          }
+        },
+        "V-36-3": {
+          "c": [],
+          "pr": "19,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Spumante Metodo Classico. Uve: 100% Pinot Nero (IGP Puglia), zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 24 mesi. Gradazione 12,5% vol.",
+            "en": "Spumante Metodo Classico. Uve: 100% Pinot Nero (IGP Puglia), zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 24 mesi. Gradazione 12,5% vol.",
+            "de": "Spumante Metodo Classico. Uve: 100% Pinot Nero (IGP Puglia), zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 24 mesi. Gradazione 12,5% vol."
+          },
+          "a": {
+            "it": "Eccellente come aperitivo, ideale con piatti di pesce e carni bianche.",
+            "en": "Eccellente come aperitivo, ideale con piatti di pesce e carni bianche.",
+            "de": "Eccellente come aperitivo, ideale con piatti di pesce e carni bianche."
+          }
+        },
+        "V-36-4": {
+          "c": [],
+          "pr": "25,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Spumante Metodo Classico. Uve: 100% Nero di Troia, zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 36 mesi. Gradazione 12,5% vol.",
+            "en": "Spumante Metodo Classico. Uve: 100% Nero di Troia, zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 36 mesi. Gradazione 12,5% vol.",
+            "de": "Spumante Metodo Classico. Uve: 100% Nero di Troia, zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 36 mesi. Gradazione 12,5% vol."
+          },
+          "a": {
+            "it": "Eccellente come aperitivo, ideale con piatti di pesce e carni bianche.",
+            "en": "Eccellente come aperitivo, ideale con piatti di pesce e carni bianche.",
+            "de": "Eccellente come aperitivo, ideale con piatti di pesce e carni bianche."
+          }
+        },
+        "V-36-5": {
+          "c": [],
+          "pr": "79,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Spumante Metodo Classico. Uve: 60% Bombino Bianco e 40% Pinot Nero, non dosato, zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 48 mesi. Gradazione 12,5% vol. Edizione limitata di 100 bottiglie numerate con etichetta esclusiva, in confezione regalo di legno.",
+            "en": "Spumante Metodo Classico. Uve: 60% Bombino Bianco e 40% Pinot Nero, non dosato, zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 48 mesi. Gradazione 12,5% vol. Edizione limitata di 100 bottiglie numerate con etichetta esclusiva, in confezione regalo di legno.",
+            "de": "Spumante Metodo Classico. Uve: 60% Bombino Bianco e 40% Pinot Nero, non dosato, zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 48 mesi. Gradazione 12,5% vol. Edizione limitata di 100 bottiglie numerate con etichetta esclusiva, in confezione regalo di legno."
+          },
+          "a": {
+            "it": "Eccellente come aperitivo, ideale con piatti di pesce e carni bianche.",
+            "en": "Eccellente come aperitivo, ideale con piatti di pesce e carni bianche.",
+            "de": "Eccellente come aperitivo, ideale con piatti di pesce e carni bianche."
+          }
+        },
+        "V-36-6": {
+          "c": [],
+          "pr": "75,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Spumante Metodo Classico. Uve: 100% Nero di Troia, zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 36 mesi. Gradazione 12,5% vol. Magnum in confezione regalo di legno.",
+            "en": "Spumante Metodo Classico. Uve: 100% Nero di Troia, zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 36 mesi. Gradazione 12,5% vol. Magnum in confezione regalo di legno.",
+            "de": "Spumante Metodo Classico. Uve: 100% Nero di Troia, zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 36 mesi. Gradazione 12,5% vol. Magnum in confezione regalo di legno."
+          },
+          "a": {
+            "it": "Eccellente come aperitivo, ideale con piatti di pesce e carni bianche.",
+            "en": "Eccellente come aperitivo, ideale con piatti di pesce e carni bianche.",
+            "de": "Eccellente come aperitivo, ideale con piatti di pesce e carni bianche."
+          }
+        }
+      },
+      "fonti": [
+        "https://tipicifoodsitaly.it/categoria-prodotto/aziende-partner/cantine/spumanti-e-prosecchi-cantine-re-dauno/",
+        "https://cantineredauno.it/"
+      ]
     }
   ],
   "IMG": {
@@ -11078,6 +11886,39 @@ window.VETRINE = {
     "prod-V-30-3": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/olio-evo-con-lacrima-di-nduja.jpg",
     "prod-V-30-4": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/miele-all-essentia-nduja-.jpg",
     "prod-V-30-5": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/nettare_sqeezer.jpg",
-    "prod-V-30-6": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/logo2-deorum.png"
+    "prod-V-30-6": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/logo2-deorum.png",
+    "logo-V-31": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/Amodeo.png",
+    "prod-V-31-0": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/20211021_070638-scaled-1.jpg",
+    "logo-V-32": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/Logo-calla-desktop.png",
+    "prod-V-32-0": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/Capocollo-1.png",
+    "prod-V-32-1": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/Salsiccia-Piccante.png",
+    "prod-V-32-2": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/Soppressata-piccante.png",
+    "logo-V-33": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/sandonato-logo.png",
+    "prod-V-33-0": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/crespo.jpg",
+    "prod-V-33-1": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/orba.jpg",
+    "prod-V-33-2": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/orba-gigante.jpg",
+    "prod-V-33-3": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/vasetto180-nduja.jpg",
+    "logo-V-34": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/logo-dastoli.png",
+    "prod-V-34-0": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/castelmonardo-cantine-dastoli_scaled.png",
+    "prod-V-34-1": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/brisella-cantine-dastoli_scaled.png",
+    "prod-V-34-2": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/rosso-calabrese-e1726002291696.png",
+    "prod-V-34-3": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/ciaramidu-cantine-dastoli_scaled.png",
+    "prod-V-34-4": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/vino-castelmonardo-1.png",
+    "prod-V-34-5": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/rosato-ciaramidu-1.png",
+    "logo-V-35": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/frantoiobadia-logo2.png",
+    "prod-V-35-0": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/olio-badia.jpg",
+    "prod-V-35-1": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/olio-latta-badia.jpg",
+    "prod-V-35-2": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/olio-latta-badia.jpg",
+    "prod-V-35-3": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/olioevo-250-badia.webp",
+    "prod-V-35-4": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/oli-aromatizzati-badia.jpg",
+    "prod-V-35-5": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/olio-limone-badia2.png",
+    "logo-V-36": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/ReDauno.jpg",
+    "prod-V-36-0": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/Pas_dose.jpg",
+    "prod-V-36-1": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/brut.jpg",
+    "prod-V-36-2": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/gold.jpg",
+    "prod-V-36-3": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/brut_rose.jpg",
+    "prod-V-36-4": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/rose-nature-1000x998.jpg.webp",
+    "prod-V-36-5": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/metodo-classico_magnum.webp",
+    "prod-V-36-6": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/rose-nature_magnum.webp"
   }
 };
