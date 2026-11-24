@@ -6750,6 +6750,276 @@ window.VETRINE = {
         "https://www.cantinegerardoperillo.it/chi-siamo",
         "https://www.cantinegerardoperillo.it/la-cantina"
       ]
+    },
+    {
+      "id": "V-18",
+      "n": "Giolì dolci di Siena (Forno Ravacciano)",
+      "cat": "dolci",
+      "reg": "Toscana",
+      "city": "Siena (SI)",
+      "lat": 43.318,
+      "lng": 11.331,
+      "y": null,
+      "certs": [],
+      "exp": [],
+      "lg": [
+        "it",
+        "en"
+      ],
+      "moq": null,
+      "d": {
+        "it": "Forno artigianale a conduzione familiare a Siena, fondato dai fratelli Gianfranco e Daniele Brogi e oggi portato avanti dalle famiglie Brogi e Panichi. Da decenni è un punto di riferimento per il pane toscano: usa materie prime selezionate, privilegia ingredienti italiani e del commercio equo e solidale e rispetta tempi di lavorazione lunghi e lenti. Oltre al pane e a prodotti salati come il ciaccino senese, prepara biscotti da colazione e i dolci tipici di Siena secondo le ricette tradizionali: ricciarelli, panforte, panpepato, cavallucci, cantucci e ciambellini, insieme a nuove ricette come castagnucci e pescarelli. I prodotti si vendono anche nella Bottega di Ravacciano, in via Maitani a Siena.",
+        "en": "A family-run artisan bakery in Siena, founded by brothers Gianfranco and Daniele Brogi and now run by the Brogi and Panichi families. For decades it has been a reference point for Tuscan bread: it uses selected raw materials, favours Italian and fair-trade ingredients and respects long, slow working times. Besides bread and savoury products such as Sienese ciaccino flatbread, it makes breakfast biscuits and Siena's traditional sweets to the original recipes: ricciarelli, panforte, panpepato, cavallucci, cantucci and ciambellini, along with new recipes such as castagnucci and pescarelli. Its products are also sold at the Bottega di Ravacciano, on Via Maitani in Siena.",
+        "de": "Familiengeführte Handwerksbäckerei in Siena, gegründet von den Brüdern Gianfranco und Daniele Brogi und heute von den Familien Brogi und Panichi geführt. Seit Jahrzehnten ist sie eine Adresse für toskanisches Brot: Sie verwendet ausgewählte Rohstoffe, bevorzugt italienische und fair gehandelte Zutaten und lässt dem Teig lange, langsame Ruhezeiten. Neben Brot und herzhaften Produkten wie dem Sieneser Fladenbrot Ciaccino backt sie Frühstückskekse und die typischen Süßigkeiten Sienas nach überlieferten Rezepten: Ricciarelli, Panforte, Panpepato, Cavallucci, Cantucci und Ciambellini, dazu neue Rezepte wie Castagnucci und Pescarelli. Die Produkte gibt es auch in der Bottega di Ravacciano in der Via Maitani in Siena."
+      },
+      "sub": [
+        {
+          "k": "biscotti",
+          "cat": "dolci",
+          "n": {
+            "it": "Biscotti e cantucci",
+            "en": "Biscuits and cantucci",
+            "de": "Kekse und Cantucci"
+          }
+        },
+        {
+          "k": "ricciarelli",
+          "cat": "dolci",
+          "n": {
+            "it": "Ricciarelli",
+            "en": "Ricciarelli",
+            "de": "Ricciarelli"
+          }
+        },
+        {
+          "k": "panforte",
+          "cat": "dolci",
+          "n": {
+            "it": "Panforte e panpepato",
+            "en": "Panforte and panpepato",
+            "de": "Panforte und Panpepato"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Cantucci classici",
+          "200 g",
+          "biscotti"
+        ],
+        [
+          "Cantucci golosi",
+          "200 g",
+          "biscotti"
+        ],
+        [
+          "Castagnucci",
+          "200 g · 600 g",
+          "biscotti"
+        ],
+        [
+          "Ciambellini senesi",
+          "200 g · 600 g",
+          "biscotti"
+        ],
+        [
+          "Cavallucci mignon",
+          "200 g",
+          "biscotti"
+        ],
+        [
+          "Ricciarelli classici",
+          "200 g",
+          "ricciarelli"
+        ],
+        [
+          "Ricciarelli ghiotti",
+          "200 g",
+          "ricciarelli"
+        ],
+        [
+          "Ricciarelli neri",
+          "200 g",
+          "ricciarelli"
+        ],
+        [
+          "Pescarelli",
+          "200 g",
+          "ricciarelli"
+        ],
+        [
+          "Panforte Margherita",
+          "300 g",
+          "panforte"
+        ],
+        [
+          "Panpepato",
+          "300 g",
+          "panforte"
+        ]
+      ],
+      "pd": {
+        "V-18-0": {
+          "c": [],
+          "pr": "13,20 €",
+          "d": {
+            "it": "Biscotti toscani alle mandorle tostate, cotti due volte per la loro croccantezza; nati per durare a lungo, erano il biscotto dei viaggiatori. Ingredienti: farina di grano tenero, mandorle tostate, zucchero, uova, burro, latte, bicarbonato di ammonio. Confezione 8 × 8 × 13 cm. Si conserva 3-4 mesi.",
+            "en": "Tuscan biscuits with toasted almonds, baked twice for their crunch; made to keep, they were once the travellers' biscuit. Ingredients: soft wheat flour, toasted almonds, sugar, eggs, butter, milk, ammonium bicarbonate. Box 8 × 8 × 13 cm. Shelf life 3-4 months.",
+            "de": "Toskanische Kekse mit gerösteten Mandeln, zweimal gebacken für ihren Biss; lange haltbar, waren sie einst das Gebäck der Reisenden. Zutaten: Weichweizenmehl, geröstete Mandeln, Zucker, Eier, Butter, Milch, Ammoniumhydrogencarbonat. Packung 8 × 8 × 13 cm. Haltbarkeit 3-4 Monate."
+          },
+          "a": {
+            "it": "Tradizionalmente da intingere nel Vin Santo.",
+            "en": "Traditionally dipped in Vin Santo.",
+            "de": "Traditionell in Vin Santo getunkt."
+          }
+        },
+        "V-18-1": {
+          "c": [],
+          "pr": "9,90 €",
+          "d": {
+            "it": "Cantucci con gocce di cioccolato al posto delle mandorle: stessa croccantezza della ricetta classica, con un gusto più goloso. Ingredienti: farina di grano tenero, cioccolato (zucchero, massa e burro di cacao, latte scremato in polvere, destrosio, lecitina di girasole), zucchero, uova, burro, latte, bicarbonato di ammonio. Confezione 8 × 8 × 13 cm. Si conserva 3-4 mesi.",
+            "en": "Cantucci with chocolate chips instead of almonds: the same crunch as the classic recipe, with a richer taste. Ingredients: soft wheat flour, chocolate (sugar, cocoa mass and butter, skimmed milk powder, dextrose, sunflower lecithin), sugar, eggs, butter, milk, ammonium bicarbonate. Box 8 × 8 × 13 cm. Shelf life 3-4 months.",
+            "de": "Cantucci mit Schokotropfen statt Mandeln: derselbe Biss wie im klassischen Rezept, mit vollerem Geschmack. Zutaten: Weichweizenmehl, Schokolade (Zucker, Kakaomasse und -butter, Magermilchpulver, Dextrose, Sonnenblumenlecithin), Zucker, Eier, Butter, Milch, Ammoniumhydrogencarbonat. Packung 8 × 8 × 13 cm. Haltbarkeit 3-4 Monate."
+          },
+          "a": {
+            "it": "Da gustare con il Vin Santo o altri vini dolci, oppure con tè e caffè.",
+            "en": "Enjoy with Vin Santo or other sweet wines, or with tea and coffee.",
+            "de": "Passt zu Vin Santo oder anderen Süßweinen sowie zu Tee und Kaffee."
+          }
+        },
+        "V-18-2": {
+          "c": [],
+          "pr": "13,20 € (200 g)",
+          "d": {
+            "it": "Cantucci con farina di castagne e noci, dal gusto ricco e rustico: una ricetta nuova del forno che riprende un ingrediente un tempo molto usato. Ingredienti: farina di castagne, farina di farro, noci, burro, uovo, zucchero, bicarbonato di ammonio, vaniglia. Confezione da 200 g: 8 × 8 × 13 cm. Si conserva 3-4 mesi.",
+            "en": "Cantucci made with chestnut flour and walnuts, with a rich, rustic taste: a new recipe from the bakery that revives a once common ingredient. Ingredients: chestnut flour, spelt flour, walnuts, butter, egg, sugar, ammonium bicarbonate, vanilla. 200 g box: 8 × 8 × 13 cm. Shelf life 3-4 months.",
+            "de": "Cantucci mit Kastanienmehl und Walnüssen, kräftig und rustikal im Geschmack: ein neues Rezept der Bäckerei mit einer einst weit verbreiteten Zutat. Zutaten: Kastanienmehl, Dinkelmehl, Walnüsse, Butter, Ei, Zucker, Ammoniumhydrogencarbonat, Vanille. 200-g-Packung: 8 × 8 × 13 cm. Haltbarkeit 3-4 Monate."
+          },
+          "a": {
+            "it": "Con un bicchiere di Vin Santo o, nei giorni freddi, con tè o caffè.",
+            "en": "With a glass of Vin Santo or, on cold days, with tea or coffee.",
+            "de": "Zu einem Glas Vin Santo oder an kalten Tagen zu Tee oder Kaffee."
+          }
+        },
+        "V-18-3": {
+          "c": [],
+          "pr": "13,20 € (200 g)",
+          "d": {
+            "it": "Biscotti a ciambella tipici di Siena, detti anche ciambellini degli sposi e preparati soprattutto a Pasqua; croccanti e leggeri, con un tocco di anice. Ingredienti: farina di grano tenero tipo 0, uova, acqua, zucchero a velo, margarina, burro, latte, soia, olio di mais, sale, bicarbonato di ammonio. Confezione da 200 g: 8 × 8 × 13 cm. Si conserva 3-4 mesi.",
+            "en": "Ring-shaped biscuits typical of Siena, also called wedding ciambellini and made mainly at Easter; crisp and light, with a hint of aniseed. Ingredients: type 0 soft wheat flour, eggs, water, icing sugar, margarine, butter, milk, soy, corn oil, salt, ammonium bicarbonate. 200 g box: 8 × 8 × 13 cm. Shelf life 3-4 months.",
+            "de": "Ringförmige Kekse aus Siena, auch Hochzeits-Ciambellini genannt und vor allem zu Ostern gebacken; knusprig und leicht, mit einem Hauch Anis. Zutaten: Weichweizenmehl Type 0, Eier, Wasser, Puderzucker, Margarine, Butter, Milch, Soja, Maiskeimöl, Salz, Ammoniumhydrogencarbonat. 200-g-Packung: 8 × 8 × 13 cm. Haltbarkeit 3-4 Monate."
+          },
+          "a": {
+            "it": "Da gustare con il Vin Santo o altri vini dolci, oppure con tè e caffè.",
+            "en": "Enjoy with Vin Santo or other sweet wines, or with tea and coffee.",
+            "de": "Passt zu Vin Santo oder anderen Süßweinen sowie zu Tee und Kaffee."
+          }
+        },
+        "V-18-4": {
+          "c": [],
+          "pr": "10,00 €",
+          "d": {
+            "it": "Dolce tradizionale senese con noci, scorza d'arancia candita e anice, senza grassi; il nome viene dai cavalieri e dai corrieri che lo mangiavano nelle soste lungo le strade. Ingredienti: farina di grano tenero, zucchero, scorza d'arancia, noci, bicarbonato di ammonio, semi di anice, coriandolo, amido di mais, acido citrico. Confezione 8 × 8 × 13 cm. Si conserva 3-4 mesi.",
+            "en": "A traditional Sienese sweet with walnuts, candied orange peel and aniseed, made without fat; the name comes from the riders and couriers who ate it at roadside stops. Ingredients: soft wheat flour, sugar, orange peel, walnuts, ammonium bicarbonate, aniseed, coriander, corn starch, citric acid. Box 8 × 8 × 13 cm. Shelf life 3-4 months.",
+            "de": "Traditionelles Gebäck aus Siena mit Walnüssen, kandierter Orangenschale und Anis, ohne Fett; der Name erinnert an die Reiter und Kuriere, die es bei ihren Rasten aßen. Zutaten: Weichweizenmehl, Zucker, Orangenschale, Walnüsse, Ammoniumhydrogencarbonat, Anissamen, Koriander, Maisstärke, Zitronensäure. Packung 8 × 8 × 13 cm. Haltbarkeit 3-4 Monate."
+          },
+          "a": {
+            "it": "Tipico delle feste, ma buono tutto l'anno.",
+            "en": "Typical of the holidays, but good all year round.",
+            "de": "Typisch für die Festtage, aber das ganze Jahr über beliebt."
+          }
+        },
+        "V-18-5": {
+          "c": [],
+          "pr": "15,40 €",
+          "d": {
+            "it": "Il tradizionale dolce senese di pasta di mandorle, di origine medievale, con interno morbido e crosta sottile spolverata di zucchero a velo. Ingredienti: mandorle, zucchero, albume, scorza d'arancia, sciroppo di glucosio-fruttosio, saccarosio, armelline, fecola di patate, amido di mais, acido citrico. Può contenere frutta a guscio, latte, glutine e soia. Confezione 8 × 8 × 13 cm. Si conserva 3-4 mesi.",
+            "en": "The traditional Sienese almond-paste sweet, of medieval origin, with a soft centre and a thin crust dusted with icing sugar. Ingredients: almonds, sugar, egg white, orange peel, glucose-fructose syrup, sucrose, apricot kernels, potato starch, corn starch, citric acid. May contain nuts, milk, gluten and soy. Box 8 × 8 × 13 cm. Shelf life 3-4 months.",
+            "de": "Das traditionelle Mandelgebäck aus Siena, mittelalterlichen Ursprungs, mit weichem Kern und dünner, puderzuckerbestäubter Kruste. Zutaten: Mandeln, Zucker, Eiweiß, Orangenschale, Glukose-Fruktose-Sirup, Saccharose, Aprikosenkerne, Kartoffelstärke, Maisstärke, Zitronensäure. Kann Schalenfrüchte, Milch, Gluten und Soja enthalten. Packung 8 × 8 × 13 cm. Haltbarkeit 3-4 Monate."
+          },
+          "a": {
+            "it": "A Siena si servono con un bicchiere di Vin Santo, oppure con caffè o tè, soprattutto a Natale.",
+            "en": "In Siena they are served with a glass of Vin Santo, or with coffee or tea, especially at Christmas.",
+            "de": "In Siena serviert man sie zu einem Glas Vin Santo oder zu Kaffee und Tee, besonders an Weihnachten."
+          }
+        },
+        "V-18-6": {
+          "c": [],
+          "pr": "15,40 €",
+          "d": {
+            "it": "Il tradizionale dolce senese di pasta di mandorle, di origine medievale, con interno morbido e crosta sottile spolverata di zucchero a velo. In questa versione con gocce di cioccolato fondente. Ingredienti: mandorle, zucchero semolato, albume, pasta di arancia candita, zucchero a velo, gocce di cioccolato fondente. Confezione 8 × 8 × 13 cm. Si conserva 3-4 mesi.",
+            "en": "The traditional Sienese almond-paste sweet, of medieval origin, with a soft centre and a thin crust dusted with icing sugar. This version has dark chocolate chips. Ingredients: almonds, granulated sugar, egg white, candied orange paste, icing sugar, dark chocolate chips. Box 8 × 8 × 13 cm. Shelf life 3-4 months.",
+            "de": "Das traditionelle Mandelgebäck aus Siena, mittelalterlichen Ursprungs, mit weichem Kern und dünner, puderzuckerbestäubter Kruste. Diese Variante enthält Zartbitterschokoladentropfen. Zutaten: Mandeln, Kristallzucker, Eiweiß, kandierte Orangenpaste, Puderzucker, Zartbitterschokoladentropfen. Packung 8 × 8 × 13 cm. Haltbarkeit 3-4 Monate."
+          },
+          "a": {
+            "it": "Da gustare con il Vin Santo o altri vini dolci, oppure con tè e caffè.",
+            "en": "Enjoy with Vin Santo or other sweet wines, or with tea and coffee.",
+            "de": "Passt zu Vin Santo oder anderen Süßweinen sowie zu Tee und Kaffee."
+          }
+        },
+        "V-18-7": {
+          "c": [],
+          "pr": "15,40 €",
+          "d": {
+            "it": "Il tradizionale dolce senese di pasta di mandorle, di origine medievale, con interno morbido e crosta sottile spolverata di zucchero a velo. In questa versione con cacao amaro, che dà profondità e bilancia la dolcezza. Ingredienti: mandorle, zucchero semolato, albume, pasta di arancia candita, zucchero a velo, cacao amaro in polvere. Confezione 8 × 8 × 13 cm. Si conserva 3-4 mesi.",
+            "en": "The traditional Sienese almond-paste sweet, of medieval origin, with a soft centre and a thin crust dusted with icing sugar. This version has bitter cocoa, which adds depth and balances the sweetness. Ingredients: almonds, granulated sugar, egg white, candied orange paste, icing sugar, bitter cocoa powder. Box 8 × 8 × 13 cm. Shelf life 3-4 months.",
+            "de": "Das traditionelle Mandelgebäck aus Siena, mittelalterlichen Ursprungs, mit weichem Kern und dünner, puderzuckerbestäubter Kruste. Diese Variante enthält Kakao, der Tiefe gibt und die Süße ausgleicht. Zutaten: Mandeln, Kristallzucker, Eiweiß, kandierte Orangenpaste, Puderzucker, Kakaopulver. Packung 8 × 8 × 13 cm. Haltbarkeit 3-4 Monate."
+          },
+          "a": {
+            "it": "Da gustare con il Vin Santo o altri vini dolci, oppure con tè e caffè.",
+            "en": "Enjoy with Vin Santo or other sweet wines, or with tea and coffee.",
+            "de": "Passt zu Vin Santo oder anderen Süßweinen sowie zu Tee und Kaffee."
+          }
+        },
+        "V-18-8": {
+          "c": [],
+          "pr": "15,40 €",
+          "d": {
+            "it": "Una versione nuova dei ricciarelli, con pesca candita: interno morbido, crosta zuccherata e un delicato aroma di pesca. Ingredienti: mandorle, zucchero, albume, scorza d'arancia candita, pesca candita (purea di pesca e mela, zucchero, farina di riso, burro di cacao, pectina, acido citrico), zucchero a velo, bicarbonato di ammonio. Confezione 8 × 8 × 13 cm. Si conserva 3-4 mesi.",
+            "en": "A new take on ricciarelli with candied peach: soft centre, sugary crust and a delicate peach aroma. Ingredients: almonds, sugar, egg white, candied orange peel, candied peach (peach and apple purée, sugar, rice flour, cocoa butter, pectin, citric acid), icing sugar, ammonium bicarbonate. Box 8 × 8 × 13 cm. Shelf life 3-4 months.",
+            "de": "Eine neue Variante der Ricciarelli mit kandiertem Pfirsich: weicher Kern, zuckrige Kruste und ein zartes Pfirsicharoma. Zutaten: Mandeln, Zucker, Eiweiß, kandierte Orangenschale, kandierter Pfirsich (Pfirsich- und Apfelpüree, Zucker, Reismehl, Kakaobutter, Pektin, Zitronensäure), Puderzucker, Ammoniumhydrogencarbonat. Packung 8 × 8 × 13 cm. Haltbarkeit 3-4 Monate."
+          },
+          "a": {
+            "it": "Con Vin Santo o tè, oppure con dolci al cucchiaio e gelato; ideali in primavera e in estate.",
+            "en": "With Vin Santo or tea, or with creamy desserts and ice cream; ideal in spring and summer.",
+            "de": "Zu Vin Santo oder Tee, zu cremigen Desserts und Eis; ideal im Frühling und Sommer."
+          }
+        },
+        "V-18-9": {
+          "c": [],
+          "pr": "19,00 €",
+          "d": {
+            "it": "Dolce tipico senese di frutta secca, zucchero e spezie, compatto e profumato. Le origini sono medievali; la versione Margherita sarebbe stata creata nel 1879 per la visita a Siena della regina Margherita di Savoia. Ingredienti: mandorle, zucchero, acqua, scorza di cedro, arancia candita, farina di grano tenero, spezie (cannella, chiodi di garofano, noce moscata, pimento, anice stellato, coriandolo), aroma di vaniglia. Confezione 5 × 9 × 12 cm. Si conserva 6 mesi.",
+            "en": "A typical Sienese cake of nuts, sugar and spices, dense and fragrant. Its origins are medieval; the Margherita version is said to have been created in 1879 for Queen Margherita of Savoy's visit to Siena. Ingredients: almonds, sugar, water, citron peel, candied orange, soft wheat flour, spices (cinnamon, cloves, nutmeg, allspice, star anise, coriander), vanilla flavouring. Box 5 × 9 × 12 cm. Shelf life 6 months.",
+            "de": "Typischer Kuchen aus Siena mit Nüssen, Zucker und Gewürzen, kompakt und duftend. Er stammt aus dem Mittelalter; die Variante Margherita soll 1879 zum Besuch von Königin Margherita von Savoyen in Siena entstanden sein. Zutaten: Mandeln, Zucker, Wasser, Zitronatschale, kandierte Orange, Weichweizenmehl, Gewürze (Zimt, Nelken, Muskatnuss, Piment, Sternanis, Koriander), Vanillearoma. Packung 5 × 9 × 12 cm. Haltbarkeit 6 Monate."
+          },
+          "a": {
+            "it": "Ideale per le feste e come dessert, con vini da dessert come il Vin Santo; anche come snack energetico.",
+            "en": "Ideal for the holidays and as a dessert, with dessert wines such as Vin Santo; also an energy snack.",
+            "de": "Ideal für Festtage und als Dessert, zu Dessertweinen wie Vin Santo; auch als Energiesnack."
+          }
+        },
+        "V-18-10": {
+          "c": [],
+          "pr": "18,00 €",
+          "d": {
+            "it": "Dolce senese di origine medievale con frutta secca, canditi, cacao e spezie, tra cui il pepe che gli dà il nome; tradizionale a Natale. Ingredienti: farina di grano tenero, mandorle, nocciole, zucchero, acqua, scorze candite di arancia e melone, cannella, noce moscata, pepe, cacao. Confezione 5 × 9 × 12 cm. Si conserva 6 mesi.",
+            "en": "A Sienese cake of medieval origin with nuts, candied peel, cocoa and spices, including the pepper that gives it its name; a Christmas tradition. Ingredients: soft wheat flour, almonds, hazelnuts, sugar, water, candied orange and melon peel, cinnamon, nutmeg, pepper, cocoa. Box 5 × 9 × 12 cm. Shelf life 6 months.",
+            "de": "Kuchen aus Siena mittelalterlichen Ursprungs mit Nüssen, kandierten Früchten, Kakao und Gewürzen, darunter der namensgebende Pfeffer; eine Weihnachtstradition. Zutaten: Weichweizenmehl, Mandeln, Haselnüsse, Zucker, Wasser, kandierte Orangen- und Melonenschale, Zimt, Muskatnuss, Pfeffer, Kakao. Packung 5 × 9 × 12 cm. Haltbarkeit 6 Monate."
+          },
+          "a": {
+            "it": "Perfetto con un bicchiere di Vin Santo.",
+            "en": "Perfect with a glass of Vin Santo.",
+            "de": "Perfekt zu einem Glas Vin Santo."
+          }
+        }
+      },
+      "fonti": [
+        "https://labottegadiravacciano.it/prodotti-dolciari/",
+        "https://labottegadiravacciano.it/prodotti-tipici-senesi/",
+        "https://labottegadiravacciano.it/prodotti-salati/",
+        "https://labottegadiravacciano.it/chi-siamo/"
+      ]
     }
   ],
   "IMG": {
@@ -7026,6 +7296,18 @@ window.VETRINE = {
     "prod-V-17-3": "https://www.cantinegerardoperillo.it/objects/product-images/a55c7c3b-8089-44cc-948a-b32f368eb448",
     "prod-V-17-4": "https://www.cantinegerardoperillo.it/objects/product-images/4ff779e0-d1d1-4566-b9dc-fac5b4ee93fa",
     "prod-V-17-5": "https://www.cantinegerardoperillo.it/objects/product-images/833af5e8-dd6d-4578-902b-1147e5353d8e",
-    "prod-V-17-6": "https://www.cantinegerardoperillo.it/objects/product-images/8e3f1e1e-a85c-48f8-a620-bc8a68e5025e"
+    "prod-V-17-6": "https://www.cantinegerardoperillo.it/objects/product-images/8e3f1e1e-a85c-48f8-a620-bc8a68e5025e",
+    "logo-V-18": "https://labottegadiravacciano.it/wp-content/uploads/2021/01/logo-bottega-ravacciano-siena.png",
+    "prod-V-18-0": "https://labottegadiravacciano.it/wp-content/uploads/2021/01/cantuccini-2.png",
+    "prod-V-18-1": "https://labottegadiravacciano.it/wp-content/uploads/2025/03/Golosi-3.png",
+    "prod-V-18-2": "https://labottegadiravacciano.it/wp-content/uploads/2025/03/Castagnucci-1.png",
+    "prod-V-18-3": "https://labottegadiravacciano.it/wp-content/uploads/2025/03/Ciambellini-1.png",
+    "prod-V-18-4": "https://labottegadiravacciano.it/wp-content/uploads/2021/02/cavallucci-2.png",
+    "prod-V-18-5": "https://labottegadiravacciano.it/wp-content/uploads/2021/01/ricciarelli1.png",
+    "prod-V-18-6": "https://labottegadiravacciano.it/wp-content/uploads/2021/12/ricciarelli-ghiotti.png",
+    "prod-V-18-7": "https://labottegadiravacciano.it/wp-content/uploads/2025/03/Neri-1.png",
+    "prod-V-18-8": "https://labottegadiravacciano.it/wp-content/uploads/2025/03/Pescarelli-1.png",
+    "prod-V-18-9": "https://labottegadiravacciano.it/wp-content/uploads/2021/02/PANFORTE.png",
+    "prod-V-18-10": "https://labottegadiravacciano.it/wp-content/uploads/2021/02/PANPEPATO.png"
   }
 };
