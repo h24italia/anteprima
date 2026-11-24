@@ -2637,7 +2637,7 @@ function openProduct(e,i){
         <dl class="factsheet">
           <div><dt>${t("pd.cat")}</dt><dd>${(e.sub&&p[2])?esc(subName(e.sub.find(s=>s.k===p[2]))):catName(e.cat)}</dd></div>
           <div><dt>${t("pd.fmt")}</dt><dd>${p[1]?esc(fmtP(p[1])):TBD()}</dd></div>
-          ${d.pr?`<div><dt>${t("m.price")}</dt><dd>${esc(d.pr)}</dd></div>`:""}
+          ${d.pr?`<div><dt>${d.prl?esc(d.prl[lang]||d.prl.it):t("m.price")}</dt><dd>${esc(d.pr)}</dd></div>`:""}
           <div><dt>${t("m.certs")}</dt><dd>${certs.length?certs.join(", "):TBD()}</dd></div>
           <div><dt>${t("pd.prod")}</dt><dd>${esc(e.n)}, ${esc(e.city)}</dd></div>
         </dl>
