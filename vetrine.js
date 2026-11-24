@@ -3472,6 +3472,310 @@ window.VETRINE = {
         "https://casellino.com/adotta-un-pezzo-di-toscana/",
         "https://casellino.com/contatti/"
       ]
+    },
+    {
+      "id": "V-11",
+      "n": "La Casaia",
+      "cat": "vino",
+      "reg": "Lombardia",
+      "city": "Santa Giuletta (PV)",
+      "lat": 45.03,
+      "lng": 9.18,
+      "y": null,
+      "certs": [
+        "Bio",
+        "DOCG"
+      ],
+      "exp": [],
+      "lg": [
+        "it",
+        "en"
+      ],
+      "moq": null,
+      "d": {
+        "it": "Cantina di Roberto e Vittorio a Santa Giuletta, nel cuore dell'Oltrepò Pavese, con le figlie coinvolte nel progetto. Il nome viene dalla casaia, il piccolo ricovero in muratura per gli attrezzi tra le vigne. I vigneti, a circa 250 metri di quota, sono lavorati in modo tradizionale secondo l'agricoltura biologica, con vendemmia solo a mano. Al centro c'è il Pinot Nero: Metodo Classico, rosso, vinificato in bianco e in rosa, insieme a Chardonnay e Bonarda.",
+        "en": "Winery run by Roberto and Vittorio in Santa Giuletta, in the heart of the Oltrepò Pavese, with their daughters involved in the project. The name comes from the casaia, the small brick shelter for tools among the vines. The vineyards, at about 250 metres, are farmed traditionally following organic methods and harvested only by hand. Pinot Nero is at the centre: traditional-method sparkling, red, and vinified as a white and a rosé, alongside Chardonnay and Bonarda.",
+        "de": "Weingut von Roberto und Vittorio in Santa Giuletta, im Herzen des Oltrepò Pavese, mit ihren Töchtern im Projekt. Der Name stammt von der Casaia, dem kleinen gemauerten Geräteschuppen zwischen den Reben. Die Weinberge auf rund 250 Metern werden traditionell nach ökologischen Regeln bewirtschaftet und ausschließlich von Hand gelesen. Im Mittelpunkt steht der Pinot Nero: Schaumwein nach klassischer Methode, Rotwein sowie weiß und rosé gekeltert, dazu Chardonnay und Bonarda."
+      },
+      "sub": [
+        {
+          "k": "spumanti",
+          "cat": "vino",
+          "n": {
+            "it": "Metodo Classico",
+            "en": "Traditional method",
+            "de": "Klassische Methode"
+          }
+        },
+        {
+          "k": "vini",
+          "cat": "vino",
+          "n": {
+            "it": "Vini fermi e frizzanti",
+            "en": "Still and sparkling wines",
+            "de": "Still- und Perlweine"
+          }
+        },
+        {
+          "k": "confezioni",
+          "cat": "vino",
+          "n": {
+            "it": "Confezioni da 6",
+            "en": "6-bottle boxes",
+            "de": "6er-Kartons"
+          }
+        },
+        {
+          "k": "riso",
+          "cat": "pasta",
+          "n": {
+            "it": "Riso",
+            "en": "Rice",
+            "de": "Reis"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Oltrepò Pavese DOCG Metodo Classico Dosaggio Zero",
+          null,
+          "spumanti"
+        ],
+        [
+          "Chardonnay Metodo Classico \"Passione\"",
+          null,
+          "spumanti"
+        ],
+        [
+          "Spumante Metodo Classico Brut \"13 Lune\"",
+          null,
+          "spumanti"
+        ],
+        [
+          "Spumante Metodo Classico Brut \"13 Lune\" Rosé",
+          null,
+          "spumanti"
+        ],
+        [
+          "Pinot Nero vinificato in bianco \"La rosa bianca\"",
+          null,
+          "vini"
+        ],
+        [
+          "Pinot Nero vinificato in rosa \"Una notte\"",
+          null,
+          "vini"
+        ],
+        [
+          "Bonarda dell'Oltrepò Pavese \"Armonia\"",
+          null,
+          "vini"
+        ],
+        [
+          "Pinot Nero \"La Quercia\"",
+          null,
+          "vini"
+        ],
+        [
+          "Confezione \"Vero Oltrepò\"",
+          "6 bottiglie",
+          "confezioni"
+        ],
+        [
+          "Confezione \"Per una serata importante\"",
+          "6 bottiglie",
+          "confezioni"
+        ],
+        [
+          "Confezione \"Selezione Pinot\"",
+          "6 bottiglie",
+          "confezioni"
+        ],
+        [
+          "Riso Carnaroli Gran Riserva Bio",
+          "1 kg",
+          "riso"
+        ]
+      ],
+      "pd": {
+        "V-11-0": {
+          "c": [
+            "DOCG"
+          ],
+          "pr": "37,00 €",
+          "d": {
+            "it": "Spumante Metodo Classico da uve Pinot Nero selezionate, 48 mesi sui lieviti e senza aggiunta di zucchero. Giallo paglierino tenue con perlage fine e persistente; note di fiori bianchi, mandorla e crosta di pane; fresco, sapido e minerale.",
+            "en": "Traditional-method sparkling wine from selected Pinot Nero grapes, 48 months on the lees with no added sugar. Pale straw yellow with fine, persistent bubbles; notes of white flowers, almond and bread crust; fresh, savoury and mineral.",
+            "de": "Schaumwein nach klassischer Methode aus ausgewählten Pinot-Nero-Trauben, 48 Monate auf der Hefe, ohne Zuckerzusatz. Helles Strohgelb mit feiner, anhaltender Perlage; Noten von weißen Blüten, Mandel und Brotkruste; frisch, salzig und mineralisch."
+          },
+          "a": {
+            "it": "Servire a 4-6 °C.",
+            "en": "Serve at 4-6 °C.",
+            "de": "Bei 4-6 °C servieren."
+          }
+        },
+        "V-11-1": {
+          "c": [],
+          "pr": "32,00 €",
+          "d": {
+            "it": "Spumante Metodo Classico da uve Chardonnay, 24 mesi sui lieviti. Color oro; mandorla, frutta secca, polpa esotica e crosta di pane; corpo pieno, elegante e fresco. Premiato tra i \"Top Hundred\" di Paolo Massobrio a Golosaria Milano 2022.",
+            "en": "Traditional-method sparkling wine from Chardonnay grapes, 24 months on the lees. Golden; almond, dried fruit, exotic fruit and bread crust; full-bodied, elegant and fresh. Named one of Paolo Massobrio's \"Top Hundred\" at Golosaria Milano 2022.",
+            "de": "Schaumwein nach klassischer Methode aus Chardonnay, 24 Monate auf der Hefe. Goldfarben; Mandel, Trockenfrüchte, exotische Früchte und Brotkruste; voll, elegant und frisch. Ausgezeichnet unter den \"Top Hundred\" von Paolo Massobrio bei Golosaria Mailand 2022."
+          },
+          "a": {
+            "it": "Come aperitivo, con crostacei e piatti di pesce. Servire a 4-6 °C.",
+            "en": "As an aperitif, with shellfish and fish dishes. Serve at 4-6 °C.",
+            "de": "Als Aperitif, zu Krustentieren und Fisch. Bei 4-6 °C servieren."
+          }
+        },
+        "V-11-2": {
+          "c": [],
+          "pr": "26,00 €",
+          "d": {
+            "it": "Metodo Classico Brut da uve Pinot Nero, 12 mesi sui lieviti. Giallo paglierino con riflessi verdognoli; sentori floreali e di albicocca con note minerali; strutturato, fresco ma morbido e pieno.",
+            "en": "Traditional-method Brut from Pinot Nero grapes, 12 months on the lees. Straw yellow with greenish hints; floral and apricot aromas with mineral notes; structured, fresh yet soft and full.",
+            "de": "Brut nach klassischer Methode aus Pinot Nero, 12 Monate auf der Hefe. Strohgelb mit grünlichen Reflexen; blumige Noten und Aprikose, dazu Mineralität; strukturiert, frisch und doch weich und voll."
+          },
+          "a": {
+            "it": "Con aperitivi elaborati, antipasti delicati e piatti di pesce. Servire a 4-6 °C.",
+            "en": "With elaborate aperitifs, delicate starters and fish dishes. Serve at 4-6 °C.",
+            "de": "Zu raffinierten Aperitifs, feinen Vorspeisen und Fisch. Bei 4-6 °C servieren."
+          }
+        },
+        "V-11-3": {
+          "c": [],
+          "pr": "26,00 €",
+          "d": {
+            "it": "Metodo Classico Brut rosé da uve Pinot Nero, almeno 12 mesi sui lieviti. Rosa tenue e brillante con perlage fine; profumo fragrante e floreale con delicati sentori fruttati; fresco, sapido ed equilibrato, con finale lungo.",
+            "en": "Traditional-method Brut rosé from Pinot Nero grapes, at least 12 months on the lees. Pale, bright pink with fine bubbles; fragrant, floral nose with delicate fruit; fresh, savoury and balanced, with a long finish.",
+            "de": "Rosé Brut nach klassischer Methode aus Pinot Nero, mindestens 12 Monate auf der Hefe. Zartes, leuchtendes Rosa mit feiner Perlage; duftig und blumig mit zarter Frucht; frisch, salzig und ausgewogen, mit langem Abgang."
+          },
+          "a": {
+            "it": "Servire a 4-6 °C.",
+            "en": "Serve at 4-6 °C.",
+            "de": "Bei 4-6 °C servieren."
+          }
+        },
+        "V-11-4": {
+          "c": [],
+          "pr": "16,00 €",
+          "d": {
+            "it": "Pinot Nero (85%) vinificato in bianco con Chardonnay (15%). Giallo paglierino con riflessi verdognoli; albicocca, frutta fresca e cenni minerali; diritto, equilibrato e morbido. Tre mesi di affinamento in bottiglia.",
+            "en": "Pinot Nero (85%) vinified as a white, with Chardonnay (15%). Straw yellow with greenish hints; apricot, fresh fruit and a touch of minerality; straight, balanced and smooth. Three months of bottle ageing.",
+            "de": "Weiß gekelterter Pinot Nero (85%) mit Chardonnay (15%). Strohgelb mit grünlichen Reflexen; Aprikose, frische Frucht und mineralische Anklänge; geradlinig, ausgewogen und weich. Drei Monate Flaschenreife."
+          },
+          "a": {
+            "it": "Con aperitivi, antipasti delicati e pesce. Servire a 8-10 °C.",
+            "en": "With aperitifs, delicate starters and fish. Serve at 8-10 °C.",
+            "de": "Zu Aperitif, feinen Vorspeisen und Fisch. Bei 8-10 °C servieren."
+          }
+        },
+        "V-11-5": {
+          "c": [],
+          "pr": "14,00 €",
+          "d": {
+            "it": "Pinot Nero in purezza vinificato in rosa, con una leggera rifermentazione in autoclave. Rosa brillante con riflessi rubino; note di lampone e frutta fresca; sorso ricco e persistente.",
+            "en": "100% Pinot Nero vinified as a rosé, with a light secondary fermentation in tank. Bright pink with ruby hints; raspberry and fresh fruit; rich and persistent.",
+            "de": "Reinsortiger Pinot Nero, rosé gekeltert, mit leichter Nachgärung im Drucktank. Leuchtendes Rosa mit rubinroten Reflexen; Himbeere und frische Frucht; reich und anhaltend."
+          },
+          "a": {
+            "it": "Ottimo come aperitivo. Servire a 8-10 °C.",
+            "en": "Great as an aperitif. Serve at 8-10 °C.",
+            "de": "Ideal als Aperitif. Bei 8-10 °C servieren."
+          }
+        },
+        "V-11-6": {
+          "c": [],
+          "pr": "12,00 €",
+          "d": {
+            "it": "Croatina (90%) e Uva Rara (10%) da vigne di circa 25 anni. Rosso rubino intenso e frizzante, con sentori di marasca e lampone; asciutto, caldo, con tannino morbido e vellutato.",
+            "en": "Croatina (90%) and Uva Rara (10%) from vines about 25 years old. Deep ruby red and lightly sparkling, with notes of morello cherry and raspberry; dry and warm, with soft, velvety tannins.",
+            "de": "Croatina (90%) und Uva Rara (10%) von etwa 25 Jahre alten Reben. Intensives Rubinrot, perlend, mit Noten von Sauerkirsche und Himbeere; trocken und warm, mit weichen, samtigen Tanninen."
+          },
+          "a": {
+            "it": "Con salumi, arrosti e selvaggina. Servire a 8-10 °C.",
+            "en": "With cured meats, roasts and game. Serve at 8-10 °C.",
+            "de": "Zu Wurst, Braten und Wild. Bei 8-10 °C servieren."
+          }
+        },
+        "V-11-7": {
+          "c": [],
+          "pr": "18,00 €",
+          "d": {
+            "it": "Pinot Nero rosso, affinato 8-10 mesi in vasca. Rosso porpora con riflessi granata; sottobosco, amarena e ciliegia; elegante e minerale, con tannino vellutato.",
+            "en": "Red Pinot Nero, aged 8-10 months in tank. Purple with garnet hints; forest floor, sour cherry and cherry; elegant and mineral, with velvety tannins.",
+            "de": "Roter Pinot Nero, 8-10 Monate im Tank ausgebaut. Purpur mit granatroten Reflexen; Waldboden, Sauerkirsche und Kirsche; elegant und mineralisch, mit samtigen Tanninen."
+          },
+          "a": {
+            "it": "Con primi piatti, carni e formaggi di media stagionatura. Servire a 16-18 °C.",
+            "en": "With pasta dishes, meat and medium-aged cheeses. Serve at 16-18 °C.",
+            "de": "Zu Nudelgerichten, Fleisch und mittelalten Käsen. Bei 16-18 °C servieren."
+          }
+        },
+        "V-11-8": {
+          "c": [],
+          "pr": "132,00 €",
+          "d": {
+            "it": "Scatola con 3 Chardonnay Metodo Classico \"Passione\" e 3 Bonarda \"Armonia\".",
+            "en": "Box with 3 Chardonnay Metodo Classico \"Passione\" and 3 Bonarda \"Armonia\".",
+            "de": "Karton mit 3 Chardonnay Metodo Classico \"Passione\" und 3 Bonarda \"Armonia\"."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-11-9": {
+          "c": [],
+          "pr": "128,00 €",
+          "d": {
+            "it": "Scatola con 2 Chardonnay Metodo Classico, 2 Pinot Nero e 2 Pinot Nero vinificato in rosa.",
+            "en": "Box with 2 Chardonnay Metodo Classico, 2 Pinot Nero and 2 Pinot Nero rosé.",
+            "de": "Karton mit 2 Chardonnay Metodo Classico, 2 Pinot Nero und 2 Pinot Nero Rosé."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-11-10": {
+          "c": [],
+          "pr": "96,00 €",
+          "d": {
+            "it": "Scatola con 2 Pinot Nero, 2 Pinot Nero vinificato in rosa e 2 Pinot Nero vinificato in bianco.",
+            "en": "Box with 2 Pinot Nero, 2 Pinot Nero rosé and 2 Pinot Nero vinified as a white.",
+            "de": "Karton mit 2 Pinot Nero, 2 Pinot Nero Rosé und 2 weiß gekelterten Pinot Nero."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-11-11": {
+          "c": [
+            "Bio"
+          ],
+          "pr": "7,00 €",
+          "d": {
+            "it": "Riso Carnaroli Gran Riserva biologico dalla bassa Lomellina, terra di risaie. Cottura 18 minuti.",
+            "en": "Organic Carnaroli Gran Riserva rice from the lower Lomellina, a rice-growing area. Cooking time 18 minutes.",
+            "de": "Bio-Reis Carnaroli Gran Riserva aus der unteren Lomellina, einem Reisanbaugebiet. Kochzeit 18 Minuten."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        }
+      },
+      "fonti": [
+        "https://www.lacasaia.it/negozio/",
+        "https://www.lacasaia.it/la-casaia/",
+        "https://www.lacasaia.it/"
+      ]
     }
   ],
   "IMG": {
@@ -3594,6 +3898,19 @@ window.VETRINE = {
     "prod-V-10-2": "https://casellino.com/wp-content/uploads/2021/05/G9T4815-Modifica.jpg",
     "prod-V-10-3": "https://casellino.com/wp-content/uploads/2020/08/olio-tartufo.png",
     "prod-V-10-4": "https://casellino.com/wp-content/uploads/2020/08/spezie-1.png",
-    "prod-V-10-5": "https://casellino.com/wp-content/uploads/2020/08/saponette.png"
+    "prod-V-10-5": "https://casellino.com/wp-content/uploads/2020/08/saponette.png",
+    "logo-V-11": "https://www.lacasaia.it/wp-content/uploads/2022/09/logo-web.png",
+    "prod-V-11-0": "https://www.lacasaia.it/wp-content/uploads/2025/02/pinot_nero_zero.jpg",
+    "prod-V-11-1": "https://www.lacasaia.it/wp-content/uploads/2021/07/chardonnay_metodo_classico_tophundred.jpg",
+    "prod-V-11-2": "https://www.lacasaia.it/wp-content/uploads/2022/09/spumante_metodo_classico.jpg",
+    "prod-V-11-3": "https://www.lacasaia.it/wp-content/uploads/2024/04/spumante_rose_tredici_lune.jpg",
+    "prod-V-11-4": "https://www.lacasaia.it/wp-content/uploads/2021/10/pinot_nero_bianco-1.jpg",
+    "prod-V-11-5": "https://www.lacasaia.it/wp-content/uploads/2021/10/pinot_nero_rosa-1.jpg",
+    "prod-V-11-6": "https://www.lacasaia.it/wp-content/uploads/2021/10/bonarda-1.jpg",
+    "prod-V-11-7": "https://www.lacasaia.it/wp-content/uploads/2021/10/pinot_nero-1.jpg",
+    "prod-V-11-8": "https://www.lacasaia.it/wp-content/uploads/2021/10/gruppo_vero_oltrepo.jpg",
+    "prod-V-11-9": "https://www.lacasaia.it/wp-content/uploads/2021/10/gruppo_serata_importante.jpg",
+    "prod-V-11-10": "https://www.lacasaia.it/wp-content/uploads/2021/10/gruppo_pinot.jpg",
+    "prod-V-11-11": "https://www.lacasaia.it/wp-content/uploads/2021/11/riso_carnaroli-scaled.jpg"
   }
 };
