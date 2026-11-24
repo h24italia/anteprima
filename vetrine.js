@@ -3004,6 +3004,303 @@ window.VETRINE = {
         "https://agrigio.com/negozio/",
         "https://agrigio.com/chi-siamo/"
       ]
+    },
+    {
+      "id": "V-09",
+      "n": "Castagnini (Vini Apuani)",
+      "cat": "vino",
+      "reg": "Toscana",
+      "city": "Carrara (MS)",
+      "lat": 44.07,
+      "lng": 10.1,
+      "y": null,
+      "certs": [
+        "DOC"
+      ],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "d": {
+        "it": "Azienda vitivinicola della famiglia Castagnini sulle colline di Candia, tra le cave di marmo di Carrara e il mare. Nasce negli anni 2000 da una tradizione contadina di famiglia che risale ai primi anni '50: il titolare Roberto Castagnini ha imparato a coltivare la vite dal nonno materno. Circa 5 ettari di vigneto terrazzato, esposto al sole e alle brezze marine, per circa 20.000 bottiglie l'anno di vini DOC. Produce rossi, bianchi, un frizzante, vini aromatizzati, una grappa e olio extravergine dalle proprie olive.",
+        "en": "The Castagnini family winery on the Candia hills, between the Carrara marble quarries and the sea. Founded in the 2000s on a family farming tradition dating back to the early 1950s: owner Roberto Castagnini learned to grow vines from his maternal grandfather. About 5 hectares of terraced vineyards, exposed to the sun and sea breezes, produce around 20,000 bottles a year of DOC wines. It makes reds, whites, a sparkling wine, aromatised wines, a grappa and extra virgin olive oil from its own olives.",
+        "de": "Weingut der Familie Castagnini auf den Hügeln von Candia, zwischen den Marmorbrüchen von Carrara und dem Meer. Gegründet in den 2000er Jahren auf einer bäuerlichen Familientradition, die bis in die frühen 1950er Jahre zurückreicht: Inhaber Roberto Castagnini hat den Weinbau von seinem Großvater mütterlicherseits gelernt. Rund 5 Hektar terrassierte Weinberge, sonnig und von Meeresbrisen umweht, ergeben etwa 20.000 Flaschen DOC-Weine im Jahr. Erzeugt werden Rot- und Weißweine, ein Perlwein, aromatisierte Weine, ein Grappa und Olivenöl extra vergine aus eigenen Oliven."
+      },
+      "sub": [
+        {
+          "k": "vini",
+          "cat": "vino",
+          "n": {
+            "it": "Vini",
+            "en": "Wines",
+            "de": "Weine"
+          }
+        },
+        {
+          "k": "aromatizzati",
+          "cat": "vino",
+          "n": {
+            "it": "Vini aromatizzati e da dessert",
+            "en": "Aromatised and dessert wines",
+            "de": "Aromatisierte Weine und Dessertweine"
+          }
+        },
+        {
+          "k": "grappa",
+          "cat": "liquori",
+          "n": {
+            "it": "Grappa",
+            "en": "Grappa",
+            "de": "Grappa"
+          }
+        },
+        {
+          "k": "olio",
+          "cat": "olio",
+          "n": {
+            "it": "Olio",
+            "en": "Olive oil",
+            "de": "Olivenöl"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Ceccardo, Vermentino Nero",
+          null,
+          "vini"
+        ],
+        [
+          "Cybo, Massaretta",
+          null,
+          "vini"
+        ],
+        [
+          "Merlo, rosso",
+          null,
+          "vini"
+        ],
+        [
+          "Beatrice, Vermentino",
+          null,
+          "vini"
+        ],
+        [
+          "Kar Rha, bianco",
+          null,
+          "vini"
+        ],
+        [
+          "La Bolla, Cuvée Extra Dry",
+          null,
+          "vini"
+        ],
+        [
+          "Vermouth",
+          null,
+          "aromatizzati"
+        ],
+        [
+          "Vermouth Bianco",
+          null,
+          "aromatizzati"
+        ],
+        [
+          "Cherry",
+          null,
+          "aromatizzati"
+        ],
+        [
+          "Lacrimae Solis, vendemmia tardiva",
+          null,
+          "aromatizzati"
+        ],
+        [
+          "Grappa",
+          null,
+          "grappa"
+        ],
+        [
+          "Olio extravergine di oliva",
+          null,
+          "olio"
+        ]
+      ],
+      "pd": {
+        "V-09-0": {
+          "c": [],
+          "d": {
+            "it": "Vermentino Nero in purezza. Rosso rubino, fruttato, con profumi di ciliegia e frutti di bosco e un leggero sentore di legno. Macerazione sulle bucce di 20 giorni, almeno 4 mesi in bottiglia. 12,5% vol.",
+            "en": "100% Vermentino Nero. Ruby red and fruity, with cherry and berry aromas and a light hint of wood. 20 days of skin maceration, at least 4 months in bottle. 12.5% vol.",
+            "de": "Reinsortiger Vermentino Nero. Rubinrot und fruchtig, mit Kirsch- und Beerenduft und leichter Holznote. 20 Tage Maischestandzeit, mindestens 4 Monate auf der Flasche. 12,5% Vol."
+          },
+          "a": {
+            "it": "Con piatti elaborati, selvaggina e formaggi semi-stagionati.",
+            "en": "With rich dishes, game and semi-aged cheeses.",
+            "de": "Zu aufwendigen Gerichten, Wild und halbreifem Käse."
+          },
+          "pr": "17,00 €"
+        },
+        "V-09-1": {
+          "c": [],
+          "d": {
+            "it": "Massaretta in purezza, vitigno autoctono apuano. Rosso rubino intenso, con profumi di frutti di bosco, ribes, spezie e un leggero sentore di legno. Macerazione sulle bucce di 30 giorni, un anno in acciaio e almeno 4 mesi in bottiglia. 13% vol.",
+            "en": "100% Massaretta, a native Apuan grape. Deep ruby red, with aromas of berries, redcurrant, spice and a light hint of wood. 30 days of skin maceration, one year in steel and at least 4 months in bottle. 13% vol.",
+            "de": "Reinsortiger Massaretta, eine autochthone Rebsorte der Apuanischen Alpen. Intensives Rubinrot, mit Duft von Beeren, Johannisbeere, Gewürzen und leichter Holznote. 30 Tage Maischestandzeit, ein Jahr im Stahltank und mindestens 4 Monate auf der Flasche. 13% Vol."
+          },
+          "a": {
+            "it": "Con piatti al forno, selvaggina e formaggi stagionati.",
+            "en": "With oven-baked dishes, game and aged cheeses.",
+            "de": "Zu Ofengerichten, Wild und gereiftem Käse."
+          },
+          "pr": "20,00 €"
+        },
+        "V-09-2": {
+          "c": [],
+          "d": {
+            "it": "Da Sangiovese, Merlot, Canaiolo e Ciliegiolo. Rosso rubino robusto, fruttato, con profumi di ciliegia e frutti di bosco e un leggero sentore di legno. Macerazione sulle bucce di 10 giorni, almeno 4 mesi in bottiglia. 12,5% vol.",
+            "en": "From Sangiovese, Merlot, Canaiolo and Ciliegiolo. Bold ruby red and fruity, with cherry and berry aromas and a light hint of wood. 10 days of skin maceration, at least 4 months in bottle. 12.5% vol.",
+            "de": "Aus Sangiovese, Merlot, Canaiolo und Ciliegiolo. Kräftiges Rubinrot und fruchtig, mit Kirsch- und Beerenduft und leichter Holznote. 10 Tage Maischestandzeit, mindestens 4 Monate auf der Flasche. 12,5% Vol."
+          },
+          "a": {
+            "it": "Con primi saporiti e carni rosse alla griglia.",
+            "en": "With flavourful pasta dishes and grilled red meat.",
+            "de": "Zu würzigen Nudelgerichten und gegrilltem rotem Fleisch."
+          },
+          "pr": "13,00 €"
+        },
+        "V-09-3": {
+          "c": [],
+          "d": {
+            "it": "Vermentino. Giallo paglierino con riflessi verdolini, fruttato, con profumi di banana, ananas e fiori bianchi. Pressatura soffice e fermentazione a temperatura controllata, almeno 2 mesi in bottiglia. 12,5% vol.",
+            "en": "Vermentino. Straw yellow with greenish hints, fruity, with aromas of banana, pineapple and white flowers. Soft pressing and temperature-controlled fermentation, at least 2 months in bottle. 12.5% vol.",
+            "de": "Vermentino. Strohgelb mit grünlichen Reflexen, fruchtig, mit Duft von Banane, Ananas und weißen Blüten. Sanfte Pressung und temperaturkontrollierte Gärung, mindestens 2 Monate auf der Flasche. 12,5% Vol."
+          },
+          "a": {
+            "it": "Con piatti a base di pesce.",
+            "en": "With fish dishes.",
+            "de": "Zu Fischgerichten."
+          },
+          "pr": "13,00 €"
+        },
+        "V-09-4": {
+          "c": [],
+          "d": {
+            "it": "Vermentino (80%) con Albarola e Trebbiano Toscano (20%). Giallo paglierino scarico, fruttato, con profumi di mela verde e ananas. Macerazione sulle bucce di 12 ore, almeno 2 mesi in bottiglia. 12,5% vol.",
+            "en": "Vermentino (80%) with Albarola and Trebbiano Toscano (20%). Pale straw yellow, fruity, with green apple and pineapple aromas. 12 hours of skin contact, at least 2 months in bottle. 12.5% vol.",
+            "de": "Vermentino (80%) mit Albarola und Trebbiano Toscano (20%). Helles Strohgelb, fruchtig, mit Duft von grünem Apfel und Ananas. 12 Stunden Maischekontakt, mindestens 2 Monate auf der Flasche. 12,5% Vol."
+          },
+          "a": {
+            "it": "Con aperitivi, verdure grigliate e piatti di pesce.",
+            "en": "With aperitifs, grilled vegetables and fish dishes.",
+            "de": "Zum Aperitif, zu gegrilltem Gemüse und Fischgerichten."
+          },
+          "pr": "13,00 €"
+        },
+        "V-09-5": {
+          "c": [],
+          "d": {
+            "it": "Frizzante Extra Dry da Vermentino (80%) e Chardonnay (20%). Paglierino scarico, con note di mela. Pressatura soffice, fermentazione a bassa temperatura e rifermentazione in autoclave per 2 mesi. 11% vol.",
+            "en": "Extra Dry sparkling wine from Vermentino (80%) and Chardonnay (20%). Pale straw, with notes of apple. Soft pressing, low-temperature fermentation and 2 months of secondary fermentation in tank. 11% vol.",
+            "de": "Extra-Dry-Schaumwein aus Vermentino (80%) und Chardonnay (20%). Helles Stroh, mit Apfelnoten. Sanfte Pressung, Gärung bei niedriger Temperatur und 2 Monate Zweitgärung im Drucktank. 11% Vol."
+          },
+          "a": {
+            "it": "A tutto pasto e con gli antipasti.",
+            "en": "Throughout the meal and with starters.",
+            "de": "Zum ganzen Menü und zu Vorspeisen."
+          },
+          "pr": "10,00 €"
+        },
+        "V-09-6": {
+          "c": [],
+          "d": {
+            "it": "Vino aromatizzato da Vermentino (80%), alcol, zucchero caramellato, assenzio, spezie ed erbe raccolte sulle colline apuane. Color caramello, con aromi di china, chiodi di garofano, rabarbaro e cannella; corposo, dolce e amaro molto persistenti.",
+            "en": "Aromatised wine from Vermentino (80%), alcohol, caramelised sugar, wormwood, spices and herbs gathered on the Apuan hills. Caramel colour, with notes of cinchona, clove, rhubarb and cinnamon; full-bodied, with long sweet and bitter notes.",
+            "de": "Aromatisierter Wein aus Vermentino (80%), Alkohol, karamellisiertem Zucker, Wermut, Gewürzen und Kräutern von den Apuanischen Hügeln. Karamellfarben, mit Noten von Chinarinde, Nelke, Rhabarber und Zimt; vollmundig, lang anhaltend süß und bitter."
+          },
+          "a": {
+            "it": "Come aperitivo servito freddo, nei cocktail o a fine pasto con i dolci.",
+            "en": "As a chilled aperitif, in cocktails or after dinner with desserts.",
+            "de": "Gekühlt als Aperitif, in Cocktails oder nach dem Essen zu Desserts."
+          },
+          "pr": "18,00 €"
+        },
+        "V-09-7": {
+          "c": [],
+          "d": {
+            "it": "Vermouth bianco da Vermentino (80%), alcol, zucchero, assenzio, spezie ed erbe aromatiche delle colline apuane. Molto aromatico, con note di salvia, citronella, noce moscata, agrumi ed erbe della macchia mediterranea.",
+            "en": "White vermouth from Vermentino (80%), alcohol, sugar, wormwood, spices and aromatic herbs from the Apuan hills. Very aromatic, with notes of sage, lemongrass, nutmeg, citrus and Mediterranean scrub herbs.",
+            "de": "Weißer Wermut aus Vermentino (80%), Alkohol, Zucker, Wermutkraut, Gewürzen und Kräutern von den Apuanischen Hügeln. Sehr aromatisch, mit Noten von Salbei, Zitronengras, Muskat, Zitrus und Kräutern der Macchia."
+          },
+          "a": {
+            "it": "Come aperitivo servito freddo, nei cocktail o a fine pasto con i dolci.",
+            "en": "As a chilled aperitif, in cocktails or after dinner with desserts.",
+            "de": "Gekühlt als Aperitif, in Cocktails oder nach dem Essen zu Desserts."
+          },
+          "pr": "18,00 €"
+        },
+        "V-09-8": {
+          "c": [],
+          "d": {
+            "it": "Vino aromatizzato a base di vino rosso (80%) con alcol, zuccheri e sciroppo di amarene raccolte in azienda. Caldo e aromatico, con note di amarena e rosa canina, finale leggermente amarognolo e buona acidità.",
+            "en": "Aromatised wine based on red wine (80%) with alcohol, sugar and syrup of sour cherries picked on the farm. Warm and aromatic, with notes of sour cherry and rosehip, a slightly bitter finish and good acidity.",
+            "de": "Aromatisierter Wein auf Rotweinbasis (80%) mit Alkohol, Zucker und Sirup aus eigenen Sauerkirschen. Warm und aromatisch, mit Noten von Sauerkirsche und Hagebutte, leicht bitterem Abgang und guter Säure."
+          },
+          "a": {
+            "it": "Con i dessert, da meditazione o per guarnire dolci e gelati.",
+            "en": "With desserts, for sipping or to top cakes and ice cream.",
+            "de": "Zu Desserts, pur zum Genießen oder zum Verfeinern von Kuchen und Eis."
+          },
+          "pr": "18,00 €"
+        },
+        "V-09-9": {
+          "c": [],
+          "d": {
+            "it": "Vermentino (90%) e Trebbiano (10%) raccolti a fine ottobre e lasciati appassire. Tre giorni di macerazione sulle bucce, fermentazione in acciaio e oltre 3 anni in bottiglia. Giallo dorato, amabile, con aromi di albicocca matura, miele e fichi secchi. 13% vol.",
+            "en": "Vermentino (90%) and Trebbiano (10%) picked at the end of October and left to dry. Three days of skin maceration, fermentation in steel and over 3 years in bottle. Golden yellow, medium-sweet, with aromas of ripe apricot, honey and dried figs. 13% vol.",
+            "de": "Vermentino (90%) und Trebbiano (10%), Ende Oktober geerntet und angetrocknet. Drei Tage Maischestandzeit, Gärung im Stahltank und über 3 Jahre auf der Flasche. Goldgelb, lieblich, mit Aromen von reifer Aprikose, Honig und getrockneten Feigen. 13% Vol."
+          },
+          "a": {
+            "it": "Con formaggi stagionati, piatti piccanti e dolci secchi.",
+            "en": "With aged cheeses, spicy dishes and dry pastries.",
+            "de": "Zu gereiftem Käse, scharfen Gerichten und trockenem Gebäck."
+          },
+          "pr": "15,00 €"
+        },
+        "V-09-10": {
+          "c": [],
+          "d": {
+            "it": "Distillata dalle vinacce delle uve bianche dell'azienda, che non hanno fermentato con il vino: per questo è molto profumata e delicata.",
+            "en": "Distilled from the pomace of the farm's white grapes, which did not ferment with the wine: this makes it very fragrant and delicate.",
+            "de": "Aus dem Trester der eigenen weißen Trauben destilliert, der nicht mit dem Wein vergoren wurde: dadurch sehr duftig und fein."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          },
+          "pr": "25,00 €"
+        },
+        "V-09-11": {
+          "c": [],
+          "d": {
+            "it": "Da olive di produzione propria, coltivate sulle colline dell'azienda affacciate sul mare. Molto delicato e fruttato.",
+            "en": "From the farm's own olives, grown on its hills overlooking the sea. Very delicate and fruity.",
+            "de": "Aus eigenen Oliven von den Hügeln des Betriebs mit Blick aufs Meer. Sehr fein und fruchtig."
+          },
+          "a": {
+            "it": "Adatto anche al pesce crudo.",
+            "en": "Also suits raw fish.",
+            "de": "Passt auch zu rohem Fisch."
+          }
+        }
+      },
+      "fonti": [
+        "https://www.castagniniwines.it/i-vini/",
+        "https://www.castagniniwines.it/azienda/",
+        "https://54dcd2-ab.myshopify.com/"
+      ]
     }
   ],
   "IMG": {
@@ -3106,6 +3403,19 @@ window.VETRINE = {
     "prod-V-08-36": "https://agrigio.com/wp-content/uploads/2024/05/spaghetti-spezzati-senatore-cappelli.jpg",
     "prod-V-08-37": "https://agrigio.com/wp-content/uploads/2024/05/Semolato-di-Grano-Duro-Senatore-Cappelli.jpg",
     "prod-V-08-38": "https://agrigio.com/wp-content/uploads/2024/05/Farina-tipo-1.jpg",
-    "prod-V-08-39": "https://agrigio.com/wp-content/uploads/2024/05/Farina-Grano-Arso.jpg"
+    "prod-V-08-39": "https://agrigio.com/wp-content/uploads/2024/05/Farina-Grano-Arso.jpg",
+    "logo-V-09": "https://www.castagniniwines.it/wp-content/uploads/2020/12/logo-castagnini-lineare-dorato.png",
+    "prod-V-09-0": "https://www.castagniniwines.it/wp-content/uploads/2020/12/prodotto-castagnini-vino-ceccardo.jpg.webp",
+    "prod-V-09-1": "https://www.castagniniwines.it/wp-content/uploads/2020/12/prodotto-castagnini-vino-cybo.jpg.webp",
+    "prod-V-09-2": "https://www.castagniniwines.it/wp-content/uploads/2020/12/prodotto-castagnini-vino-merlo.jpg.webp",
+    "prod-V-09-3": "https://www.castagniniwines.it/wp-content/uploads/2020/12/prodotto-castagnini-vino-beatrice.jpg.webp",
+    "prod-V-09-4": "https://www.castagniniwines.it/wp-content/uploads/2020/12/prodotto-castagnini-vino-kar-rha.jpg.webp",
+    "prod-V-09-5": "https://www.castagniniwines.it/wp-content/uploads/2020/12/prodotto-castagnini-vino-la-bolla-2.jpg.webp",
+    "prod-V-09-6": "https://www.castagniniwines.it/wp-content/uploads/2020/12/castagnini-vermouth-scuro1.jpg.webp",
+    "prod-V-09-7": "https://www.castagniniwines.it/wp-content/uploads/2020/12/castagnini-vermouth-chiaro.jpg.webp",
+    "prod-V-09-8": "https://www.castagniniwines.it/wp-content/uploads/2020/12/castagnini-cherry.jpg.webp",
+    "prod-V-09-9": "https://www.castagniniwines.it/wp-content/uploads/2022/01/prodotto-castagnini-lacrimae-solis.png.webp",
+    "prod-V-09-10": "https://www.castagniniwines.it/wp-content/uploads/2022/01/prodotto-castagnini-grappa.png.webp",
+    "prod-V-09-11": "https://www.castagniniwines.it/wp-content/uploads/2022/01/prodotto-castagnini-olio-evo.png.webp"
   }
 };
