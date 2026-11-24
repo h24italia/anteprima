@@ -10661,14 +10661,10 @@ window.VETRINE = {
           "c": [],
           "pr": "5,5 ml 27,00 € · 12 ml 50,00 € · in confezione regalo 35,00 € e 57,00 € (shop T.F.I.)",
           "d": {
-            "it": "Essenza pura di bergamotto di Reggio Calabria in bottiglietta, nei formati da 5,5 ml e da 12 ml. Il bergamotto è un agrume dal sapore intenso, profumatissimo e prezioso: molti lo conoscono per gli usi nella cosmesi e nell'aromaterapia, ma trova molte applicazioni anche nella creazione di piatti gourmet. Disponibile in confezione standard o in confezione regalo.",
-            "en": "Essenza pura di bergamotto di Reggio Calabria in bottiglietta, nei formati da 5,5 ml e da 12 ml. Il bergamotto è un agrume dal sapore intenso, profumatissimo e prezioso: molti lo conoscono per gli usi nella cosmesi e nell'aromaterapia, ma trova molte applicazioni anche nella creazione di piatti gourmet. Disponibile in confezione standard o in confezione regalo.",
-            "de": "Essenza pura di bergamotto di Reggio Calabria in bottiglietta, nei formati da 5,5 ml e da 12 ml. Il bergamotto è un agrume dal sapore intenso, profumatissimo e prezioso: molti lo conoscono per gli usi nella cosmesi e nell'aromaterapia, ma trova molte applicazioni anche nella creazione di piatti gourmet. Disponibile in confezione standard o in confezione regalo."
+            "it": "Essenza pura di bergamotto di Reggio Calabria in bottiglietta, nei formati da 5,5 ml e da 12 ml. Il bergamotto è un agrume dal sapore intenso, profumatissimo e prezioso: molti lo conoscono per gli usi nella cosmesi e nell'aromaterapia, ma trova molte applicazioni anche nella creazione di piatti gourmet. Disponibile in confezione standard o in confezione regalo."
           },
           "a": {
-            "it": "Poche gocce per profumare piatti gourmet, dolci e cocktail.",
-            "en": "Poche gocce per profumare piatti gourmet, dolci e cocktail.",
-            "de": "Poche gocce per profumare piatti gourmet, dolci e cocktail."
+            "it": "Poche gocce per profumare piatti gourmet, dolci e cocktail."
           }
         }
       },
@@ -10717,42 +10713,30 @@ window.VETRINE = {
           "c": [],
           "pr": "8,90 € al pezzo, 21,90 € al kg (shop T.F.I.)",
           "d": {
-            "it": "Immancabile sulle tavole calabresi, il capicollo è un salume dal sapore morbido e delicato, arricchito dalle note del peperoncino e dagli aromi naturali. Si ottiene dalla parte superiore del collo e della spalla del suino: la carne viene disossata, massaggiata con il sale e lasciata riposare per giorni, poi privata del sale in eccesso, aromatizzata con aromi naturali e peperoncino calabrese, avvolta in pellicola naturale e legata con spago e con la tradizionale steccatura di canne. Stagiona almeno quattro mesi in ambiente fresco, asciutto e ventilato. Al taglio ha il tipico colore tra il rosso e il rosato, con piccole striature bianche di grasso che danno morbidezza e sapore. Disponibile dolce o piccante. Ingredienti: capocollo, sale, pepe nero, antiossidante E301, conservanti E250 ed E252. Senza coloranti, senza glutine e senza derivati del latte.",
-            "en": "Immancabile sulle tavole calabresi, il capicollo è un salume dal sapore morbido e delicato, arricchito dalle note del peperoncino e dagli aromi naturali. Si ottiene dalla parte superiore del collo e della spalla del suino: la carne viene disossata, massaggiata con il sale e lasciata riposare per giorni, poi privata del sale in eccesso, aromatizzata con aromi naturali e peperoncino calabrese, avvolta in pellicola naturale e legata con spago e con la tradizionale steccatura di canne. Stagiona almeno quattro mesi in ambiente fresco, asciutto e ventilato. Al taglio ha il tipico colore tra il rosso e il rosato, con piccole striature bianche di grasso che danno morbidezza e sapore. Disponibile dolce o piccante. Ingredienti: capocollo, sale, pepe nero, antiossidante E301, conservanti E250 ed E252. Senza coloranti, senza glutine e senza derivati del latte.",
-            "de": "Immancabile sulle tavole calabresi, il capicollo è un salume dal sapore morbido e delicato, arricchito dalle note del peperoncino e dagli aromi naturali. Si ottiene dalla parte superiore del collo e della spalla del suino: la carne viene disossata, massaggiata con il sale e lasciata riposare per giorni, poi privata del sale in eccesso, aromatizzata con aromi naturali e peperoncino calabrese, avvolta in pellicola naturale e legata con spago e con la tradizionale steccatura di canne. Stagiona almeno quattro mesi in ambiente fresco, asciutto e ventilato. Al taglio ha il tipico colore tra il rosso e il rosato, con piccole striature bianche di grasso che danno morbidezza e sapore. Disponibile dolce o piccante. Ingredienti: capocollo, sale, pepe nero, antiossidante E301, conservanti E250 ed E252. Senza coloranti, senza glutine e senza derivati del latte."
+            "it": "Immancabile sulle tavole calabresi, il capicollo è un salume dal sapore morbido e delicato, arricchito dalle note del peperoncino e dagli aromi naturali. Si ottiene dalla parte superiore del collo e della spalla del suino: la carne viene disossata, massaggiata con il sale e lasciata riposare per giorni, poi privata del sale in eccesso, aromatizzata con aromi naturali e peperoncino calabrese, avvolta in pellicola naturale e legata con spago e con la tradizionale steccatura di canne. Stagiona almeno quattro mesi in ambiente fresco, asciutto e ventilato. Al taglio ha il tipico colore tra il rosso e il rosato, con piccole striature bianche di grasso che danno morbidezza e sapore. Disponibile dolce o piccante. Ingredienti: capocollo, sale, pepe nero, antiossidante E301, conservanti E250 ed E252. Senza coloranti, senza glutine e senza derivati del latte."
           },
           "a": {
-            "it": "Affettato nell'antipasto calabrese, nei primi e nei secondi piatti; per merenda in un panino casereccio con pecorino calabrese e marmellata di cipolla.",
-            "en": "Affettato nell'antipasto calabrese, nei primi e nei secondi piatti; per merenda in un panino casereccio con pecorino calabrese e marmellata di cipolla.",
-            "de": "Affettato nell'antipasto calabrese, nei primi e nei secondi piatti; per merenda in un panino casereccio con pecorino calabrese e marmellata di cipolla."
+            "it": "Affettato nell'antipasto calabrese, nei primi e nei secondi piatti; per merenda in un panino casereccio con pecorino calabrese e marmellata di cipolla."
           }
         },
         "V-32-1": {
           "c": [],
           "pr": "6,50 € al pezzo, 16,90 € al kg (shop T.F.I.)",
           "d": {
-            "it": "La salsiccia è il più popolare fra i salumi calabresi. Si produce con le carni magre della spalla e della sottocostola di suino calabrese, con l'aggiunta di pancetta che dà gusto e morbidezza. Le carni, tritate a grana media, sono impastate con aromi naturali, sale e, nella versione piccante, peperoncino rosso calabrese; l'impasto riposa una notte intera e viene insaccato in budelli naturali forati e legati con spago, nella tipica forma arcuata detta curva. Stagiona almeno cinquanta giorni. Al taglio è morbida e compatta, di colore rosso intenso, dal profumo inconfondibile e leggermente speziata. Ingredienti: carne di suino, peperoncino dolce o piccante, sale, pepe nero. Senza conservanti né coloranti, senza glutine e senza derivati del latte.",
-            "en": "La salsiccia è il più popolare fra i salumi calabresi. Si produce con le carni magre della spalla e della sottocostola di suino calabrese, con l'aggiunta di pancetta che dà gusto e morbidezza. Le carni, tritate a grana media, sono impastate con aromi naturali, sale e, nella versione piccante, peperoncino rosso calabrese; l'impasto riposa una notte intera e viene insaccato in budelli naturali forati e legati con spago, nella tipica forma arcuata detta curva. Stagiona almeno cinquanta giorni. Al taglio è morbida e compatta, di colore rosso intenso, dal profumo inconfondibile e leggermente speziata. Ingredienti: carne di suino, peperoncino dolce o piccante, sale, pepe nero. Senza conservanti né coloranti, senza glutine e senza derivati del latte.",
-            "de": "La salsiccia è il più popolare fra i salumi calabresi. Si produce con le carni magre della spalla e della sottocostola di suino calabrese, con l'aggiunta di pancetta che dà gusto e morbidezza. Le carni, tritate a grana media, sono impastate con aromi naturali, sale e, nella versione piccante, peperoncino rosso calabrese; l'impasto riposa una notte intera e viene insaccato in budelli naturali forati e legati con spago, nella tipica forma arcuata detta curva. Stagiona almeno cinquanta giorni. Al taglio è morbida e compatta, di colore rosso intenso, dal profumo inconfondibile e leggermente speziata. Ingredienti: carne di suino, peperoncino dolce o piccante, sale, pepe nero. Senza conservanti né coloranti, senza glutine e senza derivati del latte."
+            "it": "La salsiccia è il più popolare fra i salumi calabresi. Si produce con le carni magre della spalla e della sottocostola di suino calabrese, con l'aggiunta di pancetta che dà gusto e morbidezza. Le carni, tritate a grana media, sono impastate con aromi naturali, sale e, nella versione piccante, peperoncino rosso calabrese; l'impasto riposa una notte intera e viene insaccato in budelli naturali forati e legati con spago, nella tipica forma arcuata detta curva. Stagiona almeno cinquanta giorni. Al taglio è morbida e compatta, di colore rosso intenso, dal profumo inconfondibile e leggermente speziata. Ingredienti: carne di suino, peperoncino dolce o piccante, sale, pepe nero. Senza conservanti né coloranti, senza glutine e senza derivati del latte."
           },
           "a": {
-            "it": "Da sola o nel pane casereccio, nelle ricette della tradizione con carne e verdure; per un aperitivo veloce con pecorino, fave e un bicchiere di vino rosso.",
-            "en": "Da sola o nel pane casereccio, nelle ricette della tradizione con carne e verdure; per un aperitivo veloce con pecorino, fave e un bicchiere di vino rosso.",
-            "de": "Da sola o nel pane casereccio, nelle ricette della tradizione con carne e verdure; per un aperitivo veloce con pecorino, fave e un bicchiere di vino rosso."
+            "it": "Da sola o nel pane casereccio, nelle ricette della tradizione con carne e verdure; per un aperitivo veloce con pecorino, fave e un bicchiere di vino rosso."
           }
         },
         "V-32-2": {
           "c": [],
           "pr": "7,90 € al pezzo, 18,90 € al kg (shop T.F.I.)",
           "d": {
-            "it": "La soppressata è il più nobile fra i salumi calabresi, dal gusto intenso e deciso. Nasce da tagli pregiati di coscia e spalla di suini allevati e macellati in Calabria, con una tecnica tramandata di generazione in generazione: la carne, privata dei nervi, è tagliata a grana grossa a punta di coltello, con una leggera quantità di parti grasse della parte anteriore del lombo per la giusta morbidezza. Si lavora con sale, aromi naturali e, nella versione piccante, peperoncino rosso calabrese; riposa una notte, viene insaccata in budelli naturali di suino legati a mano e stagiona almeno sessanta giorni. Al taglio è compatta, leggermente morbida, di colore rosso intenso, con la “lacrima” in evidenza. Senza coloranti e conservanti, senza glutine e senza derivati del latte.",
-            "en": "La soppressata è il più nobile fra i salumi calabresi, dal gusto intenso e deciso. Nasce da tagli pregiati di coscia e spalla di suini allevati e macellati in Calabria, con una tecnica tramandata di generazione in generazione: la carne, privata dei nervi, è tagliata a grana grossa a punta di coltello, con una leggera quantità di parti grasse della parte anteriore del lombo per la giusta morbidezza. Si lavora con sale, aromi naturali e, nella versione piccante, peperoncino rosso calabrese; riposa una notte, viene insaccata in budelli naturali di suino legati a mano e stagiona almeno sessanta giorni. Al taglio è compatta, leggermente morbida, di colore rosso intenso, con la “lacrima” in evidenza. Senza coloranti e conservanti, senza glutine e senza derivati del latte.",
-            "de": "La soppressata è il più nobile fra i salumi calabresi, dal gusto intenso e deciso. Nasce da tagli pregiati di coscia e spalla di suini allevati e macellati in Calabria, con una tecnica tramandata di generazione in generazione: la carne, privata dei nervi, è tagliata a grana grossa a punta di coltello, con una leggera quantità di parti grasse della parte anteriore del lombo per la giusta morbidezza. Si lavora con sale, aromi naturali e, nella versione piccante, peperoncino rosso calabrese; riposa una notte, viene insaccata in budelli naturali di suino legati a mano e stagiona almeno sessanta giorni. Al taglio è compatta, leggermente morbida, di colore rosso intenso, con la “lacrima” in evidenza. Senza coloranti e conservanti, senza glutine e senza derivati del latte."
+            "it": "La soppressata è il più nobile fra i salumi calabresi, dal gusto intenso e deciso. Nasce da tagli pregiati di coscia e spalla di suini allevati e macellati in Calabria, con una tecnica tramandata di generazione in generazione: la carne, privata dei nervi, è tagliata a grana grossa a punta di coltello, con una leggera quantità di parti grasse della parte anteriore del lombo per la giusta morbidezza. Si lavora con sale, aromi naturali e, nella versione piccante, peperoncino rosso calabrese; riposa una notte, viene insaccata in budelli naturali di suino legati a mano e stagiona almeno sessanta giorni. Al taglio è compatta, leggermente morbida, di colore rosso intenso, con la “lacrima” in evidenza. Senza coloranti e conservanti, senza glutine e senza derivati del latte."
           },
           "a": {
-            "it": "Regina degli antipasti, ottima nel pane per uno spuntino o per dare sapore ai primi piatti; si sposa con vini rossi ben strutturati.",
-            "en": "Regina degli antipasti, ottima nel pane per uno spuntino o per dare sapore ai primi piatti; si sposa con vini rossi ben strutturati.",
-            "de": "Regina degli antipasti, ottima nel pane per uno spuntino o per dare sapore ai primi piatti; si sposa con vini rossi ben strutturati."
+            "it": "Regina degli antipasti, ottima nel pane per uno spuntino o per dare sapore ai primi piatti; si sposa con vini rossi ben strutturati."
           }
         }
       },
@@ -10828,56 +10812,40 @@ window.VETRINE = {
           "c": [],
           "pr": "8,00 € (shop T.F.I.)",
           "d": {
-            "it": "La 'nduja è un insaccato spalmabile prodotto con le parti grasse del suino (lardello, guanciale, pancetta e rifilature di parti magre). Alla carne, lavorata con crivelli a fori stretti, si aggiungono nelle giuste dosi peperoncino rosso piccante calabrese e sale. Dopo il riposo, l'insacco e qualche giorno di affumicatura artigianale, stagiona naturalmente, in base al peso, all'interno del budello stesso del maiale. Insaccata nel budello crespo, nel formato da circa 500 grammi.",
-            "en": "La 'nduja è un insaccato spalmabile prodotto con le parti grasse del suino (lardello, guanciale, pancetta e rifilature di parti magre). Alla carne, lavorata con crivelli a fori stretti, si aggiungono nelle giuste dosi peperoncino rosso piccante calabrese e sale. Dopo il riposo, l'insacco e qualche giorno di affumicatura artigianale, stagiona naturalmente, in base al peso, all'interno del budello stesso del maiale. Insaccata nel budello crespo, nel formato da circa 500 grammi.",
-            "de": "La 'nduja è un insaccato spalmabile prodotto con le parti grasse del suino (lardello, guanciale, pancetta e rifilature di parti magre). Alla carne, lavorata con crivelli a fori stretti, si aggiungono nelle giuste dosi peperoncino rosso piccante calabrese e sale. Dopo il riposo, l'insacco e qualche giorno di affumicatura artigianale, stagiona naturalmente, in base al peso, all'interno del budello stesso del maiale. Insaccata nel budello crespo, nel formato da circa 500 grammi."
+            "it": "La 'nduja è un insaccato spalmabile prodotto con le parti grasse del suino (lardello, guanciale, pancetta e rifilature di parti magre). Alla carne, lavorata con crivelli a fori stretti, si aggiungono nelle giuste dosi peperoncino rosso piccante calabrese e sale. Dopo il riposo, l'insacco e qualche giorno di affumicatura artigianale, stagiona naturalmente, in base al peso, all'interno del budello stesso del maiale. Insaccata nel budello crespo, nel formato da circa 500 grammi."
           },
           "a": {
-            "it": "Spalmata su pane e bruschette, su pizza, nei sughi e con i formaggi. Conservare in luogo fresco e asciutto, lontano dal sole e da fonti di calore.",
-            "en": "Spalmata su pane e bruschette, su pizza, nei sughi e con i formaggi. Conservare in luogo fresco e asciutto, lontano dal sole e da fonti di calore.",
-            "de": "Spalmata su pane e bruschette, su pizza, nei sughi e con i formaggi. Conservare in luogo fresco e asciutto, lontano dal sole e da fonti di calore."
+            "it": "Spalmata su pane e bruschette, su pizza, nei sughi e con i formaggi. Conservare in luogo fresco e asciutto, lontano dal sole e da fonti di calore."
           }
         },
         "V-33-1": {
           "c": [],
           "pr": "18,00 € (shop T.F.I.)",
           "d": {
-            "it": "La 'nduja è un insaccato spalmabile prodotto con le parti grasse del suino (lardello, guanciale, pancetta e rifilature di parti magre). Alla carne, lavorata con crivelli a fori stretti, si aggiungono nelle giuste dosi peperoncino rosso piccante calabrese e sale. Dopo il riposo, l'insacco e qualche giorno di affumicatura artigianale, stagiona naturalmente, in base al peso, all'interno del budello stesso del maiale. Insaccata nell'orba, il budello cieco del maiale, nel formato da circa 1 kg.",
-            "en": "La 'nduja è un insaccato spalmabile prodotto con le parti grasse del suino (lardello, guanciale, pancetta e rifilature di parti magre). Alla carne, lavorata con crivelli a fori stretti, si aggiungono nelle giuste dosi peperoncino rosso piccante calabrese e sale. Dopo il riposo, l'insacco e qualche giorno di affumicatura artigianale, stagiona naturalmente, in base al peso, all'interno del budello stesso del maiale. Insaccata nell'orba, il budello cieco del maiale, nel formato da circa 1 kg.",
-            "de": "La 'nduja è un insaccato spalmabile prodotto con le parti grasse del suino (lardello, guanciale, pancetta e rifilature di parti magre). Alla carne, lavorata con crivelli a fori stretti, si aggiungono nelle giuste dosi peperoncino rosso piccante calabrese e sale. Dopo il riposo, l'insacco e qualche giorno di affumicatura artigianale, stagiona naturalmente, in base al peso, all'interno del budello stesso del maiale. Insaccata nell'orba, il budello cieco del maiale, nel formato da circa 1 kg."
+            "it": "La 'nduja è un insaccato spalmabile prodotto con le parti grasse del suino (lardello, guanciale, pancetta e rifilature di parti magre). Alla carne, lavorata con crivelli a fori stretti, si aggiungono nelle giuste dosi peperoncino rosso piccante calabrese e sale. Dopo il riposo, l'insacco e qualche giorno di affumicatura artigianale, stagiona naturalmente, in base al peso, all'interno del budello stesso del maiale. Insaccata nell'orba, il budello cieco del maiale, nel formato da circa 1 kg."
           },
           "a": {
-            "it": "Spalmata su pane e bruschette, su pizza, nei sughi e con i formaggi. Conservare in luogo fresco e asciutto, lontano dal sole e da fonti di calore.",
-            "en": "Spalmata su pane e bruschette, su pizza, nei sughi e con i formaggi. Conservare in luogo fresco e asciutto, lontano dal sole e da fonti di calore.",
-            "de": "Spalmata su pane e bruschette, su pizza, nei sughi e con i formaggi. Conservare in luogo fresco e asciutto, lontano dal sole e da fonti di calore."
+            "it": "Spalmata su pane e bruschette, su pizza, nei sughi e con i formaggi. Conservare in luogo fresco e asciutto, lontano dal sole e da fonti di calore."
           }
         },
         "V-33-2": {
           "c": [],
           "pr": "16,90 € al kg (shop T.F.I.)",
           "d": {
-            "it": "La 'nduja è un insaccato spalmabile prodotto con le parti grasse del suino (lardello, guanciale, pancetta e rifilature di parti magre). Alla carne, lavorata con crivelli a fori stretti, si aggiungono nelle giuste dosi peperoncino rosso piccante calabrese e sale. Dopo il riposo, l'insacco e qualche giorno di affumicatura artigianale, stagiona naturalmente, in base al peso, all'interno del budello stesso del maiale. Nel formato Orba Gigante viene confezionata in pezzi da 8 kg fino a 100 kg.",
-            "en": "La 'nduja è un insaccato spalmabile prodotto con le parti grasse del suino (lardello, guanciale, pancetta e rifilature di parti magre). Alla carne, lavorata con crivelli a fori stretti, si aggiungono nelle giuste dosi peperoncino rosso piccante calabrese e sale. Dopo il riposo, l'insacco e qualche giorno di affumicatura artigianale, stagiona naturalmente, in base al peso, all'interno del budello stesso del maiale. Nel formato Orba Gigante viene confezionata in pezzi da 8 kg fino a 100 kg.",
-            "de": "La 'nduja è un insaccato spalmabile prodotto con le parti grasse del suino (lardello, guanciale, pancetta e rifilature di parti magre). Alla carne, lavorata con crivelli a fori stretti, si aggiungono nelle giuste dosi peperoncino rosso piccante calabrese e sale. Dopo il riposo, l'insacco e qualche giorno di affumicatura artigianale, stagiona naturalmente, in base al peso, all'interno del budello stesso del maiale. Nel formato Orba Gigante viene confezionata in pezzi da 8 kg fino a 100 kg."
+            "it": "La 'nduja è un insaccato spalmabile prodotto con le parti grasse del suino (lardello, guanciale, pancetta e rifilature di parti magre). Alla carne, lavorata con crivelli a fori stretti, si aggiungono nelle giuste dosi peperoncino rosso piccante calabrese e sale. Dopo il riposo, l'insacco e qualche giorno di affumicatura artigianale, stagiona naturalmente, in base al peso, all'interno del budello stesso del maiale. Nel formato Orba Gigante viene confezionata in pezzi da 8 kg fino a 100 kg."
           },
           "a": {
-            "it": "Spalmata su pane e bruschette, su pizza, nei sughi e con i formaggi. Conservare in luogo fresco e asciutto, lontano dal sole e da fonti di calore.",
-            "en": "Spalmata su pane e bruschette, su pizza, nei sughi e con i formaggi. Conservare in luogo fresco e asciutto, lontano dal sole e da fonti di calore.",
-            "de": "Spalmata su pane e bruschette, su pizza, nei sughi e con i formaggi. Conservare in luogo fresco e asciutto, lontano dal sole e da fonti di calore."
+            "it": "Spalmata su pane e bruschette, su pizza, nei sughi e con i formaggi. Conservare in luogo fresco e asciutto, lontano dal sole e da fonti di calore."
           }
         },
         "V-33-3": {
           "c": [],
           "pr": "90 g 4,90 € · 180 g 6,90 € (shop T.F.I.)",
           "d": {
-            "it": "'Nduja prima affumicata e stagionata in orba naturale secondo il normale ciclo di produzione, poi estratta e rilavorata con l'aggiunta di olio di semi di girasole, più neutro per sapore e odore rispetto al comune olio d'oliva. Viene infine posta in vasetto e pastorizzata.",
-            "en": "'Nduja prima affumicata e stagionata in orba naturale secondo il normale ciclo di produzione, poi estratta e rilavorata con l'aggiunta di olio di semi di girasole, più neutro per sapore e odore rispetto al comune olio d'oliva. Viene infine posta in vasetto e pastorizzata.",
-            "de": "'Nduja prima affumicata e stagionata in orba naturale secondo il normale ciclo di produzione, poi estratta e rilavorata con l'aggiunta di olio di semi di girasole, più neutro per sapore e odore rispetto al comune olio d'oliva. Viene infine posta in vasetto e pastorizzata."
+            "it": "'Nduja prima affumicata e stagionata in orba naturale secondo il normale ciclo di produzione, poi estratta e rilavorata con l'aggiunta di olio di semi di girasole, più neutro per sapore e odore rispetto al comune olio d'oliva. Viene infine posta in vasetto e pastorizzata."
           },
           "a": {
-            "it": "Pronta da spalmare su crostini e bruschette o da sciogliere nei sughi e sulla pizza.",
-            "en": "Pronta da spalmare su crostini e bruschette o da sciogliere nei sughi e sulla pizza.",
-            "de": "Pronta da spalmare su crostini e bruschette o da sciogliere nei sughi e sulla pizza."
+            "it": "Pronta da spalmare su crostini e bruschette o da sciogliere nei sughi e sulla pizza."
           }
         }
       },
@@ -10974,84 +10942,60 @@ window.VETRINE = {
           "c": [],
           "pr": "12,90 € (shop T.F.I.)",
           "d": {
-            "it": "Vino bianco da uve Zibibbo, prodotto alle pendici dell'oasi naturalistica del lago dell'Angitola, una delle riserve più importanti del Mediterraneo. Sapore pieno, fresco e avvolgente, caratteristico del vitigno. Colore giallo paglierino brillante. Gradazione 13,5% vol.",
-            "en": "Vino bianco da uve Zibibbo, prodotto alle pendici dell'oasi naturalistica del lago dell'Angitola, una delle riserve più importanti del Mediterraneo. Sapore pieno, fresco e avvolgente, caratteristico del vitigno. Colore giallo paglierino brillante. Gradazione 13,5% vol.",
-            "de": "Vino bianco da uve Zibibbo, prodotto alle pendici dell'oasi naturalistica del lago dell'Angitola, una delle riserve più importanti del Mediterraneo. Sapore pieno, fresco e avvolgente, caratteristico del vitigno. Colore giallo paglierino brillante. Gradazione 13,5% vol."
+            "it": "Vino bianco da uve Zibibbo, prodotto alle pendici dell'oasi naturalistica del lago dell'Angitola, una delle riserve più importanti del Mediterraneo. Sapore pieno, fresco e avvolgente, caratteristico del vitigno. Colore giallo paglierino brillante. Gradazione 13,5% vol."
           },
           "a": {
-            "it": "Come aperitivo e con piatti delicati e importanti della cucina mediterranea.",
-            "en": "Come aperitivo e con piatti delicati e importanti della cucina mediterranea.",
-            "de": "Come aperitivo e con piatti delicati e importanti della cucina mediterranea."
+            "it": "Come aperitivo e con piatti delicati e importanti della cucina mediterranea."
           }
         },
         "V-34-1": {
           "c": [],
           "pr": "8,90 € (shop T.F.I.)",
           "d": {
-            "it": "Vino bianco da uve Malvasia, prodotto alle pendici dell'oasi naturalistica del lago dell'Angitola, una delle riserve più importanti del Mediterraneo. Gusto delicato, fruttato e fresco, con ottima persistenza. Colore giallo paglierino vivace. Gradazione 12,5% vol.",
-            "en": "Vino bianco da uve Malvasia, prodotto alle pendici dell'oasi naturalistica del lago dell'Angitola, una delle riserve più importanti del Mediterraneo. Gusto delicato, fruttato e fresco, con ottima persistenza. Colore giallo paglierino vivace. Gradazione 12,5% vol.",
-            "de": "Vino bianco da uve Malvasia, prodotto alle pendici dell'oasi naturalistica del lago dell'Angitola, una delle riserve più importanti del Mediterraneo. Gusto delicato, fruttato e fresco, con ottima persistenza. Colore giallo paglierino vivace. Gradazione 12,5% vol."
+            "it": "Vino bianco da uve Malvasia, prodotto alle pendici dell'oasi naturalistica del lago dell'Angitola, una delle riserve più importanti del Mediterraneo. Gusto delicato, fruttato e fresco, con ottima persistenza. Colore giallo paglierino vivace. Gradazione 12,5% vol."
           },
           "a": {
-            "it": "Perfetto con il pesce, le carni bianche e le pietanze delicate.",
-            "en": "Perfetto con il pesce, le carni bianche e le pietanze delicate.",
-            "de": "Perfetto con il pesce, le carni bianche e le pietanze delicate."
+            "it": "Perfetto con il pesce, le carni bianche e le pietanze delicate."
           }
         },
         "V-34-2": {
           "c": [],
           "pr": "8,90 € (shop T.F.I.)",
           "d": {
-            "it": "Vino rosso da uve Nerello Calabrese, prodotto alle pendici dell'oasi naturalistica del lago dell'Angitola, una delle riserve più importanti del Mediterraneo. Eleganti sentori di frutta a bacca rossa; gusto robusto, elegante e fruttato, con una piacevole e delicata speziatura nel finale. Colore rosso intenso. Gradazione 13,5% vol.",
-            "en": "Vino rosso da uve Nerello Calabrese, prodotto alle pendici dell'oasi naturalistica del lago dell'Angitola, una delle riserve più importanti del Mediterraneo. Eleganti sentori di frutta a bacca rossa; gusto robusto, elegante e fruttato, con una piacevole e delicata speziatura nel finale. Colore rosso intenso. Gradazione 13,5% vol.",
-            "de": "Vino rosso da uve Nerello Calabrese, prodotto alle pendici dell'oasi naturalistica del lago dell'Angitola, una delle riserve più importanti del Mediterraneo. Eleganti sentori di frutta a bacca rossa; gusto robusto, elegante e fruttato, con una piacevole e delicata speziatura nel finale. Colore rosso intenso. Gradazione 13,5% vol."
+            "it": "Vino rosso da uve Nerello Calabrese, prodotto alle pendici dell'oasi naturalistica del lago dell'Angitola, una delle riserve più importanti del Mediterraneo. Eleganti sentori di frutta a bacca rossa; gusto robusto, elegante e fruttato, con una piacevole e delicata speziatura nel finale. Colore rosso intenso. Gradazione 13,5% vol."
           },
           "a": {
-            "it": "Ideale con carni alla griglia e pietanze della cucina mediterranea.",
-            "en": "Ideale con carni alla griglia e pietanze della cucina mediterranea.",
-            "de": "Ideale con carni alla griglia e pietanze della cucina mediterranea."
+            "it": "Ideale con carni alla griglia e pietanze della cucina mediterranea."
           }
         },
         "V-34-3": {
           "c": [],
           "pr": "8,90 € (shop T.F.I.)",
           "d": {
-            "it": "Vino rosato prodotto alle pendici dell'oasi naturalistica del lago dell'Angitola, una delle riserve più importanti del Mediterraneo. Vigneto allevato a cordone orizzontale con sesto d'impianto 2,50 x 0,85 metri, circa 5000 piante per ettaro e una resa media di 70 quintali d'uva, su terreno mediamente calcareo di origine granitica. Gradazione 11,5% vol.",
-            "en": "Vino rosato prodotto alle pendici dell'oasi naturalistica del lago dell'Angitola, una delle riserve più importanti del Mediterraneo. Vigneto allevato a cordone orizzontale con sesto d'impianto 2,50 x 0,85 metri, circa 5000 piante per ettaro e una resa media di 70 quintali d'uva, su terreno mediamente calcareo di origine granitica. Gradazione 11,5% vol.",
-            "de": "Vino rosato prodotto alle pendici dell'oasi naturalistica del lago dell'Angitola, una delle riserve più importanti del Mediterraneo. Vigneto allevato a cordone orizzontale con sesto d'impianto 2,50 x 0,85 metri, circa 5000 piante per ettaro e una resa media di 70 quintali d'uva, su terreno mediamente calcareo di origine granitica. Gradazione 11,5% vol."
+            "it": "Vino rosato prodotto alle pendici dell'oasi naturalistica del lago dell'Angitola, una delle riserve più importanti del Mediterraneo. Vigneto allevato a cordone orizzontale con sesto d'impianto 2,50 x 0,85 metri, circa 5000 piante per ettaro e una resa media di 70 quintali d'uva, su terreno mediamente calcareo di origine granitica. Gradazione 11,5% vol."
           },
           "a": {
-            "it": "Ideale con carni o pesce alla griglia e pietanze della cucina mediterranea.",
-            "en": "Ideale con carni o pesce alla griglia e pietanze della cucina mediterranea.",
-            "de": "Ideale con carni o pesce alla griglia e pietanze della cucina mediterranea."
+            "it": "Ideale con carni o pesce alla griglia e pietanze della cucina mediterranea."
           }
         },
         "V-34-4": {
           "c": [],
           "pr": "61,40 € (shop T.F.I.)",
           "d": {
-            "it": "Box di assaggio con 6 bottiglie da 750 ml: 2 di bianco Castelmonardo, 2 di Rosso Calabrese e 2 di bianco Brisèlla.",
-            "en": "Box di assaggio con 6 bottiglie da 750 ml: 2 di bianco Castelmonardo, 2 di Rosso Calabrese e 2 di bianco Brisèlla.",
-            "de": "Box di assaggio con 6 bottiglie da 750 ml: 2 di bianco Castelmonardo, 2 di Rosso Calabrese e 2 di bianco Brisèlla."
+            "it": "Box di assaggio con 6 bottiglie da 750 ml: 2 di bianco Castelmonardo, 2 di Rosso Calabrese e 2 di bianco Brisèlla."
           },
           "a": {
-            "it": "Per gli abbinamenti si veda la scheda di ciascun vino.",
-            "en": "Per gli abbinamenti si veda la scheda di ciascun vino.",
-            "de": "Per gli abbinamenti si veda la scheda di ciascun vino."
+            "it": "Per gli abbinamenti si veda la scheda di ciascun vino."
           }
         },
         "V-34-5": {
           "c": [],
           "pr": "118,80 € (shop T.F.I.)",
           "d": {
-            "it": "Box con 12 bottiglie da 750 ml: 3 di bianco Castelmonardo, 3 di Rosso Calabrese, 3 di rosato Ciaramìdu e 3 di bianco Brisèlla.",
-            "en": "Box con 12 bottiglie da 750 ml: 3 di bianco Castelmonardo, 3 di Rosso Calabrese, 3 di rosato Ciaramìdu e 3 di bianco Brisèlla.",
-            "de": "Box con 12 bottiglie da 750 ml: 3 di bianco Castelmonardo, 3 di Rosso Calabrese, 3 di rosato Ciaramìdu e 3 di bianco Brisèlla."
+            "it": "Box con 12 bottiglie da 750 ml: 3 di bianco Castelmonardo, 3 di Rosso Calabrese, 3 di rosato Ciaramìdu e 3 di bianco Brisèlla."
           },
           "a": {
-            "it": "Per gli abbinamenti si veda la scheda di ciascun vino.",
-            "en": "Per gli abbinamenti si veda la scheda di ciascun vino.",
-            "de": "Per gli abbinamenti si veda la scheda di ciascun vino."
+            "it": "Per gli abbinamenti si veda la scheda di ciascun vino."
           }
         }
       },
@@ -11157,42 +11101,30 @@ window.VETRINE = {
           "c": [],
           "pr": "250 ml 6,90 € · 500 ml 9,50 € · 1 litro 14,90 € (shop T.F.I.)",
           "d": {
-            "it": "All'analisi descrittiva l'extravergine Frantoio Badia mostra all'olfatto un fruttato di oliva di media intensità, che ricorda le drupe colte verdi, con decisi sentori di mela golden, erba, pomodoro ed erbe aromatiche, in equilibrio con note persistenti di verdure cotte. Al palato sorprende per la fluidità e per i toni decisi dell'amaro, che ricorda la mandorla, in armonia con il piccante di peperoncino. Una nota balsamica accompagna le sensazioni retrolfattive di cicoria e cardo, con chiusura netta di noce fresca.",
-            "en": "All'analisi descrittiva l'extravergine Frantoio Badia mostra all'olfatto un fruttato di oliva di media intensità, che ricorda le drupe colte verdi, con decisi sentori di mela golden, erba, pomodoro ed erbe aromatiche, in equilibrio con note persistenti di verdure cotte. Al palato sorprende per la fluidità e per i toni decisi dell'amaro, che ricorda la mandorla, in armonia con il piccante di peperoncino. Una nota balsamica accompagna le sensazioni retrolfattive di cicoria e cardo, con chiusura netta di noce fresca.",
-            "de": "All'analisi descrittiva l'extravergine Frantoio Badia mostra all'olfatto un fruttato di oliva di media intensità, che ricorda le drupe colte verdi, con decisi sentori di mela golden, erba, pomodoro ed erbe aromatiche, in equilibrio con note persistenti di verdure cotte. Al palato sorprende per la fluidità e per i toni decisi dell'amaro, che ricorda la mandorla, in armonia con il piccante di peperoncino. Una nota balsamica accompagna le sensazioni retrolfattive di cicoria e cardo, con chiusura netta di noce fresca."
+            "it": "All'analisi descrittiva l'extravergine Frantoio Badia mostra all'olfatto un fruttato di oliva di media intensità, che ricorda le drupe colte verdi, con decisi sentori di mela golden, erba, pomodoro ed erbe aromatiche, in equilibrio con note persistenti di verdure cotte. Al palato sorprende per la fluidità e per i toni decisi dell'amaro, che ricorda la mandorla, in armonia con il piccante di peperoncino. Una nota balsamica accompagna le sensazioni retrolfattive di cicoria e cardo, con chiusura netta di noce fresca."
           },
           "a": {
-            "it": "A crudo su verdure, legumi, zuppe, pesce e carni alla griglia. Conservare in luogo fresco, al riparo da luce e calore.",
-            "en": "A crudo su verdure, legumi, zuppe, pesce e carni alla griglia. Conservare in luogo fresco, al riparo da luce e calore.",
-            "de": "A crudo su verdure, legumi, zuppe, pesce e carni alla griglia. Conservare in luogo fresco, al riparo da luce e calore."
+            "it": "A crudo su verdure, legumi, zuppe, pesce e carni alla griglia. Conservare in luogo fresco, al riparo da luce e calore."
           }
         },
         "V-35-1": {
           "c": [],
           "pr": "41,90 € (shop T.F.I.)",
           "d": {
-            "it": "All'analisi descrittiva l'extravergine Frantoio Badia mostra all'olfatto un fruttato di oliva di media intensità, che ricorda le drupe colte verdi, con decisi sentori di mela golden, erba, pomodoro ed erbe aromatiche, in equilibrio con note persistenti di verdure cotte. Al palato sorprende per la fluidità e per i toni decisi dell'amaro, che ricorda la mandorla, in armonia con il piccante di peperoncino. Una nota balsamica accompagna le sensazioni retrolfattive di cicoria e cardo, con chiusura netta di noce fresca. Nella latta da 3 litri, per la dispensa e la ristorazione.",
-            "en": "All'analisi descrittiva l'extravergine Frantoio Badia mostra all'olfatto un fruttato di oliva di media intensità, che ricorda le drupe colte verdi, con decisi sentori di mela golden, erba, pomodoro ed erbe aromatiche, in equilibrio con note persistenti di verdure cotte. Al palato sorprende per la fluidità e per i toni decisi dell'amaro, che ricorda la mandorla, in armonia con il piccante di peperoncino. Una nota balsamica accompagna le sensazioni retrolfattive di cicoria e cardo, con chiusura netta di noce fresca. Nella latta da 3 litri, per la dispensa e la ristorazione.",
-            "de": "All'analisi descrittiva l'extravergine Frantoio Badia mostra all'olfatto un fruttato di oliva di media intensità, che ricorda le drupe colte verdi, con decisi sentori di mela golden, erba, pomodoro ed erbe aromatiche, in equilibrio con note persistenti di verdure cotte. Al palato sorprende per la fluidità e per i toni decisi dell'amaro, che ricorda la mandorla, in armonia con il piccante di peperoncino. Una nota balsamica accompagna le sensazioni retrolfattive di cicoria e cardo, con chiusura netta di noce fresca. Nella latta da 3 litri, per la dispensa e la ristorazione."
+            "it": "All'analisi descrittiva l'extravergine Frantoio Badia mostra all'olfatto un fruttato di oliva di media intensità, che ricorda le drupe colte verdi, con decisi sentori di mela golden, erba, pomodoro ed erbe aromatiche, in equilibrio con note persistenti di verdure cotte. Al palato sorprende per la fluidità e per i toni decisi dell'amaro, che ricorda la mandorla, in armonia con il piccante di peperoncino. Una nota balsamica accompagna le sensazioni retrolfattive di cicoria e cardo, con chiusura netta di noce fresca. Nella latta da 3 litri, per la dispensa e la ristorazione."
           },
           "a": {
-            "it": "A crudo su verdure, legumi, zuppe, pesce e carni alla griglia. Conservare in luogo fresco, al riparo da luce e calore.",
-            "en": "A crudo su verdure, legumi, zuppe, pesce e carni alla griglia. Conservare in luogo fresco, al riparo da luce e calore.",
-            "de": "A crudo su verdure, legumi, zuppe, pesce e carni alla griglia. Conservare in luogo fresco, al riparo da luce e calore."
+            "it": "A crudo su verdure, legumi, zuppe, pesce e carni alla griglia. Conservare in luogo fresco, al riparo da luce e calore."
           }
         },
         "V-35-2": {
           "c": [],
           "pr": "69,90 € (shop T.F.I.)",
           "d": {
-            "it": "All'analisi descrittiva l'extravergine Frantoio Badia mostra all'olfatto un fruttato di oliva di media intensità, che ricorda le drupe colte verdi, con decisi sentori di mela golden, erba, pomodoro ed erbe aromatiche, in equilibrio con note persistenti di verdure cotte. Al palato sorprende per la fluidità e per i toni decisi dell'amaro, che ricorda la mandorla, in armonia con il piccante di peperoncino. Una nota balsamica accompagna le sensazioni retrolfattive di cicoria e cardo, con chiusura netta di noce fresca. Nella latta da 5 litri, per la dispensa e la ristorazione.",
-            "en": "All'analisi descrittiva l'extravergine Frantoio Badia mostra all'olfatto un fruttato di oliva di media intensità, che ricorda le drupe colte verdi, con decisi sentori di mela golden, erba, pomodoro ed erbe aromatiche, in equilibrio con note persistenti di verdure cotte. Al palato sorprende per la fluidità e per i toni decisi dell'amaro, che ricorda la mandorla, in armonia con il piccante di peperoncino. Una nota balsamica accompagna le sensazioni retrolfattive di cicoria e cardo, con chiusura netta di noce fresca. Nella latta da 5 litri, per la dispensa e la ristorazione.",
-            "de": "All'analisi descrittiva l'extravergine Frantoio Badia mostra all'olfatto un fruttato di oliva di media intensità, che ricorda le drupe colte verdi, con decisi sentori di mela golden, erba, pomodoro ed erbe aromatiche, in equilibrio con note persistenti di verdure cotte. Al palato sorprende per la fluidità e per i toni decisi dell'amaro, che ricorda la mandorla, in armonia con il piccante di peperoncino. Una nota balsamica accompagna le sensazioni retrolfattive di cicoria e cardo, con chiusura netta di noce fresca. Nella latta da 5 litri, per la dispensa e la ristorazione."
+            "it": "All'analisi descrittiva l'extravergine Frantoio Badia mostra all'olfatto un fruttato di oliva di media intensità, che ricorda le drupe colte verdi, con decisi sentori di mela golden, erba, pomodoro ed erbe aromatiche, in equilibrio con note persistenti di verdure cotte. Al palato sorprende per la fluidità e per i toni decisi dell'amaro, che ricorda la mandorla, in armonia con il piccante di peperoncino. Una nota balsamica accompagna le sensazioni retrolfattive di cicoria e cardo, con chiusura netta di noce fresca. Nella latta da 5 litri, per la dispensa e la ristorazione."
           },
           "a": {
-            "it": "A crudo su verdure, legumi, zuppe, pesce e carni alla griglia. Conservare in luogo fresco, al riparo da luce e calore.",
-            "en": "A crudo su verdure, legumi, zuppe, pesce e carni alla griglia. Conservare in luogo fresco, al riparo da luce e calore.",
-            "de": "A crudo su verdure, legumi, zuppe, pesce e carni alla griglia. Conservare in luogo fresco, al riparo da luce e calore."
+            "it": "A crudo su verdure, legumi, zuppe, pesce e carni alla griglia. Conservare in luogo fresco, al riparo da luce e calore."
           }
         },
         "V-35-3": {
@@ -11201,14 +11133,10 @@ window.VETRINE = {
           ],
           "pr": "250 ml 6,90 € · 500 ml 8,90 € · 750 ml 12,90 € (shop T.F.I.)",
           "d": {
-            "it": "Extravergine biologico Frantoio Badia. All'analisi descrittiva l'extravergine Frantoio Badia mostra all'olfatto un fruttato di oliva di media intensità, che ricorda le drupe colte verdi, con decisi sentori di mela golden, erba, pomodoro ed erbe aromatiche, in equilibrio con note persistenti di verdure cotte. Al palato sorprende per la fluidità e per i toni decisi dell'amaro, che ricorda la mandorla, in armonia con il piccante di peperoncino. Una nota balsamica accompagna le sensazioni retrolfattive di cicoria e cardo, con chiusura netta di noce fresca.",
-            "en": "Extravergine biologico Frantoio Badia. All'analisi descrittiva l'extravergine Frantoio Badia mostra all'olfatto un fruttato di oliva di media intensità, che ricorda le drupe colte verdi, con decisi sentori di mela golden, erba, pomodoro ed erbe aromatiche, in equilibrio con note persistenti di verdure cotte. Al palato sorprende per la fluidità e per i toni decisi dell'amaro, che ricorda la mandorla, in armonia con il piccante di peperoncino. Una nota balsamica accompagna le sensazioni retrolfattive di cicoria e cardo, con chiusura netta di noce fresca.",
-            "de": "Extravergine biologico Frantoio Badia. All'analisi descrittiva l'extravergine Frantoio Badia mostra all'olfatto un fruttato di oliva di media intensità, che ricorda le drupe colte verdi, con decisi sentori di mela golden, erba, pomodoro ed erbe aromatiche, in equilibrio con note persistenti di verdure cotte. Al palato sorprende per la fluidità e per i toni decisi dell'amaro, che ricorda la mandorla, in armonia con il piccante di peperoncino. Una nota balsamica accompagna le sensazioni retrolfattive di cicoria e cardo, con chiusura netta di noce fresca."
+            "it": "Extravergine biologico Frantoio Badia. All'analisi descrittiva l'extravergine Frantoio Badia mostra all'olfatto un fruttato di oliva di media intensità, che ricorda le drupe colte verdi, con decisi sentori di mela golden, erba, pomodoro ed erbe aromatiche, in equilibrio con note persistenti di verdure cotte. Al palato sorprende per la fluidità e per i toni decisi dell'amaro, che ricorda la mandorla, in armonia con il piccante di peperoncino. Una nota balsamica accompagna le sensazioni retrolfattive di cicoria e cardo, con chiusura netta di noce fresca."
           },
           "a": {
-            "it": "A crudo su verdure, legumi, zuppe, pesce e carni alla griglia. Conservare in luogo fresco, al riparo da luce e calore.",
-            "en": "A crudo su verdure, legumi, zuppe, pesce e carni alla griglia. Conservare in luogo fresco, al riparo da luce e calore.",
-            "de": "A crudo su verdure, legumi, zuppe, pesce e carni alla griglia. Conservare in luogo fresco, al riparo da luce e calore."
+            "it": "A crudo su verdure, legumi, zuppe, pesce e carni alla griglia. Conservare in luogo fresco, al riparo da luce e calore."
           }
         },
         "V-35-4": {
@@ -11217,28 +11145,20 @@ window.VETRINE = {
           ],
           "pr": "9,50 € (shop T.F.I.)",
           "d": {
-            "it": "Extravergine biologico aromatizzato, nato per unire il meglio dell'olio agli aromi tipici della Calabria. Tre gusti: limone, arancia e peperoncino.",
-            "en": "Extravergine biologico aromatizzato, nato per unire il meglio dell'olio agli aromi tipici della Calabria. Tre gusti: limone, arancia e peperoncino.",
-            "de": "Extravergine biologico aromatizzato, nato per unire il meglio dell'olio agli aromi tipici della Calabria. Tre gusti: limone, arancia e peperoncino."
+            "it": "Extravergine biologico aromatizzato, nato per unire il meglio dell'olio agli aromi tipici della Calabria. Tre gusti: limone, arancia e peperoncino."
           },
           "a": {
-            "it": "Si accosta a piatti vari: il limone e l'arancia su pesce, insalate e carni bianche, il peperoncino su pasta, pizza e legumi.",
-            "en": "Si accosta a piatti vari: il limone e l'arancia su pesce, insalate e carni bianche, il peperoncino su pasta, pizza e legumi.",
-            "de": "Si accosta a piatti vari: il limone e l'arancia su pesce, insalate e carni bianche, il peperoncino su pasta, pizza e legumi."
+            "it": "Si accosta a piatti vari: il limone e l'arancia su pesce, insalate e carni bianche, il peperoncino su pasta, pizza e legumi."
           }
         },
         "V-35-5": {
           "c": [],
           "pr": "77,30 € (shop T.F.I.)",
           "d": {
-            "it": "Box con cinque referenze: un extravergine da 500 ml, un extravergine da 1 litro, un extravergine Bio da 500 ml, un Bio aromatizzato al limone da 250 ml e un Bio aromatizzato al peperoncino da 250 ml.",
-            "en": "Box con cinque referenze: un extravergine da 500 ml, un extravergine da 1 litro, un extravergine Bio da 500 ml, un Bio aromatizzato al limone da 250 ml e un Bio aromatizzato al peperoncino da 250 ml.",
-            "de": "Box con cinque referenze: un extravergine da 500 ml, un extravergine da 1 litro, un extravergine Bio da 500 ml, un Bio aromatizzato al limone da 250 ml e un Bio aromatizzato al peperoncino da 250 ml."
+            "it": "Box con cinque referenze: un extravergine da 500 ml, un extravergine da 1 litro, un extravergine Bio da 500 ml, un Bio aromatizzato al limone da 250 ml e un Bio aromatizzato al peperoncino da 250 ml."
           },
           "a": {
-            "it": "Per gli usi si veda la scheda di ciascun olio.",
-            "en": "Per gli usi si veda la scheda di ciascun olio.",
-            "de": "Per gli usi si veda la scheda di ciascun olio."
+            "it": "Per gli usi si veda la scheda di ciascun olio."
           }
         }
       },
@@ -11338,104 +11258,1925 @@ window.VETRINE = {
           "c": [],
           "pr": "19,90 € (shop T.F.I.)",
           "d": {
-            "it": "Spumante Metodo Classico. Uve: 100% Bombino Bianco (IGP Puglia), zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 24 mesi. Gradazione 12,5% vol.",
-            "en": "Spumante Metodo Classico. Uve: 100% Bombino Bianco (IGP Puglia), zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 24 mesi. Gradazione 12,5% vol.",
-            "de": "Spumante Metodo Classico. Uve: 100% Bombino Bianco (IGP Puglia), zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 24 mesi. Gradazione 12,5% vol."
+            "it": "Spumante Metodo Classico. Uve: 100% Bombino Bianco (IGP Puglia), zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 24 mesi. Gradazione 12,5% vol."
           },
           "a": {
-            "it": "Ideale per aperitivi, crudi di mare, antipasti misti e portate di pesce.",
-            "en": "Ideale per aperitivi, crudi di mare, antipasti misti e portate di pesce.",
-            "de": "Ideale per aperitivi, crudi di mare, antipasti misti e portate di pesce."
+            "it": "Ideale per aperitivi, crudi di mare, antipasti misti e portate di pesce."
           }
         },
         "V-36-1": {
           "c": [],
           "pr": "19,90 € (shop T.F.I.)",
           "d": {
-            "it": "Spumante Metodo Classico. Uve: 100% Bombino Bianco (IGP Puglia) vinificato in purezza, zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 24 mesi. Gradazione 12,5% vol.",
-            "en": "Spumante Metodo Classico. Uve: 100% Bombino Bianco (IGP Puglia) vinificato in purezza, zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 24 mesi. Gradazione 12,5% vol.",
-            "de": "Spumante Metodo Classico. Uve: 100% Bombino Bianco (IGP Puglia) vinificato in purezza, zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 24 mesi. Gradazione 12,5% vol."
+            "it": "Spumante Metodo Classico. Uve: 100% Bombino Bianco (IGP Puglia) vinificato in purezza, zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 24 mesi. Gradazione 12,5% vol."
           },
           "a": {
-            "it": "Accompagna ogni pasto, dall'aperitivo al dolce.",
-            "en": "Accompagna ogni pasto, dall'aperitivo al dolce.",
-            "de": "Accompagna ogni pasto, dall'aperitivo al dolce."
+            "it": "Accompagna ogni pasto, dall'aperitivo al dolce."
           }
         },
         "V-36-2": {
           "c": [],
           "pr": "21,90 € (shop T.F.I.)",
           "d": {
-            "it": "Spumante Metodo Classico. Uve: 60% Bombino Bianco (IGP Puglia) e 40% Pinot Nero, zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 24 mesi. Gradazione 12,5% vol.",
-            "en": "Spumante Metodo Classico. Uve: 60% Bombino Bianco (IGP Puglia) e 40% Pinot Nero, zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 24 mesi. Gradazione 12,5% vol.",
-            "de": "Spumante Metodo Classico. Uve: 60% Bombino Bianco (IGP Puglia) e 40% Pinot Nero, zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 24 mesi. Gradazione 12,5% vol."
+            "it": "Spumante Metodo Classico. Uve: 60% Bombino Bianco (IGP Puglia) e 40% Pinot Nero, zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 24 mesi. Gradazione 12,5% vol."
           },
           "a": {
-            "it": "Eccellente come aperitivo, indicato a tutto pasto.",
-            "en": "Eccellente come aperitivo, indicato a tutto pasto.",
-            "de": "Eccellente come aperitivo, indicato a tutto pasto."
+            "it": "Eccellente come aperitivo, indicato a tutto pasto."
           }
         },
         "V-36-3": {
           "c": [],
           "pr": "19,90 € (shop T.F.I.)",
           "d": {
-            "it": "Spumante Metodo Classico. Uve: 100% Pinot Nero (IGP Puglia), zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 24 mesi. Gradazione 12,5% vol.",
-            "en": "Spumante Metodo Classico. Uve: 100% Pinot Nero (IGP Puglia), zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 24 mesi. Gradazione 12,5% vol.",
-            "de": "Spumante Metodo Classico. Uve: 100% Pinot Nero (IGP Puglia), zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 24 mesi. Gradazione 12,5% vol."
+            "it": "Spumante Metodo Classico. Uve: 100% Pinot Nero (IGP Puglia), zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 24 mesi. Gradazione 12,5% vol."
           },
           "a": {
-            "it": "Eccellente come aperitivo, ideale con piatti di pesce e carni bianche.",
-            "en": "Eccellente come aperitivo, ideale con piatti di pesce e carni bianche.",
-            "de": "Eccellente come aperitivo, ideale con piatti di pesce e carni bianche."
+            "it": "Eccellente come aperitivo, ideale con piatti di pesce e carni bianche."
           }
         },
         "V-36-4": {
           "c": [],
           "pr": "25,90 € (shop T.F.I.)",
           "d": {
-            "it": "Spumante Metodo Classico. Uve: 100% Nero di Troia, zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 36 mesi. Gradazione 12,5% vol.",
-            "en": "Spumante Metodo Classico. Uve: 100% Nero di Troia, zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 36 mesi. Gradazione 12,5% vol.",
-            "de": "Spumante Metodo Classico. Uve: 100% Nero di Troia, zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 36 mesi. Gradazione 12,5% vol."
+            "it": "Spumante Metodo Classico. Uve: 100% Nero di Troia, zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 36 mesi. Gradazione 12,5% vol."
           },
           "a": {
-            "it": "Eccellente come aperitivo, ideale con piatti di pesce e carni bianche.",
-            "en": "Eccellente come aperitivo, ideale con piatti di pesce e carni bianche.",
-            "de": "Eccellente come aperitivo, ideale con piatti di pesce e carni bianche."
+            "it": "Eccellente come aperitivo, ideale con piatti di pesce e carni bianche."
           }
         },
         "V-36-5": {
           "c": [],
           "pr": "79,90 € (shop T.F.I.)",
           "d": {
-            "it": "Spumante Metodo Classico. Uve: 60% Bombino Bianco e 40% Pinot Nero, non dosato, zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 48 mesi. Gradazione 12,5% vol. Edizione limitata di 100 bottiglie numerate con etichetta esclusiva, in confezione regalo di legno.",
-            "en": "Spumante Metodo Classico. Uve: 60% Bombino Bianco e 40% Pinot Nero, non dosato, zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 48 mesi. Gradazione 12,5% vol. Edizione limitata di 100 bottiglie numerate con etichetta esclusiva, in confezione regalo di legno.",
-            "de": "Spumante Metodo Classico. Uve: 60% Bombino Bianco e 40% Pinot Nero, non dosato, zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 48 mesi. Gradazione 12,5% vol. Edizione limitata di 100 bottiglie numerate con etichetta esclusiva, in confezione regalo di legno."
+            "it": "Spumante Metodo Classico. Uve: 60% Bombino Bianco e 40% Pinot Nero, non dosato, zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 48 mesi. Gradazione 12,5% vol. Edizione limitata di 100 bottiglie numerate con etichetta esclusiva, in confezione regalo di legno."
           },
           "a": {
-            "it": "Eccellente come aperitivo, ideale con piatti di pesce e carni bianche.",
-            "en": "Eccellente come aperitivo, ideale con piatti di pesce e carni bianche.",
-            "de": "Eccellente come aperitivo, ideale con piatti di pesce e carni bianche."
+            "it": "Eccellente come aperitivo, ideale con piatti di pesce e carni bianche."
           }
         },
         "V-36-6": {
           "c": [],
           "pr": "75,90 € (shop T.F.I.)",
           "d": {
-            "it": "Spumante Metodo Classico. Uve: 100% Nero di Troia, zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 36 mesi. Gradazione 12,5% vol. Magnum in confezione regalo di legno.",
-            "en": "Spumante Metodo Classico. Uve: 100% Nero di Troia, zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 36 mesi. Gradazione 12,5% vol. Magnum in confezione regalo di legno.",
-            "de": "Spumante Metodo Classico. Uve: 100% Nero di Troia, zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 36 mesi. Gradazione 12,5% vol. Magnum in confezione regalo di legno."
+            "it": "Spumante Metodo Classico. Uve: 100% Nero di Troia, zona di San Severo. Terreno argilloso-calcareo, allevamento a spalliera, resa di 100-120 quintali per ettaro, vendemmia a fine agosto. Vinificazione in bianco in cisterne d'acciaio a temperatura non superiore a 13 °C; presa di spuma con metodo classico e permanenza sui lieviti in bottiglia per almeno 36 mesi. Gradazione 12,5% vol. Magnum in confezione regalo di legno."
           },
           "a": {
-            "it": "Eccellente come aperitivo, ideale con piatti di pesce e carni bianche.",
-            "en": "Eccellente come aperitivo, ideale con piatti di pesce e carni bianche.",
-            "de": "Eccellente come aperitivo, ideale con piatti di pesce e carni bianche."
+            "it": "Eccellente come aperitivo, ideale con piatti di pesce e carni bianche."
           }
         }
       },
       "fonti": [
         "https://tipicifoodsitaly.it/categoria-prodotto/aziende-partner/cantine/spumanti-e-prosecchi-cantine-re-dauno/",
         "https://cantineredauno.it/"
+      ]
+    },
+    {
+      "id": "V-37",
+      "n": "Michele Brezzo",
+      "cat": "vino",
+      "reg": "Piemonte",
+      "city": "Santo Stefano Roero (CN)",
+      "lat": 44.789,
+      "lng": 7.94,
+      "y": 1921,
+      "certs": [
+        "DOCG",
+        "DOC"
+      ],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "d": {
+        "it": "L'Azienda Agricola Michele Brezzo è una cantina di famiglia del Roero, a Santo Stefano Roero, in provincia di Cuneo, che produce vino secondo tradizione dal 1921. Da alcuni anni Gianni Brezzo è subentrato ai genitori nella conduzione e sta dando ai vini un'impronta via via più moderna, sempre nel segno di una qualità autentica legata al territorio, “dalla vigna al calice”. In gamma i grandi vitigni piemontesi: Barbera, Nebbiolo e Arneis, nelle denominazioni Piemonte Barbera, Barbera d'Alba, Langhe Nebbiolo, Langhe Rosato, Roero e Roero Arneis, ciascuno con un nome in dialetto. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy.",
+        "en": "L'Azienda Agricola Michele Brezzo è una cantina di famiglia del Roero, a Santo Stefano Roero, in provincia di Cuneo, che produce vino secondo tradizione dal 1921. Da alcuni anni Gianni Brezzo è subentrato ai genitori nella conduzione e sta dando ai vini un'impronta via via più moderna, sempre nel segno di una qualità autentica legata al territorio, “dalla vigna al calice”. In gamma i grandi vitigni piemontesi: Barbera, Nebbiolo e Arneis, nelle denominazioni Piemonte Barbera, Barbera d'Alba, Langhe Nebbiolo, Langhe Rosato, Roero e Roero Arneis, ciascuno con un nome in dialetto. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy.",
+        "de": "L'Azienda Agricola Michele Brezzo è una cantina di famiglia del Roero, a Santo Stefano Roero, in provincia di Cuneo, che produce vino secondo tradizione dal 1921. Da alcuni anni Gianni Brezzo è subentrato ai genitori nella conduzione e sta dando ai vini un'impronta via via più moderna, sempre nel segno di una qualità autentica legata al territorio, “dalla vigna al calice”. In gamma i grandi vitigni piemontesi: Barbera, Nebbiolo e Arneis, nelle denominazioni Piemonte Barbera, Barbera d'Alba, Langhe Nebbiolo, Langhe Rosato, Roero e Roero Arneis, ciascuno con un nome in dialetto. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy."
+      },
+      "sub": [
+        {
+          "k": "rossi",
+          "cat": "vino",
+          "n": {
+            "it": "Vini rossi",
+            "en": "Vini rossi",
+            "de": "Vini rossi"
+          }
+        },
+        {
+          "k": "bianchi",
+          "cat": "vino",
+          "n": {
+            "it": "Bianco e rosato",
+            "en": "Bianco e rosato",
+            "de": "Bianco e rosato"
+          }
+        },
+        {
+          "k": "box",
+          "cat": "vino",
+          "n": {
+            "it": "Box",
+            "en": "Box",
+            "de": "Box"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Ahuè, Piemonte Barbera DOC",
+          "bottiglia da 750 ml",
+          "rossi"
+        ],
+        [
+          "Maiè, Barbera d'Alba DOC",
+          "bottiglia da 750 ml",
+          "rossi"
+        ],
+        [
+          "Ruè, Langhe Nebbiolo DOC",
+          "bottiglia da 750 ml",
+          "rossi"
+        ],
+        [
+          "La Drè, Roero DOCG",
+          "bottiglia da 750 ml",
+          "rossi"
+        ],
+        [
+          "Terè, Roero Arneis DOCG",
+          "bottiglia da 750 ml",
+          "bianchi"
+        ],
+        [
+          "Rüs, Langhe Rosato DOC",
+          "bottiglia da 750 ml",
+          "bianchi"
+        ],
+        [
+          "Box Vini Rossi Brezzo",
+          "confezione da 6 bottiglie da 750 ml",
+          "box"
+        ],
+        [
+          "Box Vini Mix Brezzo",
+          "confezione da 6 bottiglie da 750 ml",
+          "box"
+        ]
+      ],
+      "pd": {
+        "V-37-0": {
+          "c": [
+            "DOC"
+          ],
+          "pr": "8,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Barbera 100%. Fermentazione e maturazione in vasche di acciaio. Colore rosso rubino carico, profumo intenso, sapore amabile. Gradazione 12,5% vol. Un rosso adatto al consumo quotidiano."
+          },
+          "a": {
+            "it": "Si accompagna a qualsiasi tipo di piatto. Servire a 18 °C."
+          }
+        },
+        "V-37-1": {
+          "c": [
+            "DOC"
+          ],
+          "pr": "11,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Barbera 100%. Fermentazione e maturazione in vasche di acciaio, affinamento in botti di rovere per 10 mesi. Rosso rubino corposo, profumo vinoso intenso e di ciliegia, sapore asciutto e di acidità amabile. Gradazione 14,5% vol."
+          },
+          "a": {
+            "it": "Consigliato con carni rosse, selvaggina e formaggi. Servire a 18 °C."
+          }
+        },
+        "V-37-2": {
+          "c": [
+            "DOC"
+          ],
+          "pr": "11,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Nebbiolo 100%. Fermentazione e maturazione in vasche di acciaio, affinamento in botti di rovere per 8 mesi e poi in bottiglia. Colore rosso rubino carico, profumo mandorlato, sapore pieno con tannini morbidi. Gradazione 13,5% vol."
+          },
+          "a": {
+            "it": "Si accompagna bene a ogni tipo di piatto. Servire a 18 °C."
+          }
+        },
+        "V-37-3": {
+          "c": [
+            "DOCG"
+          ],
+          "pr": "13,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Nebbiolo 100%. Fermentazione in acciaio, affinamento in botti di rovere per 10 mesi e poi in bottiglia. Colore rosso rubino con riflessi granati, profumo delicato e mandorlato tipico del Nebbiolo del Roero; sapore di buon corpo, armonico e di apprezzabile persistenza. Gradazione 14% vol."
+          },
+          "a": {
+            "it": "Con ogni tipo di piatto, in particolare carni rosse, selvaggina e formaggi. Servire a 18 °C."
+          }
+        },
+        "V-37-4": {
+          "c": [
+            "DOCG"
+          ],
+          "pr": "11,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Arneis 100%. Pressatura soffice, fermentazione a 16 gradi e maturazione sui lieviti fini in acciaio. Colore giallo paglierino con riflessi ambrati, profumo fruttato e delicato, sapore piacevole, amabile e vellutato. Gradazione 13,5% vol."
+          },
+          "a": {
+            "it": "Consigliato con antipasti, carni bianche delicate e pesce cucinato nei modi più svariati. Servire a 7-10 °C."
+          }
+        },
+        "V-37-5": {
+          "c": [
+            "DOC"
+          ],
+          "pr": "11,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Nebbiolo 100% vinificato in rosato. Fermentazione in bianco a bassa temperatura e poi in bottiglia. Colore rosato, profumo fresco, fruttato e delicato, sapore asciutto. Gradazione 12,5% vol."
+          },
+          "a": {
+            "it": "Si accompagna bene a ogni tipo di piatto. Servire a 7-10 °C."
+          }
+        },
+        "V-37-6": {
+          "c": [
+            "DOCG",
+            "DOC"
+          ],
+          "pr": "68,40 € (shop T.F.I.)",
+          "d": {
+            "it": "Box di vini rossi DOC e DOCG con 6 bottiglie in due varietà: 3 bottiglie di Piemonte Barbera DOC “Ahuè” e 3 bottiglie di Roero DOCG “La Drè”."
+          },
+          "a": {
+            "it": "Per gli abbinamenti si veda la scheda di ciascun vino."
+          }
+        },
+        "V-37-7": {
+          "c": [
+            "DOCG",
+            "DOC"
+          ],
+          "pr": "71,40 € (shop T.F.I.)",
+          "d": {
+            "it": "Box di vini DOC e DOCG assortiti con 6 bottiglie: 2 di Barbera d'Alba DOC “Maiè”, 2 di Langhe Rosato DOC “Rüs” e 2 di Roero Arneis DOCG “Terè”."
+          },
+          "a": {
+            "it": "Per gli abbinamenti si veda la scheda di ciascun vino."
+          }
+        }
+      },
+      "fonti": [
+        "https://tipicifoodsitaly.it/categoria-prodotto/aziende-partner/cantine/vini-cantine-brezzo/",
+        "https://www.michelebrezzo.it/",
+        "https://in-wine.com/it/brand/92-michele-brezzo"
+      ]
+    },
+    {
+      "id": "V-38",
+      "n": "Suinovo",
+      "cat": "salumi",
+      "reg": "Calabria",
+      "city": "Gioiosa Ionica (RC)",
+      "lat": 38.332,
+      "lng": 16.303,
+      "y": 1978,
+      "certs": [],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "d": {
+        "it": "Suinovo è un salumificio artigianale calabrese con sede a Gioiosa Ionica e allevamento a Grotteria, in provincia di Reggio Calabria. Fondato nel 1978 da Cosimo Fuda, è oggi guidato dalla seconda generazione della famiglia. Una parte delle carni arriva dall'allevamento aziendale, che conta circa 3.000 suini l'anno; quando non basta si aggiungono carni di fornitori selezionati per qualità. La lavorazione segue la tradizione salumiera calabrese, con tecnologie e controlli moderni e grande cura della stagionatura. La filosofia è partire dalla materia prima, rispettarla e migliorare di continuo il prodotto, per portare in Italia e all'estero salumi con una provenienza precisa e un'identità riconoscibile. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy.",
+        "en": "Suinovo è un salumificio artigianale calabrese con sede a Gioiosa Ionica e allevamento a Grotteria, in provincia di Reggio Calabria. Fondato nel 1978 da Cosimo Fuda, è oggi guidato dalla seconda generazione della famiglia. Una parte delle carni arriva dall'allevamento aziendale, che conta circa 3.000 suini l'anno; quando non basta si aggiungono carni di fornitori selezionati per qualità. La lavorazione segue la tradizione salumiera calabrese, con tecnologie e controlli moderni e grande cura della stagionatura. La filosofia è partire dalla materia prima, rispettarla e migliorare di continuo il prodotto, per portare in Italia e all'estero salumi con una provenienza precisa e un'identità riconoscibile. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy.",
+        "de": "Suinovo è un salumificio artigianale calabrese con sede a Gioiosa Ionica e allevamento a Grotteria, in provincia di Reggio Calabria. Fondato nel 1978 da Cosimo Fuda, è oggi guidato dalla seconda generazione della famiglia. Una parte delle carni arriva dall'allevamento aziendale, che conta circa 3.000 suini l'anno; quando non basta si aggiungono carni di fornitori selezionati per qualità. La lavorazione segue la tradizione salumiera calabrese, con tecnologie e controlli moderni e grande cura della stagionatura. La filosofia è partire dalla materia prima, rispettarla e migliorare di continuo il prodotto, per portare in Italia e all'estero salumi con una provenienza precisa e un'identità riconoscibile. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy."
+      },
+      "p": [
+        [
+          "Soppressata tradizionale",
+          "prezzo riferito a 1 kg"
+        ],
+        [
+          "Salsiccia: fresca, stagionata dolce o stagionata piccante",
+          "prezzo riferito a 1 kg"
+        ],
+        [
+          "Capocollo",
+          "prezzo riferito a 1 kg"
+        ],
+        [
+          "Lonza",
+          "prezzo riferito a 1 kg"
+        ],
+        [
+          "Pancetta arrotolata",
+          "prezzo riferito a 1 kg"
+        ],
+        [
+          "Pancetta tesa piccante",
+          "prezzo riferito a 1 kg"
+        ],
+        [
+          "Guanciale piccante",
+          "prezzo riferito a 1 kg"
+        ],
+        [
+          "Schiacciata calabrese piccante",
+          "prezzo riferito a 1 kg"
+        ],
+        [
+          "'Nduja",
+          "prezzo riferito a 1 kg"
+        ]
+      ],
+      "pd": {
+        "V-38-0": {
+          "c": [],
+          "pr": "19,90 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "Soppressata calabrese artigianale, dolce o leggermente piccante: racconta la tradizione calabrese con un gusto ricco ma equilibrato e un profilo aromatico armonioso, ideale per ogni momento di condivisione."
+          },
+          "a": {
+            "it": "Per antipasti e taglieri, con pane casereccio, formaggi e conserve della tradizione mediterranea."
+          }
+        },
+        "V-38-1": {
+          "c": [],
+          "pr": "fresca 13,90 € al kg · stagionata dolce o piccante 18,50 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "Salsiccia calabrese artigianale dal gusto rotondo e armonioso, il lato più equilibrato della tradizione salumiera calabrese. Disponibile fresca, stagionata dolce (adatta anche a chi preferisce un salume senza nota piccante) e stagionata piccante."
+          },
+          "a": {
+            "it": "Stagionata al tagliere e nei panini; fresca alla griglia o in padella."
+          }
+        },
+        "V-38-2": {
+          "c": [],
+          "pr": "22,90 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "Capocollo calabrese artigianale, dolce o piccante: interpreta la tradizione calabrese con un gusto ricco e armonioso. Un salume da taglio per chi cerca qualità, autenticità e versatilità a tavola."
+          },
+          "a": {
+            "it": "A fette sottili con pane, formaggi e conserve; perfetto anche in un panino di qualità."
+          }
+        },
+        "V-38-3": {
+          "c": [],
+          "pr": "21,90 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "Lonza calabrese artigianale, dolce o piccante: un salume dal profilo più asciutto e dal gusto equilibrato, lavorato artigianalmente in Calabria e versatile in ogni occasione."
+          },
+          "a": {
+            "it": "A fette sottili per aperitivi e antipasti, in panini, insalate e taglieri dal gusto più delicato."
+          }
+        },
+        "V-38-4": {
+          "c": [],
+          "pr": "14,90 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "Pancetta arrotolata calabrese artigianale, dolce o piccante. La forma arrotolata e la lavorazione artigianale raccontano un salume autentico, dal gusto ricco e armonioso, con o senza nota piccante a seconda dei gusti e delle preparazioni."
+          },
+          "a": {
+            "it": "A fette sottili per aperitivi e antipasti, nei panini e soprattutto nella preparazione dei primi piatti."
+          }
+        },
+        "V-38-5": {
+          "c": [],
+          "pr": "17,90 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "Pancetta tesa calabrese piccante artigianale, per chi cerca un salume di grande carattere: gusto pieno e nota piccante che la rendono protagonista in cucina e nei taglieri più rustici."
+          },
+          "a": {
+            "it": "Affettata sottile al tagliere oppure per arricchire sughi, paste e contorni."
+          }
+        },
+        "V-38-6": {
+          "c": [],
+          "pr": "13,90 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "Guanciale calabrese piccante artigianale, dal gusto generoso e dalla marcata personalità. La lavorazione artigianale e la nota piccante lo rendono adatto sia al tagliere sia alla cucina."
+          },
+          "a": {
+            "it": "Affettato sottile al tagliere oppure in sughi, paste e contorni dal sapore intenso e rustico."
+          }
+        },
+        "V-38-7": {
+          "c": [],
+          "pr": "17,90 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "Schiacciata calabrese piccante artigianale, dalla forma caratteristica e dal sapore deciso: lavorata secondo la tradizione calabrese, unisce un profilo intenso a una nota piccante che lascia il segno."
+          },
+          "a": {
+            "it": "A fette su taglieri rustici con pane fragrante e formaggi; ottima anche nei panini."
+          }
+        },
+        "V-38-8": {
+          "c": [],
+          "pr": "12,90 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "'Nduja calabrese artigianale, specialità iconica della gastronomia calabrese: morbida e spalmabile, dal gusto intenso, avvolgente e piacevolmente piccante."
+          },
+          "a": {
+            "it": "Spalmata su pane caldo e bruschette, in sughi e pizze, oppure con formaggi e salumi in un aperitivo calabrese."
+          }
+        }
+      },
+      "fonti": [
+        "https://tipicifoodsitaly.it/categoria-prodotto/aziende-partner/salumi-suinovo/",
+        "https://suinovo.it/blogs/notizie/chi-siamo"
+      ]
+    },
+    {
+      "id": "V-39",
+      "n": "Caseificio Terre del Giarolo",
+      "cat": "formaggi",
+      "reg": "Piemonte",
+      "city": "Fabbrica Curone (AL)",
+      "lat": 44.757,
+      "lng": 9.152,
+      "y": 2020,
+      "certs": [],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "d": {
+        "it": "Il Caseificio Terre del Giarolo si trova a Fabbrica Curone, in Val Curone, ai piedi del Monte Giarolo, nei Colli Tortonesi in provincia di Alessandria. Nato nel 2020 da una famiglia che in un momento difficile ha unito le forze, lavora latte crudo vaccino, ovino e caprino dei pascoli del territorio, dove gli animali pascolano liberi. Qualità della materia prima, recupero di valori perduti, rispetto e tutela degli animali e del territorio sono i suoi ingredienti. È il caseificio del Montébore, formaggio rarissimo e di origini antichissime, prodotto con 70% di latte vaccino e 30% di latte ovino e salvato dall'estinzione alla fine degli anni Novanta. Accanto al Montébore produce formaggi a latte crudo come il Grattone, il Reblò, la Capriola, la Mollana della Val Borbera e la Mongiardina. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy.",
+        "en": "Il Caseificio Terre del Giarolo si trova a Fabbrica Curone, in Val Curone, ai piedi del Monte Giarolo, nei Colli Tortonesi in provincia di Alessandria. Nato nel 2020 da una famiglia che in un momento difficile ha unito le forze, lavora latte crudo vaccino, ovino e caprino dei pascoli del territorio, dove gli animali pascolano liberi. Qualità della materia prima, recupero di valori perduti, rispetto e tutela degli animali e del territorio sono i suoi ingredienti. È il caseificio del Montébore, formaggio rarissimo e di origini antichissime, prodotto con 70% di latte vaccino e 30% di latte ovino e salvato dall'estinzione alla fine degli anni Novanta. Accanto al Montébore produce formaggi a latte crudo come il Grattone, il Reblò, la Capriola, la Mollana della Val Borbera e la Mongiardina. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy.",
+        "de": "Il Caseificio Terre del Giarolo si trova a Fabbrica Curone, in Val Curone, ai piedi del Monte Giarolo, nei Colli Tortonesi in provincia di Alessandria. Nato nel 2020 da una famiglia che in un momento difficile ha unito le forze, lavora latte crudo vaccino, ovino e caprino dei pascoli del territorio, dove gli animali pascolano liberi. Qualità della materia prima, recupero di valori perduti, rispetto e tutela degli animali e del territorio sono i suoi ingredienti. È il caseificio del Montébore, formaggio rarissimo e di origini antichissime, prodotto con 70% di latte vaccino e 30% di latte ovino e salvato dall'estinzione alla fine degli anni Novanta. Accanto al Montébore produce formaggi a latte crudo come il Grattone, il Reblò, la Capriola, la Mollana della Val Borbera e la Mongiardina. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy."
+      },
+      "sub": [
+        {
+          "k": "montebore",
+          "cat": "formaggi",
+          "n": {
+            "it": "Montébore",
+            "en": "Montébore",
+            "de": "Montébore"
+          }
+        },
+        {
+          "k": "vaccini",
+          "cat": "formaggi",
+          "n": {
+            "it": "Latte vaccino",
+            "en": "Latte vaccino",
+            "de": "Latte vaccino"
+          }
+        },
+        {
+          "k": "ovini",
+          "cat": "formaggi",
+          "n": {
+            "it": "Latte ovino e caprino",
+            "en": "Latte ovino e caprino",
+            "de": "Latte ovino e caprino"
+          }
+        },
+        {
+          "k": "box",
+          "cat": "formaggi",
+          "n": {
+            "it": "Box",
+            "en": "Box",
+            "de": "Box"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Montébore Mini",
+          "forma da 350 g circa",
+          "montebore"
+        ],
+        [
+          "Montébore Misto",
+          "forma da 600-800 g circa",
+          "montebore"
+        ],
+        [
+          "Montébore Vintage",
+          "forma da 600 g circa",
+          "montebore"
+        ],
+        [
+          "Montébore Magnum",
+          "forma da 3,5 kg circa",
+          "montebore"
+        ],
+        [
+          "Cadetto di Montébore, 3 mesi",
+          "forma da 400 g circa",
+          "montebore"
+        ],
+        [
+          "Cadetto di Montébore, 6 mesi",
+          "forma da 400 g circa",
+          "montebore"
+        ],
+        [
+          "Grattone, 2 mesi",
+          "pezzo da 400 g circa",
+          "vaccini"
+        ],
+        [
+          "Grattone, 5 mesi",
+          "pezzo da 400 g circa",
+          "vaccini"
+        ],
+        [
+          "Reblò",
+          "forma da 500 g circa",
+          "vaccini"
+        ],
+        [
+          "Mollana della Val Borbera",
+          "forma da 350 g circa",
+          "vaccini"
+        ],
+        [
+          "Mongiardina vaccina",
+          "forma da 400 g circa",
+          "vaccini"
+        ],
+        [
+          "Mongiardina ovina",
+          "forma da 300 g circa",
+          "ovini"
+        ],
+        [
+          "Ruè vaccino",
+          "forma da 300 g circa",
+          "vaccini"
+        ],
+        [
+          "Ruè ovino",
+          "forma da 300 g circa",
+          "ovini"
+        ],
+        [
+          "Capriola",
+          "forma da 400 g circa",
+          "ovini"
+        ],
+        [
+          "Box “Formaggi da Montébore”",
+          "confezione da 5 formaggi",
+          "box"
+        ]
+      ],
+      "pd": {
+        "V-39-0": {
+          "c": [],
+          "pr": "13,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Il Montébore ha la caratteristica forma a torta nuziale, ottenuta sovrapponendo dopo la salatura tre forme di diametro decrescente. La crosta va dal giallo paglierino al nocciola scuro secondo la stagionatura, la pasta è color avorio. Vanta una storia antichissima: si narra che alla fine del 1489 fosse l'unico formaggio presente nel menu nuziale di Isabella d'Aragona e Gian Galeazzo Sforza. Nel formato Mini da circa 350 grammi."
+          },
+          "a": {
+            "it": "In purezza su un tagliere, con miele e confetture. Conservare a +4/7 °C."
+          }
+        },
+        "V-39-1": {
+          "c": [],
+          "pr": "22,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Il Montébore ha la caratteristica forma a torta nuziale, ottenuta sovrapponendo dopo la salatura tre forme di diametro decrescente. La crosta va dal giallo paglierino al nocciola scuro secondo la stagionatura, la pasta è color avorio. Vanta una storia antichissima: si narra che alla fine del 1489 fosse l'unico formaggio presente nel menu nuziale di Isabella d'Aragona e Gian Galeazzo Sforza. Forma da circa 600-800 grammi."
+          },
+          "a": {
+            "it": "In purezza su un tagliere, con miele e confetture. Conservare a +4/7 °C."
+          }
+        },
+        "V-39-2": {
+          "c": [],
+          "pr": "25,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Il Montébore ha la caratteristica forma a torta nuziale, ottenuta sovrapponendo dopo la salatura tre forme di diametro decrescente. La crosta va dal giallo paglierino al nocciola scuro secondo la stagionatura, la pasta è color avorio. Vanta una storia antichissima: si narra che alla fine del 1489 fosse l'unico formaggio presente nel menu nuziale di Isabella d'Aragona e Gian Galeazzo Sforza. Versione Vintage, in forma da circa 600 grammi."
+          },
+          "a": {
+            "it": "In purezza su un tagliere, con miele e confetture. Conservare a +4/7 °C."
+          }
+        },
+        "V-39-3": {
+          "c": [],
+          "pr": "129,00 € (shop T.F.I.)",
+          "d": {
+            "it": "Il Montébore ha la caratteristica forma a torta nuziale, ottenuta sovrapponendo dopo la salatura tre forme di diametro decrescente. La crosta va dal giallo paglierino al nocciola scuro secondo la stagionatura, la pasta è color avorio. Vanta una storia antichissima: si narra che alla fine del 1489 fosse l'unico formaggio presente nel menu nuziale di Isabella d'Aragona e Gian Galeazzo Sforza. Formato Magnum da circa 3,5 kg."
+          },
+          "a": {
+            "it": "In purezza su un tagliere, con miele e confetture. Conservare a +4/7 °C."
+          }
+        },
+        "V-39-4": {
+          "c": [],
+          "pr": "15,90 € al pezzo, 34,90 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "Prodotto con latte ovino crudo dei pascoli del territorio. La crosta va dal giallo paglierino al nocciola scuro secondo la stagionatura, la pasta è color avorio. Aroma evoluto di fieno, frutta secca, stalla e burro fuso; leggermente sapido, con una tendenza dolce e una vena acida che ne conserva la freschezza. Ingredienti: latte crudo ovino, caglio naturale di vitello, fermenti lattici, sale. Cagliata presamica a 35-37 °C, salatura a secco, pasta da taglio; forma di 10 cm di diametro e 4 cm di altezza. Allergeni: latte ovino. Stagionato 3 mesi."
+          },
+          "a": {
+            "it": "Conservare a +4/7 °C."
+          }
+        },
+        "V-39-5": {
+          "c": [],
+          "pr": "17,90 € al pezzo, 39,90 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "Prodotto con latte ovino crudo dei pascoli del territorio. La crosta va dal giallo paglierino al nocciola scuro secondo la stagionatura, la pasta è color avorio. Aroma evoluto di fieno, frutta secca, stalla e burro fuso; leggermente sapido, con una tendenza dolce e una vena acida che ne conserva la freschezza. Ingredienti: latte crudo ovino, caglio naturale di vitello, fermenti lattici, sale. Cagliata presamica a 35-37 °C, salatura a secco, pasta da taglio; forma di 10 cm di diametro e 4 cm di altezza. Allergeni: latte ovino. Stagionato 6 mesi."
+          },
+          "a": {
+            "it": "Conservare a +4/7 °C."
+          }
+        },
+        "V-39-6": {
+          "c": [],
+          "pr": "12,90 € al pezzo, 25,90 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "Prende il nome dalla famiglia fondatrice del caseificio e dal suo creatore, Roberto Grattone. Toma a base di latte crudo vaccino delle valli che circondano il caseificio, ricco di aromi vegetali tipici del territorio: sentori lattici, freschi e burrosi, ottima sia giovane sia stagionata, quando acquista un profilo più strutturato e complesso. Forma piatta con superficie rugosa coperta da lieviti nobili bianchi. Ingredienti: latte crudo vaccino, fermenti lattici, sale, caglio. Cagliata presamica a 35-37 °C, salatura a secco, semi-stagionato. Allergeni: latte. Stagionato 2 mesi."
+          },
+          "a": {
+            "it": "Conservare a +4/7 °C."
+          }
+        },
+        "V-39-7": {
+          "c": [],
+          "pr": "16,90 € al pezzo, 28,90 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "Prende il nome dalla famiglia fondatrice del caseificio e dal suo creatore, Roberto Grattone. Toma a base di latte crudo vaccino delle valli che circondano il caseificio, ricco di aromi vegetali tipici del territorio: sentori lattici, freschi e burrosi, ottima sia giovane sia stagionata, quando acquista un profilo più strutturato e complesso. Forma piatta con superficie rugosa coperta da lieviti nobili bianchi. Ingredienti: latte crudo vaccino, fermenti lattici, sale, caglio. Cagliata presamica a 35-37 °C, salatura a secco, semi-stagionato. Allergeni: latte. Stagionato 5 mesi."
+          },
+          "a": {
+            "it": "Conservare a +4/7 °C."
+          }
+        },
+        "V-39-8": {
+          "c": [],
+          "pr": "14,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Realizzato stagionalmente secondo la disponibilità del latte. Si ispira alla tecnica di produzione del cugino francese Reblochon, da cui il nome. Forma piatta con superficie rugosa coperta da lieviti nobili bianchi. Ingredienti: latte crudo vaccino, fermenti lattici, sale, caglio. Cagliata presamica a 35-37 °C, salatura a secco, semi-stagionato 20-90 giorni; forma di 18 cm di diametro e 3 cm di altezza. Allergeni: latte."
+          },
+          "a": {
+            "it": "Ottimo come aperitivo e antipasto o in accompagnamento a piatti di verdure. Conservare a +4/7 °C."
+          }
+        },
+        "V-39-9": {
+          "c": [
+            "PAT"
+          ],
+          "pr": "9,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Formaggio fresco iscritto nell'elenco dei Prodotti Agroalimentari Tradizionali (PAT). Il nome deriva dalla consistenza morbida della pasta, bianca, che nelle stagionature più lunghe (12-15 giorni) diventa più asciutta e paglierina. Ingredienti: latte crudo vaccino, caglio naturale di vitello, fermenti lattici, sale. Cagliata presamica a 35-37 °C, salatura a secco, circa 10 giorni di stagionatura. Allergeni: latte."
+          },
+          "a": {
+            "it": "Da consumare fresca o come ingrediente dei piatti della tradizione ligure-piemontese, come torte salate e focacce al formaggio. Conservare a +4/7 °C."
+          }
+        },
+        "V-39-10": {
+          "c": [
+            "De.Co."
+          ],
+          "pr": "11,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Realizzata stagionalmente secondo la disponibilità del latte. Formaggio storico che ha ricevuto la De.Co. (Denominazione comunale) dal Comune di Mongiardino Ligure e dal Distretto del Novese: già nel 1857 il Vocabolario domestico Genovese-Italiano di Angelo Paganini citava la “Mongiardhinna”, squisito caciolino tondo e schiacciato dei monti liguri. Crosta dal giallo paglierino al nocciola scuro secondo la stagionatura, pasta color avorio. Versione 100% latte di mucca."
+          },
+          "a": {
+            "it": "Conservare a +4/7 °C."
+          }
+        },
+        "V-39-11": {
+          "c": [
+            "De.Co."
+          ],
+          "pr": "9,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Realizzata stagionalmente secondo la disponibilità del latte. Formaggio storico che ha ricevuto la De.Co. (Denominazione comunale) dal Comune di Mongiardino Ligure e dal Distretto del Novese: già nel 1857 il Vocabolario domestico Genovese-Italiano di Angelo Paganini citava la “Mongiardhinna”, squisito caciolino tondo e schiacciato dei monti liguri. Crosta dal giallo paglierino al nocciola scuro secondo la stagionatura, pasta color avorio. Versione 100% latte di pecora."
+          },
+          "a": {
+            "it": "Conservare a +4/7 °C."
+          }
+        },
+        "V-39-12": {
+          "c": [],
+          "pr": "10,90 € al pezzo, 22,90 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "Ruè nella versione da latte vaccino, in forma da circa 300 grammi."
+          },
+          "a": {
+            "it": "Conservare a +4/7 °C."
+          }
+        },
+        "V-39-13": {
+          "c": [],
+          "pr": "11,90 € al pezzo, 27,90 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "Ruè nella versione da latte ovino, in forma da circa 300 grammi."
+          },
+          "a": {
+            "it": "Conservare a +4/7 °C."
+          }
+        },
+        "V-39-14": {
+          "c": [],
+          "pr": "13,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Realizzata stagionalmente secondo la disponibilità del latte, con una tecnica ispirata a quella del francese Reblochon. Forma piatta con superficie rugosa coperta da lieviti nobili bianchi. Ingredienti: latte crudo di capra, fermenti lattici, sale, caglio. Cagliata presamica a 35-37 °C, salatura a secco, semi-stagionato 15-90 giorni. Allergeni: latte di capra."
+          },
+          "a": {
+            "it": "Ottima come aperitivo e antipasto o come ripieno per verdure. Conservare a +4/7 °C."
+          }
+        },
+        "V-39-15": {
+          "c": [],
+          "pr": "69,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Box con cinque formaggi: un Cadetto di Montébore da circa 400 g, una Capriola da circa 400 g, una Mollana della Val Borbera da circa 350 g, un Montébore Mini da circa 350 g e un Ruè ovino da circa 300 g."
+          },
+          "a": {
+            "it": "Conservare a +4/7 °C."
+          }
+        }
+      },
+      "fonti": [
+        "https://tipicifoodsitaly.it/categoria-prodotto/aziende-partner/formaggi-caseificio-terre-del-giarolo/",
+        "https://caseificioterredelgiarolo.it/"
+      ]
+    },
+    {
+      "id": "V-40",
+      "n": "Conserve Iamello",
+      "cat": "conserve",
+      "reg": "Calabria",
+      "city": "Girifalco (CZ)",
+      "lat": 38.823,
+      "lng": 16.425,
+      "y": 1984,
+      "certs": [],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "d": {
+        "it": "L'Azienda Agricola Iamello nasce nel 1984 in Calabria, in contrada Serra a Girifalco. All'inizio coltiva ortaggi e si dedica soprattutto all'essiccazione del pomodoro; dal 2003, con l'arrivo della nuova generazione, si specializza nella conservazione dei prodotti coltivati in azienda, restando fedele ai sapori antichi e tradizionali calabresi. Oggi propone una vasta gamma di tipicità, dai funghi ai sottoli, dalle creme alle olive, fino alla pasta e alle spezie, sui mercati nazionali e internazionali e per il settore Ho.Re.Ca. Al centro mette il rapporto umano: per questo partecipa alle fiere, per far assaggiare di persona i propri prodotti. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy.",
+        "en": "L'Azienda Agricola Iamello nasce nel 1984 in Calabria, in contrada Serra a Girifalco. All'inizio coltiva ortaggi e si dedica soprattutto all'essiccazione del pomodoro; dal 2003, con l'arrivo della nuova generazione, si specializza nella conservazione dei prodotti coltivati in azienda, restando fedele ai sapori antichi e tradizionali calabresi. Oggi propone una vasta gamma di tipicità, dai funghi ai sottoli, dalle creme alle olive, fino alla pasta e alle spezie, sui mercati nazionali e internazionali e per il settore Ho.Re.Ca. Al centro mette il rapporto umano: per questo partecipa alle fiere, per far assaggiare di persona i propri prodotti. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy.",
+        "de": "L'Azienda Agricola Iamello nasce nel 1984 in Calabria, in contrada Serra a Girifalco. All'inizio coltiva ortaggi e si dedica soprattutto all'essiccazione del pomodoro; dal 2003, con l'arrivo della nuova generazione, si specializza nella conservazione dei prodotti coltivati in azienda, restando fedele ai sapori antichi e tradizionali calabresi. Oggi propone una vasta gamma di tipicità, dai funghi ai sottoli, dalle creme alle olive, fino alla pasta e alle spezie, sui mercati nazionali e internazionali e per il settore Ho.Re.Ca. Al centro mette il rapporto umano: per questo partecipa alle fiere, per far assaggiare di persona i propri prodotti. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy."
+      },
+      "sub": [
+        {
+          "k": "funghi",
+          "cat": "conserve",
+          "n": {
+            "it": "Funghi",
+            "en": "Funghi",
+            "de": "Funghi"
+          }
+        },
+        {
+          "k": "sottoli",
+          "cat": "conserve",
+          "n": {
+            "it": "Sottoli e antipasti",
+            "en": "Sottoli e antipasti",
+            "de": "Sottoli e antipasti"
+          }
+        },
+        {
+          "k": "creme",
+          "cat": "conserve",
+          "n": {
+            "it": "Creme e piccanti",
+            "en": "Creme e piccanti",
+            "de": "Creme e piccanti"
+          }
+        },
+        {
+          "k": "olive",
+          "cat": "conserve",
+          "n": {
+            "it": "Olive e ortaggi in busta",
+            "en": "Olive e ortaggi in busta",
+            "de": "Olive e ortaggi in busta"
+          }
+        },
+        {
+          "k": "pasta",
+          "cat": "pasta",
+          "n": {
+            "it": "Pasta di semola",
+            "en": "Pasta di semola",
+            "de": "Pasta di semola"
+          }
+        },
+        {
+          "k": "dispensa",
+          "cat": "conserve",
+          "n": {
+            "it": "Passata e spezie",
+            "en": "Passata e spezie",
+            "de": "Passata e spezie"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Champignon alla contadina",
+          "vasetto da 314 g · vasetto da 1060 g",
+          "funghi"
+        ],
+        [
+          "Funghi misti di bosco",
+          "vasetto da 314 g · vasetto da 580 g · vasetto da 1060 g · vasetto da 3100 g",
+          "funghi"
+        ],
+        [
+          "Funghi porcini tagliati",
+          "vasetto da 314 g · vasetto da 580 g · vasetto da 1060 g · vasetto da 3100 g",
+          "funghi"
+        ],
+        [
+          "Carciofi alla contadina",
+          "vasetto da 212 g · vasetto da 314 g · vasetto da 580 g · vasetto da 1060 g · vasetto da 3100 g",
+          "sottoli"
+        ],
+        [
+          "Antipasto calabrese",
+          "vasetto da 212 g · vasetto da 314 g · vasetto da 580 g · vasetto da 1060 g · vasetto da 3100 g",
+          "sottoli"
+        ],
+        [
+          "Melanzane a fette",
+          "vasetto da 212 g · vasetto da 314 g · vasetto da 580 g · vasetto da 1060 g · vasetto da 3100 g",
+          "sottoli"
+        ],
+        [
+          "Melanzane a filetti",
+          "vasetto da 212 g · vasetto da 314 g · vasetto da 580 g · vasetto da 1060 g · vasetto da 3100 g",
+          "sottoli"
+        ],
+        [
+          "Peperoncini gran ripieno",
+          "vasetto da 212 g · vasetto da 314 g · vasetto da 580 g · vasetto da 1060 g · vasetto da 3100 g",
+          "sottoli"
+        ],
+        [
+          "Pomodori secchi",
+          "vasetto da 212 g · vasetto da 314 g · vasetto da 580 g · vasetto da 1060 g · vasetto da 3100 g",
+          "sottoli"
+        ],
+        [
+          "Stuzzichino calabrese",
+          "vasetto da 212 g · vasetto da 314 g · vasetto da 580 g · vasetto da 1060 g",
+          "sottoli"
+        ],
+        [
+          "Bruschettone",
+          "vasetto da 212 g · vasetto da 314 g · vasetto da 580 g · vasetto da 1060 g",
+          "sottoli"
+        ],
+        [
+          "Cipolla Tropeana",
+          "vasetto da 212 g · vasetto da 314 g · vasetto da 1060 g · vasetto da 1700 g",
+          "sottoli"
+        ],
+        [
+          "'A bumba e Roda",
+          "vasetto da 314 g",
+          "creme"
+        ],
+        [
+          "Aglio e peperoncino",
+          "vasetto da 212 g · vasetto da 314 g",
+          "creme"
+        ],
+        [
+          "'Nduja calabrese",
+          "vasetto da 212 g",
+          "creme"
+        ],
+        [
+          "Crema di carciofi",
+          "vasetto da 106 g · vasetto da 212 g · vasetto da 580 g · vasetto da 1060 g",
+          "creme"
+        ],
+        [
+          "Crema di cipolla",
+          "vasetto da 106 g · vasetto da 212 g · vasetto da 580 g · vasetto da 1060 g",
+          "creme"
+        ],
+        [
+          "Crema di olive verdi",
+          "vasetto da 106 g · vasetto da 212 g · vasetto da 580 g · vasetto da 1060 g",
+          "creme"
+        ],
+        [
+          "Crema di olive nere",
+          "vasetto da 106 g · vasetto da 212 g · vasetto da 580 g · vasetto da 1060 g",
+          "creme"
+        ],
+        [
+          "Piccante di Calabria",
+          "vasetto da 106 g · vasetto da 212 g · vasetto da 580 g · vasetto da 1060 g",
+          "creme"
+        ],
+        [
+          "Cocktail di olive",
+          "busta da 500 g · busta da 1000 g · busta da 3000 g",
+          "olive"
+        ],
+        [
+          "Olive alla monacale",
+          "busta da 500 g · busta da 1000 g · busta da 3000 g",
+          "olive"
+        ],
+        [
+          "Olive nere infornate",
+          "busta da 500 g · busta da 1000 g · busta da 3000 g",
+          "olive"
+        ],
+        [
+          "Olive verdi alla calabrese schiacciatelle",
+          "busta da 500 g · busta da 1000 g · busta da 3000 g",
+          "olive"
+        ],
+        [
+          "Olive verdi alla calabrese denocciolate",
+          "busta da 500 g · busta da 1000 g · busta da 3000 g",
+          "olive"
+        ],
+        [
+          "Salatura paisanu",
+          "busta da 500 g · busta da 1000 g · busta da 3000 g",
+          "olive"
+        ],
+        [
+          "Fileja al peperoncino",
+          "confezione da 500 g",
+          "pasta"
+        ],
+        [
+          "Fileja alla cipolla",
+          "confezione da 500 g",
+          "pasta"
+        ],
+        [
+          "Filejo",
+          "confezione da 500 g",
+          "pasta"
+        ],
+        [
+          "Filejo corto",
+          "confezione da 500 g",
+          "pasta"
+        ],
+        [
+          "Paccheri",
+          "confezione da 500 g",
+          "pasta"
+        ],
+        [
+          "Spaccatelli",
+          "confezione da 500 g",
+          "pasta"
+        ],
+        [
+          "Struncatura",
+          "confezione da 500 g",
+          "pasta"
+        ],
+        [
+          "Tagliolini al bergamotto",
+          "confezione da 500 g",
+          "pasta"
+        ],
+        [
+          "Passata di pomodoro “Casareccia”",
+          "bottiglia da 720 g",
+          "dispensa"
+        ],
+        [
+          "Semi di finocchietto",
+          "busta da 50 g",
+          "dispensa"
+        ],
+        [
+          "Spezie miste per spaghettata",
+          "busta da 50 g",
+          "dispensa"
+        ],
+        [
+          "Peperoncino in polvere piccante",
+          "busta da 50 g",
+          "dispensa"
+        ],
+        [
+          "Peperoncino a scaglie",
+          "busta da 50 g",
+          "dispensa"
+        ],
+        [
+          "Origano di montagna",
+          "busta da 50 g",
+          "dispensa"
+        ]
+      ],
+      "pd": {
+        "V-40-0": {
+          "c": [],
+          "pr": "314 g 2,90 € · 1060 g 10,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Champignon alla contadina. Funghi lavorati sapientemente e pronti per la tavola e per la fantasia in cucina. La gamma comprende champignon alla contadina, funghi misti di bosco e porcini tagliati."
+          },
+          "a": {
+            "it": "Come antipasto e contorno, su bruschette, pizze e primi piatti."
+          }
+        },
+        "V-40-1": {
+          "c": [],
+          "pr": "314 g 4,20 € · 580 g 5,60 € · 1060 g 11,90 € · 3100 g 25,00 € (shop T.F.I.)",
+          "d": {
+            "it": "Funghi misti di bosco. Funghi lavorati sapientemente e pronti per la tavola e per la fantasia in cucina. La gamma comprende champignon alla contadina, funghi misti di bosco e porcini tagliati."
+          },
+          "a": {
+            "it": "Come antipasto e contorno, su bruschette, pizze e primi piatti."
+          }
+        },
+        "V-40-2": {
+          "c": [],
+          "pr": "314 g 19,40 € · 580 g 21,90 € · 1060 g 36,30 € · 3100 g 110,40 € (shop T.F.I.)",
+          "d": {
+            "it": "Funghi porcini tagliati. Funghi lavorati sapientemente e pronti per la tavola e per la fantasia in cucina. La gamma comprende champignon alla contadina, funghi misti di bosco e porcini tagliati."
+          },
+          "a": {
+            "it": "Come antipasto e contorno, su bruschette, pizze e primi piatti."
+          }
+        },
+        "V-40-3": {
+          "c": [],
+          "pr": "212 g 3,30 € · 314 g 4,60 € · 580 g 6,60 € · 1060 g 9,00 € · 3100 g 21,30 € (shop T.F.I.)",
+          "d": {
+            "it": "Carciofi alla contadina. Conserva di verdure dalla ricetta sfiziosa, della linea che comprende carciofi alla contadina, antipasto calabrese, melanzane a fette e a filetti, peperoncini gran ripieno e pomodori secchi."
+          },
+          "a": {
+            "it": "Ideale per tartine e aperitivi o per arricchire carni e contorni."
+          }
+        },
+        "V-40-4": {
+          "c": [],
+          "pr": "212 g 3,30 € · 314 g 4,60 € · 580 g 6,60 € · 1060 g 9,00 € · 3100 g 21,30 € (shop T.F.I.)",
+          "d": {
+            "it": "Antipasto calabrese. Conserva di verdure dalla ricetta sfiziosa, della linea che comprende carciofi alla contadina, antipasto calabrese, melanzane a fette e a filetti, peperoncini gran ripieno e pomodori secchi."
+          },
+          "a": {
+            "it": "Ideale per tartine e aperitivi o per arricchire carni e contorni."
+          }
+        },
+        "V-40-5": {
+          "c": [],
+          "pr": "212 g 2,70 € · 314 g 3,20 € · 580 g 4,90 € · 1060 g 8,80 € · 3100 g 18,60 € (shop T.F.I.)",
+          "d": {
+            "it": "Melanzane a fette. Conserva di verdure dalla ricetta sfiziosa, della linea che comprende carciofi alla contadina, antipasto calabrese, melanzane a fette e a filetti, peperoncini gran ripieno e pomodori secchi."
+          },
+          "a": {
+            "it": "Ideale per tartine e aperitivi o per arricchire carni e contorni."
+          }
+        },
+        "V-40-6": {
+          "c": [],
+          "pr": "212 g 2,70 € · 314 g 3,20 € · 580 g 4,90 € · 1060 g 8,80 € · 3100 g 18,60 € (shop T.F.I.)",
+          "d": {
+            "it": "Melanzane a filetti. Conserva di verdure dalla ricetta sfiziosa, della linea che comprende carciofi alla contadina, antipasto calabrese, melanzane a fette e a filetti, peperoncini gran ripieno e pomodori secchi."
+          },
+          "a": {
+            "it": "Ideale per tartine e aperitivi o per arricchire carni e contorni."
+          }
+        },
+        "V-40-7": {
+          "c": [],
+          "pr": "212 g 3,70 € · 314 g 4,90 € · 580 g 9,10 € · 1060 g 15,20 € · 3100 g 40,00 € (shop T.F.I.)",
+          "d": {
+            "it": "Peperoncini gran ripieno. Conserva di verdure dalla ricetta sfiziosa, della linea che comprende carciofi alla contadina, antipasto calabrese, melanzane a fette e a filetti, peperoncini gran ripieno e pomodori secchi."
+          },
+          "a": {
+            "it": "Ideale per tartine e aperitivi o per arricchire carni e contorni."
+          }
+        },
+        "V-40-8": {
+          "c": [],
+          "pr": "212 g 3,30 € · 314 g 4,60 € · 580 g 6,60 € · 1060 g 9,00 € · 3100 g 21,30 € (shop T.F.I.)",
+          "d": {
+            "it": "Pomodori secchi. Conserva di verdure dalla ricetta sfiziosa, della linea che comprende carciofi alla contadina, antipasto calabrese, melanzane a fette e a filetti, peperoncini gran ripieno e pomodori secchi."
+          },
+          "a": {
+            "it": "Ideale per tartine e aperitivi o per arricchire carni e contorni."
+          }
+        },
+        "V-40-9": {
+          "c": [],
+          "pr": "212 g 1,90 € · 314 g 3,50 € · 580 g 5,80 € · 1060 g 11,20 € (shop T.F.I.)",
+          "d": {
+            "it": "Stuzzichino calabrese. Stuzzichino tradizionale calabrese della linea antipasti, disponibile come Stuzzichino calabrese e come Bruschettone."
+          },
+          "a": {
+            "it": "Per sorprendere gli ospiti con un aperitivo gourmet o per un momento di puro gusto."
+          }
+        },
+        "V-40-10": {
+          "c": [],
+          "pr": "212 g 1,90 € · 314 g 3,50 € · 580 g 5,80 € · 1060 g 11,20 € (shop T.F.I.)",
+          "d": {
+            "it": "Bruschettone. Stuzzichino tradizionale calabrese della linea antipasti, disponibile come Stuzzichino calabrese e come Bruschettone."
+          },
+          "a": {
+            "it": "Per sorprendere gli ospiti con un aperitivo gourmet o per un momento di puro gusto."
+          }
+        },
+        "V-40-11": {
+          "c": [],
+          "pr": "212 g 3,70 € · 314 g 5,30 € · 1060 g 14,50 € · 1700 g 34,30 € (shop T.F.I.)",
+          "d": {
+            "it": "Cipolla rossa a filetto con peperoncino macinato dolce, in olio di semi di girasole."
+          },
+          "a": {
+            "it": "Su bruschette e panini, con formaggi, carni e hamburger."
+          }
+        },
+        "V-40-12": {
+          "c": [],
+          "pr": "4,50 € (shop T.F.I.)",
+          "d": {
+            "it": "Ingredienti: in proporzione variabile: melanzane, pomodori secchi, peperoni, olive, peperoncino piccante, cipolla, olio di semi di girasole, sale, correttore di acidità, acido citrico."
+          },
+          "a": {
+            "it": "Per dare una nota piccante a bruschette, pasta e panini."
+          }
+        },
+        "V-40-13": {
+          "c": [],
+          "pr": "212 g 3,40 € · 314 g 4,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Ingredienti: aglio a fetta, peperoncino piccante macinato, olio di semi di girasole 40%, olio di oliva 60%."
+          },
+          "a": {
+            "it": "Base pronta per una spaghettata aglio, olio e peperoncino."
+          }
+        },
+        "V-40-14": {
+          "c": [],
+          "pr": "7,40 € (shop T.F.I.)",
+          "d": {
+            "it": "Ingredienti: carne di maiale 50%, peperoncino piccante, sale, olio di semi di girasole, correttore di acidità, acido citrico."
+          },
+          "a": {
+            "it": "Spalmata su pane e crostini, nei sughi e sulla pizza."
+          }
+        },
+        "V-40-15": {
+          "c": [],
+          "pr": "106 g 1,90 € · 212 g 3,50 € · 580 g 5,80 € · 1060 g 11,10 € (shop T.F.I.)",
+          "d": {
+            "it": "Crema di carciofi. Crema di verdure dalla ricetta sfiziosa, della linea che comprende crema di carciofi, crema di cipolla, crema di olive verdi, crema di olive nere e Piccante di Calabria."
+          },
+          "a": {
+            "it": "Ideale per tartine e aperitivi o per piatti di pasta ricercati e gustosi."
+          }
+        },
+        "V-40-16": {
+          "c": [],
+          "pr": "106 g 1,90 € · 212 g 3,50 € · 580 g 5,80 € · 1060 g 11,10 € (shop T.F.I.)",
+          "d": {
+            "it": "Crema di cipolla. Crema di verdure dalla ricetta sfiziosa, della linea che comprende crema di carciofi, crema di cipolla, crema di olive verdi, crema di olive nere e Piccante di Calabria."
+          },
+          "a": {
+            "it": "Ideale per tartine e aperitivi o per piatti di pasta ricercati e gustosi."
+          }
+        },
+        "V-40-17": {
+          "c": [],
+          "pr": "106 g 1,90 € · 212 g 3,50 € · 580 g 5,80 € · 1060 g 11,10 € (shop T.F.I.)",
+          "d": {
+            "it": "Crema di olive verdi. Crema di verdure dalla ricetta sfiziosa, della linea che comprende crema di carciofi, crema di cipolla, crema di olive verdi, crema di olive nere e Piccante di Calabria."
+          },
+          "a": {
+            "it": "Ideale per tartine e aperitivi o per piatti di pasta ricercati e gustosi."
+          }
+        },
+        "V-40-18": {
+          "c": [],
+          "pr": "106 g 1,90 € · 212 g 3,50 € · 580 g 5,80 € · 1060 g 11,10 € (shop T.F.I.)",
+          "d": {
+            "it": "Crema di olive nere. Crema di verdure dalla ricetta sfiziosa, della linea che comprende crema di carciofi, crema di cipolla, crema di olive verdi, crema di olive nere e Piccante di Calabria."
+          },
+          "a": {
+            "it": "Ideale per tartine e aperitivi o per piatti di pasta ricercati e gustosi."
+          }
+        },
+        "V-40-19": {
+          "c": [],
+          "pr": "106 g 1,90 € · 212 g 3,50 € · 580 g 5,80 € · 1060 g 11,10 € (shop T.F.I.)",
+          "d": {
+            "it": "Piccante di Calabria. Crema di verdure dalla ricetta sfiziosa, della linea che comprende crema di carciofi, crema di cipolla, crema di olive verdi, crema di olive nere e Piccante di Calabria."
+          },
+          "a": {
+            "it": "Ideale per tartine e aperitivi o per piatti di pasta ricercati e gustosi."
+          }
+        },
+        "V-40-20": {
+          "c": [],
+          "pr": "500 g 5,00 € · 1000 g 10,00 € · 3000 g 25,00 € (shop T.F.I.)",
+          "d": {
+            "it": "Cocktail di olive. Olive e ortaggi misti conservati in busta, con soli aromi naturali. La linea comprende cocktail di olive, olive alla monacale, olive nere infornate, olive verdi alla calabrese schiacciatelle o denocciolate e la “salatura paisanu”."
+          },
+          "a": {
+            "it": "Tutto quello che serve per un aperitivo gourmet."
+          }
+        },
+        "V-40-21": {
+          "c": [],
+          "pr": "500 g 5,00 € · 1000 g 10,00 € · 3000 g 25,00 € (shop T.F.I.)",
+          "d": {
+            "it": "Olive alla monacale. Olive e ortaggi misti conservati in busta, con soli aromi naturali. La linea comprende cocktail di olive, olive alla monacale, olive nere infornate, olive verdi alla calabrese schiacciatelle o denocciolate e la “salatura paisanu”."
+          },
+          "a": {
+            "it": "Tutto quello che serve per un aperitivo gourmet."
+          }
+        },
+        "V-40-22": {
+          "c": [],
+          "pr": "500 g 5,00 € · 1000 g 10,00 € · 3000 g 21,00 € (shop T.F.I.)",
+          "d": {
+            "it": "Olive nere infornate. Olive e ortaggi misti conservati in busta, con soli aromi naturali. La linea comprende cocktail di olive, olive alla monacale, olive nere infornate, olive verdi alla calabrese schiacciatelle o denocciolate e la “salatura paisanu”."
+          },
+          "a": {
+            "it": "Tutto quello che serve per un aperitivo gourmet."
+          }
+        },
+        "V-40-23": {
+          "c": [],
+          "pr": "500 g 5,60 € · 1000 g 11,00 € · 3000 g 27,00 € (shop T.F.I.)",
+          "d": {
+            "it": "Olive verdi alla calabrese schiacciatelle. Olive e ortaggi misti conservati in busta, con soli aromi naturali. La linea comprende cocktail di olive, olive alla monacale, olive nere infornate, olive verdi alla calabrese schiacciatelle o denocciolate e la “salatura paisanu”."
+          },
+          "a": {
+            "it": "Tutto quello che serve per un aperitivo gourmet."
+          }
+        },
+        "V-40-24": {
+          "c": [],
+          "pr": "500 g 5,60 € · 1000 g 11,00 € · 3000 g 27,00 € (shop T.F.I.)",
+          "d": {
+            "it": "Olive verdi alla calabrese denocciolate. Olive e ortaggi misti conservati in busta, con soli aromi naturali. La linea comprende cocktail di olive, olive alla monacale, olive nere infornate, olive verdi alla calabrese schiacciatelle o denocciolate e la “salatura paisanu”."
+          },
+          "a": {
+            "it": "Tutto quello che serve per un aperitivo gourmet."
+          }
+        },
+        "V-40-25": {
+          "c": [],
+          "pr": "500 g 5,60 € · 1000 g 10,00 € · 3000 g 27,00 € (shop T.F.I.)",
+          "d": {
+            "it": "Salatura paisanu. Olive e ortaggi misti conservati in busta, con soli aromi naturali. La linea comprende cocktail di olive, olive alla monacale, olive nere infornate, olive verdi alla calabrese schiacciatelle o denocciolate e la “salatura paisanu”."
+          },
+          "a": {
+            "it": "Tutto quello che serve per un aperitivo gourmet."
+          }
+        },
+        "V-40-26": {
+          "c": [],
+          "pr": "2,30 € (shop T.F.I.)",
+          "d": {
+            "it": "Fileja al peperoncino. Pasta di semola nei formati e negli aromi classici della tradizione calabrese: fileja, anche al peperoncino e alla cipolla, filejo corto, paccheri, spaccatelli, struncatura e tagliolini al bergamotto."
+          },
+          "a": {
+            "it": "Con sughi di carne, 'nduja, verdure e i condimenti della cucina calabrese."
+          }
+        },
+        "V-40-27": {
+          "c": [],
+          "pr": "2,30 € (shop T.F.I.)",
+          "d": {
+            "it": "Fileja alla cipolla. Pasta di semola nei formati e negli aromi classici della tradizione calabrese: fileja, anche al peperoncino e alla cipolla, filejo corto, paccheri, spaccatelli, struncatura e tagliolini al bergamotto."
+          },
+          "a": {
+            "it": "Con sughi di carne, 'nduja, verdure e i condimenti della cucina calabrese."
+          }
+        },
+        "V-40-28": {
+          "c": [],
+          "pr": "2,30 € (shop T.F.I.)",
+          "d": {
+            "it": "Filejo. Pasta di semola nei formati e negli aromi classici della tradizione calabrese: fileja, anche al peperoncino e alla cipolla, filejo corto, paccheri, spaccatelli, struncatura e tagliolini al bergamotto."
+          },
+          "a": {
+            "it": "Con sughi di carne, 'nduja, verdure e i condimenti della cucina calabrese."
+          }
+        },
+        "V-40-29": {
+          "c": [],
+          "pr": "2,30 € (shop T.F.I.)",
+          "d": {
+            "it": "Filejo corto. Pasta di semola nei formati e negli aromi classici della tradizione calabrese: fileja, anche al peperoncino e alla cipolla, filejo corto, paccheri, spaccatelli, struncatura e tagliolini al bergamotto."
+          },
+          "a": {
+            "it": "Con sughi di carne, 'nduja, verdure e i condimenti della cucina calabrese."
+          }
+        },
+        "V-40-30": {
+          "c": [],
+          "pr": "2,30 € (shop T.F.I.)",
+          "d": {
+            "it": "Paccheri. Pasta di semola nei formati e negli aromi classici della tradizione calabrese: fileja, anche al peperoncino e alla cipolla, filejo corto, paccheri, spaccatelli, struncatura e tagliolini al bergamotto."
+          },
+          "a": {
+            "it": "Con sughi di carne, 'nduja, verdure e i condimenti della cucina calabrese."
+          }
+        },
+        "V-40-31": {
+          "c": [],
+          "pr": "2,30 € (shop T.F.I.)",
+          "d": {
+            "it": "Spaccatelli. Pasta di semola nei formati e negli aromi classici della tradizione calabrese: fileja, anche al peperoncino e alla cipolla, filejo corto, paccheri, spaccatelli, struncatura e tagliolini al bergamotto."
+          },
+          "a": {
+            "it": "Con sughi di carne, 'nduja, verdure e i condimenti della cucina calabrese."
+          }
+        },
+        "V-40-32": {
+          "c": [],
+          "pr": "2,30 € (shop T.F.I.)",
+          "d": {
+            "it": "Struncatura. Pasta di semola nei formati e negli aromi classici della tradizione calabrese: fileja, anche al peperoncino e alla cipolla, filejo corto, paccheri, spaccatelli, struncatura e tagliolini al bergamotto."
+          },
+          "a": {
+            "it": "Con sughi di carne, 'nduja, verdure e i condimenti della cucina calabrese."
+          }
+        },
+        "V-40-33": {
+          "c": [],
+          "pr": "2,30 € (shop T.F.I.)",
+          "d": {
+            "it": "Tagliolini al bergamotto. Pasta di semola nei formati e negli aromi classici della tradizione calabrese: fileja, anche al peperoncino e alla cipolla, filejo corto, paccheri, spaccatelli, struncatura e tagliolini al bergamotto."
+          },
+          "a": {
+            "it": "Con sughi di carne, 'nduja, verdure e i condimenti della cucina calabrese."
+          }
+        },
+        "V-40-34": {
+          "c": [],
+          "pr": "2,65 € (shop T.F.I.)",
+          "d": {
+            "it": "Solo passata di pomodori e sale: la “Casareccia” è una passata rustica e avvolgente."
+          },
+          "a": {
+            "it": "Base per sughi, pizze e ricette della tradizione."
+          }
+        },
+        "V-40-35": {
+          "c": [],
+          "pr": "2,00 € (shop T.F.I.)",
+          "d": {
+            "it": "Semi di finocchietto. Spezie pregiate in busta, che conservano tutto il loro aroma originale. La linea comprende semi di finocchietto, spezie miste per spaghettata, peperoncino in polvere piccante, peperoncino a scaglie e origano di montagna."
+          },
+          "a": {
+            "it": "Per dare un gusto speciale a tutti i piatti."
+          }
+        },
+        "V-40-36": {
+          "c": [],
+          "pr": "2,00 € (shop T.F.I.)",
+          "d": {
+            "it": "Spezie miste per spaghettata. Spezie pregiate in busta, che conservano tutto il loro aroma originale. La linea comprende semi di finocchietto, spezie miste per spaghettata, peperoncino in polvere piccante, peperoncino a scaglie e origano di montagna."
+          },
+          "a": {
+            "it": "Per dare un gusto speciale a tutti i piatti."
+          }
+        },
+        "V-40-37": {
+          "c": [],
+          "pr": "2,00 € (shop T.F.I.)",
+          "d": {
+            "it": "Peperoncino in polvere piccante. Spezie pregiate in busta, che conservano tutto il loro aroma originale. La linea comprende semi di finocchietto, spezie miste per spaghettata, peperoncino in polvere piccante, peperoncino a scaglie e origano di montagna."
+          },
+          "a": {
+            "it": "Per dare un gusto speciale a tutti i piatti."
+          }
+        },
+        "V-40-38": {
+          "c": [],
+          "pr": "2,00 € (shop T.F.I.)",
+          "d": {
+            "it": "Peperoncino a scaglie. Spezie pregiate in busta, che conservano tutto il loro aroma originale. La linea comprende semi di finocchietto, spezie miste per spaghettata, peperoncino in polvere piccante, peperoncino a scaglie e origano di montagna."
+          },
+          "a": {
+            "it": "Per dare un gusto speciale a tutti i piatti."
+          }
+        },
+        "V-40-39": {
+          "c": [],
+          "pr": "2,00 € (shop T.F.I.)",
+          "d": {
+            "it": "Origano di montagna. Spezie pregiate in busta, che conservano tutto il loro aroma originale. La linea comprende semi di finocchietto, spezie miste per spaghettata, peperoncino in polvere piccante, peperoncino a scaglie e origano di montagna."
+          },
+          "a": {
+            "it": "Per dare un gusto speciale a tutti i piatti."
+          }
+        }
+      },
+      "fonti": [
+        "https://tipicifoodsitaly.it/categoria-prodotto/aziende-partner/conserve-iamello/",
+        "https://conserveiamello.it/about/"
+      ]
+    },
+    {
+      "id": "V-41",
+      "n": "Dulcis in Fiore",
+      "cat": "dolci",
+      "reg": "Calabria",
+      "city": "San Giovanni in Fiore (CS)",
+      "lat": 39.264,
+      "lng": 16.699,
+      "y": null,
+      "certs": [],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "d": {
+        "it": "Dulcis in Fiore nasce a San Giovanni in Fiore, nel cuore della Sila, la città fondata dall'abate Gioacchino da Fiore, dove dal Settecento la pitta 'mpigliata accompagna i banchetti nuziali. Era il dolce per eccellenza della cucina povera locale, fatto con pochi ingredienti facili da reperire: farina, noci, fichi secchi poi sostituiti dall'uva passa, zucchero e qualche spezia. Dulcis in Fiore la realizza con materie prime di altissima qualità, rispetto per la tradizione, ricerca, studio e passione. Il marchio unisce “dulcis in fundo”, “flos cenae” e il richiamo a Fiore, l'identità della città. Accanto alla pitta, anche in versione mignon e stick, produce Mastazzuoli e i Tocchetti, i cantucci silani. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy.",
+        "en": "Dulcis in Fiore nasce a San Giovanni in Fiore, nel cuore della Sila, la città fondata dall'abate Gioacchino da Fiore, dove dal Settecento la pitta 'mpigliata accompagna i banchetti nuziali. Era il dolce per eccellenza della cucina povera locale, fatto con pochi ingredienti facili da reperire: farina, noci, fichi secchi poi sostituiti dall'uva passa, zucchero e qualche spezia. Dulcis in Fiore la realizza con materie prime di altissima qualità, rispetto per la tradizione, ricerca, studio e passione. Il marchio unisce “dulcis in fundo”, “flos cenae” e il richiamo a Fiore, l'identità della città. Accanto alla pitta, anche in versione mignon e stick, produce Mastazzuoli e i Tocchetti, i cantucci silani. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy.",
+        "de": "Dulcis in Fiore nasce a San Giovanni in Fiore, nel cuore della Sila, la città fondata dall'abate Gioacchino da Fiore, dove dal Settecento la pitta 'mpigliata accompagna i banchetti nuziali. Era il dolce per eccellenza della cucina povera locale, fatto con pochi ingredienti facili da reperire: farina, noci, fichi secchi poi sostituiti dall'uva passa, zucchero e qualche spezia. Dulcis in Fiore la realizza con materie prime di altissima qualità, rispetto per la tradizione, ricerca, studio e passione. Il marchio unisce “dulcis in fundo”, “flos cenae” e il richiamo a Fiore, l'identità della città. Accanto alla pitta, anche in versione mignon e stick, produce Mastazzuoli e i Tocchetti, i cantucci silani. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy."
+      },
+      "sub": [
+        {
+          "k": "pitta",
+          "cat": "dolci",
+          "n": {
+            "it": "Pitta 'mpigliata",
+            "en": "Pitta 'mpigliata",
+            "de": "Pitta 'mpigliata"
+          }
+        },
+        {
+          "k": "mignon",
+          "cat": "dolci",
+          "n": {
+            "it": "Mignon e stick",
+            "en": "Mignon e stick",
+            "de": "Mignon e stick"
+          }
+        },
+        {
+          "k": "biscotti",
+          "cat": "dolci",
+          "n": {
+            "it": "Mastazzuoli e Tocchetti",
+            "en": "Mastazzuoli e Tocchetti",
+            "de": "Mastazzuoli e Tocchetti"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Pitta 'mpigliata Flores",
+          "confezione da 500 g circa",
+          "pitta"
+        ],
+        [
+          "Pitta 'mpigliata Flores",
+          "confezione da 1 kg circa",
+          "pitta"
+        ],
+        [
+          "Pitta 'mpigliata Zero Uvetta",
+          "confezione da 500 g circa",
+          "pitta"
+        ],
+        [
+          "Pitta 'mpigliata Zero Uvetta",
+          "confezione da 1 kg circa",
+          "pitta"
+        ],
+        [
+          "Pitta 'mpigliata Mignon in vassoio",
+          "vassoio da 6 pezzi, 300 g circa",
+          "mignon"
+        ],
+        [
+          "Pitta 'mpigliata Mignon, dispenser",
+          "dispenser da 35 pezzi da 50 g circa",
+          "mignon"
+        ],
+        [
+          "Pitta 'mpigliata Stick, dispenser",
+          "dispenser da 35 pezzi da 50 g circa",
+          "mignon"
+        ],
+        [
+          "Pitta 'mpigliata Mignon, cartone",
+          "cartone da 200 pezzi da 50 g circa",
+          "mignon"
+        ],
+        [
+          "Pitta 'mpigliata Pitt-Stick, cartone",
+          "cartone da 200 pezzi da 50 g circa",
+          "mignon"
+        ],
+        [
+          "Mastazzuoli, tronchetto intero: Classico o Base Frutta",
+          "tronchetto da 400 g circa",
+          "biscotti"
+        ],
+        [
+          "Mastazzuoli, tronchetto affettato: Classico o Base Frutta",
+          "sacchetto da 400 g circa",
+          "biscotti"
+        ],
+        [
+          "Tocchetti, i cantucci silani",
+          "sacchetto da 200 g circa",
+          "biscotti"
+        ]
+      ],
+      "pd": {
+        "V-41-0": {
+          "c": [],
+          "pr": "11,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Pitta 'mpigliata, il dolce simbolo di San Giovanni in Fiore: sfoglia arrotolata con un ricco ripieno di frutta secca, miele e spezie. Versione Flores, nel formato da circa 500 grammi. Ingredienti: farina di frumento duro, zucchero, uva secca, noci, acqua, farina di frumento tipo 00, liquori da dessert, olio di oliva, miele, sale, cannella, chiodi di garofano, agenti lievitanti (difosfati). Allergeni: cereali contenenti glutine, frutta a guscio."
+          },
+          "a": {
+            "it": "A fine pasto con un vino passito o un liquore da dessert. Shelf-life: 12 mesi."
+          }
+        },
+        "V-41-1": {
+          "c": [],
+          "pr": "18,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Pitta 'mpigliata, il dolce simbolo di San Giovanni in Fiore: sfoglia arrotolata con un ricco ripieno di frutta secca, miele e spezie. Versione Flores, nel formato da circa 1 kg. Ingredienti: farina di frumento duro, zucchero, uva secca, noci, acqua, farina di frumento tipo 00, liquori da dessert, olio di oliva, miele, sale, cannella, chiodi di garofano, agenti lievitanti (difosfati). Allergeni: cereali contenenti glutine, frutta a guscio."
+          },
+          "a": {
+            "it": "A fine pasto con un vino passito o un liquore da dessert. Shelf-life: 12 mesi."
+          }
+        },
+        "V-41-2": {
+          "c": [],
+          "pr": "12,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Pitta 'mpigliata, il dolce simbolo di San Giovanni in Fiore: sfoglia arrotolata con un ricco ripieno di frutta secca, miele e spezie. Versione Zero Uvetta, senza uva passa, con noci e mandorle; formato da circa 500 grammi, confezionata singolarmente. Ingredienti: farina di frumento duro, zucchero, noci, mandorle dolci, acqua, farina di frumento tipo 00, liquori da dessert, olio di oliva, miele, sale, cannella, chiodi di garofano, agenti lievitanti (difosfati). Allergeni: cereali contenenti glutine, frutta a guscio."
+          },
+          "a": {
+            "it": "A fine pasto con un vino passito o un liquore da dessert. Shelf-life: 12 mesi."
+          }
+        },
+        "V-41-3": {
+          "c": [],
+          "pr": "22,50 € (shop T.F.I.)",
+          "d": {
+            "it": "Pitta 'mpigliata, il dolce simbolo di San Giovanni in Fiore: sfoglia arrotolata con un ricco ripieno di frutta secca, miele e spezie. Versione Zero Uvetta, senza uva passa, nel formato da circa 1 kg."
+          },
+          "a": {
+            "it": "A fine pasto con un vino passito o un liquore da dessert. Shelf-life: 12 mesi."
+          }
+        },
+        "V-41-4": {
+          "c": [],
+          "pr": "7,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Pitta 'mpigliata, il dolce simbolo di San Giovanni in Fiore: sfoglia arrotolata con un ricco ripieno di frutta secca, miele e spezie. Sei pitte mignon in vassoio, per circa 300 grammi. Ingredienti: farina di frumento duro, zucchero, uva secca, noci, acqua, farina di frumento tipo 00, liquori da dessert, olio di oliva, miele, sale, cannella, chiodi di garofano, agenti lievitanti (difosfati). Allergeni: cereali contenenti glutine, frutta a guscio."
+          },
+          "a": {
+            "it": "A fine pasto con un vino passito o un liquore da dessert. Shelf-life: 12 mesi."
+          }
+        },
+        "V-41-5": {
+          "c": [],
+          "pr": "49,00 € (shop T.F.I.)",
+          "d": {
+            "it": "Pitta 'mpigliata, il dolce simbolo di San Giovanni in Fiore: sfoglia arrotolata con un ricco ripieno di frutta secca, miele e spezie. Mignon da circa 50 grammi confezionate singolarmente, in dispenser di cartone da 35 pezzi. Ingredienti: farina di frumento duro, zucchero, uva secca, noci, acqua, farina di frumento tipo 00, liquori da dessert, olio di oliva, miele, sale, cannella, chiodi di garofano, agenti lievitanti (difosfati). Allergeni: cereali contenenti glutine, frutta a guscio."
+          },
+          "a": {
+            "it": "A fine pasto con un vino passito o un liquore da dessert. Shelf-life: 12 mesi."
+          }
+        },
+        "V-41-6": {
+          "c": [],
+          "pr": "49,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Pitta 'mpigliata, il dolce simbolo di San Giovanni in Fiore: sfoglia arrotolata con un ricco ripieno di frutta secca, miele e spezie. Stick arrotolati da circa 50 grammi confezionati singolarmente, in dispenser di cartone da 35 pezzi. Ingredienti: farina di frumento duro, zucchero, uva secca, noci, acqua, farina di frumento tipo 00, liquori da dessert, olio di oliva, miele, sale, cannella, chiodi di garofano, agenti lievitanti (difosfati). Allergeni: cereali contenenti glutine, frutta a guscio."
+          },
+          "a": {
+            "it": "A fine pasto con un vino passito o un liquore da dessert. Shelf-life: 12 mesi."
+          }
+        },
+        "V-41-7": {
+          "c": [],
+          "pr": "320,00 €, 1,60 € al pezzo (shop T.F.I.)",
+          "d": {
+            "it": "Pitta 'mpigliata, il dolce simbolo di San Giovanni in Fiore: sfoglia arrotolata con un ricco ripieno di frutta secca, miele e spezie. Mignon da circa 50 grammi, in cartone da 200 pezzi per bar, ristorazione e rivendita. Ingredienti: farina di frumento duro, zucchero, uva secca, noci, acqua, farina di frumento tipo 00, liquori da dessert, olio di oliva, miele, sale, cannella, chiodi di garofano, agenti lievitanti (difosfati). Allergeni: cereali contenenti glutine, frutta a guscio."
+          },
+          "a": {
+            "it": "A fine pasto con un vino passito o un liquore da dessert. Shelf-life: 12 mesi."
+          }
+        },
+        "V-41-8": {
+          "c": [],
+          "pr": "320,00 €, 1,60 € al pezzo (shop T.F.I.)",
+          "d": {
+            "it": "Pitta 'mpigliata, il dolce simbolo di San Giovanni in Fiore: sfoglia arrotolata con un ricco ripieno di frutta secca, miele e spezie. Pitt-Stick arrotolati da circa 50 grammi, in cartone da 200 pezzi (confezioni da 50). Ingredienti: farina di frumento duro, zucchero, uva secca, noci, acqua, farina di frumento tipo 00, liquori da dessert, olio di oliva, miele, sale, cannella, chiodi di garofano, agenti lievitanti (difosfati). Allergeni: cereali contenenti glutine, frutta a guscio."
+          },
+          "a": {
+            "it": "A fine pasto con un vino passito o un liquore da dessert. Shelf-life: 12 mesi."
+          }
+        },
+        "V-41-9": {
+          "c": [],
+          "pr": "Classico 8,90 € · Base Frutta 9,50 € (shop T.F.I.)",
+          "d": {
+            "it": "Mastazzuoli, dolce tradizionale calabrese a base di miele e mandorle, in tronchetto da circa 400 grammi. Due varianti: Classico (farina di frumento tipo 00, miele, mandorle dolci secche, cioccolato fondente, uova, agenti lievitanti: difosfati, sale) e Base Frutta (farina di frumento tipo 00, miele, mandorle dolci secche, frutti di bosco, mostarda d'uva, uova, agenti lievitanti: difosfati, sale). Allergeni: cereali contenenti glutine, frutta a guscio, uova. Tronchetto intero."
+          },
+          "a": {
+            "it": "Con caffè, tè o un vino da dessert."
+          }
+        },
+        "V-41-10": {
+          "c": [],
+          "pr": "Classico 8,90 € · Base Frutta 9,50 € (shop T.F.I.)",
+          "d": {
+            "it": "Mastazzuoli, dolce tradizionale calabrese a base di miele e mandorle, in tronchetto da circa 400 grammi. Due varianti: Classico (farina di frumento tipo 00, miele, mandorle dolci secche, cioccolato fondente, uova, agenti lievitanti: difosfati, sale) e Base Frutta (farina di frumento tipo 00, miele, mandorle dolci secche, frutti di bosco, mostarda d'uva, uova, agenti lievitanti: difosfati, sale). Allergeni: cereali contenenti glutine, frutta a guscio, uova. Tronchetto già tagliato a fette."
+          },
+          "a": {
+            "it": "Con caffè, tè o un vino da dessert."
+          }
+        },
+        "V-41-11": {
+          "c": [],
+          "pr": "4,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Biscotti rustici tipici della Sila, in sacchetto da circa 200 grammi. Quattro gusti: classici alle mandorle, noci e uvetta, cedro, arancia. Ingredienti di base: farina di frumento tipo 00, zucchero, burro, cioccolato fondente, noci, uova, agenti lievitanti (bicarbonato di sodio), sale. Può contenere tracce di frutta a guscio. Allergeni: glutine, latte, noci, uova."
+          },
+          "a": {
+            "it": "Da inzuppare nel vino dolce o da gustare con il caffè."
+          }
+        }
+      },
+      "fonti": [
+        "https://tipicifoodsitaly.it/categoria-prodotto/aziende-partner/dolci-dulcis-in-fiore/",
+        "https://www.dulcisinfiore.it/dulcisinfiore/",
+        "https://www.facebook.com/DulcisinFiore/"
+      ]
+    },
+    {
+      "id": "V-42",
+      "n": "Sapori Antichi Muraca",
+      "cat": "conserve",
+      "reg": "Calabria",
+      "city": "Cicala (CZ)",
+      "lat": 39.022,
+      "lng": 16.486,
+      "y": 1977,
+      "certs": [],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "d": {
+        "it": "Sapori Antichi nasce nel 1977 a Cicala, in provincia di Catanzaro, dall'intuizione di Giacomo Muraca. Mossi da un profondo amore per la loro terra, Giacomo e sua moglie Ivana hanno trasformato in impresa la passione per la Calabria e i suoi frutti: un racconto di famiglia diventato patrimonio del gusto. La castagna è il cuore della produzione, con la crema di castagne, le castagne cotte allo sciroppo, la farina e le castagne secche; accanto ci sono le conserve della tradizione calabrese, dal peperoncino ai capperi, dalla passata alla salsa di peperone, fino al vino cotto e all'origano. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy.",
+        "en": "Sapori Antichi nasce nel 1977 a Cicala, in provincia di Catanzaro, dall'intuizione di Giacomo Muraca. Mossi da un profondo amore per la loro terra, Giacomo e sua moglie Ivana hanno trasformato in impresa la passione per la Calabria e i suoi frutti: un racconto di famiglia diventato patrimonio del gusto. La castagna è il cuore della produzione, con la crema di castagne, le castagne cotte allo sciroppo, la farina e le castagne secche; accanto ci sono le conserve della tradizione calabrese, dal peperoncino ai capperi, dalla passata alla salsa di peperone, fino al vino cotto e all'origano. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy.",
+        "de": "Sapori Antichi nasce nel 1977 a Cicala, in provincia di Catanzaro, dall'intuizione di Giacomo Muraca. Mossi da un profondo amore per la loro terra, Giacomo e sua moglie Ivana hanno trasformato in impresa la passione per la Calabria e i suoi frutti: un racconto di famiglia diventato patrimonio del gusto. La castagna è il cuore della produzione, con la crema di castagne, le castagne cotte allo sciroppo, la farina e le castagne secche; accanto ci sono le conserve della tradizione calabrese, dal peperoncino ai capperi, dalla passata alla salsa di peperone, fino al vino cotto e all'origano. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy."
+      },
+      "sub": [
+        {
+          "k": "castagne",
+          "cat": "conserve",
+          "n": {
+            "it": "Castagne",
+            "en": "Castagne",
+            "de": "Castagne"
+          }
+        },
+        {
+          "k": "piccanti",
+          "cat": "conserve",
+          "n": {
+            "it": "Sottoli e peperoncino",
+            "en": "Sottoli e peperoncino",
+            "de": "Sottoli e peperoncino"
+          }
+        },
+        {
+          "k": "salse",
+          "cat": "conserve",
+          "n": {
+            "it": "Salse e condimenti",
+            "en": "Salse e condimenti",
+            "de": "Salse e condimenti"
+          }
+        },
+        {
+          "k": "spezie",
+          "cat": "conserve",
+          "n": {
+            "it": "Aromi e spezie",
+            "en": "Aromi e spezie",
+            "de": "Aromi e spezie"
+          }
+        },
+        {
+          "k": "kit",
+          "cat": "misti",
+          "n": {
+            "it": "Kit",
+            "en": "Kit",
+            "de": "Kit"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Castagnella, crema di castagne",
+          "vasetto da 212 ml",
+          "castagne"
+        ],
+        [
+          "Castagne cotte allo sciroppo",
+          "vasetto da 212 ml · vasetto da 314 ml",
+          "castagne"
+        ],
+        [
+          "Peperoncini interi in olio",
+          "vasetto da 212 ml · vasetto da 314 ml",
+          "piccanti"
+        ],
+        [
+          "Peperoncino piccante tritato",
+          "vasetto da 212 ml · vasetto da 314 ml",
+          "piccanti"
+        ],
+        [
+          "Capperi al sale",
+          "vasetto da 212 ml",
+          "piccanti"
+        ],
+        [
+          "Olive schiacciate",
+          "vasetto da 314 ml · busta da 500 g",
+          "piccanti"
+        ],
+        [
+          "'A sarsa da nunna, passata di pomodoro",
+          "bottiglia da 330 ml · bottiglia da 440 ml · bottiglia da 660 ml · bottiglia da 720 ml",
+          "salse"
+        ],
+        [
+          "Salsa di peperone, dolce o piccante",
+          "vasetto da 580 ml",
+          "salse"
+        ],
+        [
+          "Vino cotto",
+          "bottiglia da 250 ml",
+          "salse"
+        ],
+        [
+          "Peperoncino a scaglie, dolce o piccante",
+          "busta da 50 g",
+          "spezie"
+        ],
+        [
+          "Origano di Calabria, a mazzetto o sbriciolato",
+          "mazzetto da 40 g · busta di sbriciolato da 30 g",
+          "spezie"
+        ],
+        [
+          "Kit pizza assortiti",
+          "confezione singola",
+          "kit"
+        ]
+      ],
+      "pd": {
+        "V-42-0": {
+          "c": [],
+          "pr": "8,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Crema spalmabile di castagne cotte, con cacao amaro, limone, maraschino e aromi naturali. Ingredienti: acqua, castagne cotte, con l'aggiunta di cacao amaro, limone e aromi naturali, maraschino, zucchero."
+          },
+          "a": {
+            "it": "Spalmata su pane e fette biscottate, per farcire crostate e dolci, con yogurt e gelato."
+          }
+        },
+        "V-42-1": {
+          "c": [],
+          "pr": "212 ml 7,50 € · 314 ml 9,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Castagne secche cotte e conservate in sciroppo. Ingredienti: acqua, castagne secche 60%, zucchero."
+          },
+          "a": {
+            "it": "Al naturale come dessert, con panna o gelato, oppure in pasticceria."
+          }
+        },
+        "V-42-2": {
+          "c": [],
+          "pr": "212 ml 7,90 € · 314 ml 9,50 € (shop T.F.I.)",
+          "d": {
+            "it": "Peperoncini calabresi interi conservati in olio. Ingredienti: aceto di vino, olio di semi di girasole, peperoncino intero."
+          },
+          "a": {
+            "it": "Per dare piccantezza ad antipasti, pizze e secondi piatti."
+          }
+        },
+        "V-42-3": {
+          "c": [],
+          "pr": "212 ml 5,90 € · 314 ml 7,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Peperoncino piccante calabrese tritato, in vasetto. Ingredienti: aceto di vino, olio di semi di girasole, peperoncino tritato 95%, sale."
+          },
+          "a": {
+            "it": "Un cucchiaino in sughi, zuppe, bruschette e sulla pizza."
+          }
+        },
+        "V-42-4": {
+          "c": [],
+          "pr": "4,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Capperi conservati sotto sale. Ingredienti: capperi 80%, sale 20%."
+          },
+          "a": {
+            "it": "Dissalati, in insalate, sughi, pesce e sulla pizza."
+          }
+        },
+        "V-42-5": {
+          "c": [],
+          "pr": "vasetto 314 ml 7,90 € · busta 500 g 12,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Olive verdi schiacciate alla calabrese, in vasetto oppure in busta."
+          },
+          "a": {
+            "it": "Per aperitivi e antipasti."
+          }
+        },
+        "V-42-6": {
+          "c": [],
+          "pr": "330 ml 2,45 € · 440 ml 2,70 € · 660 ml 2,90 € · 720 ml 3,10 € (shop T.F.I.)",
+          "d": {
+            "it": "La “salsa della nonna”: passata di pomodoro in bottiglia di vetro, in quattro formati. Ingredienti: pomodoro 99.5%, sale iodato marino 0.5%."
+          },
+          "a": {
+            "it": "Base per sughi, pizze e ricette della tradizione."
+          }
+        },
+        "V-42-7": {
+          "c": [],
+          "pr": "7,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Salsa di soli peperoni e sale, nelle versioni dolce e piccante. Ingredienti: peperoni dolci o piccanti 98%, sale iodato marino 2%."
+          },
+          "a": {
+            "it": "Per insaporire salumi fatti in casa, sughi, carni e patate."
+          }
+        },
+        "V-42-8": {
+          "c": [],
+          "pr": "11,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Vino cotto da solo mosto cotto, antico condimento dolce della tradizione contadina. Ingredienti: mosto cotto 100%."
+          },
+          "a": {
+            "it": "Su dolci, gelato, formaggi stagionati e nelle ricette della tradizione."
+          }
+        },
+        "V-42-9": {
+          "c": [],
+          "pr": "6,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Peperoncino calabrese essiccato a scaglie, in busta, dolce o piccante. Ingredienti: peperoncino."
+          },
+          "a": {
+            "it": "Su pasta, pizza, carni e verdure."
+          }
+        },
+        "V-42-10": {
+          "c": [],
+          "pr": "5,50 € (shop T.F.I.)",
+          "d": {
+            "it": "Origano di Calabria essiccato, a mazzetto oppure sbriciolato in busta. Ingredienti: origano."
+          },
+          "a": {
+            "it": "Su pizza, insalate di pomodori, carni e pesce alla griglia."
+          }
+        },
+        "V-42-11": {
+          "c": [],
+          "pr": "14,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Kit assortito con le specialità Sapori Antichi per condire la pizza. Disponibile nelle versioni con glutine e senza glutine."
+          },
+          "a": {
+            "it": "Per una serata pizza a casa."
+          }
+        }
+      },
+      "fonti": [
+        "https://tipicifoodsitaly.it/categoria-prodotto/aziende-partner/conserve-sapori-antichi-muraca/",
+        "https://saporiantichi.net/la-storia/",
+        "https://www.vetrinedicalabria.it/home/sapori/gruppo-muraca-specialita-alimentari/"
       ]
     }
   ],
@@ -11919,6 +13660,109 @@ window.VETRINE = {
     "prod-V-36-3": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/brut_rose.jpg",
     "prod-V-36-4": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/rose-nature-1000x998.jpg.webp",
     "prod-V-36-5": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/metodo-classico_magnum.webp",
-    "prod-V-36-6": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/rose-nature_magnum.webp"
+    "prod-V-36-6": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/rose-nature_magnum.webp",
+    "logo-V-37": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/logo-michele_brezzo.png",
+    "prod-V-37-0": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/AHUE-PIEMONTE-BARBERA-scaled-1.jpg",
+    "prod-V-37-1": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/MAIE-BARBERA-DALBA-scaled-1.jpg",
+    "prod-V-37-2": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/RUE-LANGHE-NEBBIOLO-scaled-1.jpg",
+    "prod-V-37-3": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/LA-DRE-ROERO-scaled-1.jpg",
+    "prod-V-37-4": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/TERE-ROERO-ARNEIS-scaled-1.jpg",
+    "prod-V-37-5": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/RUS-LANGHE-ROSATO-scaled-1.jpg",
+    "prod-V-37-6": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/LA-DRE-ROERO-scaled-1.jpg",
+    "prod-V-37-7": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/TERE-ROERO-ARNEIS-scaled-1.jpg",
+    "logo-V-38": "https://tipicifoodsitaly.it/wp-content/uploads/2026/11/logo_suinovo_2.webp",
+    "prod-V-38-0": "https://tipicifoodsitaly.it/wp-content/uploads/2026/10/soppressata_Suinovo.webp",
+    "prod-V-38-1": "https://tipicifoodsitaly.it/wp-content/uploads/2026/10/salsiccia_Suinovo.webp",
+    "prod-V-38-2": "https://tipicifoodsitaly.it/wp-content/uploads/2026/11/capocollo.webp",
+    "prod-V-38-3": "https://tipicifoodsitaly.it/wp-content/uploads/2026/11/Lonza_Suinovo.webp",
+    "prod-V-38-4": "https://tipicifoodsitaly.it/wp-content/uploads/2026/11/Pancetta_Suinovo.webp",
+    "prod-V-38-5": "https://tipicifoodsitaly.it/wp-content/uploads/2026/10/PancettaTesa_Suinovo.webp",
+    "prod-V-38-6": "https://tipicifoodsitaly.it/wp-content/uploads/2026/11/guanciale_Suinovo.webp",
+    "prod-V-38-7": "https://tipicifoodsitaly.it/wp-content/uploads/2026/10/schiacciata_Suinovo.webp",
+    "prod-V-38-8": "https://tipicifoodsitaly.it/wp-content/uploads/2026/10/Nduja_Suinovo.webp",
+    "logo-V-39": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/terredelgiarolo-logo.png",
+    "prod-V-39-0": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/montebore-mini-giarolo.webp",
+    "prod-V-39-1": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/montebore-giarolo.webp",
+    "prod-V-39-2": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/montebore_vintage.png",
+    "prod-V-39-3": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/montebore-magnum-giarolo.webp",
+    "prod-V-39-4": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/cadetto-giarolo.webp",
+    "prod-V-39-5": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/cadetto-giarolo.webp",
+    "prod-V-39-6": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/grattone-giarolo.webp",
+    "prod-V-39-7": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/grattone-giarolo.webp",
+    "prod-V-39-8": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/reblo-giarolo.webp",
+    "prod-V-39-9": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/mollana-giarolo2.webp",
+    "prod-V-39-10": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/mongiardina-vaccina-giarolo.webp",
+    "prod-V-39-11": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/mongiardina-ovina-giarolo.webp",
+    "prod-V-39-12": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/rue_vaccino.png",
+    "prod-V-39-13": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/rueovino-giarolo.webp",
+    "prod-V-39-14": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/la-capriola-giarolo.webp",
+    "prod-V-39-15": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/cadetto-giarolo-1.webp",
+    "logo-V-40": "https://tipicifoodsitaly.it/wp-content/uploads/2026/11/logo_iamello.png",
+    "prod-V-40-0": "https://tipicifoodsitaly.it/wp-content/uploads/2026/11/champignon-alla-contadina.png",
+    "prod-V-40-1": "https://tipicifoodsitaly.it/wp-content/uploads/2026/11/funghi-misti-di-bosco-300x300-1.png",
+    "prod-V-40-2": "https://tipicifoodsitaly.it/wp-content/uploads/2026/11/funghi-porcini-300x300-1.png",
+    "prod-V-40-3": "https://tipicifoodsitaly.it/wp-content/uploads/2026/11/carciofi-alla-contadina-300x300-1.png",
+    "prod-V-40-4": "https://tipicifoodsitaly.it/wp-content/uploads/2026/11/antipasto-calabrese.png",
+    "prod-V-40-5": "https://tipicifoodsitaly.it/wp-content/uploads/2026/11/melanzane-a-fetta-300x300-1.png",
+    "prod-V-40-6": "https://tipicifoodsitaly.it/wp-content/uploads/2026/11/melanzane-a-filetto-300x300-1.png",
+    "prod-V-40-7": "https://tipicifoodsitaly.it/wp-content/uploads/2026/11/pomodori-ripieni-300x300-1.png",
+    "prod-V-40-8": "https://tipicifoodsitaly.it/wp-content/uploads/2026/11/pomodori-secchi.png",
+    "prod-V-40-9": "https://tipicifoodsitaly.it/wp-content/uploads/2026/11/stuzzichino-alla-calabrese.png",
+    "prod-V-40-10": "https://tipicifoodsitaly.it/wp-content/uploads/2026/11/bruschettone.png",
+    "prod-V-40-11": "https://tipicifoodsitaly.it/wp-content/uploads/2026/11/tropeana.png",
+    "prod-V-40-12": "https://tipicifoodsitaly.it/wp-content/uploads/2026/11/bumba-300x300-1.png",
+    "prod-V-40-13": "https://tipicifoodsitaly.it/wp-content/uploads/2026/11/aglio-olio-peperoncino-300x300-1.png",
+    "prod-V-40-14": "https://tipicifoodsitaly.it/wp-content/uploads/2026/11/nduja-300x300-1.png",
+    "prod-V-40-15": "https://tipicifoodsitaly.it/wp-content/uploads/2026/11/crema-di-carciofi-300x300-1.png",
+    "prod-V-40-16": "https://tipicifoodsitaly.it/wp-content/uploads/2026/11/crema-di-cipolle-300x300-1.png",
+    "prod-V-40-17": "https://tipicifoodsitaly.it/wp-content/uploads/2026/11/crema-di-olive-verdi-300x300-1.png",
+    "prod-V-40-18": "https://tipicifoodsitaly.it/wp-content/uploads/2026/11/crema-di-olive-nere-300x300-1.png",
+    "prod-V-40-19": "https://tipicifoodsitaly.it/wp-content/uploads/2026/11/piccante-di-calabria-300x300-1.png",
+    "prod-V-40-20": "https://tipicifoodsitaly.it/wp-content/uploads/2026/11/olive-cocktail-busta.png",
+    "prod-V-40-21": "https://tipicifoodsitaly.it/wp-content/uploads/2026/11/olive-alla-monacale.png",
+    "prod-V-40-22": "https://tipicifoodsitaly.it/wp-content/uploads/2026/11/olive-nere.png",
+    "prod-V-40-23": "https://tipicifoodsitaly.it/wp-content/uploads/2026/11/olive-alla-calabrese-schiacciate.png",
+    "prod-V-40-24": "https://tipicifoodsitaly.it/wp-content/uploads/2026/11/olive-alla-calabrese-schiacciate.png",
+    "prod-V-40-25": "https://tipicifoodsitaly.it/wp-content/uploads/2026/11/salatura.png",
+    "prod-V-40-26": "https://tipicifoodsitaly.it/wp-content/uploads/2026/11/fileja-peperoncino-300x300-1.jpg",
+    "prod-V-40-27": "https://tipicifoodsitaly.it/wp-content/uploads/2026/11/fileja-cipolla-300x300-1.jpg",
+    "prod-V-40-28": "https://tipicifoodsitaly.it/wp-content/uploads/2026/11/filejo-300x300-1.jpg",
+    "prod-V-40-29": "https://tipicifoodsitaly.it/wp-content/uploads/2026/11/filejo-corto-300x300-1.jpg",
+    "prod-V-40-30": "https://tipicifoodsitaly.it/wp-content/uploads/2026/11/paccheri-300x300-1.jpg",
+    "prod-V-40-31": "https://tipicifoodsitaly.it/wp-content/uploads/2026/11/spaccatelli-300x300-1.jpg",
+    "prod-V-40-32": "https://tipicifoodsitaly.it/wp-content/uploads/2026/11/struncatura-300x300-1.jpg",
+    "prod-V-40-33": "https://tipicifoodsitaly.it/wp-content/uploads/2026/11/tagliolini-300x300-1.jpg",
+    "prod-V-40-34": "https://tipicifoodsitaly.it/wp-content/uploads/2026/11/passata-di-pomodoro-300x300-1.png",
+    "prod-V-40-35": "https://tipicifoodsitaly.it/wp-content/uploads/2026/11/semi_di_finocchietto-300x300-1.jpg",
+    "prod-V-40-36": "https://tipicifoodsitaly.it/wp-content/uploads/2026/11/spaghettata-300x300-1.jpg",
+    "prod-V-40-37": "https://tipicifoodsitaly.it/wp-content/uploads/2026/11/busta_peperoncino_piccante-300x300-1.jpg",
+    "prod-V-40-38": "https://tipicifoodsitaly.it/wp-content/uploads/2026/11/peperoncino_a_Scaglie_piccante-300x300-1.jpg",
+    "prod-V-40-39": "https://tipicifoodsitaly.it/wp-content/uploads/2026/11/busta_origano.jpg",
+    "logo-V-41": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/logo_dulcisinfiore_rd.png",
+    "prod-V-41-0": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/flores.jpg",
+    "prod-V-41-1": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/flores.jpg",
+    "prod-V-41-2": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/zero_uvetta.jpg",
+    "prod-V-41-3": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/zero_uvetta.jpg",
+    "prod-V-41-4": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/mignon_vassoio.jpg",
+    "prod-V-41-5": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/dispenser_pitta.jpg",
+    "prod-V-41-6": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/pitta_stick.jpg",
+    "prod-V-41-7": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/mignon.jpg",
+    "prod-V-41-8": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/pitta_stick.jpg",
+    "prod-V-41-9": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/mastazzuolo_intero.jpg",
+    "prod-V-41-10": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/mastazzuolo.jpg",
+    "prod-V-41-11": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/tronchetti.jpg",
+    "logo-V-42": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/sapori-antichi-logo3.png",
+    "prod-V-42-0": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/castagnella-antichi.jpg",
+    "prod-V-42-1": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/castagne-cotte-antichi.jpg",
+    "prod-V-42-2": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/peperoncini-interi-antichi.jpg",
+    "prod-V-42-3": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/peperoncino-piccante-tritato-antichi.webp",
+    "prod-V-42-4": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/capperi-sale-antichi.jpg",
+    "prod-V-42-5": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/olive-schiacciate-barchetta-antichi.jpg",
+    "prod-V-42-6": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/sarsanunna-330-2-antichi.jpeg",
+    "prod-V-42-7": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/salsa-peperoni-dolce-antichi.jpg",
+    "prod-V-42-8": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/vino-cotto-antichi.webp",
+    "prod-V-42-9": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/peperoncino-scaglie-antichi.jpg",
+    "prod-V-42-10": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/origano-mazzo-antichi.jpg",
+    "prod-V-42-11": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/kit-pizza-antichi.jpg"
   }
 };
