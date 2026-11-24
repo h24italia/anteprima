@@ -4231,6 +4231,1831 @@ window.VETRINE = {
         "https://pastaformia.it/images/PastaFormiaCatalogo2025.pdf",
         "https://pastaformia.it/en/"
       ]
+    },
+    {
+      "id": "V-13",
+      "n": "Le Ferre",
+      "cat": "olio",
+      "reg": "Puglia",
+      "city": "Castellaneta (TA)",
+      "lat": 40.629,
+      "lng": 16.938,
+      "y": null,
+      "certs": [
+        "Bio",
+        "IGP",
+        "DOP"
+      ],
+      "exp": [],
+      "lg": [
+        "it",
+        "en"
+      ],
+      "moq": null,
+      "d": {
+        "it": "Le Ferre srl produce, confeziona e vende esclusivamente olio extravergine d'oliva a Castellaneta, in provincia di Taranto. Il nome viene dalla contrada di campagna tra il mar Ionio e le colline della Murgia dove la famiglia, nipoti di coltivatori di olive, conserva ancora alcuni ulivi secolari. Dal 1999 l'esperienza in frantoio con un mastro oleario della zona; dal 2008 un modello basato su produzione diversificata e arte del blending. Nel 2012 registra il marchio Multivarietale e nel 2018 apre la sede attuale lungo la SS 7, con showroom e sala degustazione. È stata segnalata tra i migliori oli extravergine d'Italia da Gambero Rosso, Slow Food e Bibenda. Oltre a blend, monovarietali e oli certificati Bio, IGP e DOP, produce condimenti aromatizzati e all'aceto balsamico, ceramiche fatte a mano e confezioni regalo; fa etichette personalizzate e private label.",
+        "en": "Le Ferre srl produces, bottles and sells only extra virgin olive oil in Castellaneta, in the province of Taranto. The name comes from the countryside district between the Ionian Sea and the Murgia hills, where the family, grandchildren of olive growers, still keeps some centuries-old olive trees. Since 1999 it has built its milling experience alongside a local master oil maker, and since 2008 it has followed a model based on diversified production and the art of blending. It registered the Multivarietale trademark in 2012 and in 2018 opened its current headquarters on the SS 7, with a showroom and tasting room. It has been listed among Italy's best extra virgin olive oils by Gambero Rosso, Slow Food and Bibenda. Besides blends, single-variety oils and certified organic, PGI and PDO oils, it makes flavoured oils, balsamic vinegar dressings, handmade ceramics and gift boxes, and offers custom labels and private label.",
+        "de": "Le Ferre srl erzeugt, füllt ab und verkauft ausschließlich natives Olivenöl extra in Castellaneta in der Provinz Tarent. Der Name stammt von dem ländlichen Gebiet zwischen dem Ionischen Meer und den Hügeln der Murgia, wo die Familie, Enkel von Olivenbauern, noch einige jahrhundertealte Olivenbäume pflegt. Seit 1999 sammelt sie Erfahrung in der Ölmühle an der Seite eines örtlichen Ölmeisters, seit 2008 verfolgt sie ein Modell aus vielfältiger Produktion und der Kunst des Blendings. 2012 ließ sie die Marke Multivarietale eintragen, 2018 eröffnete sie ihren heutigen Sitz an der SS 7 mit Showroom und Verkostungsraum. Gambero Rosso, Slow Food und Bibenda zählen sie zu den besten nativen Olivenölen Italiens. Neben Blends, sortenreinen und zertifizierten Bio-, g.g.A.- und g.U.-Ölen stellt sie Würzöle, Würzen mit Aceto Balsamico, handgefertigte Keramik und Geschenkboxen her und bietet individuelle Etiketten und Private Label an."
+      },
+      "sub": [
+        {
+          "k": "blend",
+          "cat": "olio",
+          "n": {
+            "it": "Blend",
+            "en": "Blends",
+            "de": "Blends"
+          }
+        },
+        {
+          "k": "mono",
+          "cat": "olio",
+          "n": {
+            "it": "Monovarietali",
+            "en": "Single-variety oils",
+            "de": "Sortenreine Öle"
+          }
+        },
+        {
+          "k": "cert",
+          "cat": "olio",
+          "n": {
+            "it": "Certificati DOP, IGP e Bio",
+            "en": "Certified PDO, PGI and organic",
+            "de": "Zertifiziert g.U., g.g.A. und Bio"
+          }
+        },
+        {
+          "k": "pop",
+          "cat": "olio",
+          "n": {
+            "it": "Aromatizzati Linea Pop",
+            "en": "Flavoured oils, Pop line",
+            "de": "Würzöle, Linie Pop"
+          }
+        },
+        {
+          "k": "classic",
+          "cat": "olio",
+          "n": {
+            "it": "Aromatizzati Linea Classic",
+            "en": "Flavoured oils, Classic line",
+            "de": "Würzöle, Linie Classic"
+          }
+        },
+        {
+          "k": "aceti",
+          "cat": "olio",
+          "n": {
+            "it": "Condimenti all'aceto balsamico",
+            "en": "Balsamic vinegar dressings",
+            "de": "Würzen mit Aceto Balsamico"
+          }
+        },
+        {
+          "k": "ceramiche",
+          "cat": "olio",
+          "n": {
+            "it": "Ceramiche",
+            "en": "Ceramics",
+            "de": "Keramik"
+          }
+        },
+        {
+          "k": "regalo",
+          "cat": "olio",
+          "n": {
+            "it": "Confezioni regalo",
+            "en": "Gift boxes",
+            "de": "Geschenkboxen"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Multivarietale®",
+          "0,10 · 0,25 · 0,50 · 0,75 · 1 · 3 · 5 L · bag in box da 5 L · latta da 0,10 L · latta da 1 L",
+          "blend"
+        ],
+        [
+          "Autentico",
+          "0,25 L · 0,50 L · cartone da 12",
+          "blend"
+        ],
+        [
+          "Selezione",
+          "0,50 L · cartone da 6",
+          "blend"
+        ],
+        [
+          "Carolea",
+          "0,50 L, cartone da 12 · latta da 3 L / 5 L, cartone da 4",
+          "mono"
+        ],
+        [
+          "Leccino",
+          "0,50 L, cartone da 12 · latta da 3 L / 5 L, cartone da 4",
+          "mono"
+        ],
+        [
+          "Ogliarola",
+          "0,50 L, cartone da 12 · latta da 3 L / 5 L, cartone da 4",
+          "mono"
+        ],
+        [
+          "Frantoio",
+          "0,50 L, cartone da 12 · latta da 3 L / 5 L, cartone da 4",
+          "mono"
+        ],
+        [
+          "Biancolilla",
+          "0,50 L, cartone da 12 · latta da 3 L / 5 L, cartone da 4",
+          "mono"
+        ],
+        [
+          "Peranzana",
+          "0,50 L, cartone da 12 · latta da 3 L / 5 L, cartone da 4",
+          "mono"
+        ],
+        [
+          "Nocellara",
+          "0,50 L, cartone da 12 · latta da 3 L / 5 L, cartone da 4",
+          "mono"
+        ],
+        [
+          "Coratina",
+          "0,50 L, cartone da 12 · latta da 3 L / 5 L, cartone da 4",
+          "mono"
+        ],
+        [
+          "Nociara",
+          "0,50 L, cartone da 12 · latta da 3 L / 5 L, cartone da 4",
+          "mono"
+        ],
+        [
+          "Picholine",
+          "0,50 L, cartone da 12 · latta da 3 L / 5 L, cartone da 4",
+          "mono"
+        ],
+        [
+          "BIO",
+          "0,50 L, cartone da 6 · 3 L / 5 L, cartone da 4",
+          "cert"
+        ],
+        [
+          "I.G.P. Olio di Puglia",
+          "0,50 L · cartone da 6",
+          "cert"
+        ],
+        [
+          "D.O.P. Terra di Bari",
+          "0,50 L · cartone da 6",
+          "cert"
+        ],
+        [
+          "Affumicato (Linea Pop)",
+          "0,25 L · cartone da 12",
+          "pop"
+        ],
+        [
+          "Aglio nero (Linea Pop)",
+          "0,25 L · cartone da 12",
+          "pop"
+        ],
+        [
+          "Arancia (Linea Pop)",
+          "0,25 L · cartone da 12",
+          "pop"
+        ],
+        [
+          "Basilico (Linea Pop)",
+          "0,25 L · cartone da 12",
+          "pop"
+        ],
+        [
+          "Limone (Linea Pop)",
+          "0,25 L · cartone da 12",
+          "pop"
+        ],
+        [
+          "Peperoncino (Linea Pop)",
+          "0,25 L · cartone da 12",
+          "pop"
+        ],
+        [
+          "Pompelmo (Linea Pop)",
+          "0,25 L · cartone da 12",
+          "pop"
+        ],
+        [
+          "Salsa BBQ (Linea Pop)",
+          "0,25 L · cartone da 12",
+          "pop"
+        ],
+        [
+          "Sedano (Linea Pop)",
+          "0,25 L · cartone da 12",
+          "pop"
+        ],
+        [
+          "Tartufo (Linea Pop)",
+          "0,25 L · cartone da 12",
+          "pop"
+        ],
+        [
+          "Habanero (Linea Pop)",
+          "0,25 L · cartone da 12",
+          "pop"
+        ],
+        [
+          "Jalapeño (Linea Pop)",
+          "0,25 L · cartone da 12",
+          "pop"
+        ],
+        [
+          "Acciughe",
+          "0,25 L",
+          "classic"
+        ],
+        [
+          "Affumicato",
+          "0,25 L",
+          "classic"
+        ],
+        [
+          "Aglio",
+          "0,10 L · 0,25 L",
+          "classic"
+        ],
+        [
+          "Aglio e peperoncino",
+          "0,25 L",
+          "classic"
+        ],
+        [
+          "Alloro",
+          "0,25 L",
+          "classic"
+        ],
+        [
+          "Arancia",
+          "0,10 L · 0,25 L",
+          "classic"
+        ],
+        [
+          "Basilico",
+          "0,10 L · 0,25 L",
+          "classic"
+        ],
+        [
+          "Bergamotto",
+          "0,25 L",
+          "classic"
+        ],
+        [
+          "Caffè",
+          "0,25 L",
+          "classic"
+        ],
+        [
+          "Cannella",
+          "0,25 L",
+          "classic"
+        ],
+        [
+          "Cipolla",
+          "0,25 L",
+          "classic"
+        ],
+        [
+          "Curry",
+          "0,25 L",
+          "classic"
+        ],
+        [
+          "Erbe mediterranee",
+          "0,25 L",
+          "classic"
+        ],
+        [
+          "Funghi porcini",
+          "0,10 L · 0,25 L",
+          "classic"
+        ],
+        [
+          "Liquirizia",
+          "0,25 L",
+          "classic"
+        ],
+        [
+          "Limone",
+          "0,10 L · 0,25 L",
+          "classic"
+        ],
+        [
+          "Maggiorana",
+          "0,25 L",
+          "classic"
+        ],
+        [
+          "Mandarino",
+          "0,25 L",
+          "classic"
+        ],
+        [
+          "Menta",
+          "0,10 L · 0,25 L",
+          "classic"
+        ],
+        [
+          "Origano",
+          "0,25 L",
+          "classic"
+        ],
+        [
+          "Pepe nero",
+          "0,25 L",
+          "classic"
+        ],
+        [
+          "Peperoncino",
+          "0,10 L · 0,25 L",
+          "classic"
+        ],
+        [
+          "Pesto",
+          "0,10 L · 0,25 L",
+          "classic"
+        ],
+        [
+          "Pistacchio",
+          "0,10 L · 0,25 L",
+          "classic"
+        ],
+        [
+          "Pompelmo",
+          "0,25 L",
+          "classic"
+        ],
+        [
+          "Rosmarino",
+          "0,10 L · 0,25 L",
+          "classic"
+        ],
+        [
+          "Salvia",
+          "0,25 L",
+          "classic"
+        ],
+        [
+          "Scalogno",
+          "0,25 L",
+          "classic"
+        ],
+        [
+          "Tartufo bianco",
+          "0,10 L · 0,25 L",
+          "classic"
+        ],
+        [
+          "Timo",
+          "0,25 L",
+          "classic"
+        ],
+        [
+          "Vaniglia",
+          "0,25 L",
+          "classic"
+        ],
+        [
+          "Zafferano",
+          "0,25 L",
+          "classic"
+        ],
+        [
+          "Zenzero",
+          "0,25 L",
+          "classic"
+        ],
+        [
+          "Goccia",
+          "0,25 L · 0,50 L · 5 L",
+          "aceti"
+        ],
+        [
+          "Autentico Aceto Nero",
+          "0,25 L · 0,50 L · cartone da 12",
+          "aceti"
+        ],
+        [
+          "Autentico Aceto Il Denso",
+          "0,25 L · 0,50 L · cartone da 12",
+          "aceti"
+        ],
+        [
+          "Selezione Aceto",
+          "0,50 L · cartone da 6",
+          "aceti"
+        ],
+        [
+          "Truttulà",
+          "0,10 · 0,25 · 0,50 L · cartone da 6",
+          "ceramiche"
+        ],
+        [
+          "Materico",
+          "0,10 · 0,25 · 0,50 L",
+          "ceramiche"
+        ],
+        [
+          "Ceramica su olio",
+          "0,50 L · cartone da 12",
+          "ceramiche"
+        ],
+        [
+          "Fiammifero M Tris mediterraneo",
+          "3 × 0,25 L",
+          "regalo"
+        ],
+        [
+          "Fiammifero M Tre aromi",
+          "3 × 0,25 L",
+          "regalo"
+        ],
+        [
+          "Fiammifero M Pastry",
+          "3 × 0,25 L",
+          "regalo"
+        ],
+        [
+          "Fiammifero M Mari & Monti",
+          "3 × 0,25 L",
+          "regalo"
+        ],
+        [
+          "Fiammifero M Gourmet",
+          "3 × 0,25 L",
+          "regalo"
+        ],
+        [
+          "Fiammifero M Oriente",
+          "3 × 0,25 L",
+          "regalo"
+        ],
+        [
+          "Fiammifero M Agrumato",
+          "3 × 0,25 L",
+          "regalo"
+        ],
+        [
+          "Fiammifero M I Certificati",
+          "2 × 0,50 L",
+          "regalo"
+        ],
+        [
+          "Fiammifero S Garden",
+          "4 × 0,10 L",
+          "regalo"
+        ],
+        [
+          "Fiammifero S Degustazione di aromi",
+          "4 × 0,10 L",
+          "regalo"
+        ],
+        [
+          "Puglia Monopoli Certificati",
+          "2 × 0,50 L",
+          "regalo"
+        ],
+        [
+          "Puglia Ostuni Aromatizzati",
+          "3 × 0,25 L",
+          "regalo"
+        ],
+        [
+          "Puglia Vieste Aromatizzati",
+          "6 × 0,25 L",
+          "regalo"
+        ],
+        [
+          "Puglia Trani Aromatizzati",
+          "4 × 0,10 L",
+          "regalo"
+        ],
+        [
+          "Puglia Alberobello Condimenti",
+          "5 × 0,10 L",
+          "regalo"
+        ],
+        [
+          "Puglia Melpignano Degustazione",
+          "3 × 0,10 L",
+          "regalo"
+        ],
+        [
+          "Dama Certificati",
+          "2 × 0,50 L",
+          "regalo"
+        ],
+        [
+          "Dama Selezione",
+          "2 × 0,50 L",
+          "regalo"
+        ],
+        [
+          "Dama Autentico",
+          "2 × 0,50 L",
+          "regalo"
+        ],
+        [
+          "Pochette Aromatizzati",
+          "5 × 0,10 L",
+          "regalo"
+        ],
+        [
+          "Scatola regalo Autentico",
+          "2 × 0,25 L · 2 × 0,50 L",
+          "regalo"
+        ],
+        [
+          "Autentico ON",
+          "0,50 L",
+          "regalo"
+        ]
+      ],
+      "pd": {
+        "V-13-0": {
+          "c": [],
+          "pr": "3,30 € (0,10 L) · 4,90 € (0,25 L) · 20,20 € (0,50 L) · 29,20 € (0,75 L) · 33,00 € (1 L) · 44,50 € (3 L) · 72,50 € (5 L)",
+          "d": {
+            "it": "Olio extravergine d'oliva 100% italiano, estratto a freddo: il blend storico di Le Ferre, marchio registrato dal 2012. Fruttato leggero, sentori di mandorla, lievi note amare e piccante piacevole sul finale.",
+            "en": "100% Italian extra virgin olive oil, cold extracted: Le Ferre's signature blend, a registered trademark since 2012. Light fruitiness, hints of almond, gentle bitterness and a pleasant peppery finish.",
+            "de": "Natives Olivenöl extra, 100 % italienisch, kalt extrahiert: der klassische Blend von Le Ferre, seit 2012 eingetragene Marke. Leicht fruchtig, Mandelnoten, sanfte Bitterkeit und angenehme Schärfe im Abgang."
+          },
+          "a": {
+            "it": "Per condire a crudo e come base di cottura: resta stabile al calore. Fa parte anche della linea Ho.Re.Ca., con formati fino a 10 L.",
+            "en": "For dressing raw dishes and as a cooking base, as it stays stable under heat. Also part of the Ho.Re.Ca. line, in sizes up to 10 L.",
+            "de": "Zum Verfeinern roher Speisen und als Basis zum Kochen, da es hitzestabil ist. Auch Teil der Ho.Re.Ca.-Linie, in Größen bis 10 L."
+          }
+        },
+        "V-13-1": {
+          "c": [],
+          "pr": "7,50 € (0,25 L) · 23,80 € (0,50 L)",
+          "d": {
+            "it": "Blend di oli extravergine d'oliva 100% italiani, estratto a freddo, nella caratteristica bottiglia Autentico. Bouquet aromatico ampio, delicate note vegetali e sapore equilibrato.",
+            "en": "Blend of 100% Italian extra virgin olive oils, cold extracted, in the distinctive Autentico bottle. A broad aromatic bouquet, delicate vegetal notes and a balanced flavour.",
+            "de": "Blend aus 100 % italienischen nativen Olivenölen extra, kalt extrahiert, in der typischen Autentico-Flasche. Breites Aromabouquet, feine pflanzliche Noten und ausgewogener Geschmack."
+          },
+          "a": {
+            "it": "Versatile, dà il meglio a crudo: completa ogni piatto con intensità e armonia. Si abbina ai condimenti Autentico Aceto.",
+            "en": "Versatile and at its best raw, it rounds off any dish with intensity and harmony. Pairs with the Autentico vinegar dressings.",
+            "de": "Vielseitig und roh am besten: rundet jedes Gericht intensiv und harmonisch ab. Passt zu den Autentico-Essigwürzen."
+          }
+        },
+        "V-13-2": {
+          "c": [],
+          "pr": "50,00 €",
+          "d": {
+            "it": "Blend di oli extravergine d'oliva 100% italiani, scelti e dosati con cura, in bottiglia con tappo antirabbocco e astuccio singolo. Profumo intenso, ampio e avvolgente; corpo morbido e intensità bilanciata.",
+            "en": "Blend of carefully selected 100% Italian extra virgin olive oils, in a bottle with a non-refillable cap and its own gift sleeve. Intense, broad and enveloping on the nose; soft body and balanced intensity.",
+            "de": "Blend aus sorgfältig ausgewählten 100 % italienischen nativen Olivenölen extra, in der Flasche mit Nachfüllschutz und eigenem Etui. Intensiver, breiter, umhüllender Duft; weicher Körper und ausgewogene Intensität."
+          },
+          "a": {
+            "it": "Per condire e rifinire con carattere qualsiasi piatto. La linea si completa con Selezione Aceto.",
+            "en": "For dressing and finishing any dish with character. The line is completed by Selezione Aceto.",
+            "de": "Zum Würzen und Verfeinern jedes Gerichts mit Charakter. Ergänzt wird die Linie durch Selezione Aceto."
+          }
+        },
+        "V-13-3": {
+          "c": [],
+          "pr": "15,00 € (0,50 L) · 49,50 € (3 L) · 79,50 € (5 L)",
+          "d": {
+            "it": "Monovarietale Carolea: olio extravergine d'oliva 100% italiano da olive di origine pugliese, estratto a freddo. Fruttato verde delicato, di media intensità; armonico e leggero, con scarse note amare e piccanti.",
+            "en": "Carolea single-variety extra virgin olive oil, 100% Italian, from olives of Apulian origin, cold extracted. Delicate green fruitiness of medium intensity; harmonious and light, with very little bitterness or pungency.",
+            "de": "Sortenreines natives Olivenöl extra aus Carolea-Oliven, 100 % italienisch, Oliven apulischer Herkunft, kalt extrahiert. Zarte grüne Fruchtigkeit mittlerer Intensität; harmonisch und leicht, kaum bitter oder scharf."
+          },
+          "a": {
+            "it": "Ideale con verdure e ortaggi, insalate, pappe da svezzamento, frutti di mare crudi e dolci.",
+            "en": "Ideal with vegetables, salads, baby food, raw seafood and desserts.",
+            "de": "Ideal zu Gemüse, Salaten, Babynahrung, rohen Meeresfrüchten und Desserts."
+          }
+        },
+        "V-13-4": {
+          "c": [],
+          "pr": "26,40 € (0,50 L) · 49,50 € (3 L) · 79,50 € (5 L)",
+          "d": {
+            "it": "Monovarietale Leccino: olio extravergine d'oliva 100% italiano da olive di origine pugliese, estratto a freddo. Fruttato delicato con sentori di mandorla; leggero ed equilibrato, con lievi note di amaro e piccante.",
+            "en": "Leccino single-variety extra virgin olive oil, 100% Italian, from olives of Apulian origin, cold extracted. Delicately fruity with hints of almond; light and balanced, with gentle bitterness and pungency.",
+            "de": "Sortenreines natives Olivenöl extra aus Leccino-Oliven, 100 % italienisch, Oliven apulischer Herkunft, kalt extrahiert. Zart fruchtig mit Mandelnoten; leicht und ausgewogen, mit sanfter Bitterkeit und Schärfe."
+          },
+          "a": {
+            "it": "Ideale con dolci, bruschette, alimentazione infantile, pinzimoni, formaggi stagionati e pollame.",
+            "en": "Ideal with desserts, bruschetta, children's food, crudités with dip, aged cheeses and poultry.",
+            "de": "Ideal zu Desserts, Bruschetta, Kinderernährung, Rohkost-Dips, gereiftem Käse und Geflügel."
+          }
+        },
+        "V-13-5": {
+          "c": [],
+          "pr": "15,00 € (0,50 L) · 49,50 € (3 L) · 79,50 € (5 L)",
+          "d": {
+            "it": "Monovarietale Ogliarola: olio extravergine d'oliva 100% italiano da olive di origine pugliese, estratto a freddo. Fruttato medio con sfumature verdi; amaro e piccante lievi e in equilibrio.",
+            "en": "Ogliarola single-variety extra virgin olive oil, 100% Italian, from olives of Apulian origin, cold extracted. Medium fruitiness with green nuances; light, balanced bitterness and pungency.",
+            "de": "Sortenreines natives Olivenöl extra aus Ogliarola-Oliven, 100 % italienisch, Oliven apulischer Herkunft, kalt extrahiert. Mittlere Fruchtigkeit mit grünen Nuancen; leichte, ausgewogene Bitterkeit und Schärfe."
+          },
+          "a": {
+            "it": "Ideale con legumi freschi, carni bianche, frutti di mare, pasta e vellutate di ortaggi.",
+            "en": "Ideal with fresh pulses, white meat, seafood, pasta and vegetable cream soups.",
+            "de": "Ideal zu frischen Hülsenfrüchten, hellem Fleisch, Meeresfrüchten, Pasta und Gemüsecremesuppen."
+          }
+        },
+        "V-13-6": {
+          "c": [],
+          "pr": "15,00 € (0,50 L) · 49,50 € (3 L) · 79,50 € (5 L)",
+          "d": {
+            "it": "Monovarietale Frantoio: olio extravergine d'oliva 100% italiano da olive di origine pugliese, estratto a freddo. Fruttato verde di media intensità, con profumi di erba appena tagliata e cardo; fresco, con amaro e lieve piccante sul finale.",
+            "en": "Frantoio single-variety extra virgin olive oil, 100% Italian, from olives of Apulian origin, cold extracted. Green fruitiness of medium intensity, with aromas of freshly cut grass and cardoon; fresh, with bitterness and a light peppery finish.",
+            "de": "Sortenreines natives Olivenöl extra aus Frantoio-Oliven, 100 % italienisch, Oliven apulischer Herkunft, kalt extrahiert. Grüne Fruchtigkeit mittlerer Intensität mit Duft nach frisch gemähtem Gras und Karde; frisch, mit Bitterkeit und leichter Schärfe im Abgang."
+          },
+          "a": {
+            "it": "Ideale con legumi secchi, risotti, pollame, minestre di verdure e crostacei.",
+            "en": "Ideal with dried pulses, risotto, poultry, vegetable soups and shellfish.",
+            "de": "Ideal zu getrockneten Hülsenfrüchten, Risotto, Geflügel, Gemüsesuppen und Krustentieren."
+          }
+        },
+        "V-13-7": {
+          "c": [],
+          "pr": "15,00 € (0,50 L) · 49,50 € (3 L) · 79,50 € (5 L)",
+          "d": {
+            "it": "Monovarietale Biancolilla: olio extravergine d'oliva 100% italiano da olive di origine pugliese, estratto a freddo. Profumi vegetali delicati che ricordano la foglia di pomodoro; dolce, con amaro e piccante lievi ed equilibrati.",
+            "en": "Biancolilla single-variety extra virgin olive oil, 100% Italian, from olives of Apulian origin, cold extracted. Delicate vegetal aromas reminiscent of tomato leaf; sweet, with light, balanced bitterness and pungency.",
+            "de": "Sortenreines natives Olivenöl extra aus Biancolilla-Oliven, 100 % italienisch, Oliven apulischer Herkunft, kalt extrahiert. Zarte pflanzliche Aromen, die an Tomatenblatt erinnern; süß, mit leichter, ausgewogener Bitterkeit und Schärfe."
+          },
+          "a": {
+            "it": "Ideale con antipasti di mare, carni alla griglia, gamberi, zuppe di verdure, tartare e carpacci di carne.",
+            "en": "Ideal with seafood starters, grilled meat, prawns, vegetable soups, meat tartare and carpaccio.",
+            "de": "Ideal zu Meeresfrüchte-Vorspeisen, Grillfleisch, Garnelen, Gemüsesuppen, Fleischtatar und Carpaccio."
+          }
+        },
+        "V-13-8": {
+          "c": [],
+          "pr": "15,00 € (0,50 L) · 49,50 € (3 L) · 79,50 € (5 L)",
+          "d": {
+            "it": "Monovarietale Peranzana: olio extravergine d'oliva 100% italiano da olive di origine pugliese, estratto a freddo. Fruttato maturo con sfumature di erba tagliata e carciofo; armonico, con amaro e piccante in equilibrio.",
+            "en": "Peranzana single-variety extra virgin olive oil, 100% Italian, from olives of Apulian origin, cold extracted. Ripe fruitiness with notes of cut grass and artichoke; harmonious, with balanced bitterness and pungency.",
+            "de": "Sortenreines natives Olivenöl extra aus Peranzana-Oliven, 100 % italienisch, Oliven apulischer Herkunft, kalt extrahiert. Reife Fruchtigkeit mit Noten von geschnittenem Gras und Artischocke; harmonisch, mit ausgewogener Bitterkeit und Schärfe."
+          },
+          "a": {
+            "it": "Ideale con pesci alla griglia, timballi, risotti, formaggi stagionati, salse bianche e zuppe di pesce.",
+            "en": "Ideal with grilled fish, timbales, risotto, aged cheeses, white sauces and fish soups.",
+            "de": "Ideal zu gegrilltem Fisch, Timbalen, Risotto, gereiftem Käse, hellen Saucen und Fischsuppen."
+          }
+        },
+        "V-13-9": {
+          "c": [],
+          "pr": "15,00 € (0,50 L) · 49,50 € (3 L) · 79,50 € (5 L)",
+          "d": {
+            "it": "Monovarietale Nocellara: olio extravergine d'oliva 100% italiano da olive di origine pugliese, estratto a freddo. Fruttato verde intenso con note nette di erba fresca; amaro e piccante in equilibrio, profilo armonico.",
+            "en": "Nocellara single-variety extra virgin olive oil, 100% Italian, from olives of Apulian origin, cold extracted. Intense green fruitiness with clear notes of fresh grass; balanced bitterness and pungency, a harmonious profile.",
+            "de": "Sortenreines natives Olivenöl extra aus Nocellara-Oliven, 100 % italienisch, Oliven apulischer Herkunft, kalt extrahiert. Intensive grüne Fruchtigkeit mit klaren Noten von frischem Gras; ausgewogene Bitterkeit und Schärfe, harmonisches Profil."
+          },
+          "a": {
+            "it": "Ideale con pesci al forno, seppie, calamari, sughi, pasta e tartare di pesce.",
+            "en": "Ideal with baked fish, cuttlefish, squid, sauces, pasta and fish tartare.",
+            "de": "Ideal zu Fisch aus dem Ofen, Sepia, Calamari, Saucen, Pasta und Fischtatar."
+          }
+        },
+        "V-13-10": {
+          "c": [],
+          "pr": "26,40 € (0,50 L) · 49,50 € (3 L) · 79,50 € (5 L)",
+          "d": {
+            "it": "Monovarietale Coratina: olio extravergine d'oliva 100% italiano da olive di origine pugliese, estratto a freddo. Fruttato con decisi sentori di foglia d'ulivo e carciofo; sapore intenso, con piccante spiccato e amaro persistente.",
+            "en": "Coratina single-variety extra virgin olive oil, 100% Italian, from olives of Apulian origin, cold extracted. Fruity, with strong notes of olive leaf and artichoke; an intense flavour with marked pungency and lingering bitterness.",
+            "de": "Sortenreines natives Olivenöl extra aus Coratina-Oliven, 100 % italienisch, Oliven apulischer Herkunft, kalt extrahiert. Fruchtig, mit kräftigen Noten von Olivenblatt und Artischocke; intensiver Geschmack mit ausgeprägter Schärfe und anhaltender Bitterkeit."
+          },
+          "a": {
+            "it": "Ideale con focacce, carni rosse, legumi, crostacei, pesci al forno, selvaggina e polpo.",
+            "en": "Ideal with focaccia, red meat, pulses, shellfish, baked fish, game and octopus.",
+            "de": "Ideal zu Focaccia, rotem Fleisch, Hülsenfrüchten, Krustentieren, Fisch aus dem Ofen, Wild und Oktopus."
+          }
+        },
+        "V-13-11": {
+          "c": [],
+          "pr": "15,00 € (0,50 L) · 49,50 € (3 L) · 79,50 € (5 L)",
+          "d": {
+            "it": "Monovarietale Nociara: olio extravergine d'oliva 100% italiano da olive di origine pugliese, estratto a freddo. Profumo di foglia d'ulivo; al gusto leggere note amare e piacevoli punte piccanti.",
+            "en": "Nociara single-variety extra virgin olive oil, 100% Italian, from olives of Apulian origin, cold extracted. Aroma of olive leaf; on the palate, light bitterness and pleasant peppery touches.",
+            "de": "Sortenreines natives Olivenöl extra aus Nociara-Oliven, 100 % italienisch, Oliven apulischer Herkunft, kalt extrahiert. Duft nach Olivenblatt; am Gaumen leichte Bitterkeit und angenehme Schärfespitzen."
+          },
+          "a": {
+            "it": "Ideale con carciofi, cardi, finocchi, asparagi, formaggi freschi, cereali e piatti di manzo.",
+            "en": "Ideal with artichokes, cardoons, fennel, asparagus, fresh cheeses, grains and beef dishes.",
+            "de": "Ideal zu Artischocken, Karden, Fenchel, Spargel, Frischkäse, Getreide und Rindfleischgerichten."
+          }
+        },
+        "V-13-12": {
+          "c": [],
+          "pr": "15,00 € (0,50 L) · 49,50 € (3 L) · 79,50 € (5 L)",
+          "d": {
+            "it": "Monovarietale Picholine: olio extravergine d'oliva 100% italiano da olive di origine pugliese, estratto a freddo. Fruttato verde con sentori di foglia di pomodoro verde; dolce, con lievi note piccanti ed eleganti note amare.",
+            "en": "Picholine single-variety extra virgin olive oil, 100% Italian, from olives of Apulian origin, cold extracted. Green fruitiness with hints of green tomato leaf; sweet, with light pungency and elegant bitterness.",
+            "de": "Sortenreines natives Olivenöl extra aus Picholine-Oliven, 100 % italienisch, Oliven apulischer Herkunft, kalt extrahiert. Grüne Fruchtigkeit mit Noten von grünem Tomatenblatt; süß, mit leichter Schärfe und eleganter Bitterkeit."
+          },
+          "a": {
+            "it": "Ideale con astice, molluschi, minestre di verdure, selvaggina e salse agrodolci.",
+            "en": "Ideal with lobster, shellfish, vegetable soups, game and sweet and sour sauces.",
+            "de": "Ideal zu Hummer, Muscheln, Gemüsesuppen, Wild und süßsauren Saucen."
+          }
+        },
+        "V-13-13": {
+          "c": [
+            "Bio"
+          ],
+          "pr": "30,30 € (0,50 L) · 49,50 € (3 L) · 79,50 € (5 L)",
+          "d": {
+            "it": "Olio extravergine d'oliva da agricoltura biologica, 100% italiano, blend di filiera certificata. Fruttato leggero, lievi note amare e piccante accennato sul finale.",
+            "en": "Organic extra virgin olive oil, 100% Italian, a blend from a certified supply chain. Light fruitiness, gentle bitterness and a hint of pungency on the finish.",
+            "de": "Natives Olivenöl extra aus biologischem Anbau, 100 % italienisch, Blend aus zertifizierter Lieferkette. Leicht fruchtig, sanfte Bitterkeit und ein Hauch Schärfe im Abgang."
+          },
+          "a": {
+            "it": "Equilibrato, adatto alla cottura di ogni preparazione e a condire a crudo.",
+            "en": "Balanced, suitable for cooking any dish and for dressing raw food.",
+            "de": "Ausgewogen, zum Kochen aller Gerichte und zum Verfeinern roher Speisen geeignet."
+          }
+        },
+        "V-13-14": {
+          "c": [
+            "IGP"
+          ],
+          "pr": "29,90 €",
+          "d": {
+            "it": "Olio extravergine d'oliva a Indicazione Geografica Protetta, 100% pugliese, di filiera certificata. Fruttato intenso, con profumi di erba appena falciata, mandorla fresca e carciofo; amaro e piccante in armonia.",
+            "en": "Extra virgin olive oil with Protected Geographical Indication, 100% from Apulia, from a certified supply chain. Intensely fruity, with aromas of freshly mown grass, fresh almond and artichoke; harmonious bitterness and pungency.",
+            "de": "Natives Olivenöl extra mit geschützter geografischer Angabe, 100 % aus Apulien, aus zertifizierter Lieferkette. Intensiv fruchtig, mit Duft nach frisch gemähtem Gras, frischer Mandel und Artischocke; harmonische Bitterkeit und Schärfe."
+          },
+          "a": {
+            "it": "Per completare primi piatti e rifinire bruschette gourmet.",
+            "en": "For finishing pasta and rice dishes and gourmet bruschetta.",
+            "de": "Zum Vollenden von Pasta- und Reisgerichten und Gourmet-Bruschetta."
+          }
+        },
+        "V-13-15": {
+          "c": [
+            "DOP"
+          ],
+          "pr": "31,00 €",
+          "d": {
+            "it": "Olio extravergine d'oliva a Denominazione di Origine Protetta Terra di Bari, sottozona Castel del Monte, 100% pugliese. Fruttato intenso, leggere note amare e pizzicore nel retrogusto.",
+            "en": "Extra virgin olive oil with Protected Designation of Origin Terra di Bari, Castel del Monte subzone, 100% from Apulia. Intensely fruity, with light bitterness and a peppery aftertaste.",
+            "de": "Natives Olivenöl extra mit geschützter Ursprungsbezeichnung Terra di Bari, Unterzone Castel del Monte, 100 % aus Apulien. Intensiv fruchtig, mit leichter Bitterkeit und pfeffrigem Nachgeschmack."
+          },
+          "a": {
+            "it": "Dà gusto e struttura a carni e zuppe; ottimo per rifinire piatti elaborati.",
+            "en": "Adds flavour and structure to meat and soups; excellent for finishing elaborate dishes.",
+            "de": "Gibt Fleisch und Suppen Geschmack und Struktur; ideal zum Vollenden aufwendiger Gerichte."
+          }
+        },
+        "V-13-16": {
+          "c": [],
+          "pr": "12,50 €",
+          "d": {
+            "it": "Condimento in olio extravergine d'oliva della Linea Pop, con note di affumicatura: pensato per carni a cottura lenta, a fuoco indiretto.",
+            "en": "Extra virgin olive oil dressing from the Pop line, with smoky notes: made for slow-cooked meat over indirect heat.",
+            "de": "Würzöl aus nativem Olivenöl extra der Linie Pop, mit Rauchnoten: gedacht für langsam gegartes Fleisch bei indirekter Hitze."
+          },
+          "a": {
+            "it": "Suggerito con alette di pollo e stinco di maiale.",
+            "en": "Suggested with chicken wings and pork shank.",
+            "de": "Empfohlen zu Chicken Wings und Schweinshaxe."
+          }
+        },
+        "V-13-17": {
+          "c": [],
+          "pr": "12,50 €",
+          "d": {
+            "it": "Condimento in olio extravergine d'oliva della Linea Pop, all'aglio nero: dona ai piatti una dolcezza originale.",
+            "en": "Extra virgin olive oil dressing from the Pop line, with black garlic: gives dishes an unusual sweetness.",
+            "de": "Würzöl aus nativem Olivenöl extra der Linie Pop, mit schwarzem Knoblauch: verleiht Gerichten eine besondere Süße."
+          },
+          "a": {
+            "it": "Suggerito con spaghetti con acciughe e crostone con burrata.",
+            "en": "Suggested with spaghetti with anchovies and toasted bread with burrata.",
+            "de": "Empfohlen zu Spaghetti mit Sardellen und geröstetem Brot mit Burrata."
+          }
+        },
+        "V-13-18": {
+          "c": [],
+          "pr": "10,00 €",
+          "d": {
+            "it": "Condimento in olio extravergine d'oliva della Linea Pop, all'arancia: pensato per tartare raffinate.",
+            "en": "Extra virgin olive oil dressing from the Pop line, with orange: made for refined tartare.",
+            "de": "Würzöl aus nativem Olivenöl extra der Linie Pop, mit Orange: gedacht für feine Tatars."
+          },
+          "a": {
+            "it": "Suggerito con pesce spada e tartare di gambero rosso.",
+            "en": "Suggested with swordfish and red prawn tartare.",
+            "de": "Empfohlen zu Schwertfisch und Tatar von roten Garnelen."
+          }
+        },
+        "V-13-19": {
+          "c": [],
+          "pr": "10,00 €",
+          "d": {
+            "it": "Condimento in olio extravergine d'oliva della Linea Pop, al basilico: insaporisce i piatti con i sapori dell'orto.",
+            "en": "Extra virgin olive oil dressing from the Pop line, with basil: brings garden flavours to any dish.",
+            "de": "Würzöl aus nativem Olivenöl extra der Linie Pop, mit Basilikum: bringt Gartenaromen in jedes Gericht."
+          },
+          "a": {
+            "it": "Suggerito con caponata di verdure.",
+            "en": "Suggested with vegetable caponata.",
+            "de": "Empfohlen zu Gemüse-Caponata."
+          }
+        },
+        "V-13-20": {
+          "c": [],
+          "pr": "10,00 €",
+          "d": {
+            "it": "Condimento in olio extravergine d'oliva della Linea Pop, al limone: pensato per tartare fresche.",
+            "en": "Extra virgin olive oil dressing from the Pop line, with lemon: made for fresh tartare.",
+            "de": "Würzöl aus nativem Olivenöl extra der Linie Pop, mit Zitrone: gedacht für frische Tatars."
+          },
+          "a": {
+            "it": "Suggerito con tartare di manzo, salmone o branzino.",
+            "en": "Suggested with beef, salmon or sea bass tartare.",
+            "de": "Empfohlen zu Tatar von Rind, Lachs oder Wolfsbarsch."
+          }
+        },
+        "V-13-21": {
+          "c": [],
+          "pr": "10,00 €",
+          "d": {
+            "it": "Condimento in olio extravergine d'oliva della Linea Pop, al peperoncino, di piccantezza media.",
+            "en": "Extra virgin olive oil dressing from the Pop line, with chilli, medium heat.",
+            "de": "Würzöl aus nativem Olivenöl extra der Linie Pop, mit Chili, mittlere Schärfe."
+          },
+          "a": {
+            "it": "Suggerito con pizze, fagioli e frutti di mare.",
+            "en": "Suggested with pizza, beans and seafood.",
+            "de": "Empfohlen zu Pizza, Bohnen und Meeresfrüchten."
+          }
+        },
+        "V-13-22": {
+          "c": [],
+          "pr": "12,50 €",
+          "d": {
+            "it": "Condimento in olio extravergine d'oliva della Linea Pop, al pompelmo: pensato per tartare aromatiche.",
+            "en": "Extra virgin olive oil dressing from the Pop line, with grapefruit: made for aromatic tartare.",
+            "de": "Würzöl aus nativem Olivenöl extra der Linie Pop, mit Grapefruit: gedacht für aromatische Tatars."
+          },
+          "a": {
+            "it": "Suggerito con tonno a dadini e tartare di ricciola.",
+            "en": "Suggested with diced tuna and amberjack tartare.",
+            "de": "Empfohlen zu Thunfischwürfeln und Tatar von Bernsteinmakrele."
+          }
+        },
+        "V-13-23": {
+          "c": [],
+          "pr": "12,50 €",
+          "d": {
+            "it": "Condimento in olio extravergine d'oliva della Linea Pop, al gusto di salsa barbecue: pensato per carni a cottura lenta, a fuoco indiretto.",
+            "en": "Extra virgin olive oil dressing from the Pop line, with a barbecue sauce flavour: made for slow-cooked meat over indirect heat.",
+            "de": "Würzöl aus nativem Olivenöl extra der Linie Pop, mit Barbecue-Sauce-Geschmack: gedacht für langsam gegartes Fleisch bei indirekter Hitze."
+          },
+          "a": {
+            "it": "Suggerito con costine di maiale e beef brisket.",
+            "en": "Suggested with pork ribs and beef brisket.",
+            "de": "Empfohlen zu Schweinerippchen und Beef Brisket."
+          }
+        },
+        "V-13-24": {
+          "c": [],
+          "pr": "12,50 €",
+          "d": {
+            "it": "Condimento in olio extravergine d'oliva della Linea Pop, al sedano: dona un tocco di freschezza.",
+            "en": "Extra virgin olive oil dressing from the Pop line, with celery: adds a touch of freshness.",
+            "de": "Würzöl aus nativem Olivenöl extra der Linie Pop, mit Sellerie: sorgt für eine frische Note."
+          },
+          "a": {
+            "it": "Suggerito con gazpacho, crema di carote e insalate con noci.",
+            "en": "Suggested with gazpacho, carrot soup and salads with walnuts.",
+            "de": "Empfohlen zu Gazpacho, Karottencremesuppe und Salaten mit Walnüssen."
+          }
+        },
+        "V-13-25": {
+          "c": [],
+          "pr": "12,50 €",
+          "d": {
+            "it": "Condimento in olio extravergine d'oliva della Linea Pop, al tartufo: pensato per carni alla griglia.",
+            "en": "Extra virgin olive oil dressing from the Pop line, with truffle: made for grilled meat.",
+            "de": "Würzöl aus nativem Olivenöl extra der Linie Pop, mit Trüffel: gedacht für gegrilltes Fleisch."
+          },
+          "a": {
+            "it": "Suggerito con filetto di manzo e tagliata di Chianina.",
+            "en": "Suggested with beef fillet and sliced Chianina steak.",
+            "de": "Empfohlen zu Rinderfilet und Tagliata vom Chianina-Rind."
+          }
+        },
+        "V-13-26": {
+          "c": [],
+          "pr": "12,50 €",
+          "d": {
+            "it": "Condimento in olio extravergine d'oliva della Linea Pop, al peperoncino habanero, di piccantezza intensa.",
+            "en": "Extra virgin olive oil dressing from the Pop line, with habanero chilli, very hot.",
+            "de": "Würzöl aus nativem Olivenöl extra der Linie Pop, mit Habanero-Chili, sehr scharf."
+          },
+          "a": {
+            "it": "Suggerito con patate in insalata, carni bianche e zuppe di verdure.",
+            "en": "Suggested with potato salad, white meat and vegetable soups.",
+            "de": "Empfohlen zu Kartoffelsalat, hellem Fleisch und Gemüsesuppen."
+          }
+        },
+        "V-13-27": {
+          "c": [],
+          "pr": "12,50 €",
+          "d": {
+            "it": "Condimento in olio extravergine d'oliva della Linea Pop, al jalapeño, di piccantezza moderata.",
+            "en": "Extra virgin olive oil dressing from the Pop line, with jalapeño, moderate heat.",
+            "de": "Würzöl aus nativem Olivenöl extra der Linie Pop, mit Jalapeño, mäßige Schärfe."
+          },
+          "a": {
+            "it": "Suggerito con ostriche, braciole di maiale e zuppe di pesce.",
+            "en": "Suggested with oysters, pork chops and fish soups.",
+            "de": "Empfohlen zu Austern, Schweinekoteletts und Fischsuppen."
+          }
+        },
+        "V-13-28": {
+          "c": [],
+          "pr": "7,50 €",
+          "d": {
+            "it": "Condimento in olio extravergine d'oliva aromatizzato alle acciughe, Linea Classic. Spiccata sapidità e profumo piacevole.",
+            "en": "Extra virgin olive oil dressing flavoured with anchovies, Classic line. Distinctly savoury, with a pleasant aroma.",
+            "de": "Würzöl aus nativem Olivenöl extra mit Sardellen, Linie Classic. Ausgeprägt würzig, mit angenehmem Duft."
+          },
+          "a": {
+            "it": "Ideale a crudo con insalate, bruschette, pizza, broccoli e orecchiette con cime di rapa.",
+            "en": "Best used raw with salads, bruschetta, pizza, broccoli and orecchiette with turnip tops.",
+            "de": "Ideal roh zu Salaten, Bruschetta, Pizza, Brokkoli und Orecchiette mit Stängelkohl."
+          }
+        },
+        "V-13-29": {
+          "c": [],
+          "pr": "9,50 €",
+          "d": {
+            "it": "Condimento in olio extravergine d'oliva aromatizzato affumicato, Linea Classic. Profumo di legni arsi, nato dall'antica arte nordica di affumicare gli alimenti.",
+            "en": "Extra virgin olive oil dressing flavoured with smoke, Classic line. Aroma of burnt wood, inspired by the old Nordic art of smoking food.",
+            "de": "Würzöl aus nativem Olivenöl extra mit Raucharoma, Linie Classic. Duft nach verbranntem Holz, inspiriert von der alten nordischen Kunst des Räucherns."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-13-30": {
+          "c": [],
+          "pr": "4,50 € (0,10 L) · 15,00 € (0,25 L)",
+          "d": {
+            "it": "Condimento in olio extravergine d'oliva aromatizzato all'aglio, Linea Classic. Profilo intenso, con toni dolci e pungenti in equilibrio.",
+            "en": "Extra virgin olive oil dressing flavoured with garlic, Classic line. An intense profile, with sweet and pungent tones in balance.",
+            "de": "Würzöl aus nativem Olivenöl extra mit Knoblauch, Linie Classic. Intensives Profil, süße und scharfe Töne im Gleichgewicht."
+          },
+          "a": {
+            "it": "Ideale a crudo con salse, insalate di pasta, legumi, pomodori e bruschette.",
+            "en": "Best used raw with sauces, pasta salads, pulses, tomatoes and bruschetta.",
+            "de": "Ideal roh zu Saucen, Nudelsalaten, Hülsenfrüchten, Tomaten und Bruschetta."
+          }
+        },
+        "V-13-31": {
+          "c": [],
+          "pr": "7,50 €",
+          "d": {
+            "it": "Condimento in olio extravergine d'oliva aromatizzato ad aglio e peperoncino, Linea Classic. L'intensità dell'aglio e il piccante del peperoncino in un olio vigoroso e fresco.",
+            "en": "Extra virgin olive oil dressing flavoured with garlic and chilli, Classic line. The intensity of garlic and the heat of chilli in a vigorous, fresh oil.",
+            "de": "Würzöl aus nativem Olivenöl extra mit Knoblauch und Chili, Linie Classic. Die Intensität von Knoblauch und die Schärfe von Chili in einem kräftigen, frischen Öl."
+          },
+          "a": {
+            "it": "Ideale a crudo con fagioli, cous cous e spaghetti.",
+            "en": "Best used raw with beans, couscous and spaghetti.",
+            "de": "Ideal roh zu Bohnen, Couscous und Spaghetti."
+          }
+        },
+        "V-13-32": {
+          "c": [],
+          "pr": "7,50 €",
+          "d": {
+            "it": "Condimento in olio extravergine d'oliva aromatizzato all'alloro, Linea Classic. Fragranza vigorosa e pungente, gusto intenso con toni piacevolmente amari.",
+            "en": "Extra virgin olive oil dressing flavoured with bay leaf, Classic line. A vigorous, pungent fragrance and an intense taste with pleasantly bitter tones.",
+            "de": "Würzöl aus nativem Olivenöl extra mit Lorbeer, Linie Classic. Kräftiger, stechender Duft und intensiver Geschmack mit angenehm bitteren Tönen."
+          },
+          "a": {
+            "it": "Ideale a crudo con legumi e stufati, selvaggina, salse e zuppe.",
+            "en": "Best used raw with pulses and stews, game, sauces and soups.",
+            "de": "Ideal roh zu Hülsenfrüchten und Schmorgerichten, Wild, Saucen und Suppen."
+          }
+        },
+        "V-13-33": {
+          "c": [],
+          "pr": "4,50 € (0,10 L) · 15,00 € (0,25 L)",
+          "d": {
+            "it": "Condimento in olio extravergine d'oliva aromatizzato all'arancia, Linea Classic. Aroma persistente e gusto delicato, con i toni aciduli dell'agrume.",
+            "en": "Extra virgin olive oil dressing flavoured with orange, Classic line. A lasting aroma and delicate taste, with the citrus fruit's tangy tones.",
+            "de": "Würzöl aus nativem Olivenöl extra mit Orange, Linie Classic. Anhaltendes Aroma und zarter Geschmack mit den säuerlichen Tönen der Zitrusfrucht."
+          },
+          "a": {
+            "it": "Ideale a crudo con crostacei, tartare di tonno, insalate, dolci e cioccolato.",
+            "en": "Best used raw with shellfish, tuna tartare, salads, desserts and chocolate.",
+            "de": "Ideal roh zu Krustentieren, Thunfischtatar, Salaten, Desserts und Schokolade."
+          }
+        },
+        "V-13-34": {
+          "c": [],
+          "pr": "7,30 € (0,10 L) · 15,00 € (0,25 L)",
+          "d": {
+            "it": "Condimento in olio extravergine d'oliva aromatizzato al basilico, Linea Classic. Aroma fresco, sapore dolcemente sapido.",
+            "en": "Extra virgin olive oil dressing flavoured with basil, Classic line. A fresh aroma and a gently savoury taste.",
+            "de": "Würzöl aus nativem Olivenöl extra mit Basilikum, Linie Classic. Frisches Aroma, sanft würziger Geschmack."
+          },
+          "a": {
+            "it": "Ideale a crudo con pasta, mozzarella, bruschette, carni bianche e pomodori.",
+            "en": "Best used raw with pasta, mozzarella, bruschetta, white meat and tomatoes.",
+            "de": "Ideal roh zu Pasta, Mozzarella, Bruschetta, hellem Fleisch und Tomaten."
+          }
+        },
+        "V-13-35": {
+          "c": [],
+          "pr": "7,50 €",
+          "d": {
+            "it": "Condimento in olio extravergine d'oliva aromatizzato al bergamotto, Linea Classic. Aroma fruttato e sapore dolce, con sfumature amarognole appena accennate.",
+            "en": "Extra virgin olive oil dressing flavoured with bergamot, Classic line. A fruity aroma and sweet taste, with just a hint of bitterness.",
+            "de": "Würzöl aus nativem Olivenöl extra mit Bergamotte, Linie Classic. Fruchtiges Aroma und süßer Geschmack mit einem Hauch Bitterkeit."
+          },
+          "a": {
+            "it": "Ideale a crudo con pesce spada, tartare di salmone, trota, madeleine e tartellette.",
+            "en": "Best used raw with swordfish, salmon tartare, trout, madeleines and tartlets.",
+            "de": "Ideal roh zu Schwertfisch, Lachstatar, Forelle, Madeleines und Törtchen."
+          }
+        },
+        "V-13-36": {
+          "c": [],
+          "pr": "7,50 €",
+          "d": {
+            "it": "Condimento in olio extravergine d'oliva aromatizzato al caffè, Linea Classic. Aromatico e tostato, di intenso apporto gustativo.",
+            "en": "Extra virgin olive oil dressing flavoured with coffee, Classic line. Aromatic and roasted, with an intense flavour.",
+            "de": "Würzöl aus nativem Olivenöl extra mit Kaffee, Linie Classic. Aromatisch und geröstet, mit intensivem Geschmack."
+          },
+          "a": {
+            "it": "Ideale a crudo con marinature, salse per arrosti e cipolle.",
+            "en": "Best used raw with marinades, sauces for roasts and onions.",
+            "de": "Ideal roh zu Marinaden, Saucen für Braten und Zwiebeln."
+          }
+        },
+        "V-13-37": {
+          "c": [],
+          "pr": "7,50 €",
+          "d": {
+            "it": "Condimento in olio extravergine d'oliva aromatizzato alla cannella, Linea Classic. Profumo speziato, secco e pungente, con sfumature dolci.",
+            "en": "Extra virgin olive oil dressing flavoured with cinnamon, Classic line. A spicy, dry and pungent aroma with sweet nuances.",
+            "de": "Würzöl aus nativem Olivenöl extra mit Zimt, Linie Classic. Würziger, trockener und stechender Duft mit süßen Nuancen."
+          },
+          "a": {
+            "it": "Ideale a crudo con frollini e muffin al cacao o alle mele; poche gocce in besciamella, purè, ragù di selvaggina e polpettoni.",
+            "en": "Best used raw with shortbread and cocoa or apple muffins; a few drops in béchamel, mashed potatoes, game ragù and meatloaf.",
+            "de": "Ideal roh zu Mürbeteiggebäck und Kakao- oder Apfelmuffins; wenige Tropfen in Béchamel, Kartoffelpüree, Wildragout und Hackbraten."
+          }
+        },
+        "V-13-38": {
+          "c": [],
+          "pr": "7,50 €",
+          "d": {
+            "it": "Condimento in olio extravergine d'oliva aromatizzato alla cipolla, Linea Classic. Fragranza vivace, sapore intenso con piacevoli note dolci.",
+            "en": "Extra virgin olive oil dressing flavoured with onion, Classic line. A lively fragrance and an intense taste with pleasant sweet notes.",
+            "de": "Würzöl aus nativem Olivenöl extra mit Zwiebel, Linie Classic. Lebhafter Duft, intensiver Geschmack mit angenehm süßen Noten."
+          },
+          "a": {
+            "it": "Ideale a crudo con patate, fagiolini, fave, merluzzo, insalate e bruschette.",
+            "en": "Best used raw with potatoes, green beans, broad beans, cod, salads and bruschetta.",
+            "de": "Ideal roh zu Kartoffeln, grünen Bohnen, Saubohnen, Kabeljau, Salaten und Bruschetta."
+          }
+        },
+        "V-13-39": {
+          "c": [],
+          "pr": "7,50 €",
+          "d": {
+            "it": "Condimento in olio extravergine d'oliva aromatizzato al curry, Linea Classic. Note intense e speziate, lievemente piccanti.",
+            "en": "Extra virgin olive oil dressing flavoured with curry, Classic line. Intense, spicy notes with a light heat.",
+            "de": "Würzöl aus nativem Olivenöl extra mit Curry, Linie Classic. Intensive, würzige Noten, leicht scharf."
+          },
+          "a": {
+            "it": "Ideale a crudo con carni bianche, crostacei, verdure e riso.",
+            "en": "Best used raw with white meat, shellfish, vegetables and rice.",
+            "de": "Ideal roh zu hellem Fleisch, Krustentieren, Gemüse und Reis."
+          }
+        },
+        "V-13-40": {
+          "c": [],
+          "pr": "15,80 €",
+          "d": {
+            "it": "Condimento in olio extravergine d'oliva aromatizzato alle erbe mediterranee, Linea Classic. Il profumo fresco e armonioso di un mazzetto di erbe aromatiche, il bouquet garni.",
+            "en": "Extra virgin olive oil dressing flavoured with Mediterranean herbs, Classic line. The fresh, harmonious scent of a bunch of aromatic herbs, the bouquet garni.",
+            "de": "Würzöl aus nativem Olivenöl extra mit mediterranen Kräutern, Linie Classic. Der frische, harmonische Duft eines Kräuterbündels, des Bouquet garni."
+          },
+          "a": {
+            "it": "Ideale a crudo con zuppe, stufati, salse, quiche e torte salate di verdure.",
+            "en": "Best used raw with soups, stews, sauces, quiches and vegetable pies.",
+            "de": "Ideal roh zu Suppen, Schmorgerichten, Saucen, Quiches und Gemüsetartes."
+          }
+        },
+        "V-13-41": {
+          "c": [],
+          "pr": "4,90 € (0,10 L) · 15,00 € (0,25 L)",
+          "d": {
+            "it": "Condimento in olio extravergine d'oliva aromatizzato ai funghi porcini, Linea Classic. Aroma avvolgente e persistente, gusto intenso e pieno.",
+            "en": "Extra virgin olive oil dressing flavoured with porcini mushrooms, Classic line. An enveloping, lasting aroma and a full, intense taste.",
+            "de": "Würzöl aus nativem Olivenöl extra mit Steinpilzen, Linie Classic. Umhüllendes, anhaltendes Aroma, voller und intensiver Geschmack."
+          },
+          "a": {
+            "it": "Ideale a crudo con risotti, fonduta, sughi e carni arrosto.",
+            "en": "Best used raw with risotto, fondue, sauces and roast meat.",
+            "de": "Ideal roh zu Risotto, Fondue, Saucen und Braten."
+          }
+        },
+        "V-13-42": {
+          "c": [],
+          "pr": "8,50 €",
+          "d": {
+            "it": "Condimento in olio extravergine d'oliva aromatizzato alla liquirizia, Linea Classic. Sapore dolce, lievemente affumicato e balsamico.",
+            "en": "Extra virgin olive oil dressing flavoured with liquorice, Classic line. A sweet taste, slightly smoky and balsamic.",
+            "de": "Würzöl aus nativem Olivenöl extra mit Lakritz, Linie Classic. Süßer Geschmack, leicht rauchig und balsamisch."
+          },
+          "a": {
+            "it": "Ideale a crudo con torte al cacao e al cioccolato, ricotta con lamponi, risotto allo zafferano, carni rosse e funghi cardoncelli.",
+            "en": "Best used raw with cocoa and chocolate cakes, ricotta with raspberries, saffron risotto, red meat and king oyster mushrooms.",
+            "de": "Ideal roh zu Kakao- und Schokoladenkuchen, Ricotta mit Himbeeren, Safranrisotto, rotem Fleisch und Kräuterseitlingen."
+          }
+        },
+        "V-13-43": {
+          "c": [],
+          "pr": "7,30 € (0,10 L) · 15,00 € (0,25 L)",
+          "d": {
+            "it": "Condimento in olio extravergine d'oliva aromatizzato al limone, Linea Classic. Aroma delicato e persistente, gusto fresco e leggero.",
+            "en": "Extra virgin olive oil dressing flavoured with lemon, Classic line. A delicate, lasting aroma and a fresh, light taste.",
+            "de": "Würzöl aus nativem Olivenöl extra mit Zitrone, Linie Classic. Zartes, anhaltendes Aroma, frischer und leichter Geschmack."
+          },
+          "a": {
+            "it": "Ideale a crudo con insalate, tartare, pesce alla griglia, arrosti e verdure.",
+            "en": "Best used raw with salads, tartare, grilled fish, roasts and vegetables.",
+            "de": "Ideal roh zu Salaten, Tatar, gegrilltem Fisch, Braten und Gemüse."
+          }
+        },
+        "V-13-44": {
+          "c": [],
+          "pr": "7,50 €",
+          "d": {
+            "it": "Condimento in olio extravergine d'oliva aromatizzato alla maggiorana, Linea Classic. Profumato e delicato, con toni lievemente speziati.",
+            "en": "Extra virgin olive oil dressing flavoured with marjoram, Classic line. Fragrant and delicate, with lightly spicy tones.",
+            "de": "Würzöl aus nativem Olivenöl extra mit Majoran, Linie Classic. Duftend und zart, mit leicht würzigen Tönen."
+          },
+          "a": {
+            "it": "Ideale a crudo con arrosti, melanzane, pesce e insalate.",
+            "en": "Best used raw with roasts, aubergines, fish and salads.",
+            "de": "Ideal roh zu Braten, Auberginen, Fisch und Salaten."
+          }
+        },
+        "V-13-45": {
+          "c": [],
+          "pr": "9,50 €",
+          "d": {
+            "it": "Condimento in olio extravergine d'oliva aromatizzato al mandarino, Linea Classic. Note dolci e profumate.",
+            "en": "Extra virgin olive oil dressing flavoured with mandarin, Classic line. Sweet, fragrant notes.",
+            "de": "Würzöl aus nativem Olivenöl extra mit Mandarine, Linie Classic. Süße, duftende Noten."
+          },
+          "a": {
+            "it": "Ideale a crudo con scaloppine di vitello, branzino al forno, triglie al cartoccio, tartare di gamberi, torte al cioccolato e pasta frolla.",
+            "en": "Best used raw with veal escalopes, baked sea bass, red mullet en papillote, prawn tartare, chocolate cakes and shortcrust pastry.",
+            "de": "Ideal roh zu Kalbsschnitzel, Wolfsbarsch aus dem Ofen, Rotbarben in Papillote, Garnelentatar, Schokoladenkuchen und Mürbeteig."
+          }
+        },
+        "V-13-46": {
+          "c": [],
+          "pr": "4,50 € (0,10 L) · 7,50 € (0,25 L)",
+          "d": {
+            "it": "Condimento in olio extravergine d'oliva aromatizzato alla menta, Linea Classic. Note frizzanti, sapore deciso e piacevolmente fresco.",
+            "en": "Extra virgin olive oil dressing flavoured with mint, Classic line. Lively notes and a bold, pleasantly fresh taste.",
+            "de": "Würzöl aus nativem Olivenöl extra mit Minze, Linie Classic. Prickelnde Noten, kräftiger und angenehm frischer Geschmack."
+          },
+          "a": {
+            "it": "Ideale a crudo con zucchine, cetrioli, agnello, piselli e patate.",
+            "en": "Best used raw with courgettes, cucumbers, lamb, peas and potatoes.",
+            "de": "Ideal roh zu Zucchini, Gurken, Lamm, Erbsen und Kartoffeln."
+          }
+        },
+        "V-13-47": {
+          "c": [],
+          "pr": "7,50 €",
+          "d": {
+            "it": "Condimento in olio extravergine d'oliva aromatizzato all'origano, Linea Classic. Sentori pungenti alternati a sfumature dolci.",
+            "en": "Extra virgin olive oil dressing flavoured with oregano, Classic line. Pungent hints alternating with sweet nuances.",
+            "de": "Würzöl aus nativem Olivenöl extra mit Oregano, Linie Classic. Stechende Noten im Wechsel mit süßen Nuancen."
+          },
+          "a": {
+            "it": "Ideale a crudo con pizza, insalate, pomodoro, pollo e tacchino.",
+            "en": "Best used raw with pizza, salads, tomato, chicken and turkey.",
+            "de": "Ideal roh zu Pizza, Salaten, Tomaten, Huhn und Pute."
+          }
+        },
+        "V-13-48": {
+          "c": [],
+          "pr": "7,50 €",
+          "d": {
+            "it": "Condimento in olio extravergine d'oliva aromatizzato al pepe nero, Linea Classic. Speziato, con note pungenti e un vivace profilo olfattivo.",
+            "en": "Extra virgin olive oil dressing flavoured with black pepper, Classic line. Spicy, with pungent notes and a lively aroma.",
+            "de": "Würzöl aus nativem Olivenöl extra mit schwarzem Pfeffer, Linie Classic. Würzig, mit stechenden Noten und lebhaftem Duft."
+          },
+          "a": {
+            "it": "Ideale a crudo con carpacci di pesce, formaggi, pinzimoni e zuppe di pesce.",
+            "en": "Best used raw with fish carpaccio, cheeses, crudités with dip and fish soups.",
+            "de": "Ideal roh zu Fischcarpaccio, Käse, Rohkost-Dips und Fischsuppen."
+          }
+        },
+        "V-13-49": {
+          "c": [],
+          "pr": "7,30 € (0,10 L) · 15,00 € (0,25 L)",
+          "d": {
+            "it": "Condimento in olio extravergine d'oliva aromatizzato al peperoncino, Linea Classic. Piccante, dal sapore intenso e duraturo.",
+            "en": "Extra virgin olive oil dressing flavoured with chilli, Classic line. Hot, with an intense, lasting flavour.",
+            "de": "Würzöl aus nativem Olivenöl extra mit Chili, Linie Classic. Scharf, mit intensivem, anhaltendem Geschmack."
+          },
+          "a": {
+            "it": "Ideale a crudo con zuppe di legumi, pasta, pizza, carne e ortaggi.",
+            "en": "Best used raw with pulse soups, pasta, pizza, meat and vegetables.",
+            "de": "Ideal roh zu Hülsenfruchtsuppen, Pasta, Pizza, Fleisch und Gemüse."
+          }
+        },
+        "V-13-50": {
+          "c": [],
+          "pr": "4,50 € (0,10 L) · 7,50 € (0,25 L)",
+          "d": {
+            "it": "Condimento in olio extravergine d'oliva aromatizzato al pesto, Linea Classic. Aroma intenso, sapore fresco e caratteristico.",
+            "en": "Extra virgin olive oil dressing flavoured with pesto, Classic line. An intense aroma and a fresh, distinctive taste.",
+            "de": "Würzöl aus nativem Olivenöl extra mit Pesto, Linie Classic. Intensives Aroma, frischer und charakteristischer Geschmack."
+          },
+          "a": {
+            "it": "Ideale a crudo con pasta, pane, pomodori e formaggi freschi.",
+            "en": "Best used raw with pasta, bread, tomatoes and fresh cheeses.",
+            "de": "Ideal roh zu Pasta, Brot, Tomaten und Frischkäse."
+          }
+        },
+        "V-13-51": {
+          "c": [],
+          "pr": "7,30 € (0,10 L) · 12,50 € (0,25 L)",
+          "d": {
+            "it": "Condimento in olio extravergine d'oliva aromatizzato al pistacchio, Linea Classic. Sapore pieno e fragranza delicata, leggermente tostata.",
+            "en": "Extra virgin olive oil dressing flavoured with pistachio, Classic line. A full taste and a delicate, lightly toasted fragrance.",
+            "de": "Würzöl aus nativem Olivenöl extra mit Pistazie, Linie Classic. Voller Geschmack und zarter, leicht gerösteter Duft."
+          },
+          "a": {
+            "it": "Ideale a crudo con formaggi erborinati, salmone, crostacei, torte e biscotti.",
+            "en": "Best used raw with blue cheeses, salmon, shellfish, cakes and biscuits.",
+            "de": "Ideal roh zu Blauschimmelkäse, Lachs, Krustentieren, Kuchen und Keksen."
+          }
+        },
+        "V-13-52": {
+          "c": [],
+          "pr": "9,50 €",
+          "d": {
+            "it": "Condimento in olio extravergine d'oliva aromatizzato al pompelmo, Linea Classic. La nota amarognola e lievemente acidula del pompelmo.",
+            "en": "Extra virgin olive oil dressing flavoured with grapefruit, Classic line. The slightly bitter, lightly tangy note of grapefruit.",
+            "de": "Würzöl aus nativem Olivenöl extra mit Grapefruit, Linie Classic. Die leicht bittere, leicht säuerliche Note der Grapefruit."
+          },
+          "a": {
+            "it": "Ideale a crudo con insalate con grana e rucola, bresaola, carpacci di carne e pesce, pesce spada affumicato, gamberoni e broccoli.",
+            "en": "Best used raw with salads with grana and rocket, bresaola, meat and fish carpaccio, smoked swordfish, king prawns and broccoli.",
+            "de": "Ideal roh zu Salaten mit Grana und Rucola, Bresaola, Fleisch- und Fischcarpaccio, geräuchertem Schwertfisch, Riesengarnelen und Brokkoli."
+          }
+        },
+        "V-13-53": {
+          "c": [],
+          "pr": "7,30 € (0,10 L) · 12,50 € (0,25 L)",
+          "d": {
+            "it": "Condimento in olio extravergine d'oliva aromatizzato al rosmarino, Linea Classic. Gusto aromatico e pieno, profumo pungente con sfumature amarognole.",
+            "en": "Extra virgin olive oil dressing flavoured with rosemary, Classic line. A full, aromatic taste and a pungent scent with slightly bitter nuances.",
+            "de": "Würzöl aus nativem Olivenöl extra mit Rosmarin, Linie Classic. Voller, aromatischer Geschmack, stechender Duft mit leicht bitteren Nuancen."
+          },
+          "a": {
+            "it": "Ideale a crudo con pane e focaccia, agnello, pollo, maiale, ceci e patate.",
+            "en": "Best used raw with bread and focaccia, lamb, chicken, pork, chickpeas and potatoes.",
+            "de": "Ideal roh zu Brot und Focaccia, Lamm, Huhn, Schwein, Kichererbsen und Kartoffeln."
+          }
+        },
+        "V-13-54": {
+          "c": [],
+          "pr": "7,50 €",
+          "d": {
+            "it": "Condimento in olio extravergine d'oliva aromatizzato alla salvia, Linea Classic. Fragranza aromatica con cenni gradevolmente amari.",
+            "en": "Extra virgin olive oil dressing flavoured with sage, Classic line. An aromatic fragrance with pleasantly bitter hints.",
+            "de": "Würzöl aus nativem Olivenöl extra mit Salbei, Linie Classic. Aromatischer Duft mit angenehm bitteren Anklängen."
+          },
+          "a": {
+            "it": "Ideale a crudo con formaggi stagionati, vitello, tacchino, uova e risotti.",
+            "en": "Best used raw with aged cheeses, veal, turkey, eggs and risotto.",
+            "de": "Ideal roh zu gereiftem Käse, Kalb, Pute, Eiern und Risotto."
+          }
+        },
+        "V-13-55": {
+          "c": [],
+          "pr": "7,50 €",
+          "d": {
+            "it": "Condimento in olio extravergine d'oliva aromatizzato allo scalogno, Linea Classic. Sapore delicato e fragranza intensa.",
+            "en": "Extra virgin olive oil dressing flavoured with shallot, Classic line. A delicate taste and an intense fragrance.",
+            "de": "Würzöl aus nativem Olivenöl extra mit Schalotte, Linie Classic. Zarter Geschmack und intensiver Duft."
+          },
+          "a": {
+            "it": "Ideale a crudo con insalate di pesce, verdure, vellutate e arrosti.",
+            "en": "Best used raw with seafood salads, vegetables, cream soups and roasts.",
+            "de": "Ideal roh zu Meeresfrüchtesalaten, Gemüse, Cremesuppen und Braten."
+          }
+        },
+        "V-13-56": {
+          "c": [],
+          "pr": "5,90 € (0,10 L) · 9,50 € (0,25 L)",
+          "d": {
+            "it": "Condimento in olio extravergine d'oliva aromatizzato al tartufo bianco, Linea Classic. Profumo persistente, note forti e aromatiche.",
+            "en": "Extra virgin olive oil dressing flavoured with white truffle, Classic line. A lasting scent with strong, aromatic notes.",
+            "de": "Würzöl aus nativem Olivenöl extra mit weißem Trüffel, Linie Classic. Anhaltender Duft, kräftige und aromatische Noten."
+          },
+          "a": {
+            "it": "Ideale a crudo con risotti, uova, carne e carpacci.",
+            "en": "Best used raw with risotto, eggs, meat and carpaccio.",
+            "de": "Ideal roh zu Risotto, Eiern, Fleisch und Carpaccio."
+          }
+        },
+        "V-13-57": {
+          "c": [],
+          "pr": "7,50 €",
+          "d": {
+            "it": "Condimento in olio extravergine d'oliva aromatizzato al timo, Linea Classic. Fresco e odoroso, profumo intenso e gusto speziato persistente.",
+            "en": "Extra virgin olive oil dressing flavoured with thyme, Classic line. Fresh and fragrant, with an intense scent and a lasting spicy taste.",
+            "de": "Würzöl aus nativem Olivenöl extra mit Thymian, Linie Classic. Frisch und duftend, intensiver Duft und anhaltend würziger Geschmack."
+          },
+          "a": {
+            "it": "Ideale a crudo con pollame, maiale, branzino e sgombro.",
+            "en": "Best used raw with poultry, pork, sea bass and mackerel.",
+            "de": "Ideal roh zu Geflügel, Schwein, Wolfsbarsch und Makrele."
+          }
+        },
+        "V-13-58": {
+          "c": [],
+          "pr": "8,50 €",
+          "d": {
+            "it": "Condimento in olio extravergine d'oliva aromatizzato alla vaniglia, Linea Classic. Aroma dolce e delicato.",
+            "en": "Extra virgin olive oil dressing flavoured with vanilla, Classic line. A sweet, delicate aroma.",
+            "de": "Würzöl aus nativem Olivenöl extra mit Vanille, Linie Classic. Süßes, zartes Aroma."
+          },
+          "a": {
+            "it": "Ideale a crudo con biscotti, crostate, impasti lievitati e carni bianche.",
+            "en": "Best used raw with biscuits, tarts, leavened doughs and white meat.",
+            "de": "Ideal roh zu Keksen, Tartes, Hefeteigen und hellem Fleisch."
+          }
+        },
+        "V-13-59": {
+          "c": [],
+          "pr": "9,50 €",
+          "d": {
+            "it": "Condimento in olio extravergine d'oliva aromatizzato allo zafferano, Linea Classic. Spezia pregiata dal colore intenso: aroma floreale ed elegante, colora naturalmente i piatti.",
+            "en": "Extra virgin olive oil dressing flavoured with saffron, Classic line. A precious, deeply coloured spice: a floral, elegant aroma that colours dishes naturally.",
+            "de": "Würzöl aus nativem Olivenöl extra mit Safran, Linie Classic. Ein edles, farbintensives Gewürz: blumiges, elegantes Aroma, das Gerichte natürlich färbt."
+          },
+          "a": {
+            "it": "Ideale a crudo con risotti, zuppe di pesce, crostacei e salse delicate.",
+            "en": "Best used raw with risotto, fish soups, shellfish and delicate sauces.",
+            "de": "Ideal roh zu Risotto, Fischsuppen, Krustentieren und feinen Saucen."
+          }
+        },
+        "V-13-60": {
+          "c": [],
+          "pr": "7,90 €",
+          "d": {
+            "it": "Condimento in olio extravergine d'oliva aromatizzato allo zenzero, Linea Classic. Aroma speziato ed esotico, gusto leggermente piccante.",
+            "en": "Extra virgin olive oil dressing flavoured with ginger, Classic line. A spicy, exotic aroma and a slightly hot taste.",
+            "de": "Würzöl aus nativem Olivenöl extra mit Ingwer, Linie Classic. Würziges, exotisches Aroma, leicht scharfer Geschmack."
+          },
+          "a": {
+            "it": "Ideale a crudo con broccoli, zucca, carote, salsa di soia, cacao e dolci.",
+            "en": "Best used raw with broccoli, pumpkin, carrots, soy sauce, cocoa and desserts.",
+            "de": "Ideal roh zu Brokkoli, Kürbis, Karotten, Sojasauce, Kakao und Desserts."
+          }
+        },
+        "V-13-61": {
+          "c": [],
+          "pr": "5,00 € (0,25 L) · 7,00 € (0,50 L)",
+          "d": {
+            "it": "Condimento con Aceto Balsamico di Modena IGP, densità 1,07. Fresco, equilibrato e acidulo, con lievi sentori di barrique.",
+            "en": "Dressing made with Balsamic Vinegar of Modena PGI, density 1.07. Fresh, balanced and tangy, with light hints of barrique.",
+            "de": "Würze mit Aceto Balsamico di Modena g.g.A., Dichte 1,07. Frisch, ausgewogen und säuerlich, mit leichten Barrique-Noten."
+          },
+          "a": {
+            "it": "Per condire insalate e piatti estivi, preferibilmente crudi.",
+            "en": "For dressing salads and summer dishes, preferably raw.",
+            "de": "Für Salate und Sommergerichte, vorzugsweise roh."
+          }
+        },
+        "V-13-62": {
+          "c": [],
+          "pr": "6,00 € (0,25 L) · 16,00 € (0,50 L)",
+          "d": {
+            "it": "Condimento con Aceto Balsamico di Modena IGP nella bottiglia Autentico. Fresco, equilibrato e acidulo, con lievi sentori di barrique.",
+            "en": "Dressing made with Balsamic Vinegar of Modena PGI, in the Autentico bottle. Fresh, balanced and tangy, with light hints of barrique.",
+            "de": "Würze mit Aceto Balsamico di Modena g.g.A. in der Autentico-Flasche. Frisch, ausgewogen und säuerlich, mit leichten Barrique-Noten."
+          },
+          "a": {
+            "it": "Per condire insalate e piatti estivi, preferibilmente crudi.",
+            "en": "For dressing salads and summer dishes, preferably raw.",
+            "de": "Für Salate und Sommergerichte, vorzugsweise roh."
+          }
+        },
+        "V-13-63": {
+          "c": [],
+          "pr": "7,50 € (0,25 L) · 10,50 € (0,50 L)",
+          "d": {
+            "it": "Condimento con Aceto Balsamico di Modena IGP nella bottiglia Autentico. Vellutato e consistente, con profumo complesso e spiccate note di barrique.",
+            "en": "Dressing made with Balsamic Vinegar of Modena PGI, in the Autentico bottle. Velvety and full-bodied, with a complex aroma and marked barrique notes.",
+            "de": "Würze mit Aceto Balsamico di Modena g.g.A. in der Autentico-Flasche. Samtig und dicht, mit komplexem Duft und ausgeprägten Barrique-Noten."
+          },
+          "a": {
+            "it": "Per insalate e verdure lesse; adatto anche a carni bianche e formaggi freschi o semistagionati.",
+            "en": "For salads and boiled vegetables; also suits white meat and fresh or semi-aged cheeses.",
+            "de": "Für Salate und gekochtes Gemüse; passt auch zu hellem Fleisch und frischem oder halbgereiftem Käse."
+          }
+        },
+        "V-13-64": {
+          "c": [],
+          "pr": "25,00 €",
+          "d": {
+            "it": "Condimento con Aceto Balsamico di Modena IGP, densità 1,24, in astuccio singolo. Vellutato, con spiccate note di barrique.",
+            "en": "Dressing made with Balsamic Vinegar of Modena PGI, density 1.24, in its own gift sleeve. Velvety, with marked barrique notes.",
+            "de": "Würze mit Aceto Balsamico di Modena g.g.A., Dichte 1,24, im eigenen Etui. Samtig, mit ausgeprägten Barrique-Noten."
+          },
+          "a": {
+            "it": "Per insalate e verdure lesse, carni bianche e formaggi freschi o semistagionati. Completa la linea Selezione.",
+            "en": "For salads and boiled vegetables, white meat and fresh or semi-aged cheeses. Completes the Selezione line.",
+            "de": "Für Salate und gekochtes Gemüse, helles Fleisch und frischen oder halbgereiften Käse. Ergänzt die Linie Selezione."
+          }
+        },
+        "V-13-65": {
+          "c": [],
+          "pr": "38,40 € (0,10 L) · 49,70 € (0,25 L) · 63,70 € (0,50 L)",
+          "d": {
+            "it": "Contenitore in ceramica lavorato e dipinto a mano in Puglia, modello registrato, con l'olio extravergine Multivarietale®. Tre abbinamenti di colore: giallo e blu, rosso e azzurro, verde e giallo.",
+            "en": "A ceramic container shaped and hand-painted in Apulia, a registered design, filled with Multivarietale® extra virgin olive oil. Three colour combinations: yellow and blue, red and light blue, green and yellow.",
+            "de": "Keramikgefäß, in Apulien von Hand geformt und bemalt, eingetragenes Design, gefüllt mit nativem Olivenöl extra Multivarietale®. Drei Farbkombinationen: Gelb-Blau, Rot-Hellblau, Grün-Gelb."
+          },
+          "a": {
+            "it": "Un oggetto da regalo e da tavola: il Multivarietale dentro è adatto sia a crudo sia in cottura.",
+            "en": "A gift and a table piece: the Multivarietale inside works both raw and for cooking.",
+            "de": "Geschenk und Tischobjekt zugleich: Das Multivarietale darin eignet sich roh und zum Kochen."
+          }
+        },
+        "V-13-66": {
+          "c": [],
+          "pr": "20,90 € (0,10 L) · 25,90 € (0,25 L) · 34,90 € (0,50 L)",
+          "d": {
+            "it": "Bottiglia in ceramica lavorata e dipinta a mano con un decoro geometrico colorato, modello registrato, con l'olio extravergine Multivarietale® e collarino multilingue. Colori: rosso, verde, arancio, azzurro, blu e rosa.",
+            "en": "A ceramic bottle shaped and hand-painted with a colourful geometric pattern, a registered design, filled with Multivarietale® extra virgin olive oil and with a multilingual neck label. Colours: red, green, orange, light blue, blue and pink.",
+            "de": "Keramikflasche, von Hand geformt und mit buntem geometrischem Dekor bemalt, eingetragenes Design, gefüllt mit nativem Olivenöl extra Multivarietale®, mit mehrsprachigem Halsetikett. Farben: Rot, Grün, Orange, Hellblau, Blau und Rosa."
+          },
+          "a": {
+            "it": "Un oggetto da regalo e da tavola: il Multivarietale dentro è adatto sia a crudo sia in cottura.",
+            "en": "A gift and a table piece: the Multivarietale inside works both raw and for cooking.",
+            "de": "Geschenk und Tischobjekt zugleich: Das Multivarietale darin eignet sich roh und zum Kochen."
+          }
+        },
+        "V-13-67": {
+          "c": [],
+          "pr": "18,50 €",
+          "d": {
+            "it": "Bottiglia di olio extravergine Multivarietale® con etichetta in ceramica fatta a mano da artigiani pugliesi. Colori: verde, bianco e rosso.",
+            "en": "A bottle of Multivarietale® extra virgin olive oil with a ceramic label handmade by Apulian craftspeople. Colours: green, white and red.",
+            "de": "Flasche natives Olivenöl extra Multivarietale® mit handgefertigtem Keramiketikett apulischer Kunsthandwerker. Farben: Grün, Weiß und Rot."
+          },
+          "a": {
+            "it": "Un oggetto da regalo e da tavola: il Multivarietale dentro è adatto sia a crudo sia in cottura.",
+            "en": "A gift and a table piece: the Multivarietale inside works both raw and for cooking.",
+            "de": "Geschenk und Tischobjekt zugleich: Das Multivarietale darin eignet sich roh und zum Kochen."
+          }
+        },
+        "V-13-68": {
+          "c": [],
+          "pr": "27,50 €",
+          "d": {
+            "it": "Confezione con tre condimenti aromatizzati in olio extravergine d'oliva da 0,25 L: rosmarino, basilico e limone.",
+            "en": "Box with three flavoured extra virgin olive oil dressings, 0.25 L each: rosemary, basil and lemon.",
+            "de": "Box mit drei Würzölen aus nativem Olivenöl extra zu je 0,25 L: Rosmarin, Basilikum und Zitrone."
+          },
+          "a": {
+            "it": "Fa parte delle scatole Fiammifero, disponibili in quattro misure (XS, S, M, L).",
+            "en": "Part of the Fiammifero box range, available in four sizes (XS, S, M, L).",
+            "de": "Teil der Fiammifero-Schachteln, erhältlich in vier Größen (XS, S, M, L)."
+          }
+        },
+        "V-13-69": {
+          "c": [],
+          "pr": "28,50 €",
+          "d": {
+            "it": "Confezione con tre condimenti aromatizzati in olio extravergine d'oliva da 0,25 L: peperoncino, tartufo e origano.",
+            "en": "Box with three flavoured extra virgin olive oil dressings, 0.25 L each: chilli, truffle and oregano.",
+            "de": "Box mit drei Würzölen aus nativem Olivenöl extra zu je 0,25 L: Chili, Trüffel und Oregano."
+          },
+          "a": {
+            "it": "Fa parte delle scatole Fiammifero, disponibili in quattro misure (XS, S, M, L).",
+            "en": "Part of the Fiammifero box range, available in four sizes (XS, S, M, L).",
+            "de": "Teil der Fiammifero-Schachteln, erhältlich in vier Größen (XS, S, M, L)."
+          }
+        },
+        "V-13-70": {
+          "c": [],
+          "pr": "27,50 €",
+          "d": {
+            "it": "Confezione con tre condimenti aromatizzati in olio extravergine d'oliva da 0,25 L: bergamotto, cannella e limone, pensati per la pasticceria.",
+            "en": "Box with three flavoured extra virgin olive oil dressings, 0.25 L each: bergamot, cinnamon and lemon, meant for baking.",
+            "de": "Box mit drei Würzölen aus nativem Olivenöl extra zu je 0,25 L: Bergamotte, Zimt und Zitrone, gedacht fürs Backen."
+          },
+          "a": {
+            "it": "Fa parte delle scatole Fiammifero, disponibili in quattro misure (XS, S, M, L).",
+            "en": "Part of the Fiammifero box range, available in four sizes (XS, S, M, L).",
+            "de": "Teil der Fiammifero-Schachteln, erhältlich in vier Größen (XS, S, M, L)."
+          }
+        },
+        "V-13-71": {
+          "c": [],
+          "pr": "28,30 €",
+          "d": {
+            "it": "Confezione con tre condimenti aromatizzati in olio extravergine d'oliva da 0,25 L: acciughe, funghi porcini ed erbe mediterranee.",
+            "en": "Box with three flavoured extra virgin olive oil dressings, 0.25 L each: anchovies, porcini mushrooms and Mediterranean herbs.",
+            "de": "Box mit drei Würzölen aus nativem Olivenöl extra zu je 0,25 L: Sardellen, Steinpilze und mediterrane Kräuter."
+          },
+          "a": {
+            "it": "Fa parte delle scatole Fiammifero, disponibili in quattro misure (XS, S, M, L).",
+            "en": "Part of the Fiammifero box range, available in four sizes (XS, S, M, L).",
+            "de": "Teil der Fiammifero-Schachteln, erhältlich in vier Größen (XS, S, M, L)."
+          }
+        },
+        "V-13-72": {
+          "c": [],
+          "pr": "29,50 €",
+          "d": {
+            "it": "Confezione con tre condimenti aromatizzati in olio extravergine d'oliva da 0,25 L: vaniglia, liquirizia e caffè.",
+            "en": "Box with three flavoured extra virgin olive oil dressings, 0.25 L each: vanilla, liquorice and coffee.",
+            "de": "Box mit drei Würzölen aus nativem Olivenöl extra zu je 0,25 L: Vanille, Lakritz und Kaffee."
+          },
+          "a": {
+            "it": "Fa parte delle scatole Fiammifero, disponibili in quattro misure (XS, S, M, L).",
+            "en": "Part of the Fiammifero box range, available in four sizes (XS, S, M, L).",
+            "de": "Teil der Fiammifero-Schachteln, erhältlich in vier Größen (XS, S, M, L)."
+          }
+        },
+        "V-13-73": {
+          "c": [],
+          "pr": "29,90 €",
+          "d": {
+            "it": "Confezione con tre condimenti aromatizzati in olio extravergine d'oliva da 0,25 L: curry, zenzero e zafferano.",
+            "en": "Box with three flavoured extra virgin olive oil dressings, 0.25 L each: curry, ginger and saffron.",
+            "de": "Box mit drei Würzölen aus nativem Olivenöl extra zu je 0,25 L: Curry, Ingwer und Safran."
+          },
+          "a": {
+            "it": "Fa parte delle scatole Fiammifero, disponibili in quattro misure (XS, S, M, L).",
+            "en": "Part of the Fiammifero box range, available in four sizes (XS, S, M, L).",
+            "de": "Teil der Fiammifero-Schachteln, erhältlich in vier Größen (XS, S, M, L)."
+          }
+        },
+        "V-13-74": {
+          "c": [],
+          "pr": "31,50 €",
+          "d": {
+            "it": "Confezione con tre condimenti aromatizzati in olio extravergine d'oliva da 0,25 L: pompelmo, limone e mandarino.",
+            "en": "Box with three flavoured extra virgin olive oil dressings, 0.25 L each: grapefruit, lemon and mandarin.",
+            "de": "Box mit drei Würzölen aus nativem Olivenöl extra zu je 0,25 L: Grapefruit, Zitrone und Mandarine."
+          },
+          "a": {
+            "it": "Fa parte delle scatole Fiammifero, disponibili in quattro misure (XS, S, M, L).",
+            "en": "Part of the Fiammifero box range, available in four sizes (XS, S, M, L).",
+            "de": "Teil der Fiammifero-Schachteln, erhältlich in vier Größen (XS, S, M, L)."
+          }
+        },
+        "V-13-75": {
+          "c": [],
+          "pr": "34,90 €",
+          "d": {
+            "it": "Confezione con due oli extravergine d'oliva certificati da 0,50 L: I.G.P. Olio di Puglia e BIO.",
+            "en": "Box with two certified extra virgin olive oils, 0.50 L each: PGI Olio di Puglia and organic BIO.",
+            "de": "Box mit zwei zertifizierten nativen Olivenölen extra zu je 0,50 L: g.g.A. Olio di Puglia und BIO."
+          },
+          "a": {
+            "it": "Fa parte delle scatole Fiammifero, disponibili in quattro misure (XS, S, M, L).",
+            "en": "Part of the Fiammifero box range, available in four sizes (XS, S, M, L).",
+            "de": "Teil der Fiammifero-Schachteln, erhältlich in vier Größen (XS, S, M, L)."
+          }
+        },
+        "V-13-76": {
+          "c": [],
+          "pr": "23,00 €",
+          "d": {
+            "it": "Confezione con quattro condimenti aromatizzati in olio extravergine d'oliva da 0,10 L: basilico, limone, menta e rosmarino.",
+            "en": "Box with four flavoured extra virgin olive oil dressings, 0.10 L each: basil, lemon, mint and rosemary.",
+            "de": "Box mit vier Würzölen aus nativem Olivenöl extra zu je 0,10 L: Basilikum, Zitrone, Minze und Rosmarin."
+          },
+          "a": {
+            "it": "Fa parte delle scatole Fiammifero, disponibili in quattro misure (XS, S, M, L).",
+            "en": "Part of the Fiammifero box range, available in four sizes (XS, S, M, L).",
+            "de": "Teil der Fiammifero-Schachteln, erhältlich in vier Größen (XS, S, M, L)."
+          }
+        },
+        "V-13-77": {
+          "c": [],
+          "pr": "23,80 €",
+          "d": {
+            "it": "Confezione con quattro condimenti aromatizzati in olio extravergine d'oliva da 0,10 L: peperoncino, tartufo, arancia e aglio.",
+            "en": "Box with four flavoured extra virgin olive oil dressings, 0.10 L each: chilli, truffle, orange and garlic.",
+            "de": "Box mit vier Würzölen aus nativem Olivenöl extra zu je 0,10 L: Chili, Trüffel, Orange und Knoblauch."
+          },
+          "a": {
+            "it": "Fa parte delle scatole Fiammifero, disponibili in quattro misure (XS, S, M, L).",
+            "en": "Part of the Fiammifero box range, available in four sizes (XS, S, M, L).",
+            "de": "Teil der Fiammifero-Schachteln, erhältlich in vier Größen (XS, S, M, L)."
+          }
+        },
+        "V-13-78": {
+          "c": [],
+          "pr": "34,40 €",
+          "d": {
+            "it": "Confezione con due oli extravergine d'oliva certificati da 0,50 L: I.G.P. Olio di Puglia e BIO.",
+            "en": "Box with two certified extra virgin olive oils, 0.50 L each: PGI Olio di Puglia and organic BIO.",
+            "de": "Box mit zwei zertifizierten nativen Olivenölen extra zu je 0,50 L: g.g.A. Olio di Puglia und BIO."
+          },
+          "a": {
+            "it": "Linea Puglia: ogni scatola è illustrata con un luogo pugliese e una citazione, pensata anche come ricordo di viaggio.",
+            "en": "Puglia line: each box is illustrated with an Apulian place and a quote, also designed as a travel souvenir.",
+            "de": "Linie Puglia: Jede Schachtel zeigt einen Ort in Apulien und ein Zitat, auch als Reiseandenken gedacht."
+          }
+        },
+        "V-13-79": {
+          "c": [],
+          "pr": "28,50 €",
+          "d": {
+            "it": "Confezione con tre condimenti aromatizzati in olio extravergine d'oliva da 0,25 L: aglio e peperoncino, timo e affumicato.",
+            "en": "Box with three flavoured extra virgin olive oil dressings, 0.25 L each: garlic and chilli, thyme and smoke.",
+            "de": "Box mit drei Würzölen aus nativem Olivenöl extra zu je 0,25 L: Knoblauch-Chili, Thymian und Raucharoma."
+          },
+          "a": {
+            "it": "Linea Puglia: ogni scatola è illustrata con un luogo pugliese e una citazione, pensata anche come ricordo di viaggio.",
+            "en": "Puglia line: each box is illustrated with an Apulian place and a quote, also designed as a travel souvenir.",
+            "de": "Linie Puglia: Jede Schachtel zeigt einen Ort in Apulien und ein Zitat, auch als Reiseandenken gedacht."
+          }
+        },
+        "V-13-80": {
+          "c": [],
+          "pr": "52,00 €",
+          "d": {
+            "it": "Confezione con sei condimenti aromatizzati in olio extravergine d'oliva da 0,25 L: arancia, mandarino, alloro, rosmarino, timo e origano.",
+            "en": "Box with six flavoured extra virgin olive oil dressings, 0.25 L each: orange, mandarin, bay leaf, rosemary, thyme and oregano.",
+            "de": "Box mit sechs Würzölen aus nativem Olivenöl extra zu je 0,25 L: Orange, Mandarine, Lorbeer, Rosmarin, Thymian und Oregano."
+          },
+          "a": {
+            "it": "Linea Puglia: ogni scatola è illustrata con un luogo pugliese e una citazione, pensata anche come ricordo di viaggio.",
+            "en": "Puglia line: each box is illustrated with an Apulian place and a quote, also designed as a travel souvenir.",
+            "de": "Linie Puglia: Jede Schachtel zeigt einen Ort in Apulien und ein Zitat, auch als Reiseandenken gedacht."
+          }
+        },
+        "V-13-81": {
+          "c": [],
+          "pr": "23,80 €",
+          "d": {
+            "it": "Confezione con quattro condimenti aromatizzati in olio extravergine d'oliva da 0,10 L: limone, basilico, tartufo e peperoncino.",
+            "en": "Box with four flavoured extra virgin olive oil dressings, 0.10 L each: lemon, basil, truffle and chilli.",
+            "de": "Box mit vier Würzölen aus nativem Olivenöl extra zu je 0,10 L: Zitrone, Basilikum, Trüffel und Chili."
+          },
+          "a": {
+            "it": "Linea Puglia: ogni scatola è illustrata con un luogo pugliese e una citazione, pensata anche come ricordo di viaggio.",
+            "en": "Puglia line: each box is illustrated with an Apulian place and a quote, also designed as a travel souvenir.",
+            "de": "Linie Puglia: Jede Schachtel zeigt einen Ort in Apulien und ein Zitat, auch als Reiseandenken gedacht."
+          }
+        },
+        "V-13-82": {
+          "c": [],
+          "pr": "26,50 €",
+          "d": {
+            "it": "Confezione con cinque condimenti aromatizzati in olio extravergine d'oliva da 0,10 L: rosmarino, arancia, menta, basilico e limone.",
+            "en": "Box with five flavoured extra virgin olive oil dressings, 0.10 L each: rosemary, orange, mint, basil and lemon.",
+            "de": "Box mit fünf Würzölen aus nativem Olivenöl extra zu je 0,10 L: Rosmarin, Orange, Minze, Basilikum und Zitrone."
+          },
+          "a": {
+            "it": "Linea Puglia: ogni scatola è illustrata con un luogo pugliese e una citazione, pensata anche come ricordo di viaggio.",
+            "en": "Puglia line: each box is illustrated with an Apulian place and a quote, also designed as a travel souvenir.",
+            "de": "Linie Puglia: Jede Schachtel zeigt einen Ort in Apulien und ein Zitat, auch als Reiseandenken gedacht."
+          }
+        },
+        "V-13-83": {
+          "c": [],
+          "pr": "15,20 €",
+          "d": {
+            "it": "Confezione con tre oli extravergine d'oliva da 0,10 L, monovarietali e Multivarietale, in scala di intensità. I monovarietali cambiano secondo disponibilità, ma la differenza di intensità tra i tre è sempre garantita.",
+            "en": "Box with three extra virgin olive oils, 0.10 L each, single-variety and Multivarietale, in increasing intensity. The single-variety oils change with availability, but the difference in intensity is always kept.",
+            "de": "Box mit drei nativen Olivenölen extra zu je 0,10 L, sortenrein und Multivarietale, nach Intensität gestaffelt. Die sortenreinen Öle wechseln je nach Verfügbarkeit, der Intensitätsunterschied bleibt immer erhalten."
+          },
+          "a": {
+            "it": "Linea Puglia: ogni scatola è illustrata con un luogo pugliese e una citazione, pensata anche come ricordo di viaggio.",
+            "en": "Puglia line: each box is illustrated with an Apulian place and a quote, also designed as a travel souvenir.",
+            "de": "Linie Puglia: Jede Schachtel zeigt einen Ort in Apulien und ein Zitat, auch als Reiseandenken gedacht."
+          }
+        },
+        "V-13-84": {
+          "c": [],
+          "pr": "49,90 €",
+          "d": {
+            "it": "Scatola Dama con due oli extravergine d'oliva certificati da 0,50 L: I.G.P. Olio di Puglia e BIO.",
+            "en": "Dama box with two certified extra virgin olive oils, 0.50 L each: PGI Olio di Puglia and organic BIO.",
+            "de": "Dama-Schachtel mit zwei zertifizierten nativen Olivenölen extra zu je 0,50 L: g.g.A. Olio di Puglia und BIO."
+          },
+          "a": {
+            "it": "Scatola in cartone ondulato decorato, con una damiera e le pedine per giocare a dama all'interno. In viola o verde.",
+            "en": "A decorated corrugated cardboard box with a draughts board and pieces inside. In purple or green.",
+            "de": "Dekorierte Wellpappschachtel mit Damebrett und Spielsteinen im Inneren. In Lila oder Grün."
+          }
+        },
+        "V-13-85": {
+          "c": [],
+          "pr": "63,00 €",
+          "d": {
+            "it": "Scatola Dama con Selezione olio extravergine d'oliva e Selezione condimento all'Aceto Balsamico di Modena IGP, da 0,50 L.",
+            "en": "Dama box with Selezione extra virgin olive oil and Selezione dressing made with Balsamic Vinegar of Modena PGI, 0.50 L each.",
+            "de": "Dama-Schachtel mit Selezione nativem Olivenöl extra und Selezione Würze mit Aceto Balsamico di Modena g.g.A., je 0,50 L."
+          },
+          "a": {
+            "it": "Scatola in cartone ondulato decorato, con una damiera e le pedine per giocare a dama all'interno. In viola o verde.",
+            "en": "A decorated corrugated cardboard box with a draughts board and pieces inside. In purple or green.",
+            "de": "Dekorierte Wellpappschachtel mit Damebrett und Spielsteinen im Inneren. In Lila oder Grün."
+          }
+        },
+        "V-13-86": {
+          "c": [],
+          "pr": "41,40 € (con Nero) · 43,40 € (con Il Denso)",
+          "d": {
+            "it": "Scatola Dama con Autentico olio extravergine d'oliva e un condimento Autentico all'Aceto Balsamico di Modena IGP, a scelta Nero o Il Denso, da 0,50 L.",
+            "en": "Dama box with Autentico extra virgin olive oil and an Autentico dressing made with Balsamic Vinegar of Modena PGI, either Nero or Il Denso, 0.50 L each.",
+            "de": "Dama-Schachtel mit Autentico nativem Olivenöl extra und einer Autentico-Würze mit Aceto Balsamico di Modena g.g.A., wahlweise Nero oder Il Denso, je 0,50 L."
+          },
+          "a": {
+            "it": "Scatola in cartone ondulato decorato, con una damiera e le pedine per giocare a dama all'interno. In viola o verde.",
+            "en": "A decorated corrugated cardboard box with a draughts board and pieces inside. In purple or green.",
+            "de": "Dekorierte Wellpappschachtel mit Damebrett und Spielsteinen im Inneren. In Lila oder Grün."
+          }
+        },
+        "V-13-87": {
+          "c": [],
+          "pr": "30,30 €",
+          "d": {
+            "it": "Borsa regalo con cinque condimenti aromatizzati in olio extravergine d'oliva da 0,10 L: limone, basilico, tartufo, arancia e peperoncino.",
+            "en": "Gift bag with five flavoured extra virgin olive oil dressings, 0.10 L each: lemon, basil, truffle, orange and chilli.",
+            "de": "Geschenktasche mit fünf Würzölen aus nativem Olivenöl extra zu je 0,10 L: Zitrone, Basilikum, Trüffel, Orange und Chili."
+          },
+          "a": {
+            "it": "Borsa in cartone ondulato con un motivo ispirato ai simboli del territorio, in blu o verde.",
+            "en": "A corrugated cardboard bag with a pattern inspired by local symbols, in blue or green.",
+            "de": "Tasche aus Wellpappe mit einem von regionalen Symbolen inspirierten Muster, in Blau oder Grün."
+          }
+        },
+        "V-13-88": {
+          "c": [],
+          "pr": "17,50 € (0,25 L, Nero) · 19,00 € (0,25 L, Il Denso) · 25,40 € (0,50 L, Nero) · 27,40 € (0,50 L, Il Denso)",
+          "d": {
+            "it": "Kit Autentico con olio extravergine d'oliva, condimento all'Aceto Balsamico di Modena IGP (Nero o Il Denso) e portabottiglie.",
+            "en": "Autentico kit with extra virgin olive oil, a dressing made with Balsamic Vinegar of Modena PGI (Nero or Il Denso) and a bottle holder.",
+            "de": "Autentico-Set mit nativem Olivenöl extra, einer Würze mit Aceto Balsamico di Modena g.g.A. (Nero oder Il Denso) und Flaschenhalter."
+          },
+          "a": {
+            "it": "Disponibile con bottiglie da 0,25 L o da 0,50 L.",
+            "en": "Available with 0.25 L or 0.50 L bottles.",
+            "de": "Erhältlich mit Flaschen zu 0,25 L oder 0,50 L."
+          }
+        },
+        "V-13-89": {
+          "c": [],
+          "pr": "55,00 €",
+          "d": {
+            "it": "La bottiglia Autentico trasformata in lampada: confezione con la lampada-bottiglia Autentico ON, una bottiglia di Autentico olio extravergine d'oliva da 0,50 L e il cavo di alimentazione e ricarica.",
+            "en": "The Autentico bottle turned into a lamp: box with the Autentico ON bottle lamp, a 0.50 L bottle of Autentico extra virgin olive oil and the power and charging cable.",
+            "de": "Die Autentico-Flasche als Lampe: Box mit der Flaschenlampe Autentico ON, einer Flasche Autentico natives Olivenöl extra (0,50 L) und dem Strom- und Ladekabel."
+          },
+          "a": {
+            "it": "Luce dimmerabile su tre intensità; i colori del paralume possono variare secondo disponibilità.",
+            "en": "Dimmable light with three settings; lampshade colours may vary with availability.",
+            "de": "Dimmbares Licht mit drei Stufen; die Farben des Lampenschirms können je nach Verfügbarkeit variieren."
+          }
+        }
+      },
+      "fonti": [
+        "https://shopleferre.com/shop-2/",
+        "https://olioleferre.com/azienda/",
+        "https://olioleferre.com/wp-content/uploads/2026/10/LE_FERRE_2027_CATALOGO_.pdf"
+      ]
     }
   ],
   "IMG": {
@@ -4387,6 +6212,97 @@ window.VETRINE = {
     "prod-V-12-17": "https://pastaformia.it/media/yootheme/cache/36/3626c082.jpg",
     "prod-V-12-18": "https://pastaformia.it/media/yootheme/cache/62/6227a13f.jpg",
     "prod-V-12-19": "https://pastaformia.it/media/yootheme/cache/1f/1f7c22f5.jpg",
-    "prod-V-12-20": "https://pastaformia.it/media/yootheme/cache/65/652d5920.jpg"
+    "prod-V-12-20": "https://pastaformia.it/media/yootheme/cache/65/652d5920.jpg",
+    "logo-V-13": "https://olioleferre.com/wp-content/uploads/2022/06/logo_black.svg",
+    "prod-V-13-0": "https://shopleferre.com/wp-content/uploads/2022/08/1_-02.png",
+    "prod-V-13-1": "https://shopleferre.com/wp-content/uploads/2022/07/1_-01.png",
+    "prod-V-13-2": "https://shopleferre.com/wp-content/uploads/2022/07/1_-24.png",
+    "prod-V-13-3": "https://shopleferre.com/wp-content/uploads/2022/07/BOTT-0_50_CAROLEA.png",
+    "prod-V-13-4": "https://shopleferre.com/wp-content/uploads/2022/07/BOTT-0_50_LECCINO.png",
+    "prod-V-13-5": "https://shopleferre.com/wp-content/uploads/2022/07/BOTT-0_50_OGLIAROLA.png",
+    "prod-V-13-6": "https://shopleferre.com/wp-content/uploads/2022/07/BOTT-0_50_FRANTOIO.png",
+    "prod-V-13-7": "https://shopleferre.com/wp-content/uploads/2022/07/BOTT-0_50_BIANCOLILLA.png",
+    "prod-V-13-8": "https://shopleferre.com/wp-content/uploads/2022/07/BOTT-0_50_PERANZANA.png",
+    "prod-V-13-9": "https://shopleferre.com/wp-content/uploads/2022/07/BOTT-0_50_NOCELLARA.png",
+    "prod-V-13-10": "https://shopleferre.com/wp-content/uploads/2022/07/BOTT-0_50_CORATINA.png",
+    "prod-V-13-11": "https://shopleferre.com/wp-content/uploads/2022/07/BOTT-0_50_NOCIARA.png",
+    "prod-V-13-12": "https://shopleferre.com/wp-content/uploads/2022/07/BOTT-0_50_PICHOLINE.png",
+    "prod-V-13-13": "https://shopleferre.com/wp-content/uploads/2022/07/1_-13.png",
+    "prod-V-13-14": "https://shopleferre.com/wp-content/uploads/2022/07/1_-15.png",
+    "prod-V-13-15": "https://shopleferre.com/wp-content/uploads/2025/03/1_-14.png",
+    "prod-V-13-16": "https://shopleferre.com/wp-content/uploads/2026/03/BOTT-0_10_OASFVGLIAROLA.png",
+    "prod-V-13-17": "https://shopleferre.com/wp-content/uploads/2026/03/BOTT-0_10_OGLghyh8ouIAROLA.png",
+    "prod-V-13-18": "https://shopleferre.com/wp-content/uploads/2026/03/BOTT-0_10_OGLvugIAROLA.png",
+    "prod-V-13-19": "https://shopleferre.com/wp-content/uploads/2026/03/BOTT-0_10_OddGLIAROLA.png",
+    "prod-V-13-20": "https://shopleferre.com/wp-content/uploads/2026/03/BOTT-0_10_OGtc8tLIAROLA.png",
+    "prod-V-13-21": "https://shopleferre.com/wp-content/uploads/2026/03/BOTT-0_10_OGLIAROLAs.png",
+    "prod-V-13-22": "https://shopleferre.com/wp-content/uploads/2026/03/BOTT-0_10_OGLIAROLA-1.png",
+    "prod-V-13-23": "https://shopleferre.com/wp-content/uploads/2026/03/BOTT-0_10_OGLIVSVVAROLA.png",
+    "prod-V-13-24": "https://shopleferre.com/wp-content/uploads/2026/03/BOTT-0_1b-hk0_OGLIAROLA.png",
+    "prod-V-13-25": "https://shopleferre.com/wp-content/uploads/2026/03/BOTT-0_10_OGLIAROLvhhhA.png",
+    "prod-V-13-26": "https://shopleferre.com/wp-content/uploads/2026/03/BOTT-0_10_OGLIAROLA.png",
+    "prod-V-13-27": "https://shopleferre.com/wp-content/uploads/2026/03/BOTT-0_10_OGLIgfgAROLA.png",
+    "prod-V-13-28": "https://shopleferre.com/wp-content/uploads/2022/07/acc.png",
+    "prod-V-13-29": "https://shopleferre.com/wp-content/uploads/2022/07/add.png",
+    "prod-V-13-30": "https://shopleferre.com/wp-content/uploads/2022/07/aglio.png",
+    "prod-V-13-31": "https://shopleferre.com/wp-content/uploads/2022/07/agl.png",
+    "prod-V-13-32": "https://shopleferre.com/wp-content/uploads/2022/07/alloro.png",
+    "prod-V-13-33": "https://shopleferre.com/wp-content/uploads/2022/07/arancia025-1.png",
+    "prod-V-13-34": "https://shopleferre.com/wp-content/uploads/2022/07/basilic025.png",
+    "prod-V-13-35": "https://shopleferre.com/wp-content/uploads/2022/07/bergamotto.png",
+    "prod-V-13-36": "https://shopleferre.com/wp-content/uploads/2022/07/caff.png",
+    "prod-V-13-37": "https://shopleferre.com/wp-content/uploads/2022/07/cann.png",
+    "prod-V-13-38": "https://shopleferre.com/wp-content/uploads/2022/07/cipolla.png",
+    "prod-V-13-39": "https://shopleferre.com/wp-content/uploads/2022/07/curry.png",
+    "prod-V-13-40": "https://shopleferre.com/wp-content/uploads/2022/07/erbe.png",
+    "prod-V-13-41": "https://shopleferre.com/wp-content/uploads/2022/07/gunghi025.png",
+    "prod-V-13-42": "https://shopleferre.com/wp-content/uploads/2022/07/liq.png",
+    "prod-V-13-43": "https://shopleferre.com/wp-content/uploads/2022/07/liomne.png",
+    "prod-V-13-44": "https://shopleferre.com/wp-content/uploads/2022/07/magg.png",
+    "prod-V-13-45": "https://shopleferre.com/wp-content/uploads/2022/07/mandarino.png",
+    "prod-V-13-46": "https://shopleferre.com/wp-content/uploads/2022/07/menta.png",
+    "prod-V-13-47": "https://shopleferre.com/wp-content/uploads/2022/07/orig.png",
+    "prod-V-13-48": "https://shopleferre.com/wp-content/uploads/2022/07/pepenero.png",
+    "prod-V-13-49": "https://shopleferre.com/wp-content/uploads/2022/07/pep.png",
+    "prod-V-13-50": "https://shopleferre.com/wp-content/uploads/2022/07/pesto025.png",
+    "prod-V-13-51": "https://shopleferre.com/wp-content/uploads/2022/07/pistacchio010.png",
+    "prod-V-13-52": "https://shopleferre.com/wp-content/uploads/2022/07/pomplemo.png",
+    "prod-V-13-53": "https://shopleferre.com/wp-content/uploads/2022/07/rosm025.png",
+    "prod-V-13-54": "https://shopleferre.com/wp-content/uploads/2022/07/salvia.png",
+    "prod-V-13-55": "https://shopleferre.com/wp-content/uploads/2022/07/scalgono.png",
+    "prod-V-13-56": "https://shopleferre.com/wp-content/uploads/2022/07/tart025.png",
+    "prod-V-13-57": "https://shopleferre.com/wp-content/uploads/2022/07/timo.png",
+    "prod-V-13-58": "https://shopleferre.com/wp-content/uploads/2022/07/vanig.png",
+    "prod-V-13-59": "https://shopleferre.com/wp-content/uploads/2022/07/zafferano.png",
+    "prod-V-13-60": "https://shopleferre.com/wp-content/uploads/2022/07/zenzero.png",
+    "prod-V-13-61": "https://shopleferre.com/wp-content/uploads/2022/07/gocc.png",
+    "prod-V-13-62": "https://shopleferre.com/wp-content/uploads/2022/07/aut-1.png",
+    "prod-V-13-63": "https://shopleferre.com/wp-content/uploads/2022/07/denso.png",
+    "prod-V-13-64": "https://shopleferre.com/wp-content/uploads/2022/07/1_-11.png",
+    "prod-V-13-65": "https://shopleferre.com/wp-content/uploads/2022/07/truttula_imag_.jpg",
+    "prod-V-13-66": "https://shopleferre.com/wp-content/uploads/2026/05/immag_2.png",
+    "prod-V-13-67": "https://shopleferre.com/wp-content/uploads/2022/07/1_-16.png",
+    "prod-V-13-68": "https://shopleferre.com/wp-content/uploads/2024/11/tris-mediterraneo_grafica.png",
+    "prod-V-13-69": "https://shopleferre.com/wp-content/uploads/2024/11/tre-aromi_grafica.png",
+    "prod-V-13-70": "https://shopleferre.com/wp-content/uploads/2024/11/pastry_grafica.png",
+    "prod-V-13-71": "https://shopleferre.com/wp-content/uploads/2024/11/mari_monti_grafica.png",
+    "prod-V-13-72": "https://shopleferre.com/wp-content/uploads/2024/11/gourmet_grafica.png",
+    "prod-V-13-73": "https://shopleferre.com/wp-content/uploads/2024/11/oriente_grafica.png",
+    "prod-V-13-74": "https://shopleferre.com/wp-content/uploads/2024/11/agrumato_grafica.png",
+    "prod-V-13-75": "https://shopleferre.com/wp-content/uploads/2024/11/1_-22.png",
+    "prod-V-13-76": "https://shopleferre.com/wp-content/uploads/2024/11/garden-800x471-1.png",
+    "prod-V-13-77": "https://shopleferre.com/wp-content/uploads/2024/11/degustazione-di-aromi-800x471-1.png",
+    "prod-V-13-78": "https://shopleferre.com/wp-content/uploads/2023/11/1_-19.png",
+    "prod-V-13-79": "https://shopleferre.com/wp-content/uploads/2024/11/ostuni_aromatizzati.png",
+    "prod-V-13-80": "https://shopleferre.com/wp-content/uploads/2023/11/025aro.png",
+    "prod-V-13-81": "https://shopleferre.com/wp-content/uploads/2024/11/trani_composizione.png",
+    "prod-V-13-82": "https://shopleferre.com/wp-content/uploads/2023/11/010cond-1.png",
+    "prod-V-13-83": "https://shopleferre.com/wp-content/uploads/2024/11/melpignano_composizione.png",
+    "prod-V-13-84": "https://shopleferre.com/wp-content/uploads/2022/11/1_-27.png",
+    "prod-V-13-85": "https://shopleferre.com/wp-content/uploads/2022/11/1_-26.png",
+    "prod-V-13-86": "https://shopleferre.com/wp-content/uploads/2022/11/1_-25.png",
+    "prod-V-13-87": "https://shopleferre.com/wp-content/uploads/2022/11/pochette_LF_verde_open_aromatizzati-1024x1024.png",
+    "prod-V-13-88": "https://shopleferre.com/wp-content/uploads/2022/07/1_-21.png",
+    "prod-V-13-89": "https://shopleferre.com/wp-content/uploads/2024/11/autentico_lamp_composizione.png"
   }
 };
