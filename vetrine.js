@@ -6551,6 +6551,205 @@ window.VETRINE = {
         "https://neposvillae.it/cantina-valpolicella/",
         "https://neposvillae.it/vigneto/"
       ]
+    },
+    {
+      "id": "V-17",
+      "n": "Cantine Gerardo Perillo",
+      "cat": "vino",
+      "reg": "Campania",
+      "city": "Castelfranci (AV)",
+      "lat": 40.931,
+      "lng": 15.044,
+      "y": 1997,
+      "certs": [
+        "DOCG",
+        "DOC"
+      ],
+      "exp": [],
+      "lg": [
+        "it",
+        "en"
+      ],
+      "moq": null,
+      "d": {
+        "it": "Cantina fondata nel 1997 a Castelfranci, nel cuore dell'Irpinia, da Gerardo Perillo, figlio di Salvatore, storico viticoltore del paese. Ha sette ettari di vigna, quasi tutti ad Aglianico, tra Castelfranci, Montemarano e Paternopoli, nell'area del Taurasi DOCG, più una piccola parte di Coda di Volpe; dal 2014 produce anche a Capri il Capri DOC Bianco. Le vigne stanno a 400-600 metri, con clima continentale, forti escursioni termiche e suoli vulcanici e argillosi; sono allevate a raggiera avellinese e a Guyot. In cantina fermentazioni controllate, attenzione all'ossigeno e, per il Taurasi, un lungo affinamento, con un'esperienza maturata tra Toscana, Australia e Irpinia. Il motto della famiglia: se un vino non convince prima loro, non esce sul mercato. Visite in cantina su prenotazione e listino dedicato per ristoratori e rivenditori.",
+        "en": "A winery founded in 1997 in Castelfranci, in the heart of Irpinia, by Gerardo Perillo, son of Salvatore, a long-standing local grape grower. It has seven hectares of vines, almost all Aglianico, across Castelfranci, Montemarano and Paternopoli, within the Taurasi DOCG area, plus a little Coda di Volpe; since 2014 it has also made Capri DOC Bianco on Capri. The vineyards lie at 400-600 metres, with a continental climate, wide temperature swings and volcanic and clay soils; they are trained on the traditional Avellino raggiera and Guyot. In the cellar: controlled fermentations, close attention to oxygen and, for the Taurasi, long ageing, drawing on experience gained in Tuscany, Australia and Irpinia. The family motto: if a wine does not convince them first, it never reaches the market. Cellar visits by appointment and a dedicated price list for restaurants and retailers.",
+        "de": "Weingut, 1997 in Castelfranci im Herzen Irpiniens von Gerardo Perillo gegründet, Sohn von Salvatore, einem langjährigen Winzer des Ortes. Es bewirtschaftet sieben Hektar Reben, fast ausschließlich Aglianico, in Castelfranci, Montemarano und Paternopoli im Gebiet des Taurasi DOCG, dazu etwas Coda di Volpe; seit 2014 entsteht auf Capri auch der Capri DOC Bianco. Die Weinberge liegen auf 400-600 Metern, mit kontinentalem Klima, starken Temperaturschwankungen und vulkanischen und lehmigen Böden; erzogen wird in der traditionellen Raggiera avellinese und im Guyot. Im Keller: kontrollierte Gärung, große Sorgfalt beim Sauerstoff und für den Taurasi eine lange Reifung, mit Erfahrung aus der Toskana, Australien und Irpinien. Das Familienmotto: Was sie nicht selbst überzeugt, kommt nicht auf den Markt. Kellerbesuche nach Voranmeldung und eine eigene Preisliste für Gastronomie und Handel."
+      },
+      "sub": [
+        {
+          "k": "bianchi",
+          "cat": "vino",
+          "n": {
+            "it": "Vini bianchi",
+            "en": "White wines",
+            "de": "Weißweine"
+          }
+        },
+        {
+          "k": "rossi",
+          "cat": "vino",
+          "n": {
+            "it": "Vini rossi",
+            "en": "Red wines",
+            "de": "Rotweine"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Volpone, vino bianco",
+          "",
+          "bianchi"
+        ],
+        [
+          "Fiano di Avellino DOCG",
+          "",
+          "bianchi"
+        ],
+        [
+          "Capri DOC Bianco",
+          "",
+          "bianchi"
+        ],
+        [
+          "Irpinia DOC Coda di Volpe",
+          "",
+          "bianchi"
+        ],
+        [
+          "Taurasi DOCG",
+          "",
+          "rossi"
+        ],
+        [
+          "Campi Taurasini, Irpinia DOC",
+          "",
+          "rossi"
+        ],
+        [
+          "Irpinia DOC Aglianico",
+          "",
+          "rossi"
+        ]
+      ],
+      "pd": {
+        "V-17-0": {
+          "c": [],
+          "pr": "20,00 €",
+          "d": {
+            "it": "Bianco da Coda di Volpe (70%) e Fiano (30%); una parte della Coda di Volpe affina 6-8 mesi in botti di legno di acacia. In etichetta: Natù Volpone. Vino da tavola.",
+            "en": "A white from Coda di Volpe (70%) and Fiano (30%); part of the Coda di Volpe is aged for 6-8 months in acacia wood casks. Label name: Natù Volpone. Table wine.",
+            "de": "Weißwein aus Coda di Volpe (70 %) und Fiano (30 %); ein Teil der Coda di Volpe reift 6-8 Monate in Fässern aus Akazienholz. Etikett: Natù Volpone. Tafelwein."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-17-1": {
+          "c": [
+            "DOCG"
+          ],
+          "pr": "19,00 €",
+          "d": {
+            "it": "Fiano di Avellino DOCG da vigne a Lapio, su terreno sabbioso-argilloso. Annata 2023. Giallo paglierino intenso e brillante; al naso intenso e caratteristico, con note di fiori bianchi; in bocca equilibrato e persistente, con un retrogusto intenso che ricorda la nocciola.",
+            "en": "Fiano di Avellino DOCG from vineyards in Lapio, on sandy-clay soil. 2023 vintage. Deep, bright straw yellow; intense and typical on the nose, with notes of white flowers; balanced and persistent on the palate, with an intense finish recalling hazelnut.",
+            "de": "Fiano di Avellino DOCG aus Weinbergen in Lapio auf sandig-lehmigem Boden. Jahrgang 2023. Intensives, leuchtendes Strohgelb; in der Nase intensiv und typisch, mit Noten weißer Blüten; am Gaumen ausgewogen und anhaltend, mit intensivem Nachklang, der an Haselnuss erinnert."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-17-2": {
+          "c": [
+            "DOC"
+          ],
+          "pr": "25,00 € · 45,00 € (magnum 1,5 L)",
+          "d": {
+            "it": "Bianco dell'isola di Capri, dove la cantina produce dal 2014, da terreno sabbioso-argilloso. Annata 2020. Giallo paglierino intenso e brillante; al naso intenso e caratteristico, con note di fiori bianchi e agrumi; in bocca equilibrato e persistente, con un retrogusto intenso.",
+            "en": "A white from the island of Capri, where the winery has produced since 2014, on sandy-clay soil. 2020 vintage. Deep, bright straw yellow; intense and typical on the nose, with notes of white flowers and citrus; balanced and persistent on the palate, with an intense finish.",
+            "de": "Weißwein von der Insel Capri, wo das Weingut seit 2014 produziert, auf sandig-lehmigem Boden. Jahrgang 2020. Intensives, leuchtendes Strohgelb; in der Nase intensiv und typisch, mit Noten weißer Blüten und Zitrus; am Gaumen ausgewogen und anhaltend, mit intensivem Nachklang."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-17-3": {
+          "c": [
+            "DOC"
+          ],
+          "pr": "20,00 €",
+          "d": {
+            "it": "Coda di Volpe dai vigneti di famiglia a Castelfranci, su terreno sabbioso-argilloso. Annata 2023. Paglierino carico; al naso intenso e caratteristico, con note sulfuree; in bocca equilibrato e persistente.",
+            "en": "Coda di Volpe from the family vineyards in Castelfranci, on sandy-clay soil. 2023 vintage. Deep straw yellow; intense and typical on the nose, with sulphurous, flinty notes; balanced and persistent on the palate.",
+            "de": "Coda di Volpe aus den Familienweinbergen in Castelfranci auf sandig-lehmigem Boden. Jahrgang 2023. Kräftiges Strohgelb; in der Nase intensiv und typisch, mit schwefligen, feuersteinartigen Noten; am Gaumen ausgewogen und anhaltend."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-17-4": {
+          "c": [
+            "DOCG"
+          ],
+          "pr": "60,00 € · 45,00 € (magnum 1,5 L)",
+          "d": {
+            "it": "Taurasi DOCG da Aglianico dei vigneti di Castelfranci, su terreno sabbioso-argilloso, con un lungo affinamento. In etichetta: Don Salvatore, dal nome del padre del fondatore. Annata 2015. Rosso rubino tendente al granato; al naso intenso e caratteristico, con note di frutta rossa e legno; in bocca equilibrato, con un retrogusto intenso e persistente.",
+            "en": "Taurasi DOCG from Aglianico grown in Castelfranci, on sandy-clay soil, with long ageing. Label name: Don Salvatore, after the founder's father. 2015 vintage. Ruby red turning garnet; intense and typical on the nose, with red fruit and oak notes; balanced on the palate, with an intense, lasting finish.",
+            "de": "Taurasi DOCG aus Aglianico aus Castelfranci, auf sandig-lehmigem Boden, mit langer Reifung. Etikett: Don Salvatore, nach dem Vater des Gründers. Jahrgang 2015. Rubinrot mit Granatreflexen; in der Nase intensiv und typisch, mit Noten roter Früchte und Holz; am Gaumen ausgewogen, mit intensivem, anhaltendem Abgang."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-17-5": {
+          "c": [
+            "DOC"
+          ],
+          "pr": "25,00 €",
+          "d": {
+            "it": "Irpinia DOC Campi Taurasini da vigne tra Castelfranci e Montemarano, su terreno argilloso, affinato in legno. In etichetta: Rubbino. Rosso rubino intenso; al naso intenso e caratteristico, con profumi terziari; in bocca equilibrato e persistente, con un tannino elegante dato dal vitigno e dai legni.",
+            "en": "Irpinia DOC Campi Taurasini from vineyards between Castelfranci and Montemarano, on clay soil, aged in wood. Label name: Rubbino. Deep ruby; intense and typical on the nose, with tertiary aromas; balanced and persistent on the palate, with elegant tannins from the grape and the oak.",
+            "de": "Irpinia DOC Campi Taurasini aus Weinbergen zwischen Castelfranci und Montemarano, auf Lehmboden, im Holz gereift. Etikett: Rubbino. Tiefes Rubinrot; in der Nase intensiv und typisch, mit tertiären Aromen; am Gaumen ausgewogen und anhaltend, mit eleganten Tanninen von Rebsorte und Holz."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-17-6": {
+          "c": [
+            "DOC"
+          ],
+          "pr": "18,00 €",
+          "d": {
+            "it": "Aglianico da vigne tra Castelfranci e Montemarano, su terreno argilloso. Rosso rubino intenso; al naso complesso, intenso e caratteristico, con note di frutti rossi; in bocca equilibrato e persistente, con un tannino elegante tipico del vitigno.",
+            "en": "Aglianico from vineyards between Castelfranci and Montemarano, on clay soil. Deep ruby; complex, intense and typical on the nose, with red fruit notes; balanced and persistent on the palate, with the elegant tannins typical of the grape.",
+            "de": "Aglianico aus Weinbergen zwischen Castelfranci und Montemarano, auf Lehmboden. Tiefes Rubinrot; in der Nase komplex, intensiv und typisch, mit Noten roter Früchte; am Gaumen ausgewogen und anhaltend, mit den eleganten Tanninen der Rebsorte."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        }
+      },
+      "fonti": [
+        "https://www.cantinegerardoperillo.it/prodotti",
+        "https://www.cantinegerardoperillo.it/chi-siamo",
+        "https://www.cantinegerardoperillo.it/la-cantina"
+      ]
     }
   ],
   "IMG": {
@@ -6819,6 +7018,14 @@ window.VETRINE = {
     "prod-V-16-3": "https://neposvillae.it/wp-content/uploads/2023/02/RECIOTO-LA-TESA.jpg",
     "prod-V-16-4": "https://neposvillae.it/wp-content/uploads/2026/02/recioto-della-valpolicella-new.png",
     "prod-V-16-5": "https://neposvillae.it/wp-content/uploads/2026/02/grappa-al-recioto-new.png",
-    "prod-V-16-6": "https://neposvillae.it/wp-content/uploads/2026/02/grappa-di-amarone-della-valpolicella-new.png"
+    "prod-V-16-6": "https://neposvillae.it/wp-content/uploads/2026/02/grappa-di-amarone-della-valpolicella-new.png",
+    "logo-V-17": "https://www.cantinegerardoperillo.it/assets/ChatGPT_Image_7_feb_2026__09_26_28_1770454396371-a6Cnl2XY.png",
+    "prod-V-17-0": "https://www.cantinegerardoperillo.it/objects/product-images/0135fa38-f46a-4f34-a414-bbf98c32338b",
+    "prod-V-17-1": "https://www.cantinegerardoperillo.it/objects/product-images/45417ff9-7cfc-454e-b314-b99153b7feb1",
+    "prod-V-17-2": "https://www.cantinegerardoperillo.it/objects/product-images/18577801-798e-4751-9c94-a835b52ccddf",
+    "prod-V-17-3": "https://www.cantinegerardoperillo.it/objects/product-images/a55c7c3b-8089-44cc-948a-b32f368eb448",
+    "prod-V-17-4": "https://www.cantinegerardoperillo.it/objects/product-images/4ff779e0-d1d1-4566-b9dc-fac5b4ee93fa",
+    "prod-V-17-5": "https://www.cantinegerardoperillo.it/objects/product-images/833af5e8-dd6d-4578-902b-1147e5353d8e",
+    "prod-V-17-6": "https://www.cantinegerardoperillo.it/objects/product-images/8e3f1e1e-a85c-48f8-a620-bc8a68e5025e"
   }
 };
