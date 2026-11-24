@@ -1789,9 +1789,9 @@ window.VETRINE = {
           ],
           "pr": "14,00 €",
           "d": {
-            "it": "IGT Toscana Rosato, Grenache in purezza. Rosato da uva a bacca rossa con 18-20 ore di macerazione sulle bucce, affinato in acciaio.",
-            "en": "IGT Toscana Rosato, 100% Grenache. Rosé from red grapes with 18-20 hours of skin contact, aged in steel.",
-            "de": "IGT Toscana Rosato, reinsortiger Grenache. Roséwein aus roten Trauben mit 18-20 Stunden Maischekontakt, Ausbau im Stahltank."
+            "it": "IGT Toscana Rosato, Grenache in purezza. Rosato da uva a bacca rossa con 12-18 ore di fermentazione sulle bucce, affinato in acciaio. Profumi di melograno e frutti rossi, con agrumi in fiore e petali di rosa; colore intenso, da tutto pasto.",
+            "en": "IGT Toscana Rosato, 100% Grenache. Rosé from red grapes with 12-18 hours of fermentation on the skins, aged in steel. Aromas of pomegranate and red fruit, with citrus blossom and rose petals; deep colour, good with a whole meal.",
+            "de": "IGT Toscana Rosato, reinsortiger Grenache. Roséwein aus roten Trauben mit 12-18 Stunden Gärung auf der Maische, Ausbau im Stahltank. Duft von Granatapfel und roten Früchten, mit Zitrusblüten und Rosenblättern; intensive Farbe, passt zu einem ganzen Menü."
           },
           "a": {
             "it": "Vigneti a 230-280 m di quota con esposizione sud-sud/est, vendemmia a mano.",
@@ -1849,7 +1849,8 @@ window.VETRINE = {
       "fonti": [
         "https://www.diegalewineshop.info/wineshop",
         "https://www.diegalewineshop.info/chisiamo",
-        "https://www.diegalewineshop.info/contatti"
+        "https://www.diegalewineshop.info/contatti",
+        "https://www.diegale.it/i-nostri-vini/ciarlibo/"
       ]
     }
   ],
@@ -1895,6 +1896,7 @@ window.VETRINE = {
     "prod-V-05-12": "https://shop.sicilianstories.eu/2519-thickbox_default/tagliolini-al-nero-di-seppia.jpg",
     "logo-V-06": "https://static.wixstatic.com/media/5ae127_9d6e1a9447544d8590b9711251c79032~mv2.png",
     "prod-V-06-0": "https://static.wixstatic.com/media/5ae127_fbc9ac03fc5d4dda905674e1e99f438f~mv2.jpg",
+    "prod-V-06-1": "https://www.diegale.it/wp-content/uploads/2026/01/diegale-ciarlibo-2026-1.jpg",
     "prod-V-06-2": "https://static.wixstatic.com/media/5ae127_abb39bd697b349bc979ffeefc8f965ad~mv2.jpg",
     "prod-V-06-3": "https://static.wixstatic.com/media/5ae127_d82e050c2f454bf89d62456c53993b06~mv2.jpg",
     "prod-V-06-4": "https://static.wixstatic.com/media/5ae127_fb5e2f125d8343469531eb59c2c4b22e~mv2.jpg"
