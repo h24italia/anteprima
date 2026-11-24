@@ -3301,6 +3301,177 @@ window.VETRINE = {
         "https://www.castagniniwines.it/azienda/",
         "https://54dcd2-ab.myshopify.com/"
       ]
+    },
+    {
+      "id": "V-10",
+      "n": "Il Casellino",
+      "cat": "olio",
+      "reg": "Toscana",
+      "city": "Rignano sull'Arno (FI)",
+      "lat": 43.72,
+      "lng": 11.45,
+      "y": 1586,
+      "certs": [
+        "Bio"
+      ],
+      "exp": [],
+      "lg": [
+        "it",
+        "en"
+      ],
+      "moq": null,
+      "d": {
+        "it": "Azienda agricola in località Casellino-Torri, a Rignano sull'Arno, circa 30 km a sud di Firenze, che produce olio extravergine dal 1586. Coltiva 16 ettari di oliveto biologico con circa 6.000 ulivi di cultivar tradizionali toscane. Le olive sono raccolte a mano e spremute a freddo nel frantoio aziendale entro poche ore. L'olio, certificato biologico ICEA, porta il marchio \"Campo di Torri\"; l'azienda produce anche oli aromatizzati e spezie e ospita i visitatori in tre casali.",
+        "en": "Farm at Casellino-Torri in Rignano sull'Arno, about 30 km south of Florence, producing extra virgin olive oil since 1586. It tends 16 hectares of organic olive groves with about 6,000 trees of traditional Tuscan varieties. The olives are picked by hand and cold-pressed in the farm's own mill within a few hours. The ICEA-certified organic oil carries the \"Campo di Torri\" brand; the farm also makes flavoured oils and spices and hosts guests in three farmhouses.",
+        "de": "Landwirtschaftsbetrieb in Casellino-Torri bei Rignano sull'Arno, rund 30 km südlich von Florenz, der seit 1586 Olivenöl extra vergine erzeugt. Er bewirtschaftet 16 Hektar Bio-Olivenhaine mit etwa 6.000 Bäumen traditioneller toskanischer Sorten. Die Oliven werden von Hand geerntet und innerhalb weniger Stunden in der eigenen Ölmühle kalt gepresst. Das ICEA-zertifizierte Bio-Öl trägt die Marke \"Campo di Torri\"; dazu kommen aromatisierte Öle und Gewürze sowie drei Gästehäuser."
+      },
+      "sub": [
+        {
+          "k": "olio",
+          "cat": "olio",
+          "n": {
+            "it": "Olio",
+            "en": "Olive oil",
+            "de": "Olivenöl"
+          }
+        },
+        {
+          "k": "altro",
+          "cat": "misti",
+          "n": {
+            "it": "Spezie e altro",
+            "en": "Spices and more",
+            "de": "Gewürze und mehr"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Olio extravergine di oliva biologico \"Campo di Torri\"",
+          "bottiglia da 500 ml",
+          "olio"
+        ],
+        [
+          "Olio extravergine di oliva biologico \"Campo di Torri\", latta",
+          "latta da 5 litri",
+          "olio"
+        ],
+        [
+          "Olio extravergine di oliva con peperoncino \"Campo di Torri\"",
+          "bottiglia da 250 ml",
+          "olio"
+        ],
+        [
+          "Olio extravergine di oliva al tartufo \"Campo di Torri\"",
+          "bottiglia da 100 ml",
+          "olio"
+        ],
+        [
+          "Box Quattro Spezie \"Campo di Torri\"",
+          "4 confezioni",
+          "altro"
+        ],
+        [
+          "Saponetta ai profumi della Natura Toscana",
+          null,
+          "altro"
+        ]
+      ],
+      "pd": {
+        "V-10-0": {
+          "c": [
+            "Bio"
+          ],
+          "pr": "22,00 €",
+          "d": {
+            "it": "Olio extravergine di oliva biologico \"Campo di Torri\", certificato ICEA. Profumato, gentile ma con carattere, con sentore di erba appena tagliata.",
+            "en": "Organic extra virgin olive oil \"Campo di Torri\", ICEA certified. Fragrant, gentle but with character, with notes of freshly cut grass.",
+            "de": "Bio-Olivenöl extra vergine \"Campo di Torri\", ICEA-zertifiziert. Duftend, sanft und doch mit Charakter, mit Noten von frisch geschnittenem Gras."
+          },
+          "a": {
+            "it": "Olive raccolte a mano e spremute a freddo nel frantoio aziendale entro poche ore dalla raccolta.",
+            "en": "Olives picked by hand and cold-pressed in the farm's own mill within a few hours of harvest.",
+            "de": "Oliven von Hand geerntet und innerhalb weniger Stunden in der eigenen Ölmühle kalt gepresst."
+          }
+        },
+        "V-10-1": {
+          "c": [
+            "Bio"
+          ],
+          "pr": "120,00 €",
+          "d": {
+            "it": "Olio extravergine di oliva biologico \"Campo di Torri\", certificato ICEA. Profumato, gentile ma con carattere, con sentore di erba appena tagliata. In latta da 5 litri, con una scatola adatta alla spedizione.",
+            "en": "Organic extra virgin olive oil \"Campo di Torri\", ICEA certified. Fragrant, gentle but with character, with notes of freshly cut grass. In a 5-litre tin, packed in a box suitable for shipping.",
+            "de": "Bio-Olivenöl extra vergine \"Campo di Torri\", ICEA-zertifiziert. Duftend, sanft und doch mit Charakter, mit Noten von frisch geschnittenem Gras. Im 5-Liter-Kanister, in einem versandgeeigneten Karton."
+          },
+          "a": {
+            "it": "Olive raccolte a mano e spremute a freddo nel frantoio aziendale entro poche ore dalla raccolta.",
+            "en": "Olives picked by hand and cold-pressed in the farm's own mill within a few hours of harvest.",
+            "de": "Oliven von Hand geerntet und innerhalb weniger Stunden in der eigenen Ölmühle kalt gepresst."
+          }
+        },
+        "V-10-2": {
+          "c": [],
+          "pr": "8,00 €",
+          "d": {
+            "it": "Olio extravergine \"Campo di Torri\" aromatizzato al peperoncino, per dare un tocco piccante ai piatti.",
+            "en": "\"Campo di Torri\" extra virgin olive oil flavoured with chilli, for a spicy touch.",
+            "de": "Olivenöl extra vergine \"Campo di Torri\" mit Chili aromatisiert, für eine scharfe Note."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-10-3": {
+          "c": [],
+          "pr": "8,00 €",
+          "d": {
+            "it": "Olio extravergine \"Campo di Torri\" aromatizzato al tartufo.",
+            "en": "\"Campo di Torri\" extra virgin olive oil flavoured with truffle.",
+            "de": "Olivenöl extra vergine \"Campo di Torri\" mit Trüffelaroma."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-10-4": {
+          "c": [],
+          "pr": "14,00 €",
+          "d": {
+            "it": "Quattro miscele di spezie coltivate e raccolte in azienda: Giallo di Campo (finocchietto selvatico), Macchia di Campo (mirto, rosmarino, limone e finocchietto), Vento di Campo (menta, salvia e limone) e Fuoco di Campo (peperoncino, aglio e santoreggia). Nella confezione, consigli per l'uso in cucina.",
+            "en": "Four spice blends grown and gathered on the farm: Giallo di Campo (wild fennel), Macchia di Campo (myrtle, rosemary, lemon and fennel), Vento di Campo (mint, sage and lemon) and Fuoco di Campo (chilli, garlic and savory). Cooking tips included.",
+            "de": "Vier Gewürzmischungen aus eigenem Anbau: Giallo di Campo (wilder Fenchel), Macchia di Campo (Myrte, Rosmarin, Zitrone und Fenchel), Vento di Campo (Minze, Salbei und Zitrone) und Fuoco di Campo (Chili, Knoblauch und Bohnenkraut). Mit Küchentipps in der Packung."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-10-5": {
+          "c": [],
+          "pr": "3,50 €",
+          "d": {
+            "it": "Saponette con ingredienti naturali 100% italiani, in quattro profumazioni: olio d'oliva, limone, mandarino e lavanda.",
+            "en": "Soap bars made with 100% Italian natural ingredients, in four scents: olive oil, lemon, mandarin and lavender.",
+            "de": "Seifen aus 100% italienischen natürlichen Zutaten, in vier Düften: Olivenöl, Zitrone, Mandarine und Lavendel."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        }
+      },
+      "fonti": [
+        "https://casellino.com/negozio/",
+        "https://casellino.com/adotta-un-pezzo-di-toscana/",
+        "https://casellino.com/contatti/"
+      ]
     }
   ],
   "IMG": {
@@ -3416,6 +3587,13 @@ window.VETRINE = {
     "prod-V-09-8": "https://www.castagniniwines.it/wp-content/uploads/2020/12/castagnini-cherry.jpg.webp",
     "prod-V-09-9": "https://www.castagniniwines.it/wp-content/uploads/2022/01/prodotto-castagnini-lacrimae-solis.png.webp",
     "prod-V-09-10": "https://www.castagniniwines.it/wp-content/uploads/2022/01/prodotto-castagnini-grappa.png.webp",
-    "prod-V-09-11": "https://www.castagniniwines.it/wp-content/uploads/2022/01/prodotto-castagnini-olio-evo.png.webp"
+    "prod-V-09-11": "https://www.castagniniwines.it/wp-content/uploads/2022/01/prodotto-castagnini-olio-evo.png.webp",
+    "logo-V-10": "https://casellino.com/wp-content/uploads/2021/02/Tavola-disegno-12@0.5x.png",
+    "prod-V-10-0": "https://casellino.com/wp-content/uploads/2020/08/olio-1.png",
+    "prod-V-10-1": "https://casellino.com/wp-content/uploads/2021/05/G9T4818-Modifica.jpg",
+    "prod-V-10-2": "https://casellino.com/wp-content/uploads/2021/05/G9T4815-Modifica.jpg",
+    "prod-V-10-3": "https://casellino.com/wp-content/uploads/2020/08/olio-tartufo.png",
+    "prod-V-10-4": "https://casellino.com/wp-content/uploads/2020/08/spezie-1.png",
+    "prod-V-10-5": "https://casellino.com/wp-content/uploads/2020/08/saponette.png"
   }
 };
