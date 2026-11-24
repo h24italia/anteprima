@@ -10051,6 +10051,152 @@ window.VETRINE = {
         "https://www.lapescinella.com/cantina-la-pescinella-wine/",
         "https://wine-all.com/it/brand/50-la-pescinella-az-agricola"
       ]
+    },
+    {
+      "id": "V-27",
+      "n": "Extraemo",
+      "cat": "olio",
+      "reg": "Trentino-Alto Adige",
+      "city": "Arco (TN)",
+      "lat": 45.92,
+      "lng": 10.886,
+      "y": 2022,
+      "certs": [
+        "Bio"
+      ],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "d": {
+        "it": "Azienda agricola familiare dell'agronomo Rolando Del Fabbro ad Arco (TN), nel Garda Trentino, con oliveti anche a Stio (SA), nel Parco Nazionale del Cilento. Il marchio Extraemo nasce dagli ambienti “estremi” in cui crescono gli olivi: Arco, sul 46° parallelo nord, è il confine settentrionale mondiale per la produzione di olio extravergine di oliva, mentre Stio si trova a 700 metri di quota, al limite per l'olivo. L'azienda nasce nel 2022 prendendo in gestione i terreni di famiglia di Arco, da sempre coltivati con i metodi dell'agricoltura biologica; dal 2025 si aggiungono due oliveti a Stio. Gli oliveti in produzione sono tre: “Giuseppe”, piantato dal nonno negli anni Novanta con la Casaliva (30 piante a 200 m), “Rolando”, piantato nel 2011 (55 piante a 130 m), e “Laura” a Stio (60 piante a 700 m, esposte a sud); altri due sono in progettazione. Coltivazione biologica certificata, senza diserbanti né prodotti di sintesi: potatura eseguita personalmente a marzo e aprile, concimazione organica e subirrigazione negli oliveti di Arco. Le olive sono raccolte a mano o con strumenti delicati, trasportate in piccole cassette aerate e molite in giornata con estrazione a freddo, poi l'olio viene filtrato e imbottigliato al riparo da luce e aria. Due linee di extravergine di categoria superiore: Nord, dall'Alto Garda, e Sud, dal Cilento. L'azienda organizza anche visite guidate con degustazione tra gli oliveti.",
+        "en": "A family farm run by agronomist Rolando Del Fabbro in Arco (Trentino), on the Garda Trentino, with further olive groves in Stio (province of Salerno), in the Cilento National Park. The Extraemo brand comes from the “extreme” settings where the trees grow: Arco, on the 46th parallel north, is the world's northern limit for extra virgin olive oil production, while Stio lies at 700 metres, the altitude limit for the olive tree. The farm was founded in 2022 by taking over the family land in Arco, always farmed organically; two groves in Stio were added in 2025. Three groves are in production: “Giuseppe”, planted by the grandfather in the 1990s with Casaliva (30 trees at 200 m), “Rolando”, planted in 2011 (55 trees at 130 m), and “Laura” in Stio (60 south-facing trees at 700 m); two more are being planned. Certified organic farming with no herbicides or synthetic products: pruning done personally in March and April, organic fertilising and subsurface irrigation in the Arco groves. The olives are picked by hand or with gentle tools, carried in small ventilated crates and milled the same day with cold extraction; the oil is then filtered and bottled away from light and air. Two lines of superior category extra virgin olive oil: Nord, from the Upper Garda, and Sud, from the Cilento. The farm also offers guided tours with tastings among the olive trees.",
+        "de": "Familienbetrieb des Agronomen Rolando Del Fabbro in Arco (Trentino) am Gardasee, mit weiteren Olivenhainen in Stio (Provinz Salerno) im Nationalpark Cilento. Der Name Extraemo stammt von den „extremen“ Standorten der Bäume: Arco liegt auf dem 46. nördlichen Breitengrad, der nördlichsten Grenze der Welt für die Erzeugung von nativem Olivenöl extra, Stio auf 700 Metern Höhe, an der Höhengrenze des Olivenbaums. Der Betrieb entstand 2022 mit der Übernahme der Familiengrundstücke in Arco, die seit jeher biologisch bewirtschaftet werden; 2025 kamen zwei Olivenhaine in Stio hinzu. Drei Haine sind im Ertrag: „Giuseppe“, in den 1990er Jahren vom Großvater mit Casaliva bepflanzt (30 Bäume auf 200 m), „Rolando“, 2011 angelegt (55 Bäume auf 130 m), und „Laura“ in Stio (60 nach Süden ausgerichtete Bäume auf 700 m); zwei weitere sind in Planung. Zertifizierter Bioanbau ohne Herbizide und synthetische Mittel: Rückschnitt persönlich im März und April, organische Düngung und Unterflurbewässerung in den Hainen von Arco. Die Oliven werden von Hand oder mit schonenden Geräten geerntet, in kleinen belüfteten Kisten transportiert und noch am selben Tag kalt extrahiert; das Öl wird anschließend gefiltert und vor Licht und Luft geschützt abgefüllt. Zwei Linien nativen Olivenöls extra der höchsten Güteklasse: Nord vom Oberen Gardasee und Sud aus dem Cilento. Der Betrieb bietet auch Führungen mit Verkostung zwischen den Olivenbäumen an."
+      },
+      "sub": [
+        {
+          "k": "nord",
+          "cat": "olio",
+          "n": {
+            "it": "Linea Nord, Alto Garda",
+            "en": "Nord line, Upper Garda",
+            "de": "Linie Nord, Oberer Gardasee"
+          }
+        },
+        {
+          "k": "sud",
+          "cat": "olio",
+          "n": {
+            "it": "Linea Sud, Cilento",
+            "en": "Sud line, Cilento",
+            "de": "Linie Sud, Cilento"
+          }
+        },
+        {
+          "k": "degustazione",
+          "cat": "olio",
+          "n": {
+            "it": "Set degustazione",
+            "en": "Tasting set",
+            "de": "Verkostungsset"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Extraemo Nord “Casaliva” 2026/2027",
+          "bottiglia da 250 ml · bottiglia da 500 ml · 3 litri",
+          "nord"
+        ],
+        [
+          "Extraemo Nord “Trittico” 2026/2027",
+          "bottiglia da 500 ml",
+          "nord"
+        ],
+        [
+          "Extraemo Sud “700 m” 2026/2027",
+          "bottiglia da 250 ml · bottiglia da 500 ml",
+          "sud"
+        ],
+        [
+          "Extraemo “Degustazione 2026/2027”",
+          "confezione da 3 x 500 ml",
+          "degustazione"
+        ]
+      ],
+      "pd": {
+        "V-27-0": {
+          "c": [
+            "Bio"
+          ],
+          "pr": "250 ml 12,00 € · 500 ml 20,00 € · 3 litri 70,00 € (shop online)",
+          "d": {
+            "it": "Monocultivar di Casaliva, la cultivar autoctona del Lago di Garda, dalle due tenute di famiglia ad Arco (TN): l'oliveto “Giuseppe”, piantato dal nonno negli anni Novanta su terreno calcareo e argilloso a circa 200 metri, e l'oliveto “Rolando”, piantato nel 2011 a 130 metri. Olio extravergine di oliva di categoria superiore da olive raccolte nella seconda decade di ottobre, in anticipo di maturazione, e lavorate la sera stessa per non disperdere le caratteristiche salutistiche e nutraceutiche; estrazione a freddo con impianto a ciclo continuo a due fasi. Colore dorato con striature verdi, profumo fruttato medio con piacevoli sensazioni erbacee dovute all'anticipo della raccolta. Disponibile anche nel formato da 3 litri.",
+            "en": "A single-variety oil from Casaliva, the native cultivar of Lake Garda, grown on the family's two estates in Arco (Trentino): the “Giuseppe” grove, planted by the grandfather in the 1990s on chalky clay soil at about 200 metres, and the “Rolando” grove, planted in 2011 at 130 metres. Superior category extra virgin olive oil from olives picked in the second ten days of October, before full ripeness, and processed the same evening so as not to lose their health and nutraceutical properties; cold extraction in a two-phase continuous plant. Golden with green streaks, with a medium fruity nose and pleasant grassy notes from the early harvest. Also available in a 3 litre size.",
+            "de": "Sortenreines Öl aus Casaliva, der einheimischen Sorte des Gardasees, von den zwei Familiengütern in Arco (Trentino): dem Olivenhain „Giuseppe“, in den 1990er Jahren vom Großvater auf kalkhaltigem Tonboden in rund 200 Metern Höhe gepflanzt, und dem Olivenhain „Rolando“, 2011 in 130 Metern Höhe angelegt. Natives Olivenöl extra der höchsten Güteklasse aus Oliven, die im zweiten Oktoberdrittel vor der vollen Reife geerntet und noch am selben Abend verarbeitet werden, damit ihre gesundheitlichen und nutrazeutischen Eigenschaften erhalten bleiben; Kaltextraktion in einer kontinuierlichen Zweiphasenanlage. Goldgelb mit grünen Schlieren, mittelfruchtiger Duft mit angenehm grasigen Noten dank der frühen Ernte. Auch im 3-Liter-Format erhältlich."
+          },
+          "a": {
+            "it": "Con la carne salada tipica trentina, carpacci di manzo e insalate estive di pomodori. Conservare in luogo fresco, al riparo da luce e fonti di calore, idealmente a 12-18 °C.",
+            "en": "With Trentino's traditional carne salada, beef carpaccio and summer tomato salads. Store in a cool place away from light and heat, ideally at 12-18 °C.",
+            "de": "Zu Trentiner Carne salada, Rindercarpaccio und sommerlichen Tomatensalaten. Kühl, vor Licht und Wärme geschützt lagern, idealerweise bei 12-18 °C."
+          }
+        },
+        "V-27-1": {
+          "c": [
+            "Bio"
+          ],
+          "pr": "20,00 € (shop online)",
+          "d": {
+            "it": "Blend di tre cultivar alloctone, Pendolino e Frantoio, originarie della Toscana, e Favarol, originaria del Veneto, da un numero limitato di piante dell'oliveto “Rolando” ad Arco (TN). Olio extravergine di oliva di categoria superiore da olive raccolte nella prima decade di ottobre, a inizio invaiatura, e lavorate la sera stessa per non disperdere le caratteristiche salutistiche e nutraceutiche; estrazione a freddo con impianto a ciclo continuo a due fasi. Colore dorato, profumo fruttato leggero con piacevoli sensazioni di mandorla verde e carciofo date da Frantoio e Pendolino, e note leggermente amare e piccanti grazie al Favarol.",
+            "en": "A blend of three non-native cultivars, Pendolino and Frantoio from Tuscany and Favarol from the Veneto, from a limited number of trees in the “Rolando” grove in Arco (Trentino). Superior category extra virgin olive oil from olives picked in the first ten days of October, as they begin to change colour, and processed the same evening so as not to lose their health and nutraceutical properties; cold extraction in a two-phase continuous plant. Golden, with a light fruity nose and pleasant notes of green almond and artichoke from the Frantoio and Pendolino, plus slightly bitter and peppery notes from the Favarol.",
+            "de": "Cuvée aus drei nicht einheimischen Sorten, Pendolino und Frantoio aus der Toskana sowie Favarol aus Venetien, von einer begrenzten Zahl von Bäumen des Olivenhains „Rolando“ in Arco (Trentino). Natives Olivenöl extra der höchsten Güteklasse aus Oliven, die im ersten Oktoberdrittel zu Beginn der Verfärbung geerntet und noch am selben Abend verarbeitet werden, damit ihre gesundheitlichen und nutrazeutischen Eigenschaften erhalten bleiben; Kaltextraktion in einer kontinuierlichen Zweiphasenanlage. Goldgelb, leicht fruchtiger Duft mit angenehmen Noten von grüner Mandel und Artischocke von Frantoio und Pendolino sowie leicht bitteren und scharfen Noten vom Favarol."
+          },
+          "a": {
+            "it": "Con verdure crude, piatti di pesce, crostacei e insalate. Conservare in luogo fresco, al riparo da luce e fonti di calore, idealmente a 12-18 °C.",
+            "en": "With raw vegetables, fish dishes, shellfish and salads. Store in a cool place away from light and heat, ideally at 12-18 °C.",
+            "de": "Zu rohem Gemüse, Fischgerichten, Krustentieren und Salaten. Kühl, vor Licht und Wärme geschützt lagern, idealerweise bei 12-18 °C."
+          }
+        },
+        "V-27-2": {
+          "c": [
+            "Bio"
+          ],
+          "pr": "250 ml 10,00 € · 500 ml 16,00 € (shop online)",
+          "d": {
+            "it": "Dall'oliveto “Laura” a Stio (SA), a 700 metri sul livello del mare nel cuore del Parco Nazionale del Cilento, con esposizione a sud, tra cinghiali, cervi e caprioli. Olio extravergine di oliva di categoria superiore ottenuto per oltre il 50% da varietà tipiche del Cilento (Pisciottana, Rotondella e Ogliarola); nell'oliveto crescono anche Frantoio e Leccino. Olive raccolte nell'ultima decade di ottobre, a invaiatura, e lavorate la sera stessa in un frantoio di ultima generazione. Colore dorato e giallo con riflessi verdi, fruttato medio con note di foglia verde; al gusto amaro e piccante di media intensità, con un gradevole retrogusto di mandorla e leggeri sentori di frutta secca.",
+            "en": "From the “Laura” grove in Stio (province of Salerno), 700 metres above sea level in the heart of the Cilento National Park, facing south, among wild boar, red deer and roe deer. Superior category extra virgin olive oil made for over 50% from typical Cilento varieties (Pisciottana, Rotondella and Ogliarola); the grove also grows Frantoio and Leccino. Olives picked in the last ten days of October, as they change colour, and processed the same evening in a state-of-the-art mill. Golden yellow with green tints, medium fruity with green leaf notes; medium bitterness and pepperiness on the palate, with a pleasant almond finish and light hints of dried fruit.",
+            "de": "Aus dem Olivenhain „Laura“ in Stio (Provinz Salerno), 700 Meter über dem Meer im Herzen des Nationalparks Cilento, nach Süden ausgerichtet, zwischen Wildschweinen, Hirschen und Rehen. Natives Olivenöl extra der höchsten Güteklasse, zu über 50% aus typischen Sorten des Cilento (Pisciottana, Rotondella und Ogliarola); im Hain wachsen auch Frantoio und Leccino. Die Oliven werden im letzten Oktoberdrittel bei beginnender Verfärbung geerntet und noch am selben Abend in einer modernen Ölmühle verarbeitet. Goldgelb mit grünen Reflexen, mittelfruchtig mit Noten von grünem Blatt; am Gaumen mittlere Bitterkeit und Schärfe, mit angenehmem Mandelnachklang und leichten Anklängen von Trockenfrüchten."
+          },
+          "a": {
+            "it": "Con piatti a base di legumi, minestre e carne alla brace.",
+            "en": "With pulse dishes, soups and grilled meat.",
+            "de": "Zu Gerichten mit Hülsenfrüchten, Suppen und Gegrilltem."
+          }
+        },
+        "V-27-3": {
+          "c": [
+            "Bio"
+          ],
+          "pr": "55,00 € (shop online)",
+          "d": {
+            "it": "Set degustazione che riunisce i tre oli extravergine Extraemo: Nord “Trittico”, Nord “Casaliva” e Sud “700 m”. Tre territori e tre identità sensoriali con un'unica filosofia: olive raccolte e molite in giornata per preservare proprietà nutraceutiche, profumo e gusto. Trittico: blend di Pendolino, Favarol e Frantoio raccolti nella prima decade di ottobre, dorato, fruttato leggero con mandorla verde e carciofo, gusto equilibrato con piacevoli sensazioni amare e piccanti. Casaliva: monocultivar autoctono del Lago di Garda raccolto in anticipo di maturazione, dorato con riflessi verdi, fruttato medio e ricche note erbacee. 700 m: Pisciottana, Rotondella e Ogliarola coltivate a 700 metri nel cuore del Cilento, dorato con riflessi verdi, fruttato medio con foglia verde e finale di mandorla e frutta secca. Adatto anche come confezione regalo.",
+            "en": "A tasting set bringing together the three Extraemo extra virgin olive oils: Nord “Trittico”, Nord “Casaliva” and Sud “700 m”. Three territories and three sensory identities with one philosophy: olives picked and milled the same day to preserve nutraceutical properties, aroma and flavour. Trittico: a blend of Pendolino, Favarol and Frantoio picked in the first ten days of October, golden, lightly fruity with green almond and artichoke, balanced with pleasant bitter and peppery notes. Casaliva: a single-variety oil from Lake Garda's native cultivar, picked early, golden with green tints, medium fruity with rich grassy notes. 700 m: Pisciottana, Rotondella and Ogliarola grown at 700 metres in the heart of Cilento, golden with green tints, medium fruity with green leaf and an almond and dried fruit finish. Also suited as a gift pack.",
+            "de": "Verkostungsset mit den drei nativen Olivenölen extra von Extraemo: Nord „Trittico“, Nord „Casaliva“ und Sud „700 m“. Drei Landschaften und drei sensorische Profile mit einer Philosophie: Oliven, die am selben Tag geerntet und gemahlen werden, damit nutrazeutische Eigenschaften, Duft und Geschmack erhalten bleiben. Trittico: Cuvée aus Pendolino, Favarol und Frantoio, im ersten Oktoberdrittel geerntet, goldgelb, leicht fruchtig mit grüner Mandel und Artischocke, ausgewogen mit angenehmer Bitterkeit und Schärfe. Casaliva: sortenrein aus der einheimischen Sorte des Gardasees, früh geerntet, goldgelb mit grünen Reflexen, mittelfruchtig mit reichen grasigen Noten. 700 m: Pisciottana, Rotondella und Ogliarola aus 700 Metern Höhe im Herzen des Cilento, goldgelb mit grünen Reflexen, mittelfruchtig mit grünem Blatt und einem Abgang von Mandel und Trockenfrüchten. Auch als Geschenkpackung geeignet."
+          },
+          "a": {
+            "it": "Trittico con verdure crude, pesce, crostacei e insalate; Casaliva con carne salada trentina, carpacci e insalate fresche estive; 700 m con legumi, minestre e carni alla brace.",
+            "en": "Trittico with raw vegetables, fish, shellfish and salads; Casaliva with Trentino carne salada, carpaccio and fresh summer salads; 700 m with pulses, soups and grilled meat.",
+            "de": "Trittico zu rohem Gemüse, Fisch, Krustentieren und Salaten; Casaliva zu Trentiner Carne salada, Carpaccio und frischen Sommersalaten; 700 m zu Hülsenfrüchten, Suppen und Gegrilltem."
+          }
+        }
+      },
+      "fonti": [
+        "https://extraemo.com/collections/all",
+        "https://extraemo.com/pages/chi-siamo",
+        "https://extraemo.com/pages/le-tenute",
+        "https://extraemo.com/pages/produzione"
+      ]
     }
   ],
   "IMG": {
@@ -10478,6 +10624,11 @@ window.VETRINE = {
     "prod-V-26-3": "https://www.lapescinella.com/wp-content/uploads/2025/02/prova-vino-davvero_13_11zon.webp",
     "prod-V-26-4": "https://www.lapescinella.com/wp-content/uploads/2025/02/rosamunda-prova-vino_21_11zon.webp",
     "prod-V-26-5": "https://www.lapescinella.com/wp-content/uploads/2025/02/birichino-prova-vino_1_11zon.webp",
-    "prod-V-26-6": "https://www.lapescinella.com/wp-content/uploads/2025/02/PHOTO-2025-01-29-08-57-27-1_2_11zon.webp"
+    "prod-V-26-6": "https://www.lapescinella.com/wp-content/uploads/2025/02/PHOTO-2025-01-29-08-57-27-1_2_11zon.webp",
+    "logo-V-27": "https://cdn.shopify.com/s/files/1/0991/8834/3133/files/extraemo-logo-olio-extravergine-d-oliva.png?width=500",
+    "prod-V-27-0": "https://cdn.shopify.com/s/files/1/0991/8834/3133/files/extraemo-olio-extravergine-casaliva-500ml-garda.jpg?width=900",
+    "prod-V-27-1": "https://cdn.shopify.com/s/files/1/0991/8834/3133/files/extraemo-olio-extravergine-nord-trittico-500ml.jpg?width=900",
+    "prod-V-27-2": "https://cdn.shopify.com/s/files/1/0991/8834/3133/files/extraemo-olio-extravergine-sud-700m-500ml-cilento.jpg?width=900",
+    "prod-V-27-3": "https://cdn.shopify.com/s/files/1/0991/8834/3133/files/extraemo-assaggio-set-olio-extravergine.jpg?width=900"
   }
 };
