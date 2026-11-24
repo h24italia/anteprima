@@ -6352,6 +6352,205 @@ window.VETRINE = {
         "https://www.vozzivini.it/cantina/",
         "https://www.vozzivini.it/web/territorio/"
       ]
+    },
+    {
+      "id": "V-16",
+      "n": "Nepos Villae",
+      "cat": "vino",
+      "reg": "Veneto",
+      "city": "Negrar di Valpolicella (VR)",
+      "lat": 45.528,
+      "lng": 10.938,
+      "y": 2017,
+      "certs": [
+        "DOCG",
+        "DOC"
+      ],
+      "exp": [],
+      "lg": [
+        "it",
+        "en"
+      ],
+      "moq": null,
+      "logoBg": "#2b2b2b",
+      "d": {
+        "it": "Cantina della famiglia Ruffo a Villa Quintarelli Ruffo, nella Valle di Negrar, cuore della Valpolicella Classica. L'ala più antica della villa risale al 1510; nell'Ottocento passò alla famiglia Quintarelli e ai primi del Novecento, per eredità, ai Ruffo. Sulle botti più antiche della cantina è incisa la data 1875; il progetto Nepos Villae nasce nel 2017, con Gianfranco Ruffo e i figli Anna, Francesco e Lucia. La vigna di famiglia, allevata a doppia pergola veronese dietro la villa, cresce su suoli marnosi bianchi tra calcare e arenarie, nella valle più fresca della Valpolicella. Le uve sono Corvina gentile, Corvina grossa, Rondinella e Molinara, da cui nascono Amarone, Ripasso, Valpolicella Classico Superiore, Recioto e Recioto spumante, oltre a due grappe dalle vinacce di Recioto e Amarone. La cantina offre anche degustazioni.",
+        "en": "The Ruffo family winery at Villa Quintarelli Ruffo, in the Negrar valley, the heart of Valpolicella Classica. The oldest wing of the villa dates from 1510; in the 19th century it passed to the Quintarelli family and, in the early 20th century, by inheritance to the Ruffos. The oldest casks in the cellar bear the date 1875; the Nepos Villae project began in 2017, with Gianfranco Ruffo and his children Anna, Francesco and Lucia. The family vineyard, trained on the double Veronese pergola behind the villa, grows on white marl soils of limestone and sandstone, in the coolest valley of Valpolicella. The grapes are Corvina Gentile, Corvina Grossa, Rondinella and Molinara, which go into Amarone, Ripasso, Valpolicella Classico Superiore, Recioto and sparkling Recioto, plus two grappas from Recioto and Amarone pomace. The winery also offers tastings.",
+        "de": "Weingut der Familie Ruffo in der Villa Quintarelli Ruffo im Negrar-Tal, dem Herzen des Valpolicella Classico. Der älteste Flügel der Villa stammt von 1510; im 19. Jahrhundert ging sie an die Familie Quintarelli und Anfang des 20. Jahrhunderts durch Erbschaft an die Familie Ruffo. Auf den ältesten Fässern im Keller steht die Jahreszahl 1875; das Projekt Nepos Villae begann 2017 mit Gianfranco Ruffo und seinen Kindern Anna, Francesco und Lucia. Der Familienweinberg hinter der Villa, an doppelter Veroneser Pergola erzogen, wächst auf weißen Mergelböden aus Kalk und Sandstein, im kühlsten Tal des Valpolicella. Die Rebsorten Corvina Gentile, Corvina Grossa, Rondinella und Molinara ergeben Amarone, Ripasso, Valpolicella Classico Superiore, Recioto und Recioto-Schaumwein, dazu zwei Grappe aus Recioto- und Amarone-Trester. Das Weingut bietet auch Verkostungen an."
+      },
+      "sub": [
+        {
+          "k": "vini",
+          "cat": "vino",
+          "n": {
+            "it": "Vini della Valpolicella",
+            "en": "Valpolicella wines",
+            "de": "Weine aus dem Valpolicella"
+          }
+        },
+        {
+          "k": "distillati",
+          "cat": "liquori",
+          "n": {
+            "it": "Distillati",
+            "en": "Spirits",
+            "de": "Spirituosen"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Campo di Villa, Amarone della Valpolicella Classico DOCG",
+          "",
+          "vini"
+        ],
+        [
+          "Strada Campiona, Valpolicella Ripasso Classico Superiore DOC",
+          "",
+          "vini"
+        ],
+        [
+          "Contrà del Tono, Valpolicella Classico Superiore DOC",
+          "",
+          "vini"
+        ],
+        [
+          "La Tesa, Recioto della Valpolicella DOCG",
+          "bottiglia da 500 ml",
+          "vini"
+        ],
+        [
+          "Recioto Spumante della Valpolicella DOCG",
+          "",
+          "vini"
+        ],
+        [
+          "Grappa di Recioto della Valpolicella",
+          "",
+          "distillati"
+        ],
+        [
+          "Grappa di Amarone della Valpolicella",
+          "",
+          "distillati"
+        ]
+      ],
+      "pd": {
+        "V-16-0": {
+          "c": [
+            "DOCG"
+          ],
+          "pr": "50,00 €",
+          "d": {
+            "it": "Il cru della cantina, dalla vigna storica tra le marne dell'antica contrada di Villa, che domina la Valle di Negrar. Annata 2016-2017. Corvina gentile, Corvina grossa, Rondinella e Molinara vendemmiate a mano nella seconda metà di settembre e messe ad appassire in cassetta fino a metà gennaio: servono 2,5 kg di uva per una bottiglia. Pigiatura soffice, vinificazione in acciaio con circa 40 giorni sulle bucce e follature a mano; un anno sulle fecce fini, almeno 60 mesi in botti grandi di rovere di Slavonia e 14-18 mesi in bottiglia. Rosso granato intenso; al naso ciliegia e mora nel cioccolato, cacao, frutti di bosco neri, tabacco e miele di castagno; in bocca fresco e sapido, tannino rotondo, liquirizia, pepe nero e spezie, finale ammandorlato molto lungo. Alcol 15,5%, servizio a 18-20 °C.",
+            "en": "The estate's cru, from the historic vineyard on the marl of the old Villa district, overlooking the Negrar valley. 2016-2017 vintage. Corvina Gentile, Corvina Grossa, Rondinella and Molinara are hand-picked in the second half of September and dried in crates until mid-January: 2.5 kg of grapes go into one bottle. Soft pressing, fermentation in steel with about 40 days on the skins and hand punch-downs; one year on the fine lees, at least 60 months in large Slavonian oak casks and 14-18 months in bottle. Deep garnet; cherry and blackberry dipped in chocolate, cocoa, dark berries, tobacco and chestnut honey on the nose; fresh and savoury on the palate, round tannins, liquorice, black pepper and spice, with a very long almond finish. 15.5% ABV, serve at 18-20 °C.",
+            "de": "Die Einzellage des Hauses, aus dem historischen Weinberg auf dem Mergel des alten Ortsteils Villa über dem Negrar-Tal. Jahrgang 2016-2017. Corvina Gentile, Corvina Grossa, Rondinella und Molinara werden in der zweiten Septemberhälfte von Hand gelesen und bis Mitte Januar in Kisten getrocknet: Für eine Flasche braucht es 2,5 kg Trauben. Sanftes Pressen, Gärung im Stahl mit rund 40 Tagen auf den Schalen und Unterstoßen von Hand; ein Jahr auf der Feinhefe, mindestens 60 Monate in großen Fässern aus slawonischer Eiche und 14-18 Monate auf der Flasche. Tiefes Granatrot; in der Nase Kirsche und Brombeere in Schokolade, Kakao, dunkle Beeren, Tabak und Kastanienhonig; am Gaumen frisch und mineralisch, runde Tannine, Lakritz, schwarzer Pfeffer und Gewürze, sehr langer Mandelabgang. 15,5 % Vol., Serviertemperatur 18-20 °C."
+          },
+          "a": {
+            "it": "Con salumi speziati e molto stagionati, brasati di Chianina, selvaggina e filetto di Vitellone Bianco dell'Appennino; con formaggi a lunga stagionatura come Castelmagno, Bitto, Bagoss, Monte Veronese stravecchio e Ragusano; da provare con cioccolato fondente all'80%.",
+            "en": "With spiced, long-aged cured meats, braised Chianina beef, game and fillet of Apennine white veal; with long-aged cheeses such as Castelmagno, Bitto, Bagoss, extra-aged Monte Veronese and Ragusano; worth trying with 80% dark chocolate.",
+            "de": "Zu würziger, lange gereifter Wurst, geschmortem Chianina-Rind, Wild und Filet vom weißen Apennin-Kalb; zu lange gereiftem Käse wie Castelmagno, Bitto, Bagoss, altem Monte Veronese und Ragusano; probieren Sie ihn zu 80-prozentiger Zartbitterschokolade."
+          }
+        },
+        "V-16-1": {
+          "c": [
+            "DOC"
+          ],
+          "pr": "25,00 €",
+          "d": {
+            "it": "Dedicato alla Strada Campiona, tracciata dai Romani, che per secoli ha collegato Villa Quintarelli Ruffo alle proprietà di famiglia tra le valli di Negrar e della Valpantena. Annata 2018. Corvina gentile, Corvina grossa, Rondinella e Molinara vendemmiate a mano con un leggero appassimento di 35-45 giorni; pigiatura soffice, vinificazione in acciaio con leggera criomacerazione e follature a mano. Un anno in acciaio, 24-36 mesi in botti grandi di rovere di Slavonia e almeno 12 mesi in bottiglia. Rosso rubino intenso con riflessi violacei; ciliegia matura e frutti di bosco, note di appassimento; tannino corposo ma rotondo, pepe nero e noce moscata, finale di ciliegia e mandorla con un tocco balsamico e mentolato. Alcol 14%, servizio a 16-18 °C.",
+            "en": "Dedicated to the Strada Campiona, a road laid by the Romans that for centuries linked Villa Quintarelli Ruffo to the family's land between the Negrar and Valpantena valleys. 2018 vintage. Corvina Gentile, Corvina Grossa, Rondinella and Molinara, hand-picked and lightly dried for 35-45 days; soft pressing, fermentation in steel with a light cold maceration and hand punch-downs. One year in steel, 24-36 months in large Slavonian oak casks and at least 12 months in bottle. Deep ruby with violet hints; ripe cherry and berries with notes of dried grapes; full but round tannins, black pepper and nutmeg, and a cherry and almond finish with a balsamic, minty touch. 14% ABV, serve at 16-18 °C.",
+            "de": "Gewidmet der Strada Campiona, einer Römerstraße, die jahrhundertelang die Villa Quintarelli Ruffo mit den Familiengütern zwischen dem Negrar- und dem Valpantena-Tal verband. Jahrgang 2018. Corvina Gentile, Corvina Grossa, Rondinella und Molinara, von Hand gelesen und 35-45 Tage leicht getrocknet; sanftes Pressen, Gärung im Stahl mit leichter Kaltmazeration und Unterstoßen von Hand. Ein Jahr im Stahl, 24-36 Monate in großen Fässern aus slawonischer Eiche und mindestens 12 Monate auf der Flasche. Tiefes Rubinrot mit violetten Reflexen; reife Kirsche und Waldbeeren, Noten getrockneter Trauben; kräftige, aber runde Tannine, schwarzer Pfeffer und Muskatnuss, Abgang mit Kirsche und Mandel und einem balsamisch-minzigen Hauch. 14 % Vol., Serviertemperatur 16-18 °C."
+          },
+          "a": {
+            "it": "Molto versatile: con aperitivi di salumi e formaggi, soppressa e salame, formaggi alpini come Monte Veronese mezzano, Asiago stagionato e Vezzena; con primi al sugo di carne, battute di Chianina o di razza romagnola, crostini toscani e fassona piemontese.",
+            "en": "Very versatile: with cured meat and cheese appetisers, soppressa and salami, Alpine cheeses such as medium-aged Monte Veronese, aged Asiago and Vezzena; with pasta in meat sauce, Chianina or Romagnola beef tartare, Tuscan crostini and Piedmontese Fassona beef.",
+            "de": "Sehr vielseitig: zu Aperitifs mit Wurst und Käse, Soppressa und Salami, Alpenkäse wie mittelaltem Monte Veronese, gereiftem Asiago und Vezzena; zu Pasta mit Fleischsauce, Tatar vom Chianina- oder Romagnola-Rind, toskanischen Crostini und piemontesischem Fassona-Rind."
+          }
+        },
+        "V-16-2": {
+          "c": [
+            "DOC"
+          ],
+          "pr": "15,00 €",
+          "d": {
+            "it": "Prende il nome dalla Contrà del Tono, contrada scomparsa lungo l'antica strada da Villa a Quena, ancora segnata sulla mappa di famiglia del 1746. Annata 2019-2020. Corvina gentile, Corvina grossa, Rondinella e Molinara vendemmiate a mano con un leggero appassimento di 20-30 giorni; pigiatura soffice, vinificazione in acciaio con leggera criomacerazione e follature a mano. Un anno in acciaio, 12-18 mesi in botti grandi di rovere di Slavonia e almeno 12 mesi in bottiglia. Rosso rubino; ciliegia matura e frutti di bosco, pepe nero, chiodi di garofano e un tocco balsamico di rosmarino e timo; in bocca elegante, tannino schietto, sapido e fresco, finale ammandorlato. Alcol 13,5%, servizio a 14-16 °C.",
+            "en": "Named after the Contrà del Tono, a vanished hamlet on the old road from Villa to Quena, still drawn on the family's 1746 map. 2019-2020 vintage. Corvina Gentile, Corvina Grossa, Rondinella and Molinara, hand-picked and lightly dried for 20-30 days; soft pressing, fermentation in steel with a light cold maceration and hand punch-downs. One year in steel, 12-18 months in large Slavonian oak casks and at least 12 months in bottle. Ruby red; ripe cherry and berries, black pepper, cloves and a balsamic hint of rosemary and thyme; elegant on the palate, with frank tannins, savouriness, freshness and an almond finish. 13.5% ABV, serve at 14-16 °C.",
+            "de": "Benannt nach der Contrà del Tono, einem verschwundenen Weiler an der alten Straße von Villa nach Quena, der noch auf der Familienkarte von 1746 verzeichnet ist. Jahrgang 2019-2020. Corvina Gentile, Corvina Grossa, Rondinella und Molinara, von Hand gelesen und 20-30 Tage leicht getrocknet; sanftes Pressen, Gärung im Stahl mit leichter Kaltmazeration und Unterstoßen von Hand. Ein Jahr im Stahl, 12-18 Monate in großen Fässern aus slawonischer Eiche und mindestens 12 Monate auf der Flasche. Rubinrot; reife Kirsche und Waldbeeren, schwarzer Pfeffer, Nelke und ein balsamischer Hauch von Rosmarin und Thymian; am Gaumen elegant, mit geradlinigen Tanninen, Mineralität, Frische und Mandelabgang. 13,5 % Vol., Serviertemperatur 14-16 °C."
+          },
+          "a": {
+            "it": "Con salumi speziati veneti e formaggi vaccini di media stagionatura; con primi a base di carni bianche e sughi rossi e con zuppe venete e toscane di cereali e legumi.",
+            "en": "With spiced Venetian cured meats and medium-aged cow's milk cheeses; with pasta dishes based on white meat or tomato sauces, and with Venetian and Tuscan grain and pulse soups.",
+            "de": "Zu würziger venezianischer Wurst und mittelaltem Kuhmilchkäse; zu Pasta mit hellem Fleisch oder Tomatensauce und zu venezianischen und toskanischen Suppen mit Getreide und Hülsenfrüchten."
+          }
+        },
+        "V-16-3": {
+          "c": [
+            "DOCG"
+          ],
+          "pr": "28,00 €",
+          "d": {
+            "it": "Il Recioto, l'antico vino dolce della Valpolicella: il nome viene da \"recia\", orecchia in dialetto veronese, cioè la parte alta del grappolo con gli acini più ricchi di zucchero. Annata 2022. Corvina gentile, Corvina grossa, Rondinella e Molinara vendemmiate a mano e messe ad appassire in cassetta fino a metà gennaio (2,5 kg di uva per bottiglia); pigiatura soffice, vinificazione in acciaio con circa 40 giorni sulle bucce, poi 18-24 mesi in grandi botti di rovere di Slavonia e almeno 12 mesi in bottiglia. Rosso porpora molto carico; ciliegia sotto spirito, frutti di bosco e lampone; in bocca vellutato con una nota sapida, pepe nero, noce moscata, frutti neri e prugna secca, lunga persistenza. Alcol 12,5%, servizio a 14-16 °C.",
+            "en": "Recioto, the old sweet wine of Valpolicella: the name comes from \"recia\", Veronese dialect for ear, meaning the top of the bunch where the berries are richest in sugar. 2022 vintage. Corvina Gentile, Corvina Grossa, Rondinella and Molinara, hand-picked and dried in crates until mid-January (2.5 kg of grapes per bottle); soft pressing, fermentation in steel with about 40 days on the skins, then 18-24 months in large Slavonian oak casks and at least 12 months in bottle. Deep purple; cherry in spirit, berries and raspberry; velvety on the palate with a savoury note, black pepper, nutmeg, dark fruit and dried plum, and great length. 12.5% ABV, serve at 14-16 °C.",
+            "de": "Recioto, der alte Süßwein des Valpolicella: Der Name kommt von \"recia\", veronesisch für Ohr, also den oberen Teil der Traube mit den zuckerreichsten Beeren. Jahrgang 2022. Corvina Gentile, Corvina Grossa, Rondinella und Molinara, von Hand gelesen und bis Mitte Januar in Kisten getrocknet (2,5 kg Trauben pro Flasche); sanftes Pressen, Gärung im Stahl mit rund 40 Tagen auf den Schalen, dann 18-24 Monate in großen Fässern aus slawonischer Eiche und mindestens 12 Monate auf der Flasche. Tiefes Purpurrot; Kirsche in Alkohol, Waldbeeren und Himbeere; am Gaumen samtig mit salziger Note, schwarzem Pfeffer, Muskatnuss, dunklen Früchten und Trockenpflaume, sehr anhaltend. 12,5 % Vol., Serviertemperatur 14-16 °C."
+          },
+          "a": {
+            "it": "Con pandoro e panettone, cantucci, dolci secchi, mousse di cioccolato e frutti di bosco, cheesecake; da provare con formaggi semistagionati ed erborinati.",
+            "en": "With pandoro and panettone, cantucci, dry pastries, chocolate and berry mousse, cheesecake; worth trying with semi-aged and blue cheeses.",
+            "de": "Zu Pandoro und Panettone, Cantucci, trockenem Gebäck, Schokoladen- und Beerenmousse, Käsekuchen; probieren Sie ihn zu halbgereiftem Käse und Blauschimmelkäse."
+          }
+        },
+        "V-16-4": {
+          "c": [
+            "DOCG"
+          ],
+          "pr": "30,00 €",
+          "d": {
+            "it": "Recioto spumante dolce della Valle di Negrar. Annata 2022. Corvina, Corvina grossa, Rondinella e Molinara vendemmiate a mano e appassite in cassetta fino a metà gennaio; pigiatura soffice, vinificazione in acciaio con circa 40 giorni sulle bucce e follature a mano, 18-24 mesi in botti grandi di rovere, poi spumantizzazione con metodo Charmat in autoclave per 4-6 mesi. Rosso porpora molto carico; ciliegia sotto spirito, frutti di bosco e lampone; in bocca dolce, setoso, fresco ed elegante, con perlage fine e morbido. Alcol 12%, servizio a 14-16 °C.",
+            "en": "A sweet sparkling Recioto from the Negrar valley. 2022 vintage. Corvina, Corvina Grossa, Rondinella and Molinara, hand-picked and dried in crates until mid-January; soft pressing, fermentation in steel with about 40 days on the skins and hand punch-downs, 18-24 months in large oak casks, then made sparkling by the Charmat method in pressure tanks for 4-6 months. Deep purple; cherry in spirit, berries and raspberry; sweet, silky, fresh and elegant on the palate, with fine, soft bubbles. 12% ABV, serve at 14-16 °C.",
+            "de": "Süßer Recioto-Schaumwein aus dem Negrar-Tal. Jahrgang 2022. Corvina, Corvina Grossa, Rondinella und Molinara, von Hand gelesen und bis Mitte Januar in Kisten getrocknet; sanftes Pressen, Gärung im Stahl mit rund 40 Tagen auf den Schalen und Unterstoßen von Hand, 18-24 Monate in großen Eichenfässern, dann Versektung nach der Charmat-Methode im Drucktank für 4-6 Monate. Tiefes Purpurrot; Kirsche in Alkohol, Waldbeeren und Himbeere; am Gaumen süß, seidig, frisch und elegant, mit feiner, weicher Perlage. 12 % Vol., Serviertemperatur 14-16 °C."
+          },
+          "a": {
+            "it": "Con pandoro e panettone, cantucci, dolci secchi, mousse di cioccolato e frutti di bosco, cheesecake e dessert di alta pasticceria.",
+            "en": "With pandoro and panettone, cantucci, dry pastries, chocolate and berry mousse, cheesecake and fine patisserie.",
+            "de": "Zu Pandoro und Panettone, Cantucci, trockenem Gebäck, Schokoladen- und Beerenmousse, Käsekuchen und feiner Patisserie."
+          }
+        },
+        "V-16-5": {
+          "c": [],
+          "pr": "25,00 €",
+          "d": {
+            "it": "Dalle vinacce del Recioto: dopo l'appassimento le uve vengono torchiate con l'antico metodo a pressione verticale, le vinacce ancora umide fermentano leggermente in distilleria e vengono distillate in modo discontinuo in alambicco di rame. Limpida, brillante e incolore. Al naso delicata e piacevole, con miele di acacia e mughetto, pesca noce, albicocca passita, frutta esotica e pera Williams; nel retrogusto pepe bianco e anice stellato. In bocca calda ma non pungente, avvolgente e rotonda, secca con una piacevole morbidezza.",
+            "en": "Made from Recioto pomace: after drying, the grapes are pressed with the old vertical press, and the still-moist pomace ferments lightly at the distillery before batch distillation in copper stills. Clear, bright and colourless. Delicate and pleasant on the nose, with acacia honey and lily of the valley, nectarine, dried apricot, tropical fruit and Williams pear; white pepper and star anise on the finish. Warm but not harsh on the palate, enveloping and round, dry with a pleasant softness.",
+            "de": "Aus dem Trester des Recioto: Nach dem Trocknen werden die Trauben mit der alten vertikalen Presse gepresst, der noch feuchte Trester gärt in der Brennerei leicht an und wird diskontinuierlich in kupfernen Brennblasen destilliert. Klar, brillant und farblos. In der Nase zart und angenehm, mit Akazienhonig und Maiglöckchen, Nektarine, getrockneter Aprikose, exotischen Früchten und Williamsbirne; im Abgang weißer Pfeffer und Sternanis. Am Gaumen warm, aber nicht scharf, umhüllend und rund, trocken mit angenehmer Weichheit."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-16-6": {
+          "c": [],
+          "pr": "30,00 €",
+          "d": {
+            "it": "Dalle vinacce dell'Amarone, ottenute torchiando grappoli appassiti: fermentano in modo controllato in distilleria e vengono distillate in alambicco di rame, poi affinate in botte. Limpida e brillante, color ambra con tonalità caramello, di bel corpo. Al naso complessa e persistente, con le tostature del legno: vaniglia, caramello e caffè, liquirizia, biscotti al burro, cannella e pepe nero, poi miele di castagno, muschio e sottobosco. In bocca franca e pulita, morbida e di ampia complessità aromatica, con una leggera pungenza nel retrogusto.",
+            "en": "Made from Amarone pomace, obtained by pressing dried grapes: it ferments under control at the distillery, is distilled in copper stills and then aged in cask. Clear and bright, amber with caramel tones and good body. Complex and persistent on the nose, with toasty wood notes: vanilla, caramel and coffee, liquorice, butter biscuits, cinnamon and black pepper, then chestnut honey, moss and undergrowth. Clean and frank on the palate, soft and aromatically complex, with a slight warmth on the finish.",
+            "de": "Aus dem Trester des Amarone, gewonnen durch Pressen getrockneter Trauben: Er gärt kontrolliert in der Brennerei, wird in kupfernen Brennblasen destilliert und im Fass gereift. Klar und brillant, bernsteinfarben mit Karamelltönen und schönem Körper. In der Nase komplex und anhaltend, mit Röstnoten vom Holz: Vanille, Karamell und Kaffee, Lakritz, Butterkekse, Zimt und schwarzer Pfeffer, dann Kastanienhonig, Moos und Unterholz. Am Gaumen klar und sauber, weich und aromatisch vielschichtig, mit leichter Schärfe im Abgang."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        }
+      },
+      "fonti": [
+        "https://neposvillae.it/vini-valpolicella/",
+        "https://neposvillae.it/distillati/",
+        "https://neposvillae.it/cantina-valpolicella/",
+        "https://neposvillae.it/vigneto/"
+      ]
     }
   ],
   "IMG": {
@@ -6612,6 +6811,14 @@ window.VETRINE = {
     "prod-V-15-2": "https://www.vozzivini.it/web/wp-content/uploads/2023/09/bianco.jpg",
     "prod-V-15-3": "https://www.vozzivini.it/web/wp-content/uploads/2025/05/vino-rose-vozzi-vini-lucano-basilicata-sangiovese-uve-bio-made-in-italy-online-acquista.jpg",
     "prod-V-15-4": "https://www.vozzivini.it/web/wp-content/uploads/2023/10/vino-rosso-tavola.jpg",
-    "prod-V-15-5": "https://www.vozzivini.it/web/wp-content/uploads/2024/11/box-tris-vino-biologico-guarnaccino-merlot-sangiovese-rosso-Viognier-e-Trebbiano-bianco-vozzi-vini-lucani-basilicata-italia-made-in-italy-wine.jpg"
+    "prod-V-15-5": "https://www.vozzivini.it/web/wp-content/uploads/2024/11/box-tris-vino-biologico-guarnaccino-merlot-sangiovese-rosso-Viognier-e-Trebbiano-bianco-vozzi-vini-lucani-basilicata-italia-made-in-italy-wine.jpg",
+    "logo-V-16": "https://neposvillae.it/wp-content/uploads/2021/06/Logo-Nepos-VIllae-bianco.png",
+    "prod-V-16-0": "https://neposvillae.it/wp-content/uploads/2020/08/Amarone-della-Valpolicella-Classsico-DOCG.jpg",
+    "prod-V-16-1": "https://neposvillae.it/wp-content/uploads/2021/06/Valpolicella-Classico-Superiore-DOC.jpg",
+    "prod-V-16-2": "https://neposvillae.it/wp-content/uploads/2021/06/Valpolicella-Classico-Superiore-Ripasso-DOC.jpg",
+    "prod-V-16-3": "https://neposvillae.it/wp-content/uploads/2023/02/RECIOTO-LA-TESA.jpg",
+    "prod-V-16-4": "https://neposvillae.it/wp-content/uploads/2026/02/recioto-della-valpolicella-new.png",
+    "prod-V-16-5": "https://neposvillae.it/wp-content/uploads/2026/02/grappa-al-recioto-new.png",
+    "prod-V-16-6": "https://neposvillae.it/wp-content/uploads/2026/02/grappa-di-amarone-della-valpolicella-new.png"
   }
 };
