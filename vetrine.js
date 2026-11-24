@@ -8378,6 +8378,190 @@ window.VETRINE = {
         "https://lamoscabiancabio.it/faq/",
         "https://lamoscabiancabio.it/contatti/"
       ]
+    },
+    {
+      "id": "V-23",
+      "n": "Tenute Fascetto",
+      "cat": "olio",
+      "reg": "Sicilia",
+      "city": "Catania (CT)",
+      "lat": 37.52,
+      "lng": 15.07,
+      "y": null,
+      "certs": [],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "d": {
+        "it": "Azienda agricola siciliana di Nicola Fascetto, ai piedi dell'Etna, dove i suoli vulcanici, il sole mediterraneo e il microclima danno alle olive un'identità precisa. Nella Sicilia contadina l'olivo è da generazioni presenza, lavoro e memoria; da questa tradizione nasce un olio extravergine 100% italiano, prodotto in quantità limitata. L'obiettivo è lasciare parlare l'oliva: estrazione a freddo con la pasta sotto i 27 °C per preservare profumi e polifenoli, conservazione in silos d'acciaio inox sotto gas alimentare e a temperatura controllata 24 ore su 24, imbottigliamento in vetro scuro. Oltre all'extravergine in più formati, dalla bottiglia mignon da 100 ml alla latta da 3 litri, producono la linea Gli Aromatizzati, con peperoncino, tartufo e salmoriglio.",
+        "en": "A Sicilian farm owned by Nicola Fascetto at the foot of Mount Etna, where volcanic soils, Mediterranean sun and the local microclimate give the olives a distinct identity. In rural Sicily the olive tree has for generations meant presence, work and memory; from this tradition comes a 100% Italian extra virgin olive oil, produced in limited quantities. The aim is to let the olive speak: cold extraction with the paste kept below 27 °C to preserve aromas and polyphenols, storage in stainless steel silos under food-grade gas at controlled temperature around the clock, and bottling in dark glass. Besides the extra virgin oil in several sizes, from a 100 ml miniature to a 3 litre tin, they make the Gli Aromatizzati line with chilli, truffle and salmoriglio.",
+        "de": "Sizilianischer Landwirtschaftsbetrieb von Nicola Fascetto am Fuß des Ätna, wo vulkanische Böden, mediterrane Sonne und das Mikroklima den Oliven eine unverwechselbare Identität geben. Im bäuerlichen Sizilien steht der Olivenbaum seit Generationen für Präsenz, Arbeit und Erinnerung; aus dieser Tradition entsteht ein 100% italienisches natives Olivenöl extra in begrenzter Menge. Ziel ist es, die Olive sprechen zu lassen: Kaltextraktion mit einer Pastentemperatur unter 27 °C, um Duft und Polyphenole zu bewahren, Lagerung in Edelstahlsilos unter Schutzgas bei rund um die Uhr kontrollierter Temperatur und Abfüllung in dunkles Glas. Neben dem Olivenöl in mehreren Größen, von der 100-ml-Miniatur bis zum 3-Liter-Kanister, gibt es die Linie Gli Aromatizzati mit Chili, Trüffel und Salmoriglio."
+      },
+      "sub": [
+        {
+          "k": "evo",
+          "cat": "olio",
+          "n": {
+            "it": "Olio extravergine",
+            "en": "Extra virgin olive oil",
+            "de": "Natives Olivenöl extra"
+          }
+        },
+        {
+          "k": "aromatizzati",
+          "cat": "olio",
+          "n": {
+            "it": "Gli Aromatizzati",
+            "en": "Flavoured oils",
+            "de": "Aromatisierte Öle"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Olio extravergine di oliva",
+          "bottiglia da 500 ml",
+          "evo"
+        ],
+        [
+          "Olio extravergine di oliva",
+          "bottiglia da 250 ml",
+          "evo"
+        ],
+        [
+          "Olio extravergine di oliva",
+          "bottiglia da 100 ml",
+          "evo"
+        ],
+        [
+          "Olio extravergine di oliva in latta",
+          "latta da 3 litri",
+          "evo"
+        ],
+        [
+          "Gli Aromatizzati, Peperoncino",
+          "bottiglia da 100 ml · bottiglia da 250 ml",
+          "aromatizzati"
+        ],
+        [
+          "Gli Aromatizzati, Tartufo",
+          "bottiglia da 100 ml · bottiglia da 250 ml",
+          "aromatizzati"
+        ],
+        [
+          "Gli Aromatizzati, Salmoriglio",
+          "bottiglia da 100 ml · bottiglia da 250 ml",
+          "aromatizzati"
+        ]
+      ],
+      "pd": {
+        "V-23-0": {
+          "c": [],
+          "pr": "18,00 €",
+          "d": {
+            "it": "Olio extravergine di oliva 100% italiano dalle campagne ai piedi dell'Etna, su suoli vulcanici. Estratto a freddo con soli procedimenti meccanici, mantenendo la pasta di olive sotto i 27 °C per preservare profumi, aromi e polifenoli; filtrato e conservato in silos d'acciaio inox sotto gas alimentare a temperatura controllata, poi imbottigliato in vetro scuro. Carattere fruttato e profumato, equilibrato e con personalità. Prodotto in quantità limitata.",
+            "en": "100% Italian extra virgin olive oil from the volcanic soils at the foot of Mount Etna. Cold extracted by mechanical means only, keeping the olive paste below 27 °C to preserve aromas, flavour and polyphenols; filtered and stored in stainless steel silos under food-grade gas at controlled temperature, then bottled in dark glass. Fruity and fragrant, balanced and full of character. Produced in limited quantities.",
+            "de": "100% italienisches natives Olivenöl extra von den vulkanischen Böden am Fuß des Ätna. Ausschließlich mechanisch kalt gewonnen, die Olivenpaste bleibt unter 27 °C, damit Duft, Aroma und Polyphenole erhalten bleiben; gefiltert und in Edelstahlsilos unter Schutzgas bei kontrollierter Temperatur gelagert, dann in dunkles Glas abgefüllt. Fruchtig und duftend, ausgewogen und charaktervoll. In begrenzter Menge erzeugt."
+          },
+          "a": {
+            "it": "A crudo su verdure, zuppe, carni, bruschette e primi piatti; poche gocce su una fetta di pane tostato. Conservare in luogo fresco, al riparo da luce e calore.",
+            "en": "Raw over vegetables, soups, meat, bruschetta and pasta dishes; a few drops on a slice of toasted bread. Store in a cool place away from light and heat.",
+            "de": "Roh über Gemüse, Suppen, Fleisch, Bruschetta und Pasta; ein paar Tropfen auf geröstetem Brot. Kühl, vor Licht und Wärme geschützt lagern."
+          }
+        },
+        "V-23-1": {
+          "c": [],
+          "pr": "12,00 €",
+          "d": {
+            "it": "Olio extravergine di oliva 100% italiano dalle campagne ai piedi dell'Etna, su suoli vulcanici. Estratto a freddo con soli procedimenti meccanici, mantenendo la pasta di olive sotto i 27 °C per preservare profumi, aromi e polifenoli; filtrato e conservato in silos d'acciaio inox sotto gas alimentare a temperatura controllata, poi imbottigliato in vetro scuro. Carattere fruttato e profumato, equilibrato e con personalità. Prodotto in quantità limitata.",
+            "en": "100% Italian extra virgin olive oil from the volcanic soils at the foot of Mount Etna. Cold extracted by mechanical means only, keeping the olive paste below 27 °C to preserve aromas, flavour and polyphenols; filtered and stored in stainless steel silos under food-grade gas at controlled temperature, then bottled in dark glass. Fruity and fragrant, balanced and full of character. Produced in limited quantities.",
+            "de": "100% italienisches natives Olivenöl extra von den vulkanischen Böden am Fuß des Ätna. Ausschließlich mechanisch kalt gewonnen, die Olivenpaste bleibt unter 27 °C, damit Duft, Aroma und Polyphenole erhalten bleiben; gefiltert und in Edelstahlsilos unter Schutzgas bei kontrollierter Temperatur gelagert, dann in dunkles Glas abgefüllt. Fruchtig und duftend, ausgewogen und charaktervoll. In begrenzter Menge erzeugt."
+          },
+          "a": {
+            "it": "A crudo su verdure, zuppe, carni, bruschette e primi piatti; poche gocce su una fetta di pane tostato. Conservare in luogo fresco, al riparo da luce e calore.",
+            "en": "Raw over vegetables, soups, meat, bruschetta and pasta dishes; a few drops on a slice of toasted bread. Store in a cool place away from light and heat.",
+            "de": "Roh über Gemüse, Suppen, Fleisch, Bruschetta und Pasta; ein paar Tropfen auf geröstetem Brot. Kühl, vor Licht und Wärme geschützt lagern."
+          }
+        },
+        "V-23-2": {
+          "c": [],
+          "pr": "5,00 €",
+          "d": {
+            "it": "Olio extravergine di oliva 100% italiano dalle campagne ai piedi dell'Etna, su suoli vulcanici. Estratto a freddo con soli procedimenti meccanici, mantenendo la pasta di olive sotto i 27 °C per preservare profumi, aromi e polifenoli; filtrato e conservato in silos d'acciaio inox sotto gas alimentare a temperatura controllata, poi imbottigliato in vetro scuro. Carattere fruttato e profumato, equilibrato e con personalità. Prodotto in quantità limitata. Formato mignon, adatto anche a degustazioni e cortesie per l'ospitalità.",
+            "en": "100% Italian extra virgin olive oil from the volcanic soils at the foot of Mount Etna. Cold extracted by mechanical means only, keeping the olive paste below 27 °C to preserve aromas, flavour and polyphenols; filtered and stored in stainless steel silos under food-grade gas at controlled temperature, then bottled in dark glass. Fruity and fragrant, balanced and full of character. Produced in limited quantities. A miniature size, also suited to tastings and hospitality amenities.",
+            "de": "100% italienisches natives Olivenöl extra von den vulkanischen Böden am Fuß des Ätna. Ausschließlich mechanisch kalt gewonnen, die Olivenpaste bleibt unter 27 °C, damit Duft, Aroma und Polyphenole erhalten bleiben; gefiltert und in Edelstahlsilos unter Schutzgas bei kontrollierter Temperatur gelagert, dann in dunkles Glas abgefüllt. Fruchtig und duftend, ausgewogen und charaktervoll. In begrenzter Menge erzeugt. Miniaturformat, auch für Verkostungen und Gastgeschenke geeignet."
+          },
+          "a": {
+            "it": "A crudo su verdure, zuppe, carni, bruschette e primi piatti; poche gocce su una fetta di pane tostato. Conservare in luogo fresco, al riparo da luce e calore.",
+            "en": "Raw over vegetables, soups, meat, bruschetta and pasta dishes; a few drops on a slice of toasted bread. Store in a cool place away from light and heat.",
+            "de": "Roh über Gemüse, Suppen, Fleisch, Bruschetta und Pasta; ein paar Tropfen auf geröstetem Brot. Kühl, vor Licht und Wärme geschützt lagern."
+          }
+        },
+        "V-23-3": {
+          "c": [],
+          "pr": "55,00 €",
+          "d": {
+            "it": "Olio extravergine di oliva 100% italiano dalle campagne ai piedi dell'Etna, su suoli vulcanici. Estratto a freddo con soli procedimenti meccanici, mantenendo la pasta di olive sotto i 27 °C per preservare profumi, aromi e polifenoli; filtrato e conservato in silos d'acciaio inox sotto gas alimentare a temperatura controllata, poi imbottigliato in vetro scuro. Carattere fruttato e profumato, equilibrato e con personalità. Prodotto in quantità limitata. Latta da 3 litri per la dispensa e la ristorazione.",
+            "en": "100% Italian extra virgin olive oil from the volcanic soils at the foot of Mount Etna. Cold extracted by mechanical means only, keeping the olive paste below 27 °C to preserve aromas, flavour and polyphenols; filtered and stored in stainless steel silos under food-grade gas at controlled temperature, then bottled in dark glass. Fruity and fragrant, balanced and full of character. Produced in limited quantities. A 3 litre tin for the pantry and food service.",
+            "de": "100% italienisches natives Olivenöl extra von den vulkanischen Böden am Fuß des Ätna. Ausschließlich mechanisch kalt gewonnen, die Olivenpaste bleibt unter 27 °C, damit Duft, Aroma und Polyphenole erhalten bleiben; gefiltert und in Edelstahlsilos unter Schutzgas bei kontrollierter Temperatur gelagert, dann in dunkles Glas abgefüllt. Fruchtig und duftend, ausgewogen und charaktervoll. In begrenzter Menge erzeugt. 3-Liter-Kanister für Vorrat und Gastronomie."
+          },
+          "a": {
+            "it": "A crudo su verdure, zuppe, carni, bruschette e primi piatti; poche gocce su una fetta di pane tostato. Conservare in luogo fresco, al riparo da luce e calore.",
+            "en": "Raw over vegetables, soups, meat, bruschetta and pasta dishes; a few drops on a slice of toasted bread. Store in a cool place away from light and heat.",
+            "de": "Roh über Gemüse, Suppen, Fleisch, Bruschetta und Pasta; ein paar Tropfen auf geröstetem Brot. Kühl, vor Licht und Wärme geschützt lagern."
+          }
+        },
+        "V-23-4": {
+          "c": [],
+          "pr": "100 ml 6,00 € · 250 ml 13,00 €",
+          "d": {
+            "it": "Della linea Gli Aromatizzati: condimento a base del loro olio extravergine di oliva (98%) con il 2% di aroma naturale. Unisce la base fruttata dell'extravergine al carattere deciso del peperoncino: piccante equilibrato e progressivo, che non copre le note dell'olio. Ingredienti: olio extravergine di oliva 98%, aroma naturale peperoncino 2%.",
+            "en": "From the Gli Aromatizzati line: a dressing based on their extra virgin olive oil (98%) with 2% natural flavouring. It combines the fruity base of the oil with the bold character of chilli: a balanced, building heat that does not mask the oil. Ingredients: extra virgin olive oil 98%, natural chilli flavouring 2%.",
+            "de": "Aus der Linie Gli Aromatizzati: Würzöl auf Basis ihres nativen Olivenöls extra (98%) mit 2% natürlichem Aroma. Verbindet die fruchtige Basis des Öls mit dem kräftigen Charakter von Chili: ausgewogene, langsam ansteigende Schärfe, die das Öl nicht überdeckt. Zutaten: natives Olivenöl extra 98%, natürliches Chiliaroma 2%."
+          },
+          "a": {
+            "it": "Poche gocce a crudo su pasta, pizza, legumi, carni alla griglia e verdure. Conservare in luogo fresco, al riparo da luce e calore.",
+            "en": "A few raw drops on pasta, pizza, pulses, grilled meat and vegetables. Store in a cool place away from light and heat.",
+            "de": "Ein paar Tropfen roh auf Pasta, Pizza, Hülsenfrüchte, gegrilltes Fleisch und Gemüse. Kühl, vor Licht und Wärme geschützt lagern."
+          }
+        },
+        "V-23-5": {
+          "c": [],
+          "pr": "100 ml 6,00 € · 250 ml 13,00 €",
+          "d": {
+            "it": "Della linea Gli Aromatizzati: condimento a base del loro olio extravergine di oliva (98%) con il 2% di aroma naturale. La rotondità dell'extravergine incontra l'aroma avvolgente e persistente del tartufo, per un condimento elegante e immediato. Ingredienti: olio extravergine di oliva 98%, aroma naturale tartufo 2%.",
+            "en": "From the Gli Aromatizzati line: a dressing based on their extra virgin olive oil (98%) with 2% natural flavouring. The roundness of the oil meets the rich, lingering aroma of truffle, for an elegant, ready-to-use dressing. Ingredients: extra virgin olive oil 98%, natural truffle flavouring 2%.",
+            "de": "Aus der Linie Gli Aromatizzati: Würzöl auf Basis ihres nativen Olivenöls extra (98%) mit 2% natürlichem Aroma. Die Rundheit des Öls trifft auf das umhüllende, anhaltende Trüffelaroma: ein elegantes, sofort einsetzbares Würzöl. Zutaten: natives Olivenöl extra 98%, natürliches Trüffelaroma 2%."
+          },
+          "a": {
+            "it": "A crudo e a filo, per non sovrastare, su risotti, uova, tagliatelle, carni bianche, patate al forno e formaggi. Conservare in luogo fresco, al riparo da luce e calore.",
+            "en": "Drizzle raw and sparingly, so as not to overpower, over risotto, eggs, tagliatelle, white meat, roast potatoes and cheese. Store in a cool place away from light and heat.",
+            "de": "Roh und sparsam darüberträufeln, um nicht zu überdecken: auf Risotto, Eier, Tagliatelle, helles Fleisch, Ofenkartoffeln und Käse. Kühl, vor Licht und Wärme geschützt lagern."
+          }
+        },
+        "V-23-6": {
+          "c": [],
+          "pr": "100 ml 6,00 € · 250 ml 13,00 €",
+          "d": {
+            "it": "Della linea Gli Aromatizzati: condimento a base del loro olio extravergine di oliva (98%) con il 2% di aroma naturale. Ispirato al salmoriglio, la ricetta mediterranea con erbe aromatiche, aglio e limone: fresco, profumato e sapido, il condimento classico di carne e pesce alla griglia, pronto all'uso. Ingredienti: olio extravergine di oliva 98%, aroma naturale salmoriglio 2% (limone, origano, aglio).",
+            "en": "From the Gli Aromatizzati line: a dressing based on their extra virgin olive oil (98%) with 2% natural flavouring. Inspired by salmoriglio, the Mediterranean recipe with herbs, garlic and lemon: fresh, fragrant and savoury, the classic dressing for grilled meat and fish, ready to use. Ingredients: extra virgin olive oil 98%, natural salmoriglio flavouring 2% (lemon, oregano, garlic).",
+            "de": "Aus der Linie Gli Aromatizzati: Würzöl auf Basis ihres nativen Olivenöls extra (98%) mit 2% natürlichem Aroma. Inspiriert vom Salmoriglio, dem mediterranen Rezept mit Kräutern, Knoblauch und Zitrone: frisch, duftend und würzig, das klassische Dressing für gegrilltes Fleisch und Fisch, gebrauchsfertig. Zutaten: natives Olivenöl extra 98%, natürliches Salmoriglio-Aroma 2% (Zitrone, Oregano, Knoblauch)."
+          },
+          "a": {
+            "it": "Su carne e pesce alla griglia, verdure arrostite, patate, insalate e pane bruschettato. Conservare in luogo fresco, al riparo da luce e calore.",
+            "en": "On grilled meat and fish, roast vegetables, potatoes, salads and toasted bread. Store in a cool place away from light and heat.",
+            "de": "Zu gegrilltem Fleisch und Fisch, Ofengemüse, Kartoffeln, Salaten und geröstetem Brot. Kühl, vor Licht und Wärme geschützt lagern."
+          }
+        }
+      },
+      "fonti": [
+        "https://tenutefascetto.it/#shop",
+        "https://tenutefascetto.it/#chi-siamo",
+        "https://tenutefascetto.it/#qualita",
+        "https://tenutefascetto.it/prodotto/olio-extra-vergine-di-oliva/"
+      ]
     }
   ],
   "IMG": {
@@ -8726,6 +8910,14 @@ window.VETRINE = {
     "prod-V-22-8": "https://lamoscabiancabio.it/wp-content/uploads/FESTINA-LENTE-3.jpeg",
     "prod-V-22-9": "https://lamoscabiancabio.it/wp-content/uploads/sursum-coda-2026-3.jpeg",
     "prod-V-22-10": "https://lamoscabiancabio.it/wp-content/uploads/grappa-gava.jpg",
-    "prod-V-22-11": "https://lamoscabiancabio.it/wp-content/uploads/grappa-rus-du-sul-500.jpeg"
+    "prod-V-22-11": "https://lamoscabiancabio.it/wp-content/uploads/grappa-rus-du-sul-500.jpeg",
+    "logo-V-23": "https://tenutefascetto.it/wp-content/uploads/2026/10/TenuteFascetto_logo_verde72dpi.png",
+    "prod-V-23-0": "https://tenutefascetto.it/wp-content/uploads/2026/10/olio_50cl.png",
+    "prod-V-23-1": "https://tenutefascetto.it/wp-content/uploads/2026/10/olio_25cl.png",
+    "prod-V-23-2": "https://tenutefascetto.it/wp-content/uploads/2026/10/olio_10cl.png",
+    "prod-V-23-3": "https://tenutefascetto.it/wp-content/uploads/2026/10/latta_3litri_tenutefascetto.jpg",
+    "prod-V-23-4": "https://tenutefascetto.it/wp-content/uploads/2026/10/peperoncino_25cl.png",
+    "prod-V-23-5": "https://tenutefascetto.it/wp-content/uploads/2026/10/tartufo_25cl.png",
+    "prod-V-23-6": "https://tenutefascetto.it/wp-content/uploads/2026/10/salmoriglio_25cl.png"
   }
 };
