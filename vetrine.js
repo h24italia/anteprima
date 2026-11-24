@@ -3,7 +3,7 @@
    Campi: id, n (nome), cat (vino, olio, pasta, formaggi, salumi, dolci, conserve, caffe, liquori, misti),
    reg (regione), city, lat, lng, y (anno di fondazione o null), certs (DOP, DOC, DOCG, IGP, IGT, Bio),
    exp (Paesi in cui esporta: DE AT CH NL BE FR DK SE PL ES), lg (lingue: it en de fr es), moq (cartoni o null),
-   d (storia in it, en, de), p (prodotti: [nome, formato, sottocategoria facoltativa]), pd (schede prodotto, chiave "ID-indice", con pr = prezzo al pubblico),
+   d (storia in it, en, de), p (prodotti: [nome, formato, sottocategoria facoltativa]), pd (schede prodotto, chiave "ID-indice", con pr = prezzo al pubblico; prl = etichetta del prezzo in it, en, de, facoltativa, da usare quando pr non è il prezzo al pubblico, es. listino Ho.Re.Ca.),
    sub (sottocategorie cliccabili nella vetrina: [{k, cat, n:{it,en,de}}], facoltativo), fonti (link usati).
    REGOLA SOTTOCATEGORIE: ogni sottocategoria ha "cat" = padiglione (vino, olio, liquori, ...). La vetrina compare
    automaticamente in tutti quei padiglioni, e aprendola da un padiglione si apre già sulla sottocategoria giusta.
@@ -1945,12 +1945,12 @@ window.VETRINE = {
         ],
         [
           "Crema di Aglione della Valdichiana",
-          "vasetto",
+          "vasetto da 100 g",
           "aglione"
         ],
         [
           "Sugo all'Aglione della Valdichiana",
-          "vasetto",
+          "vasetto da 200 g",
           "aglione"
         ],
         [
@@ -1985,7 +1985,12 @@ window.VETRINE = {
           "c": [
             "IGP"
           ],
-          "pr": "9,00 €",
+          "pr": "6,50 € Ho.Re.Ca. · 78,00 € (cartone da 12)",
+          "prl": {
+            "it": "Prezzo",
+            "en": "Price",
+            "de": "Preis"
+          },
           "d": {
             "it": "Olio extravergine di oliva toscano IGP da olivi secolari della Valdichiana. Sentori erbacei e di oliva, note di mandorla e ortaggi freschi; in bocca amaro lieve e piccante medio, con sensazioni vegetali.",
             "en": "Tuscan IGP extra virgin olive oil from century-old olive trees in the Valdichiana. Grassy and olive aromas with notes of almond and fresh vegetables; on the palate a light bitterness and medium pungency, with green notes.",
@@ -2017,7 +2022,12 @@ window.VETRINE = {
           "c": [
             "IGP"
           ],
-          "pr": "18,00 €",
+          "pr": "11,50 € Ho.Re.Ca. · 138,00 € (cartone da 12)",
+          "prl": {
+            "it": "Prezzo",
+            "en": "Price",
+            "de": "Preis"
+          },
           "d": {
             "it": "Olio extravergine di oliva toscano IGP da olivi secolari della Valdichiana. Sentori erbacei e di oliva, note di mandorla e ortaggi freschi; in bocca amaro lieve e piccante medio, con sensazioni vegetali.",
             "en": "Tuscan IGP extra virgin olive oil from century-old olive trees in the Valdichiana. Grassy and olive aromas with notes of almond and fresh vegetables; on the palate a light bitterness and medium pungency, with green notes.",
@@ -2049,7 +2059,12 @@ window.VETRINE = {
           "c": [
             "IGP"
           ],
-          "pr": "22,00 €",
+          "pr": "15,00 € Ho.Re.Ca. · 90,00 € (cartone da 6)",
+          "prl": {
+            "it": "Prezzo",
+            "en": "Price",
+            "de": "Preis"
+          },
           "d": {
             "it": "Olio extravergine di oliva toscano IGP da olivi secolari della Valdichiana. Sentori erbacei e di oliva, note di mandorla e ortaggi freschi; in bocca amaro lieve e piccante medio, con sensazioni vegetali.",
             "en": "Tuscan IGP extra virgin olive oil from century-old olive trees in the Valdichiana. Grassy and olive aromas with notes of almond and fresh vegetables; on the palate a light bitterness and medium pungency, with green notes.",
@@ -2065,7 +2080,12 @@ window.VETRINE = {
           "c": [
             "IGP"
           ],
-          "pr": "66,00 €",
+          "pr": "50,00 € Ho.Re.Ca. · 200,00 € (cartone da 4)",
+          "prl": {
+            "it": "Prezzo",
+            "en": "Price",
+            "de": "Preis"
+          },
           "d": {
             "it": "Olio extravergine di oliva toscano IGP da olivi secolari della Valdichiana. Sentori erbacei e di oliva, note di mandorla e ortaggi freschi; in bocca amaro lieve e piccante medio, con sensazioni vegetali.",
             "en": "Tuscan IGP extra virgin olive oil from century-old olive trees in the Valdichiana. Grassy and olive aromas with notes of almond and fresh vegetables; on the palate a light bitterness and medium pungency, with green notes.",
@@ -2095,7 +2115,12 @@ window.VETRINE = {
         },
         "V-07-8": {
           "c": [],
-          "pr": "18,00 €/kg fresco · 20-25 €/kg secco",
+          "pr": "16,50 €/kg Ho.Re.Ca. · 82,50 € (cassa da 5 kg)",
+          "prl": {
+            "it": "Prezzo",
+            "en": "Price",
+            "de": "Preis"
+          },
           "d": {
             "it": "Bulbo di grandi dimensioni, fino a 800 grammi, con spicchi che arrivano a 70-80 g. Più dolce e delicato dell'aglio comune, con un contenuto di allina molto basso. Si vende fresco oppure secco: il prezzo del secco sale da luglio (20 €/kg) ad agosto (22 €/kg) e da settembre in poi (25 €/kg).",
             "en": "A very large bulb, up to 800 grams, with cloves of 70-80 g. Sweeter and milder than common garlic, with very low alliin content. Sold fresh or dried: the dried price rises from July (20 €/kg) to August (22 €/kg) and from September on (25 €/kg).",
@@ -2109,7 +2134,12 @@ window.VETRINE = {
         },
         "V-07-9": {
           "c": [],
-          "pr": "6,00 € (1 pz) · 30,00 € (6 pz)",
+          "pr": "4,20 € Ho.Re.Ca. · 50,40 € (cartone da 12)",
+          "prl": {
+            "it": "Prezzo",
+            "en": "Price",
+            "de": "Preis"
+          },
           "d": {
             "it": "Crema pronta a base di Aglione della Valdichiana, da usare come base per pasta, riso, vellutate e crostini.",
             "en": "Ready-made cream of Aglione della Valdichiana, a base for pasta, rice, soups and crostini.",
@@ -2123,7 +2153,12 @@ window.VETRINE = {
         },
         "V-07-10": {
           "c": [],
-          "pr": "6,00 € (1 pz) · 30,00 € (6 pz)",
+          "pr": "4,20 € Ho.Re.Ca. · 50,40 € (cartone da 12)",
+          "prl": {
+            "it": "Prezzo",
+            "en": "Price",
+            "de": "Preis"
+          },
           "d": {
             "it": "Sugo vegetale, senza carne, da ricette semplici: per pasta di ogni formato, pici, tagliatelle e bruschette.",
             "en": "Plant-based sauce without meat, from simple recipes: for any pasta shape, pici, tagliatelle and bruschetta.",
