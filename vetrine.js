@@ -1720,6 +1720,137 @@ window.VETRINE = {
         "https://shop.sicilianstories.eu/it/brand/59-pasta-romeo",
         "https://www.pastaromeo.com/"
       ]
+    },
+    {
+      "id": "V-06",
+      "n": "Diegale",
+      "cat": "vino",
+      "reg": "Toscana",
+      "city": "Civitella Marittima (GR)",
+      "lat": 43,
+      "lng": 11.27,
+      "y": null,
+      "certs": [
+        "IGT"
+      ],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "logoBg": "#FF8800",
+      "d": {
+        "it": "Azienda agricola di famiglia a Podere Sant'Antimo, a Civitella Marittima, nella Maremma toscana. L'hanno creata da zero Alessandro e Paola, con il sostegno dei figli Gabriele e Sara, per fare vino nel rispetto della terra e delle stagioni. Il nome Diegale unisce i nomi dei nipoti, Diego e Alessandro. I vigneti sono tra 230 e 280 metri di quota, esposti a sud-sud/est, con vendemmia a mano. Produce rossi, un rosato e un bianco IGT Toscana e uno spumante Metodo Classico.",
+        "en": "Family farm at Podere Sant'Antimo in Civitella Marittima, in the Tuscan Maremma. Alessandro and Paola built it from scratch, backed by their children Gabriele and Sara, to make wine with respect for the land and the seasons. The name Diegale combines the names of their grandsons, Diego and Alessandro. The vineyards lie between 230 and 280 metres, facing south-southeast, and are harvested by hand. It makes reds, a rosé and a white IGT Toscana, plus a traditional-method sparkling wine.",
+        "de": "Familienweingut auf dem Podere Sant'Antimo in Civitella Marittima in der toskanischen Maremma. Alessandro und Paola haben es aus dem Nichts aufgebaut, unterstützt von ihren Kindern Gabriele und Sara, um Wein im Einklang mit Boden und Jahreszeiten zu machen. Der Name Diegale verbindet die Namen der Enkel Diego und Alessandro. Die Weinberge liegen auf 230 bis 280 Metern mit Süd-Südost-Ausrichtung, gelesen wird von Hand. Erzeugt werden Rotweine, ein Rosé und ein Weißwein IGT Toscana sowie ein Schaumwein nach klassischer Methode."
+      },
+      "p": [
+        [
+          "Diegale 2014, Pinot Noir",
+          "bottiglia da 0,75 litri / 1,5 litri"
+        ],
+        [
+          "Ciarlibò 2018, rosato",
+          "bottiglia da 0,75 litri"
+        ],
+        [
+          "Rossoscuro 2015",
+          "bottiglia da 0,75 litri"
+        ],
+        [
+          "Chaver 2015, bianco",
+          "bottiglia da 0,75 litri"
+        ],
+        [
+          "Cuordicru, Metodo Classico Dosaggio Zero",
+          "bottiglia da 0,75 litri / 1,5 litri"
+        ]
+      ],
+      "pd": {
+        "V-06-0": {
+          "c": [
+            "IGT"
+          ],
+          "pr": "24,00 € (0,75 l) · 50,00 € (1,5 l)",
+          "d": {
+            "it": "IGT Toscana Rosso, Pinot Noir in purezza. Rosso rubino intenso, elegante e di facile beva, con un carattere maremmano. Affinato in tonneaux e barrique usate.",
+            "en": "IGT Toscana Rosso, 100% Pinot Noir. Deep ruby red, elegant and easy to drink, with a Maremma character. Aged in used tonneaux and barriques.",
+            "de": "IGT Toscana Rosso, reinsortiger Pinot Noir. Intensives Rubinrot, elegant und süffig, mit Maremma-Charakter. Ausbau in gebrauchten Tonneaux und Barriques."
+          },
+          "a": {
+            "it": "Vigneti a 230-280 m di quota con esposizione sud-sud/est, vendemmia a mano.",
+            "en": "Vineyards at 230-280 m facing south-southeast, harvested by hand.",
+            "de": "Weinberge auf 230-280 m Höhe mit Süd-Südost-Ausrichtung, Handlese."
+          }
+        },
+        "V-06-1": {
+          "c": [
+            "IGT"
+          ],
+          "pr": "14,00 €",
+          "d": {
+            "it": "IGT Toscana Rosato, Grenache in purezza. Rosato da uva a bacca rossa con 18-20 ore di macerazione sulle bucce, affinato in acciaio.",
+            "en": "IGT Toscana Rosato, 100% Grenache. Rosé from red grapes with 18-20 hours of skin contact, aged in steel.",
+            "de": "IGT Toscana Rosato, reinsortiger Grenache. Roséwein aus roten Trauben mit 18-20 Stunden Maischekontakt, Ausbau im Stahltank."
+          },
+          "a": {
+            "it": "Vigneti a 230-280 m di quota con esposizione sud-sud/est, vendemmia a mano.",
+            "en": "Vineyards at 230-280 m facing south-southeast, harvested by hand.",
+            "de": "Weinberge auf 230-280 m Höhe mit Süd-Südost-Ausrichtung, Handlese."
+          }
+        },
+        "V-06-2": {
+          "c": [
+            "IGT"
+          ],
+          "pr": "20,00 €",
+          "d": {
+            "it": "IGT Toscana Rosso da Sangiovese (70%), Grenache (15%) e Syrah (15%). Rubino scuro con riflessi violacei, note di frutta nera, fruttato e floreale, equilibrato. Affinato in tonneaux e barrique usate.",
+            "en": "IGT Toscana Rosso from Sangiovese (70%), Grenache (15%) and Syrah (15%). Dark ruby with violet hints, notes of black fruit, fruity and floral, well balanced. Aged in used tonneaux and barriques.",
+            "de": "IGT Toscana Rosso aus Sangiovese (70%), Grenache (15%) und Syrah (15%). Dunkles Rubinrot mit violetten Reflexen, Noten von schwarzen Früchten, fruchtig und blumig, ausgewogen. Ausbau in gebrauchten Tonneaux und Barriques."
+          },
+          "a": {
+            "it": "Vigneti a 230-280 m di quota con esposizione sud-sud/est, vendemmia a mano.",
+            "en": "Vineyards at 230-280 m facing south-southeast, harvested by hand.",
+            "de": "Weinberge auf 230-280 m Höhe mit Süd-Südost-Ausrichtung, Handlese."
+          }
+        },
+        "V-06-3": {
+          "c": [
+            "IGT"
+          ],
+          "pr": "12,00 €",
+          "d": {
+            "it": "IGT Toscana Bianco da Chardonnay e Vermentino, un abbinamento insolito di due vitigni. Affinato in acciaio.",
+            "en": "IGT Toscana Bianco from Chardonnay and Vermentino, an unusual pairing of two varieties. Aged in steel.",
+            "de": "IGT Toscana Bianco aus Chardonnay und Vermentino, eine ungewöhnliche Kombination zweier Rebsorten. Ausbau im Stahltank."
+          },
+          "a": {
+            "it": "Vigneti a 230-280 m di quota con esposizione sud-sud/est, vendemmia a mano.",
+            "en": "Vineyards at 230-280 m facing south-southeast, harvested by hand.",
+            "de": "Weinberge auf 230-280 m Höhe mit Süd-Südost-Ausrichtung, Handlese."
+          }
+        },
+        "V-06-4": {
+          "c": [],
+          "pr": "30,00 € (0,75 l) · 60,00 € (1,5 l)",
+          "d": {
+            "it": "Spumante Metodo Classico da Chardonnay e Pinot Noir, dosaggio zero, 36 mesi sui lieviti. Vino spumante di qualità (VSQ) Extra Brut.",
+            "en": "Traditional-method sparkling wine from Chardonnay and Pinot Noir, zero dosage, 36 months on the lees. Quality sparkling wine (VSQ) Extra Brut.",
+            "de": "Schaumwein nach klassischer Methode aus Chardonnay und Pinot Noir, ohne Dosage, 36 Monate auf der Hefe. Qualitätsschaumwein (VSQ) Extra Brut."
+          },
+          "a": {
+            "it": "Vigneti a 230-280 m di quota con esposizione sud-sud/est, vendemmia a mano.",
+            "en": "Vineyards at 230-280 m facing south-southeast, harvested by hand.",
+            "de": "Weinberge auf 230-280 m Höhe mit Süd-Südost-Ausrichtung, Handlese."
+          }
+        }
+      },
+      "fonti": [
+        "https://www.diegalewineshop.info/wineshop",
+        "https://www.diegalewineshop.info/chisiamo",
+        "https://www.diegalewineshop.info/contatti"
+      ]
     }
   ],
   "IMG": {
@@ -1761,6 +1892,11 @@ window.VETRINE = {
     "prod-V-05-9": "https://shop.sicilianstories.eu/2527-thickbox_default/tagliolini-all-arancia.jpg",
     "prod-V-05-10": "https://shop.sicilianstories.eu/2523-thickbox_default/tagliolini-al-limone.jpg",
     "prod-V-05-11": "https://shop.sicilianstories.eu/2515-thickbox_default/tagliolini-all-uovo.jpg",
-    "prod-V-05-12": "https://shop.sicilianstories.eu/2519-thickbox_default/tagliolini-al-nero-di-seppia.jpg"
+    "prod-V-05-12": "https://shop.sicilianstories.eu/2519-thickbox_default/tagliolini-al-nero-di-seppia.jpg",
+    "logo-V-06": "https://static.wixstatic.com/media/5ae127_9d6e1a9447544d8590b9711251c79032~mv2.png",
+    "prod-V-06-0": "https://static.wixstatic.com/media/5ae127_fbc9ac03fc5d4dda905674e1e99f438f~mv2.jpg",
+    "prod-V-06-2": "https://static.wixstatic.com/media/5ae127_abb39bd697b349bc979ffeefc8f965ad~mv2.jpg",
+    "prod-V-06-3": "https://static.wixstatic.com/media/5ae127_d82e050c2f454bf89d62456c53993b06~mv2.jpg",
+    "prod-V-06-4": "https://static.wixstatic.com/media/5ae127_fb5e2f125d8343469531eb59c2c4b22e~mv2.jpg"
   }
 };
