@@ -10362,6 +10362,72 @@ window.VETRINE = {
         "https://collefiorito.wine/homeita#la-nostra-storia",
         "https://collefiorito.wine/s/schedeitaf-1.pdf"
       ]
+    },
+    {
+      "id": "V-29",
+      "n": "MiTo'21",
+      "cat": "dolci",
+      "reg": "Lombardia",
+      "city": "Milano (MI)",
+      "lat": 45.464,
+      "lng": 9.19,
+      "y": null,
+      "certs": [],
+      "exp": [],
+      "lg": [
+        "it",
+        "en"
+      ],
+      "moq": null,
+      "d": {
+        "it": "MiTo'21 è il panettone classico milanese creato da Michalis Tyrakis, che ha vissuto trent'anni tra Milano e Torino innamorandosi della cultura culinaria italiana: il nome unisce le due città. Il punto di partenza è la storia: a Milano, nel 1495, nasce il Pan del Ton, che diventerà famoso in tutto il mondo come Panettone Milanese. Oltre cinque secoli dopo, MiTo'21 riprende la ricetta autentica e originale: lievito madre vivo pluriennale, 72 ore di preparazione con lievitazione in più fasi, nessuna glassa, interno giallo intenso ricco di tuorlo e nessun aroma, colorante, conservante o emulsionante. Gli ingredienti sono scelti con cura: Uvetta d'Oro della Persia, Uvetta Sultanina Bio di Creta, arancia, cedro e Caviale di Vaniglia del Madagascar. Il logo e le confezioni si ispirano ai motivi Liberty delle case milanesi degli anni Venti e sono realizzati con la storica tipografia milanese Bonvini 1909 in carta Crush 100% compostabile. Due formati, basso da 500 g e alto da 1 kg, in vendita in enoteche e gastronomie di Milano e all'estero in Grecia (Atene, Salonicco, Creta e diverse isole), a Cipro e in Lituania. La missione è far conoscere in tutto il mondo le eccellenze della gastronomia italiana.",
+        "en": "MiTo'21 is the classic Milanese panettone created by Michalis Tyrakis, who spent thirty years between Milan and Turin and fell in love with Italian food culture: the name joins the two cities. It starts from history: in Milan in 1495 the Pan del Ton was born, later famous worldwide as the Panettone Milanese. More than five centuries later, MiTo'21 follows the authentic original recipe: a live sourdough starter matured over years, 72 hours of preparation with leavening in several stages, no icing, an intensely yellow crumb rich in egg yolk and no flavourings, colourings, preservatives or emulsifiers. The ingredients are carefully chosen: Golden Raisins from Persia, organic Sultanas from Crete, orange, citron and Vanilla Caviar from Madagascar. The logo and boxes are inspired by the Liberty motifs of 1920s Milanese houses and made with the historic Milanese printer Bonvini 1909 in 100% compostable Crush paper. Two sizes, a low 500 g and a tall 1 kg, sold in wine shops and delicatessens in Milan and abroad in Greece (Athens, Thessaloniki, Crete and several islands), Cyprus and Lithuania. The mission is to make the excellence of Italian food known around the world.",
+        "de": "MiTo'21 ist der klassische Mailänder Panettone von Michalis Tyrakis, der dreißig Jahre zwischen Mailand und Turin lebte und sich in die italienische Esskultur verliebte: Der Name verbindet beide Städte. Am Anfang steht die Geschichte: 1495 entstand in Mailand der Pan del Ton, der als Panettone Milanese weltberühmt wurde. Mehr als fünf Jahrhunderte später folgt MiTo'21 dem authentischen Originalrezept: lebendiger, über Jahre gepflegter Sauerteig, 72 Stunden Herstellung mit mehrstufiger Teigführung, keine Glasur, eine intensiv gelbe, eigelbreiche Krume und keine Aromen, Farbstoffe, Konservierungsstoffe oder Emulgatoren. Die Zutaten sind sorgfältig ausgewählt: Goldrosinen aus Persien, Bio-Sultaninen aus Kreta, Orange, Zitronat und Vanillekaviar aus Madagaskar. Logo und Schachteln sind von den Liberty-Motiven Mailänder Häuser der 1920er Jahre inspiriert und werden mit der historischen Mailänder Druckerei Bonvini 1909 aus 100% kompostierbarem Crush-Papier gefertigt. Zwei Formate, flach mit 500 g und hoch mit 1 kg, erhältlich in Enotheken und Feinkostläden in Mailand sowie im Ausland in Griechenland (Athen, Thessaloniki, Kreta und mehrere Inseln), Zypern und Litauen. Ziel ist es, die Exzellenz der italienischen Gastronomie in der ganzen Welt bekannt zu machen."
+      },
+      "p": [
+        [
+          "Panettone Basso Milano",
+          "confezione da 500 g"
+        ],
+        [
+          "Panettone Alto Milano",
+          "confezione da 1000 g"
+        ]
+      ],
+      "pd": {
+        "V-29-0": {
+          "c": [],
+          "d": {
+            "it": "Panettone classico milanese MiTo'21, preparato secondo la ricetta autentica e originale e nel rispetto di tutti i criteri del Panettone Milanese: lievito madre vivo pluriennale, nessuna glassa e un interno giallo intenso, ricco di tuorlo. Contiene arancia, cedro e uvetta, che simboleggiano Amore, Salute e Ricchezza; l'uvetta è l'Uvetta d'Oro della Persia, scoperta durante un viaggio a Teheran, insieme all'Uvetta Sultanina Bio di Creta, e la vaniglia è il Caviale di Vaniglia di una piccola produttrice del Madagascar. Senza aromi, coloranti, conservanti ed emulsionanti. Servono 72 ore di preparazione, con una lievitazione in più fasi che dona sofficità, morbidezza e un ricco bouquet aromatico: un panettone ricco ma estremamente digeribile. Versione bassa da 500 grammi.",
+            "en": "MiTo'21 classic Milanese panettone, made from the authentic original recipe and meeting every criterion of the Panettone Milanese: a live sourdough starter matured over years, no icing and an intensely yellow crumb rich in egg yolk. It contains orange, citron and raisins, symbols of Love, Health and Wealth; the raisins are Golden Raisins from Persia, discovered on a trip to Tehran, together with organic Sultanas from Crete, and the vanilla is Vanilla Caviar from a small producer in Madagascar. No flavourings, colourings, preservatives or emulsifiers. It takes 72 hours to make, with leavening in several stages that gives softness, tenderness and a rich aromatic bouquet: a rich yet very digestible panettone. Low version, 500 grams.",
+            "de": "Klassischer Mailänder Panettone MiTo'21 nach dem authentischen Originalrezept und unter Einhaltung aller Kriterien des Panettone Milanese: lebendiger, über Jahre gepflegter Sauerteig, keine Glasur und eine intensiv gelbe, eigelbreiche Krume. Er enthält Orange, Zitronat und Rosinen, Symbole für Liebe, Gesundheit und Reichtum; die Rosinen sind Goldrosinen aus Persien, entdeckt auf einer Reise nach Teheran, zusammen mit Bio-Sultaninen aus Kreta, und die Vanille ist Vanillekaviar einer kleinen Erzeugerin aus Madagaskar. Ohne Aromen, Farbstoffe, Konservierungsstoffe und Emulgatoren. Die Herstellung dauert 72 Stunden, mit einer mehrstufigen Teigführung, die Lockerheit, Weichheit und ein reiches Aroma schenkt: ein reichhaltiger und dennoch sehr bekömmlicher Panettone. Flache Form, 500 Gramm."
+          },
+          "a": {
+            "it": "Confezione Art Nouveau ispirata ai motivi Liberty delle case milanesi degli anni Venti, realizzata con la storica tipografia milanese Bonvini 1909 in carta Crush 100% compostabile.",
+            "en": "Art Nouveau packaging inspired by the Liberty motifs of 1920s Milanese houses, made with the historic Milanese printer Bonvini 1909 in 100% compostable Crush paper.",
+            "de": "Jugendstil-Verpackung nach den Liberty-Motiven Mailänder Häuser der 1920er Jahre, gefertigt mit der historischen Mailänder Druckerei Bonvini 1909 aus 100% kompostierbarem Crush-Papier."
+          }
+        },
+        "V-29-1": {
+          "c": [],
+          "d": {
+            "it": "Panettone classico milanese MiTo'21, preparato secondo la ricetta autentica e originale e nel rispetto di tutti i criteri del Panettone Milanese: lievito madre vivo pluriennale, nessuna glassa e un interno giallo intenso, ricco di tuorlo. Contiene arancia, cedro e uvetta, che simboleggiano Amore, Salute e Ricchezza; l'uvetta è l'Uvetta d'Oro della Persia, scoperta durante un viaggio a Teheran, insieme all'Uvetta Sultanina Bio di Creta, e la vaniglia è il Caviale di Vaniglia di una piccola produttrice del Madagascar. Senza aromi, coloranti, conservanti ed emulsionanti. Servono 72 ore di preparazione, con una lievitazione in più fasi che dona sofficità, morbidezza e un ricco bouquet aromatico: un panettone ricco ma estremamente digeribile. Versione alta da 1 chilo.",
+            "en": "MiTo'21 classic Milanese panettone, made from the authentic original recipe and meeting every criterion of the Panettone Milanese: a live sourdough starter matured over years, no icing and an intensely yellow crumb rich in egg yolk. It contains orange, citron and raisins, symbols of Love, Health and Wealth; the raisins are Golden Raisins from Persia, discovered on a trip to Tehran, together with organic Sultanas from Crete, and the vanilla is Vanilla Caviar from a small producer in Madagascar. No flavourings, colourings, preservatives or emulsifiers. It takes 72 hours to make, with leavening in several stages that gives softness, tenderness and a rich aromatic bouquet: a rich yet very digestible panettone. Tall version, 1 kilo.",
+            "de": "Klassischer Mailänder Panettone MiTo'21 nach dem authentischen Originalrezept und unter Einhaltung aller Kriterien des Panettone Milanese: lebendiger, über Jahre gepflegter Sauerteig, keine Glasur und eine intensiv gelbe, eigelbreiche Krume. Er enthält Orange, Zitronat und Rosinen, Symbole für Liebe, Gesundheit und Reichtum; die Rosinen sind Goldrosinen aus Persien, entdeckt auf einer Reise nach Teheran, zusammen mit Bio-Sultaninen aus Kreta, und die Vanille ist Vanillekaviar einer kleinen Erzeugerin aus Madagaskar. Ohne Aromen, Farbstoffe, Konservierungsstoffe und Emulgatoren. Die Herstellung dauert 72 Stunden, mit einer mehrstufigen Teigführung, die Lockerheit, Weichheit und ein reiches Aroma schenkt: ein reichhaltiger und dennoch sehr bekömmlicher Panettone. Hohe Form, 1 Kilo."
+          },
+          "a": {
+            "it": "Confezione Art Nouveau ispirata ai motivi Liberty delle case milanesi degli anni Venti, realizzata con la storica tipografia milanese Bonvini 1909 in carta Crush 100% compostabile.",
+            "en": "Art Nouveau packaging inspired by the Liberty motifs of 1920s Milanese houses, made with the historic Milanese printer Bonvini 1909 in 100% compostable Crush paper.",
+            "de": "Jugendstil-Verpackung nach den Liberty-Motiven Mailänder Häuser der 1920er Jahre, gefertigt mit der historischen Mailänder Druckerei Bonvini 1909 aus 100% kompostierbarem Crush-Papier."
+          }
+        }
+      },
+      "fonti": [
+        "https://mito21.com/",
+        "https://mito21.com/en/",
+        "https://mito21.com/stores/",
+        "https://mito21.com/contatti/"
+      ]
     }
   ],
   "IMG": {
@@ -10800,6 +10866,9 @@ window.VETRINE = {
     "prod-V-28-1": "https://images.squarespace-cdn.com/content/v1/67e3350d5f10b04bec7efb68/9bf2f330-4089-4b6c-bfe0-62de561314e6/DSC07559-removebg+%281%29.png?format=1000w",
     "prod-V-28-2": "https://images.squarespace-cdn.com/content/v1/67e3350d5f10b04bec7efb68/c39545f0-4618-4a1e-ab21-46e2e862ca1d/image.png?format=1000w",
     "prod-V-28-3": "https://images.squarespace-cdn.com/content/v1/67e3350d5f10b04bec7efb68/e12dd962-4aca-4f0c-8f27-23f41514ec97/DSC07550-removebg+%281%29.png?format=1000w",
-    "prod-V-28-4": "https://images.squarespace-cdn.com/content/v1/67e3350d5f10b04bec7efb68/a1b42ce8-fc24-4b53-a5d9-0697e3857013/DSC07542-removebg+%281%29.png?format=1000w"
+    "prod-V-28-4": "https://images.squarespace-cdn.com/content/v1/67e3350d5f10b04bec7efb68/a1b42ce8-fc24-4b53-a5d9-0697e3857013/DSC07542-removebg+%281%29.png?format=1000w",
+    "logo-V-29": "https://mito21.com/wp-content/uploads/2021/10/Mito_Logo-Principale.png",
+    "prod-V-29-0": "https://mito21.com/wp-content/uploads/2021/11/panettone_trasparenza-3-e1637057740362.jpg",
+    "prod-V-29-1": "https://mito21.com/wp-content/uploads/2021/11/panettone_alto_trasparenza-1.jpg"
   }
 };
