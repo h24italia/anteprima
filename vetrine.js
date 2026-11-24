@@ -1424,6 +1424,302 @@ window.VETRINE = {
         "https://agricolasannunzio.it/olio",
         "https://agricolasannunzio.it/storia"
       ]
+    },
+    {
+      "id": "V-05",
+      "n": "Pasta Romeo",
+      "cat": "pasta",
+      "reg": "Sicilia",
+      "city": "Capo d'Orlando (ME)",
+      "lat": 38.153,
+      "lng": 14.745,
+      "y": 1954,
+      "certs": [],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "d": {
+        "it": "Pastificio artigianale di famiglia a Capo d'Orlando, sulla costa tirrenica in provincia di Messina, attivo dal 1954 e guidato da Felice Romeo. Lavora con pochi ingredienti di qualità e solo con processi di trasformazione naturali, seguendo la tradizione. Ha iniziato con la pasta fresca, che vende nel proprio negozio, e oggi produce anche pasta secca in molti formati: busiate, anelletti, conchiglioni e una linea all'uovo di spaghetti alla chitarra e tagliolini, anche aromatizzati. La pasta secca è venduta da rivenditori e online.",
+        "en": "Family-run artisan pasta maker in Capo d'Orlando, on the Tyrrhenian coast in the province of Messina, in business since 1954 and led by Felice Romeo. It works with a few quality ingredients and only natural processing methods, following tradition. It started with fresh pasta, sold in its own shop, and now also makes dry pasta in many shapes: busiate, anelletti, conchiglioni and an egg pasta line of spaghetti alla chitarra and tagliolini, some of them flavoured. The dry pasta is sold through retailers and online.",
+        "de": "Handwerkliche Nudelmanufaktur in Familienbesitz in Capo d'Orlando an der Tyrrhenischen Küste in der Provinz Messina, seit 1954 tätig und von Felice Romeo geführt. Sie arbeitet mit wenigen hochwertigen Zutaten und ausschließlich natürlichen Verarbeitungsverfahren nach traditioneller Art. Angefangen hat sie mit frischer Pasta, die im eigenen Laden verkauft wird; heute stellt sie auch Trockenpasta in vielen Formaten her: Busiate, Anelletti, Conchiglioni und eine Eiernudel-Linie aus Spaghetti alla chitarra und Tagliolini, teils aromatisiert. Die Trockenpasta wird über Händler und online verkauft."
+      },
+      "sub": [
+        {
+          "k": "semola",
+          "cat": "pasta",
+          "n": {
+            "it": "Pasta di semola",
+            "en": "Semolina pasta",
+            "de": "Grießnudeln"
+          }
+        },
+        {
+          "k": "uovo",
+          "cat": "pasta",
+          "n": {
+            "it": "Pasta all'uovo",
+            "en": "Egg pasta",
+            "de": "Eiernudeln"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Busiata Tricolore",
+          "250 g / 500 g",
+          "semola"
+        ],
+        [
+          "Busiata al Pistacchio",
+          "250 g / 500 g",
+          "semola"
+        ],
+        [
+          "Busiata Classica",
+          "250 g / 500 g",
+          "semola"
+        ],
+        [
+          "Anelletti Siciliani",
+          "500 g",
+          "semola"
+        ],
+        [
+          "Conchiglioni Giganti",
+          "500 g",
+          "semola"
+        ],
+        [
+          "Spaghetti alla Chitarra al Limone e Pepe Nero",
+          "500 g",
+          "uovo"
+        ],
+        [
+          "Spaghetti alla Chitarra all'Uovo",
+          "500 g",
+          "uovo"
+        ],
+        [
+          "Spaghetti alla Chitarra al Pistacchio",
+          "500 g",
+          "uovo"
+        ],
+        [
+          "Spaghetti alla Chitarra al Peperoncino",
+          "500 g",
+          "uovo"
+        ],
+        [
+          "Tagliolini all'Arancia",
+          "500 g",
+          "uovo"
+        ],
+        [
+          "Tagliolini al Limone",
+          "500 g",
+          "uovo"
+        ],
+        [
+          "Tagliolini all'Uovo",
+          "500 g",
+          "uovo"
+        ],
+        [
+          "Tagliolini al Nero di Seppia",
+          "500 g",
+          "uovo"
+        ]
+      ],
+      "pd": {
+        "V-05-0": {
+          "c": [],
+          "pr": "2,30 € (250 g) · 4,50 € (500 g)",
+          "d": {
+            "it": "Busiata artigianale, la tipica pasta siciliana a spirale ottenuta avvolgendo la sfoglia attorno a un ferro. Tre impasti: semola di grano duro classica, agli spinaci e al peperoncino.",
+            "en": "Artisan busiata, the typical Sicilian spiral pasta made by winding the dough around an iron rod. Three doughs: classic durum wheat semolina, spinach and chilli.",
+            "de": "Handwerkliche Busiata, die typisch sizilianische Spiralnudel, bei der der Teig um einen Eisenstab gewickelt wird. Drei Teige: klassischer Hartweizengrieß, Spinat und Chili."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-05-1": {
+          "c": [],
+          "pr": "2,25 € (250 g) · 4,40 € (500 g)",
+          "d": {
+            "it": "Busiata artigianale, la tipica pasta siciliana a spirale ottenuta avvolgendo la sfoglia attorno a un ferro. Di semola di grano duro, acqua e pistacchi di Sicilia.",
+            "en": "Artisan busiata, the typical Sicilian spiral pasta made by winding the dough around an iron rod. Made from durum wheat semolina, water and Sicilian pistachios.",
+            "de": "Handwerkliche Busiata, die typisch sizilianische Spiralnudel, bei der der Teig um einen Eisenstab gewickelt wird. Aus Hartweizengrieß, Wasser und sizilianischen Pistazien."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-05-2": {
+          "c": [],
+          "pr": "1,95 € (250 g) · 3,80 € (500 g)",
+          "d": {
+            "it": "Busiata artigianale, la tipica pasta siciliana a spirale ottenuta avvolgendo la sfoglia attorno a un ferro. Di semola di grano duro e acqua.",
+            "en": "Artisan busiata, the typical Sicilian spiral pasta made by winding the dough around an iron rod. Made from durum wheat semolina and water.",
+            "de": "Handwerkliche Busiata, die typisch sizilianische Spiralnudel, bei der der Teig um einen Eisenstab gewickelt wird. Aus Hartweizengrieß und Wasser."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-05-3": {
+          "c": [],
+          "pr": "2,50 €",
+          "d": {
+            "it": "Pasta ad anello di semola di grano duro e acqua, il formato della pasta al forno siciliana.",
+            "en": "Ring-shaped pasta made from durum wheat semolina and water, the shape used for Sicilian baked pasta.",
+            "de": "Ringnudeln aus Hartweizengrieß und Wasser, das klassische Format für sizilianische Ofenpasta."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-05-4": {
+          "c": [],
+          "pr": "3,80 €",
+          "d": {
+            "it": "Conchiglie grandi di semola di grano duro, da farcire o da condire con sughi corposi.",
+            "en": "Large durum wheat semolina shells, for stuffing or for rich sauces.",
+            "de": "Große Muschelnudeln aus Hartweizengrieß, zum Füllen oder für kräftige Saucen."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-05-5": {
+          "c": [],
+          "pr": "4,35 €",
+          "d": {
+            "it": "Pasta all'uovo artigianale di semola di grano duro e uova fresche, con scorza di limone e pepe nero macinato.",
+            "en": "Artisan egg pasta made from durum wheat semolina and fresh eggs, with lemon zest and ground black pepper.",
+            "de": "Handwerkliche Eiernudeln aus Hartweizengrieß und frischen Eiern, mit Zitronenschale und gemahlenem schwarzem Pfeffer."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-05-6": {
+          "c": [],
+          "pr": "3,00 €",
+          "d": {
+            "it": "Pasta all'uovo artigianale di semola di grano duro e uova fresche.",
+            "en": "Artisan egg pasta made from durum wheat semolina and fresh eggs.",
+            "de": "Handwerkliche Eiernudeln aus Hartweizengrieß und frischen Eiern."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-05-7": {
+          "c": [],
+          "pr": "4,40 €",
+          "d": {
+            "it": "Pasta all'uovo artigianale di semola di grano duro e uova fresche, con pistacchi di Sicilia.",
+            "en": "Artisan egg pasta made from durum wheat semolina and fresh eggs, with Sicilian pistachios.",
+            "de": "Handwerkliche Eiernudeln aus Hartweizengrieß und frischen Eiern, mit sizilianischen Pistazien."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-05-8": {
+          "c": [],
+          "pr": "3,90 €",
+          "d": {
+            "it": "Pasta all'uovo artigianale di semola di grano duro e uova fresche, con peperoncino piccante.",
+            "en": "Artisan egg pasta made from durum wheat semolina and fresh eggs, with hot chilli.",
+            "de": "Handwerkliche Eiernudeln aus Hartweizengrieß und frischen Eiern, mit scharfem Chili."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-05-9": {
+          "c": [],
+          "pr": "4,30 €",
+          "d": {
+            "it": "Pasta all'uovo artigianale di semola di grano duro e uova fresche, aromatizzata all'arancia.",
+            "en": "Artisan egg pasta made from durum wheat semolina and fresh eggs, flavoured with orange.",
+            "de": "Handwerkliche Eiernudeln aus Hartweizengrieß und frischen Eiern, mit Orangenaroma."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-05-10": {
+          "c": [],
+          "pr": "4,30 €",
+          "d": {
+            "it": "Pasta all'uovo artigianale di semola di grano duro e uova fresche, aromatizzata al limone.",
+            "en": "Artisan egg pasta made from durum wheat semolina and fresh eggs, flavoured with lemon.",
+            "de": "Handwerkliche Eiernudeln aus Hartweizengrieß und frischen Eiern, mit Zitronenaroma."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-05-11": {
+          "c": [],
+          "pr": "3,00 €",
+          "d": {
+            "it": "Pasta all'uovo artigianale di semola di grano duro e uova fresche.",
+            "en": "Artisan egg pasta made from durum wheat semolina and fresh eggs.",
+            "de": "Handwerkliche Eiernudeln aus Hartweizengrieß und frischen Eiern."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-05-12": {
+          "c": [],
+          "pr": "4,50 €",
+          "d": {
+            "it": "Pasta all'uovo artigianale di semola di grano duro e uova fresche, con nero di seppia.",
+            "en": "Artisan egg pasta made from durum wheat semolina and fresh eggs, with cuttlefish ink.",
+            "de": "Handwerkliche Eiernudeln aus Hartweizengrieß und frischen Eiern, mit Sepiatinte."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        }
+      },
+      "fonti": [
+        "https://shop.sicilianstories.eu/it/brand/59-pasta-romeo",
+        "https://www.pastaromeo.com/"
+      ]
     }
   ],
   "IMG": {
@@ -1451,6 +1747,20 @@ window.VETRINE = {
     "prod-V-04-1": "https://agricolasannunzio.it/assets/img/mini-latta.webp",
     "prod-V-04-2": "https://agricolasannunzio.it/assets/img/mini-latta.webp",
     "prod-V-04-3": "https://agricolasannunzio.it/assets/img/bottiglia-fondo.webp",
-    "prod-V-04-4": "https://agricolasannunzio.it/assets/img/mini-latta.webp"
+    "prod-V-04-4": "https://agricolasannunzio.it/assets/img/mini-latta.webp",
+    "logo-V-05": "https://www.pastaromeo.com/wp-content/uploads/2022/03/pastaromeo-logo.png",
+    "prod-V-05-0": "https://shop.sicilianstories.eu/2555-thickbox_default/busiata-tricolore.jpg",
+    "prod-V-05-1": "https://shop.sicilianstories.eu/2551-thickbox_default/busiata-al-pistacchio.jpg",
+    "prod-V-05-2": "https://shop.sicilianstories.eu/2547-thickbox_default/busiata-classica-.jpg",
+    "prod-V-05-3": "https://shop.sicilianstories.eu/2563-thickbox_default/anelletti-siciliani.jpg",
+    "prod-V-05-4": "https://shop.sicilianstories.eu/2559-thickbox_default/conchiglioni-giganti.jpg",
+    "prod-V-05-5": "https://shop.sicilianstories.eu/2543-thickbox_default/spaghetti-alla-chitarra-al-limone-e-pepe-nero.jpg",
+    "prod-V-05-6": "https://shop.sicilianstories.eu/2531-thickbox_default/spaghetti-alla-chitarra-all-uovo.jpg",
+    "prod-V-05-7": "https://shop.sicilianstories.eu/2539-thickbox_default/spaghetti-alla-chitarra-al-pistacchio.jpg",
+    "prod-V-05-8": "https://shop.sicilianstories.eu/2535-thickbox_default/spaghetti-alla-chitarra-al-peperoncino.jpg",
+    "prod-V-05-9": "https://shop.sicilianstories.eu/2527-thickbox_default/tagliolini-all-arancia.jpg",
+    "prod-V-05-10": "https://shop.sicilianstories.eu/2523-thickbox_default/tagliolini-al-limone.jpg",
+    "prod-V-05-11": "https://shop.sicilianstories.eu/2515-thickbox_default/tagliolini-all-uovo.jpg",
+    "prod-V-05-12": "https://shop.sicilianstories.eu/2519-thickbox_default/tagliolini-al-nero-di-seppia.jpg"
   }
 };
