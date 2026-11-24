@@ -9844,6 +9844,213 @@ window.VETRINE = {
         "https://www.dolcidicasasofia.it/listino-prezzi-2022-dolci-di-casa-sofia/",
         "https://www.dolcidicasasofia.it/#lanostrastoria"
       ]
+    },
+    {
+      "id": "V-26",
+      "n": "La Pescinella",
+      "cat": "vino",
+      "reg": "Toscana",
+      "city": "Montelaterone, Arcidosso (GR)",
+      "lat": 42.869,
+      "lng": 11.553,
+      "y": null,
+      "certs": [
+        "DOC",
+        "IGT"
+      ],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "d": {
+        "it": "Azienda agricola sul Monte Amiata, a Montelaterone, borgo arroccato del comune di Arcidosso, in un lembo di Toscana tra la montagna e il mare: da una parte la vetta dell'Amiata, dall'altra le colline che sfumano nella Val d'Orcia, con l'aria mitigata dal clima marittimo. Qui si raccoglie l'uva e si imbottigliano i vini, unendo origini contadine tramandate da generazioni e innovazione, con il sogno di portare Montelaterone nel mondo. Da un anno la produzione è professionale e riconosciuta DOC Maremma Toscana. I vini sono sei: Il Moro (Sangiovese), Lussuria (Merlot), Però e Davvero (IGT Toscana Rosso), Rosamunda (Vermentino) e Birichino (rosato). I rossi fermentano spontaneamente con lieviti autoctoni e maturano in barrique di rovere francese. Dagli antichi uliveti oltre gli 800 metri nasce anche un olio extravergine plurivarietale. L'azienda offre degustazioni in cantina e ospitalità in agriturismo con piscina.",
+        "en": "A farm on Monte Amiata, in Montelaterone, a hilltop village in the municipality of Arcidosso, on a strip of Tuscany between the mountains and the sea: on one side the Amiata summit, on the other hills fading into the Val d'Orcia, with air softened by the maritime climate. Here the grapes are picked and the wines bottled, combining farming roots handed down through generations with innovation, and the dream of taking Montelaterone to the world. For the past year production has been professional and recognised as DOC Maremma Toscana. There are six wines: Il Moro (Sangiovese), Lussuria (Merlot), Però and Davvero (IGT Toscana Rosso), Rosamunda (Vermentino) and Birichino (rosé). The reds ferment spontaneously with native yeasts and mature in French oak barriques. The ancient olive groves above 800 metres also yield a multi-varietal extra virgin olive oil. The estate offers cellar tastings and farm-stay accommodation with a pool.",
+        "de": "Landgut am Monte Amiata in Montelaterone, einem Bergdorf der Gemeinde Arcidosso, auf einem Stück Toskana zwischen Bergen und Meer: auf der einen Seite der Gipfel des Amiata, auf der anderen Hügel, die ins Val d'Orcia übergehen, mit vom Meeresklima gemilderter Luft. Hier werden die Trauben gelesen und die Weine abgefüllt, mit über Generationen weitergegebenen bäuerlichen Wurzeln und Innovation und dem Traum, Montelaterone in die Welt zu tragen. Seit einem Jahr wird professionell produziert, mit Anerkennung als DOC Maremma Toscana. Es gibt sechs Weine: Il Moro (Sangiovese), Lussuria (Merlot), Però und Davvero (IGT Toscana Rosso), Rosamunda (Vermentino) und Birichino (Rosé). Die Rotweine gären spontan mit einheimischen Hefen und reifen im Barrique aus französischer Eiche. Aus den uralten Olivenhainen über 800 Metern stammt außerdem ein natives Olivenöl extra aus mehreren Sorten. Das Gut bietet Kellerverkostungen und Übernachtungen im Agriturismo mit Pool."
+      },
+      "sub": [
+        {
+          "k": "rossi",
+          "cat": "vino",
+          "n": {
+            "it": "Vini rossi",
+            "en": "Red wines",
+            "de": "Rotweine"
+          }
+        },
+        {
+          "k": "bianchi",
+          "cat": "vino",
+          "n": {
+            "it": "Bianco e rosato",
+            "en": "White and rosé",
+            "de": "Weiß und Rosé"
+          }
+        },
+        {
+          "k": "olio",
+          "cat": "olio",
+          "n": {
+            "it": "Olio extravergine",
+            "en": "Extra virgin olive oil",
+            "de": "Natives Olivenöl extra"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Il Moro, Sangiovese DOC Maremma Toscana",
+          "bottiglia da 750 ml",
+          "rossi"
+        ],
+        [
+          "Lussuria, Merlot DOC Maremma Toscana",
+          "bottiglia da 750 ml",
+          "rossi"
+        ],
+        [
+          "Però, IGT Toscana Rosso",
+          "bottiglia da 750 ml",
+          "rossi"
+        ],
+        [
+          "Davvero, IGT Toscana Rosso",
+          "bottiglia da 750 ml",
+          "rossi"
+        ],
+        [
+          "Rosamunda, Vermentino DOC Maremma Toscana",
+          "bottiglia da 750 ml",
+          "bianchi"
+        ],
+        [
+          "Birichino, IGT Rosato",
+          "bottiglia da 750 ml",
+          "bianchi"
+        ],
+        [
+          "Olio extravergine di oliva",
+          "",
+          "olio"
+        ]
+      ],
+      "pd": {
+        "V-26-0": {
+          "c": [
+            "DOC"
+          ],
+          "pr": "15,00 € (shop online)",
+          "d": {
+            "it": "Sangiovese 100%, 15% vol. Vinificazione: fermentazione spontanea con lieviti autoctoni in tini d'acciaio; affinamento in barrique di rovere francese per 24 mesi e 6 mesi in bottiglia bordolese. Rosso rubino intenso ed elegante, profumi di violetta, frutti di bosco e note di cioccolato; gusto ampio e armonico, giustamente tannico. Ingredienti: uva; conservanti e antiossidanti (metabisolfito di potassio, contiene solfiti); confezionato in atmosfera protettiva di azoto.",
+            "en": "100% Sangiovese, 15% ABV. Winemaking: spontaneous fermentation with native yeasts in steel vats; aged in French oak barriques for 24 months and 6 months in Bordeaux bottle. Deep, elegant ruby, with violet, wild berries and hints of chocolate; broad, harmonious palate with well-judged tannins. Ingredients: grapes; preservatives and antioxidants (potassium metabisulphite, contains sulphites); packed under nitrogen.",
+            "de": "100% Sangiovese, 15% Vol. Ausbau: Spontangärung mit einheimischen Hefen in Stahltanks; 24 Monate im Barrique aus französischer Eiche und 6 Monate in der Bordeauxflasche. Tiefes, elegantes Rubinrot, Duft nach Veilchen, Waldbeeren und Schokolade; breit und harmonisch, mit passendem Tannin. Zutaten: Trauben; Konservierungs- und Antioxidationsmittel (Kaliummetabisulfit, enthält Sulfite); unter Stickstoff abgefüllt."
+          },
+          "a": {
+            "it": "Con carni rosse, arrosti e pecorini stagionati.",
+            "en": "With red meat, roasts and aged pecorino.",
+            "de": "Zu rotem Fleisch, Braten und gereiftem Pecorino."
+          }
+        },
+        "V-26-1": {
+          "c": [
+            "DOC"
+          ],
+          "pr": "12,00 € (shop online)",
+          "d": {
+            "it": "Merlot 100%, 13,5% vol secondo la scheda aziendale. Vinificazione: fermentazione spontanea con lieviti autoctoni in tini d'acciaio; affinamento in barrique di rovere francese per circa 24 mesi e 6 mesi in bottiglia bordolese. Rosso rubino, al naso note dolci di frutta matura a polpa rossa e piccoli frutti di bosco con sentori speziati; elegante, pieno e morbido, bilanciato da buona acidità, con un buon finale. Per 100 ml: 84 kcal, carboidrati 0,7 g. Ingredienti: uva; conservanti e antiossidanti (metabisolfito di potassio, contiene solfiti); confezionato in atmosfera protettiva di azoto.",
+            "en": "100% Merlot, 13.5% ABV according to the estate's sheet. Winemaking: spontaneous fermentation with native yeasts in steel vats; aged in French oak barriques for about 24 months and 6 months in Bordeaux bottle. Ruby red; sweet notes of ripe red-fleshed fruit and small berries with spicy hints; elegant, full and soft, balanced by good acidity, with a good finish. Per 100 ml: 84 kcal, carbohydrates 0.7 g. Ingredients: grapes; preservatives and antioxidants (potassium metabisulphite, contains sulphites); packed under nitrogen.",
+            "de": "100% Merlot, laut Weingut 13,5% Vol. Ausbau: Spontangärung mit einheimischen Hefen in Stahltanks; etwa 24 Monate im Barrique aus französischer Eiche und 6 Monate in der Bordeauxflasche. Rubinrot, süße Noten reifer roter Früchte und kleiner Waldbeeren mit würzigen Anklängen; elegant, voll und weich, ausgewogen durch gute Säure, mit schönem Abgang. Pro 100 ml: 84 kcal, Kohlenhydrate 0,7 g. Zutaten: Trauben; Konservierungs- und Antioxidationsmittel (Kaliummetabisulfit, enthält Sulfite); unter Stickstoff abgefüllt."
+          },
+          "a": {
+            "it": "Con carni rosse, selvaggina e formaggi stagionati.",
+            "en": "With red meat, game and aged cheeses.",
+            "de": "Zu rotem Fleisch, Wild und gereiftem Käse."
+          }
+        },
+        "V-26-2": {
+          "c": [
+            "IGT"
+          ],
+          "pr": "12,00 € (shop online)",
+          "d": {
+            "it": "Sangiovese, Merlot e Cabernet Sauvignon, 13,5% vol. Vinificazione: fermentazione spontanea con lieviti autoctoni in tini d'acciaio, con le uve che fermentano separatamente; affinamento in barrique di rovere francese per circa 18 mesi e 6 mesi in bottiglia bordolese. Rosso rubino con luminosi riflessi violacei, sentori di frutti rossi, mirtilli e ribes; armonico, con alcol e acidità in equilibrio, sorso morbido e di buona persistenza. Ingredienti: uva; conservanti e antiossidanti (metabisolfito di potassio, contiene solfiti); confezionato in atmosfera protettiva di azoto.",
+            "en": "Sangiovese, Merlot and Cabernet Sauvignon, 13.5% ABV. Winemaking: spontaneous fermentation with native yeasts in steel vats, each variety fermented separately; aged in French oak barriques for about 18 months and 6 months in Bordeaux bottle. Ruby with bright violet tints, notes of red fruit, blueberry and redcurrant; harmonious, with alcohol and acidity in balance, soft and persistent. Ingredients: grapes; preservatives and antioxidants (potassium metabisulphite, contains sulphites); packed under nitrogen.",
+            "de": "Sangiovese, Merlot und Cabernet Sauvignon, 13,5% Vol. Ausbau: Spontangärung mit einheimischen Hefen in Stahltanks, jede Sorte getrennt vergoren; etwa 18 Monate im Barrique aus französischer Eiche und 6 Monate in der Bordeauxflasche. Rubinrot mit leuchtend violetten Reflexen, Noten von roten Früchten, Heidelbeere und Johannisbeere; harmonisch, Alkohol und Säure im Gleichgewicht, weich und anhaltend. Zutaten: Trauben; Konservierungs- und Antioxidationsmittel (Kaliummetabisulfit, enthält Sulfite); unter Stickstoff abgefüllt."
+          },
+          "a": {
+            "it": "Con primi al ragù, carni alla brace e formaggi.",
+            "en": "With pasta with meat sauce, grilled meat and cheese.",
+            "de": "Zu Pasta mit Ragù, gegrilltem Fleisch und Käse."
+          }
+        },
+        "V-26-3": {
+          "c": [
+            "IGT"
+          ],
+          "pr": "10,00 € (shop online)",
+          "d": {
+            "it": "Sangiovese e Merlot al 50%, 13,5% vol secondo la scheda aziendale. Vinificazione: fermentazione spontanea con lieviti autoctoni in tini d'acciaio; affinamento in barrique di rovere francese per circa 18 mesi. Rosso rubino, morbido, avvolgente e piacevolmente persistente. Ingredienti: uva; conservanti e antiossidanti (metabisolfito di potassio, contiene solfiti); confezionato in atmosfera protettiva di azoto.",
+            "en": "50% Sangiovese and 50% Merlot, 13.5% ABV according to the estate's sheet. Winemaking: spontaneous fermentation with native yeasts in steel vats; aged in French oak barriques for about 18 months. Ruby red, soft, enveloping and pleasantly persistent. Ingredients: grapes; preservatives and antioxidants (potassium metabisulphite, contains sulphites); packed under nitrogen.",
+            "de": "Je 50% Sangiovese und Merlot, laut Weingut 13,5% Vol. Ausbau: Spontangärung mit einheimischen Hefen in Stahltanks; etwa 18 Monate im Barrique aus französischer Eiche. Rubinrot, weich, umhüllend und angenehm anhaltend. Zutaten: Trauben; Konservierungs- und Antioxidationsmittel (Kaliummetabisulfit, enthält Sulfite); unter Stickstoff abgefüllt."
+          },
+          "a": {
+            "it": "Con grigliate di carne, salumi e formaggi di media stagionatura.",
+            "en": "With grilled meat, cured meats and medium-aged cheeses.",
+            "de": "Zu Gegrilltem, Wurst und mittelalten Käsen."
+          }
+        },
+        "V-26-4": {
+          "c": [
+            "DOC"
+          ],
+          "pr": "15,00 € (shop online)",
+          "d": {
+            "it": "Vermentino, 13% vol. Spremitura delicata con diraspatrice e fermentazione di circa 20 giorni a temperatura controllata di 14-15 °C; affinamento sulle fecce nobili, poi in bottiglia. Paglierino brillante con riflessi verdi, al naso intenso di pesca e albicocca con un tocco iodato; fresco, ricco, morbido e sapido. Per 100 ml: 74 kcal, carboidrati 0,9 g. Ingredienti: uva; conservanti e antiossidanti (metabisolfito di potassio, contiene solfiti); confezionato in atmosfera protettiva di azoto.",
+            "en": "Vermentino, 13% ABV. Gentle pressing after destemming and about 20 days of fermentation at a controlled 14-15 °C; aged on the fine lees, then in bottle. Bright straw yellow with green tints, intense peach and apricot nose with an iodine touch; fresh, rich, soft and savoury. Per 100 ml: 74 kcal, carbohydrates 0.9 g. Ingredients: grapes; preservatives and antioxidants (potassium metabisulphite, contains sulphites); packed under nitrogen.",
+            "de": "Vermentino, 13% Vol. Sanftes Pressen nach dem Entrappen und etwa 20 Tage Gärung bei kontrollierten 14-15 °C; Ausbau auf der Feinhefe, dann auf der Flasche. Leuchtendes Strohgelb mit grünen Reflexen, intensiver Duft nach Pfirsich und Aprikose mit jodiger Note; frisch, reich, weich und würzig. Pro 100 ml: 74 kcal, Kohlenhydrate 0,9 g. Zutaten: Trauben; Konservierungs- und Antioxidationsmittel (Kaliummetabisulfit, enthält Sulfite); unter Stickstoff abgefüllt."
+          },
+          "a": {
+            "it": "Servire a 8-10 °C con primi di mare, carni bianche, pesce, fritture e pecorino.",
+            "en": "Serve at 8-10 °C with seafood pasta, white meat, fish, fried dishes and pecorino.",
+            "de": "Bei 8-10 °C zu Pasta mit Meeresfrüchten, hellem Fleisch, Fisch, Frittiertem und Pecorino servieren."
+          }
+        },
+        "V-26-5": {
+          "c": [
+            "IGT"
+          ],
+          "pr": "12,00 € (shop online)",
+          "d": {
+            "it": "Merlot 100% vinificato in rosato con un breve contatto del mosto con le bucce, 12,5% vol. Il mosto decanta naturalmente in acciaio inox a 10 °C; la fermentazione alcolica è condotta a 16 °C per preservare gli aromi primari; breve affinamento in acciaio. Per 100 ml: 74 kcal, carboidrati 0,7 g. Ingredienti: uva; conservanti e antiossidanti (metabisolfito di potassio, contiene solfiti); confezionato in atmosfera protettiva di azoto.",
+            "en": "100% Merlot made as a rosé with brief skin contact, 12.5% ABV. The must settles naturally in stainless steel at 10 °C; fermentation runs at 16 °C to keep the primary aromas; short ageing in steel. Per 100 ml: 74 kcal, carbohydrates 0.7 g. Ingredients: grapes; preservatives and antioxidants (potassium metabisulphite, contains sulphites); packed under nitrogen.",
+            "de": "100% Merlot, als Rosé mit kurzem Schalenkontakt ausgebaut, 12,5% Vol. Der Most klärt sich natürlich im Edelstahl bei 10 °C; die Gärung läuft bei 16 °C, um die Primäraromen zu bewahren; kurzer Ausbau im Stahl. Pro 100 ml: 74 kcal, Kohlenhydrate 0,7 g. Zutaten: Trauben; Konservierungs- und Antioxidationsmittel (Kaliummetabisulfit, enthält Sulfite); unter Stickstoff abgefüllt."
+          },
+          "a": {
+            "it": "Servire fresco come aperitivo, con antipasti, pesce e piatti estivi.",
+            "en": "Serve chilled as an aperitif, with starters, fish and summer dishes.",
+            "de": "Gekühlt als Aperitif, zu Vorspeisen, Fisch und Sommergerichten."
+          }
+        },
+        "V-26-6": {
+          "c": [],
+          "d": {
+            "it": "Plurivarietale di Leccino, Olivastra e Frantoio dagli antichissimi uliveti aziendali, coltivati con metodi tradizionali a oltre 800 metri sui terreni montuosi dell'Amiata. All'olfatto fruttato netto di oliva, fresco e delicato con pungenti note vegetali; al gusto delicato e rotondo, con un avvio dolce seguito da un piccante di media intensità.",
+            "en": "A blend of Leccino, Olivastra and Frantoio from the estate's ancient olive groves, farmed traditionally at over 800 metres on the mountain slopes of Monte Amiata. Clean fruity olive nose, fresh and delicate with pungent green notes; delicate and round, opening sweet and followed by medium pepperiness.",
+            "de": "Cuvée aus Leccino, Olivastra und Frantoio aus den uralten Olivenhainen des Hauses, traditionell auf über 800 Metern an den Berghängen des Monte Amiata bewirtschaftet. Klar fruchtiger Olivenduft, frisch und zart mit stechenden grünen Noten; zart und rund, mit süßem Auftakt und mittlerer Schärfe."
+          },
+          "a": {
+            "it": "A crudo su bruschette, zuppe, legumi e carni alla brace.",
+            "en": "Raw on bruschetta, soups, pulses and grilled meat.",
+            "de": "Roh auf Bruschetta, Suppen, Hülsenfrüchten und Gegrilltem."
+          }
+        }
+      },
+      "fonti": [
+        "https://www.lapescinella.com/vini-produzione-vino-monte-amiata/",
+        "https://www.lapescinella.com/azienda-agricola-la-pescinella/",
+        "https://www.lapescinella.com/cantina-la-pescinella-wine/",
+        "https://wine-all.com/it/brand/50-la-pescinella-az-agricola"
+      ]
     }
   ],
   "IMG": {
@@ -10263,6 +10470,14 @@ window.VETRINE = {
     "prod-V-25-43": "https://www.dolcidicasasofia.it/wp-content/uploads/2022/06/CHADONNAY-FRIZZANTE.jpg",
     "prod-V-25-44": "https://www.dolcidicasasofia.it/wp-content/uploads/2022/06/DOLCETTO-DAQUI-12-GRADI.jpg",
     "prod-V-25-45": "https://www.dolcidicasasofia.it/wp-content/uploads/2022/06/DOLCETTO-DAQUI.jpg",
-    "prod-V-25-46": "https://www.dolcidicasasofia.it/wp-content/uploads/2022/06/PRODIGIO-ROSSO-VINO.jpg"
+    "prod-V-25-46": "https://www.dolcidicasasofia.it/wp-content/uploads/2022/06/PRODIGIO-ROSSO-VINO.jpg",
+    "logo-V-26": "https://www.lapescinella.com/wp-content/uploads/2025/02/logo-la-pescinella-ok.webp",
+    "prod-V-26-0": "https://www.lapescinella.com/wp-content/uploads/2025/02/prova-il-moro-prova-1_16_11zon.webp",
+    "prod-V-26-1": "https://www.lapescinella.com/wp-content/uploads/2025/02/prova-vino-lussuria_14_11zon.webp",
+    "prod-V-26-2": "https://www.lapescinella.com/wp-content/uploads/2025/02/prova-vino-pero_15.webp",
+    "prod-V-26-3": "https://www.lapescinella.com/wp-content/uploads/2025/02/prova-vino-davvero_13_11zon.webp",
+    "prod-V-26-4": "https://www.lapescinella.com/wp-content/uploads/2025/02/rosamunda-prova-vino_21_11zon.webp",
+    "prod-V-26-5": "https://www.lapescinella.com/wp-content/uploads/2025/02/birichino-prova-vino_1_11zon.webp",
+    "prod-V-26-6": "https://www.lapescinella.com/wp-content/uploads/2025/02/PHOTO-2025-01-29-08-57-27-1_2_11zon.webp"
   }
 };
