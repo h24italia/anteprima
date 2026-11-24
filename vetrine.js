@@ -6056,6 +6056,302 @@ window.VETRINE = {
         "https://olioleferre.com/azienda/",
         "https://olioleferre.com/wp-content/uploads/2026/10/LE_FERRE_2027_CATALOGO_.pdf"
       ]
+    },
+    {
+      "id": "V-14",
+      "n": "Cascina Cipressa",
+      "cat": "vino",
+      "reg": "Toscana",
+      "city": "San Miniato (PI)",
+      "lat": 43.675,
+      "lng": 10.773,
+      "y": null,
+      "certs": [
+        "DOCG",
+        "IGT"
+      ],
+      "exp": [],
+      "lg": [
+        "it",
+        "en"
+      ],
+      "moq": null,
+      "d": {
+        "it": "Azienda agricola e agriturismo sulla collina di Montalto, vicino a San Romano, la più alta tra quelle che circondano San Miniato, in provincia di Pisa. Su 22 ettari tra uliveti, vigneti e campagna produce vino e olio extravergine dalle proprie olive. I 3,3 ettari di vigneto, piantati circa 35 anni fa, sono i più alti della zona: argilla, sassi e minerali antichi nel suolo e il vento dal mare, che porta notti tiepide, danno complessità ai vini. È una piccola cantina che segue da vicino ogni fase: concima solo con prodotti organici e lascia lavorare la natura senza forzarla, con la tradizione toscana come guida. Dal 2022, con la nuova proprietà, la struttura è stata restaurata e oggi ospita anche camere, il ristorante Cipressino e una piscina, con energia solare e colonnine per auto elettriche.",
+        "en": "A farm and agriturismo on Montalto hill near San Romano, the highest of the hills around San Miniato, in the province of Pisa. On 22 hectares of olive groves, vineyards and countryside it makes wine and extra virgin olive oil from its own olives. Its 3.3 hectares of vines, planted about 35 years ago, are the highest in the area: clay, stones and ancient minerals in the soil and the sea wind, which brings warm nights, give the wines complexity. It is a small winery that follows every step closely: it fertilises only with organic products and lets nature work without forcing it, guided by Tuscan tradition. Since 2022, under new ownership, the property has been restored and now also has rooms, the Cipressino restaurant and a pool, with solar power and EV charging.",
+        "de": "Landgut und Agriturismo auf dem Hügel Montalto bei San Romano, dem höchsten rund um San Miniato in der Provinz Pisa. Auf 22 Hektar mit Olivenhainen, Weinbergen und Landschaft entstehen Wein und natives Olivenöl extra aus eigenen Oliven. Die 3,3 Hektar Reben, vor rund 35 Jahren gepflanzt, sind die höchstgelegenen der Gegend: Ton, Steine und alte Mineralien im Boden und der Meereswind, der warme Nächte bringt, verleihen den Weinen Komplexität. Ein kleines Weingut, das jeden Schritt eng begleitet: gedüngt wird nur mit organischen Mitteln, die Natur wird nicht gedrängt, die toskanische Tradition ist der Leitfaden. Seit 2022 ist das Anwesen unter neuen Eigentümern restauriert und bietet auch Zimmer, das Restaurant Cipressino und einen Pool, mit Solarstrom und Ladestationen für E-Autos."
+      },
+      "p": [
+        [
+          "Aurea, IGT Toscana Bianco",
+          ""
+        ],
+        [
+          "Serenitas, IGT Toscana Rosato",
+          ""
+        ],
+        [
+          "Eredità, Chianti DOCG",
+          ""
+        ],
+        [
+          "Colle dell'Assedio, Merlot IGT",
+          ""
+        ],
+        [
+          "Concordia, IGT Toscana Rosso",
+          ""
+        ]
+      ],
+      "pd": {
+        "V-14-0": {
+          "c": [
+            "IGT"
+          ],
+          "d": {
+            "it": "Bianco da uve bianche tradizionali toscane e Sauvignon blanc, fresco, intrigante e ricco. Vigneto a cordone speronato, fermentazione e affinamento in acciaio; circa 1.000 bottiglie l'anno. Giallo intenso; al naso fiori bianchi, peperone verde e pesca; in bocca minerale, con pesca matura e sapori ben bilanciati.",
+            "en": "A white from traditional Tuscan white grapes and Sauvignon Blanc: fresh, intriguing and rich. Spur-pruned vineyard, fermented and aged in steel; about 1,000 bottles a year. Deep yellow; white flowers, green pepper and peach on the nose; mineral on the palate, with ripe peach and well-balanced flavours.",
+            "de": "Weißwein aus traditionellen toskanischen weißen Rebsorten und Sauvignon Blanc: frisch, spannend und reichhaltig. Zapfenschnitt, Gärung und Ausbau im Stahltank; rund 1.000 Flaschen im Jahr. Kräftiges Gelb; in der Nase weiße Blüten, grüne Paprika und Pfirsich; am Gaumen mineralisch, mit reifem Pfirsich und ausgewogenen Aromen."
+          },
+          "a": {
+            "it": "Perfetto con ogni preparazione di pesce e come aperitivo.",
+            "en": "Perfect with any fish dish and as an aperitif.",
+            "de": "Passt zu allen Fischgerichten und als Aperitif."
+          }
+        },
+        "V-14-1": {
+          "c": [
+            "IGT"
+          ],
+          "d": {
+            "it": "Rosato ottenuto per salasso: subito dopo pigiatura e diraspatura si preleva una parte del mosto, lasciandolo a contatto con le bucce quanto basta per un leggero colore. Nasce dalle uve rosse dell'annata e ne è una sintesi. Cordone speronato, fermentazione e affinamento in acciaio; circa 1.000 bottiglie l'anno. Rosso rubino tenue; al naso fiori, ciliegia selvatica e pesca; in bocca frutti di bosco, ciliegia selvatica e pesca in equilibrio.",
+            "en": "A rosé made by saignée: right after crushing and destemming, part of the juice is drawn off, left on the skins just long enough for a light colour. It comes from the year's red grapes and sums them up. Spur-pruned vineyard, fermented and aged in steel; about 1,000 bottles a year. Pale ruby; flowers, wild cherry and peach on the nose; berries, wild cherry and peach in balance on the palate.",
+            "de": "Rosé nach der Saignée-Methode: Direkt nach dem Quetschen und Entrappen wird ein Teil des Mosts abgezogen und nur so lange auf den Schalen gelassen, bis er leicht Farbe annimmt. Er stammt aus den roten Trauben des Jahrgangs und fasst sie zusammen. Zapfenschnitt, Gärung und Ausbau im Stahltank; rund 1.000 Flaschen im Jahr. Helles Rubinrot; in der Nase Blüten, Wildkirsche und Pfirsich; am Gaumen Beeren, Wildkirsche und Pfirsich im Gleichgewicht."
+          },
+          "a": {
+            "it": "Perfetto con ogni piatto di pesce, anche il cacciucco, e come aperitivo.",
+            "en": "Perfect with any fish dish, even cacciucco fish stew, and as an aperitif.",
+            "de": "Passt zu allen Fischgerichten, auch zu Cacciucco, der toskanischen Fischsuppe, und als Aperitif."
+          }
+        },
+        "V-14-2": {
+          "c": [
+            "DOCG"
+          ],
+          "d": {
+            "it": "Il Chianti della casa, tra tradizione e un vino moderno, ricco e di corpo. Cordone speronato, fermentazione in acciaio e affinamento in tonneaux di rovere francese da 500 litri; circa 13.000 bottiglie l'anno. Rosso con riflessi violacei; al naso elegante, con sentori di rosa e viola; in bocca complesso, con frutto, vaniglia e cuoio dati dal legno.",
+            "en": "The estate's Chianti, combining tradition with a modern, rich, full-bodied style. Spur-pruned vineyard, fermented in steel and aged in 500-litre French oak tonneaux; about 13,000 bottles a year. Red with violet hues; elegant nose of rose and violet; complex on the palate, with fruit, vanilla and leather from the oak.",
+            "de": "Der Chianti des Hauses: Tradition trifft auf einen modernen, reichhaltigen, körperreichen Stil. Zapfenschnitt, Gärung im Stahltank, Ausbau in 500-Liter-Tonneaux aus französischer Eiche; rund 13.000 Flaschen im Jahr. Rot mit violetten Reflexen; elegante Nase mit Rose und Veilchen; am Gaumen komplex, mit Frucht, Vanille und Leder aus dem Holz."
+          },
+          "a": {
+            "it": "Ideale con le ricette tradizionali toscane e con ogni arrosto.",
+            "en": "Ideal with traditional Tuscan recipes and any roast.",
+            "de": "Ideal zu traditionellen toskanischen Gerichten und jedem Braten."
+          }
+        },
+        "V-14-3": {
+          "c": [
+            "IGT"
+          ],
+          "d": {
+            "it": "Merlot in purezza. Il nome ricorda l'assedio di San Miniato del 1370, durante la guerra tra Firenze e Pisa: secondo ricerche storiche, sulla collina dove sorge oggi la cascina furono piazzate delle catapulte. Sole toscano e vento dal mare o dalle colline lucchesi portano il Merlot a maturazione a fine agosto. Cordone speronato, fermentazione in acciaio e affinamento in tonneaux da 500 litri; circa 2.500 bottiglie l'anno. Rosso intenso; al naso ciliegia, mora, vaniglia e tabacco; in bocca morbido e lungo, con tannini fini, cuoio e frutta rossa matura.",
+            "en": "A pure Merlot. The name recalls the 1370 siege of San Miniato in the war between Florence and Pisa: historical research suggests catapults were placed on the hill where the farmhouse now stands. Tuscan sun and winds from the sea or the hills near Lucca ripen the Merlot by late August. Spur-pruned vineyard, fermented in steel and aged in 500-litre tonneaux; about 2,500 bottles a year. Deep red; cherry, blackberry, vanilla and tobacco on the nose; soft and long on the palate, with fine tannins, leather and ripe red fruit.",
+            "de": "Reinsortiger Merlot. Der Name erinnert an die Belagerung von San Miniato 1370 im Krieg zwischen Florenz und Pisa: Historischen Forschungen zufolge standen auf dem Hügel, auf dem heute das Gut liegt, Katapulte. Toskanische Sonne und Wind vom Meer oder von den Hügeln bei Lucca lassen den Merlot bis Ende August reifen. Zapfenschnitt, Gärung im Stahltank, Ausbau in 500-Liter-Tonneaux; rund 2.500 Flaschen im Jahr. Tiefes Rot; in der Nase Kirsche, Brombeere, Vanille und Tabak; am Gaumen weich und lang, mit feinen Tanninen, Leder und reifer roter Frucht."
+          },
+          "a": {
+            "it": "Perfetto con ogni piatto di carne e per le lunghe chiacchierate d'inverno tra amici.",
+            "en": "Perfect with any meat dish and for long winter conversations with friends.",
+            "de": "Passt zu allen Fleischgerichten und zu langen Winterabenden mit Freunden."
+          }
+        },
+        "V-14-4": {
+          "c": [
+            "IGT"
+          ],
+          "d": {
+            "it": "Taglio di Sangiovese (80%) e Cabernet Sauvignon (20%), lo stile diventato un classico toscano dagli anni Ottanta. È l'ultimo nato della cantina, alla prima imbottigliatura, arrivato dopo molte prove. Cordone speronato, fermentazione in acciaio e affinamento in tonneaux da 500 litri; circa 2.500 bottiglie l'anno. Rosso intenso; al naso profondo, con frutti di bosco, menta e la tipica nota di foglia di pomodoro; in bocca ricco, profondo e lungo, con frutti di bosco, vaniglia, pepe nero, tabacco e cacao.",
+            "en": "A blend of Sangiovese (80%) and Cabernet Sauvignon (20%), a style that has been a Tuscan classic since the 1980s. It is the winery's newest wine, at its first bottling, reached after many trials. Spur-pruned vineyard, fermented in steel and aged in 500-litre tonneaux; about 2,500 bottles a year. Deep red; a deep nose of berries and mint with the typical hint of tomato leaf; rich, deep and long on the palate, with berries, vanilla, black pepper, tobacco and cocoa.",
+            "de": "Cuvée aus Sangiovese (80 %) und Cabernet Sauvignon (20 %), ein Stil, der seit den 1980er-Jahren ein toskanischer Klassiker ist. Der jüngste Wein des Hauses, erste Abfüllung, nach vielen Versuchen entstanden. Zapfenschnitt, Gärung im Stahltank, Ausbau in 500-Liter-Tonneaux; rund 2.500 Flaschen im Jahr. Tiefes Rot; tiefe Nase mit Waldbeeren, Minze und der typischen Note von Tomatenblatt; am Gaumen reich, tief und lang, mit Beeren, Vanille, schwarzem Pfeffer, Tabak und Kakao."
+          },
+          "a": {
+            "it": "Ideale con arrosti e brasati di vitello a lunga cottura, e per ogni momento speciale.",
+            "en": "Ideal with roasts and slow-braised veal, and for every special moment.",
+            "de": "Ideal zu Braten und lange geschmortem Kalb, und für jeden besonderen Moment."
+          }
+        }
+      },
+      "fonti": [
+        "https://www.cascinacipressa.com/products",
+        "https://www.cascinacipressa.com/about"
+      ]
+    },
+    {
+      "id": "V-15",
+      "n": "Vozzi Vini",
+      "cat": "vino",
+      "reg": "Basilicata",
+      "city": "Chiaromonte (PZ)",
+      "lat": 40.124,
+      "lng": 16.214,
+      "y": 1940,
+      "certs": [
+        "Bio",
+        "IGP",
+        "Prodotto di montagna"
+      ],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "logoBg": "#2b2b2b",
+      "d": {
+        "it": "Azienda vitivinicola fondata nel 1940 a Chiaromonte, in provincia di Potenza, da Pasquale Vozzi, nel cuore della terra che i Greci chiamavano Enotria, \"terra del vino\". Negli anni Novanta il Senatore Antonio Vozzi l'ha ampliata, ha piantato i vigneti di Sangiovese e Merlot e ha lavorato sui vitigni antichi del posto, portando all'identificazione del Guarnaccino, di cui restavano poche piante sparse. Oggi in azienda lavorano i figli Ermelinda e Pasquale, terza generazione. I vigneti, nel Parco Nazionale del Pollino lungo la valle del Sinni, stanno a circa 550 metri, esposti a sud-est su terreni pleistocenici argillosi e ricchi di minerali, con pendenze forti e grandi escursioni tra giorno e notte; le uve sono certificate biologiche e i vini sono IGP e Prodotto di montagna. Nella nuova cantina in contrada Armirosse, accanto alle vigne e alimentata a energia solare, si vinifica in vasche di cemento armato, che non cedono aromi al vino. Collabora con l'agronomo ed enologo Alfredo Tocchini. Il nome Kouros viene dalla statua in bronzo ritrovata sull'acropoli di Chiaromonte, simbolo del paese. Visite e degustazioni su prenotazione.",
+        "en": "A winery founded in 1940 in Chiaromonte, province of Potenza, by Pasquale Vozzi, in the heart of the land the Greeks called Enotria, \"land of wine\". In the 1990s Senator Antonio Vozzi expanded it, planted the Sangiovese and Merlot vineyards and worked on the area's old grape varieties, leading to the identification of Guarnaccino, of which only a few scattered vines remained. Today his children Ermelinda and Pasquale, the third generation, run the estate. The vineyards, in the Pollino National Park along the Sinni valley, lie at about 550 metres, facing south-east on Pleistocene clay soils rich in minerals, with steep slopes and wide day-night temperature swings; the grapes are certified organic and the wines are PGI and certified mountain products. In the new winery in the Armirosse district, next to the vines and powered by solar energy, the wines are made in reinforced concrete tanks, which add no aromas. The estate works with agronomist and oenologist Alfredo Tocchini. The name Kouros comes from the bronze statue found on Chiaromonte's acropolis, the town's symbol. Visits and tastings by appointment.",
+        "de": "Weingut, 1940 in Chiaromonte in der Provinz Potenza von Pasquale Vozzi gegründet, im Herzen des Landes, das die Griechen Enotria nannten, \"Land des Weins\". In den 1990er-Jahren erweiterte Senator Antonio Vozzi den Betrieb, pflanzte die Weinberge mit Sangiovese und Merlot und arbeitete an den alten Rebsorten der Gegend, was zur Bestimmung des Guarnaccino führte, von dem nur noch wenige verstreute Stöcke übrig waren. Heute führen seine Kinder Ermelinda und Pasquale, die dritte Generation, das Gut. Die Weinberge im Nationalpark Pollino entlang des Sinni-Tals liegen auf rund 550 Metern, nach Südosten ausgerichtet, auf pleistozänen, mineralreichen Lehmböden, mit steilen Hängen und großen Temperaturunterschieden zwischen Tag und Nacht; die Trauben sind biologisch zertifiziert, die Weine g.g.A. und als Bergprodukt zertifiziert. In der neuen Kellerei im Ortsteil Armirosse, direkt an den Reben und mit Solarstrom betrieben, wird in Stahlbetontanks ausgebaut, die keine Aromen abgeben. Das Gut arbeitet mit dem Agronomen und Önologen Alfredo Tocchini zusammen. Der Name Kouros stammt von der Bronzestatue, die auf der Akropolis von Chiaromonte gefunden wurde und Symbol des Ortes ist. Besuche und Verkostungen nach Voranmeldung."
+      },
+      "p": [
+        [
+          "Guarnaccino, Basilicata Rosso IGP",
+          "bottiglia da 75 cl"
+        ],
+        [
+          "Kouros Rosso, Basilicata Rosso IGP",
+          "bottiglia da 75 cl"
+        ],
+        [
+          "Kouros Bianco, Basilicata Bianco IGP",
+          "bottiglia da 75 cl"
+        ],
+        [
+          "Kouros Rosè, Basilicata Rosato IGP",
+          "bottiglia da 75 cl"
+        ],
+        [
+          "Vino Basilicata Rosso (sfuso)",
+          "3 litri · 5 litri"
+        ],
+        [
+          "Tris Vini: Assaggio Tutto",
+          "3 × bottiglia da 75 cl"
+        ]
+      ],
+      "pd": {
+        "V-15-0": {
+          "c": [
+            "IGP",
+            "Bio",
+            "Prodotto di montagna"
+          ],
+          "pr": "15,60 €",
+          "d": {
+            "it": "Rosso da Guarnaccino in purezza, vitigno autoctono a bacca nera di Chiaromonte, dimenticato per anni e salvato dalla scomparsa: oggi è iscritto nel registro nazionale delle varietà di vite. Le uve crescono su antichi strati alternati di sabbie, ghiaie e argille, che danno complessità e struttura. Rosso rubino intenso con riflessi violacei; al naso frutti rossi intensi, a cui con l'invecchiamento si uniscono spezie; in bocca caldo, armonico, delicato e setoso, intenso e persistente, con una nota tannica che lo rende adatto all'invecchiamento. Annata 2024, alcol 14%, servizio a 12-14 °C.",
+            "en": "A pure Guarnaccino red, from a black-berried grape native to Chiaromonte that was forgotten for years and saved from extinction; it is now listed in Italy's national register of vine varieties. The grapes grow on ancient alternating layers of sand, gravel and clay, which give complexity and structure. Deep ruby with violet hints; intense red fruit on the nose, joined by spice as it ages; warm, harmonious, delicate and silky on the palate, intense and persistent, with a tannic note that suits ageing. 2024 vintage, 14% ABV, serve at 12-14 °C.",
+            "de": "Reinsortiger Rotwein aus Guarnaccino, einer autochthonen roten Rebsorte aus Chiaromonte, die jahrelang vergessen war und vor dem Verschwinden gerettet wurde; heute ist sie im nationalen Rebsortenregister eingetragen. Die Trauben wachsen auf uralten, abwechselnden Schichten aus Sand, Kies und Ton, die Komplexität und Struktur verleihen. Tiefes Rubinrot mit violetten Reflexen; in der Nase intensive rote Früchte, mit der Reifung kommen Gewürze hinzu; am Gaumen warm, harmonisch, zart und seidig, intensiv und anhaltend, mit einer Tanninnote, die ihn lagerfähig macht. Jahrgang 2024, 14 % Vol., Serviertemperatur 12-14 °C."
+          },
+          "a": {
+            "it": "Perfetto con piatti di carne o di verdure, piacevole anche fuori pasto.",
+            "en": "Perfect with meat or vegetable dishes, and enjoyable on its own too.",
+            "de": "Passt zu Fleisch- und Gemüsegerichten und schmeckt auch solo."
+          }
+        },
+        "V-15-1": {
+          "c": [
+            "IGP",
+            "Bio",
+            "Prodotto di montagna"
+          ],
+          "pr": "8,00 €",
+          "d": {
+            "it": "Rosso da uve biologiche Sangiovese (60%) e Merlot (40%) coltivate nel Parco Nazionale del Pollino, su suoli argillo-ciottolosi di una collina assolata, con forti escursioni termiche che danno profumi intensi. Vinificato in vasche di cemento armato. Rosso rubino intenso con velature violacee; al naso prugna, lampone e ciliegia, confettura di frutti rossi e spezie di sottobosco mediterraneo; in bocca rotondo e armonico, tannini morbidi e setosi, buona acidità e grande persistenza. Nel 2021 è stato selezionato alla 3ª Rassegna Degustazione Nazionale dei Vini dei Parchi e delle Aree Protette. Alcol 14%, servizio a 15-18 °C.",
+            "en": "A red from organic Sangiovese (60%) and Merlot (40%) grown in the Pollino National Park, on clay and pebble soils of a sunny hill whose wide day-night temperature swings give intense aromas. Vinified in reinforced concrete tanks. Deep ruby with violet tints; plum, raspberry and cherry on the nose, with red fruit jam and Mediterranean undergrowth spices; round and harmonious on the palate, with soft, silky tannins, good acidity and great length. In 2021 it was selected at the 3rd National Tasting of Wines from Parks and Protected Areas. 14% ABV, serve at 15-18 °C.",
+            "de": "Rotwein aus biologischem Sangiovese (60 %) und Merlot (40 %) aus dem Nationalpark Pollino, auf lehmig-steinigen Böden eines sonnigen Hügels, dessen starke Temperaturschwankungen intensive Aromen bringen. Vinifiziert in Stahlbetontanks. Tiefes Rubinrot mit violetten Tönen; in der Nase Pflaume, Himbeere und Kirsche, Konfitüre roter Früchte und Gewürze des mediterranen Unterholzes; am Gaumen rund und harmonisch, weiche, seidige Tannine, gute Säure und große Länge. 2021 wurde er bei der 3. Nationalen Verkostung der Weine aus Parks und Schutzgebieten ausgewählt. 14 % Vol., Serviertemperatur 15-18 °C."
+          },
+          "a": {
+            "it": "Ideale con formaggi stagionati, carni rosse e cacciagione, alla griglia o in altre cotture, zuppe saporite e verdure grigliate.",
+            "en": "Ideal with aged cheeses, red meat and game, grilled or cooked other ways, hearty soups and grilled vegetables.",
+            "de": "Ideal zu gereiftem Käse, rotem Fleisch und Wild, gegrillt oder anders zubereitet, kräftigen Suppen und gegrilltem Gemüse."
+          }
+        },
+        "V-15-2": {
+          "c": [
+            "IGP",
+            "Bio",
+            "Prodotto di montagna"
+          ],
+          "pr": "9,00 €",
+          "d": {
+            "it": "Bianco da uve biologiche Viognier e Trebbiano Toscano coltivate a 550 metri a Chiaromonte, nel Parco Nazionale del Pollino, su terreni a strati alternati di sabbie, ghiaie e argille esposti a sud-est. Vinificato in vasche di cemento armato. Giallo paglierino con riflessi verdognoli; al naso fiori di agrumi e di acacia con note di pesca e albicocca; in bocca fresco e piacevolmente intenso, con note agrumate e floreali, sapidità e persistenza. Alcol 12%, servizio a 8-10 °C.",
+            "en": "A white from organic Viognier and Trebbiano Toscano grown at 550 metres in Chiaromonte, in the Pollino National Park, on south-east facing soils of alternating sand, gravel and clay. Vinified in reinforced concrete tanks. Straw yellow with greenish hints; citrus and acacia blossom with peach and apricot on the nose; fresh and pleasantly intense on the palate, with citrus and floral notes, savouriness and length. 12% ABV, serve at 8-10 °C.",
+            "de": "Weißwein aus biologischem Viognier und Trebbiano Toscano aus Chiaromonte auf 550 Metern, im Nationalpark Pollino, auf südöstlich ausgerichteten Böden aus abwechselnden Schichten von Sand, Kies und Ton. Vinifiziert in Stahlbetontanks. Strohgelb mit grünlichen Reflexen; in der Nase Zitrus- und Akazienblüten mit Pfirsich und Aprikose; am Gaumen frisch und angenehm intensiv, mit Zitrus- und Blütennoten, Mineralität und Länge. 12 % Vol., Serviertemperatur 8-10 °C."
+          },
+          "a": {
+            "it": "Perfetto come aperitivo e con piatti di pesce e crudi di mare; accompagna anche carni bianche, verdure, formaggi morbidi e il baccalà con peperoni cruschi.",
+            "en": "Perfect as an aperitif and with fish dishes and raw seafood; also good with white meat, vegetables, soft cheeses and salt cod with crusco peppers.",
+            "de": "Ideal als Aperitif und zu Fischgerichten und rohen Meeresfrüchten; passt auch zu hellem Fleisch, Gemüse, Weichkäse und Stockfisch mit Peperoni cruschi."
+          }
+        },
+        "V-15-3": {
+          "c": [
+            "IGP",
+            "Bio",
+            "Prodotto di montagna"
+          ],
+          "pr": "9,00 €",
+          "d": {
+            "it": "Rosato da uve Sangiovese biologiche coltivate a 600 metri sulle colline di Chiaromonte. Dopo una breve macerazione sulle bucce, il mosto fermenta lentamente a temperatura controllata e il vino affina alcuni mesi in acciaio inox; si imbottiglia a inizio primavera. Suoli di sabbie, ghiaie e argille e forti escursioni tra giorno e notte gli danno freschezza e un profilo aromatico vivace. Rosa tenue e brillante con riflessi ramati; al naso melograno, fragolina di bosco, petali di rosa e agrumi; in bocca fresco, succoso e sapido, con finale fruttato e persistenza minerale. Alcol 12,5%, servizio a 8-10 °C.",
+            "en": "A rosé from organic Sangiovese grown at 600 metres on the hills of Chiaromonte. After a short maceration on the skins, the must ferments slowly at controlled temperature and the wine rests for a few months in stainless steel; it is bottled in early spring. Sand, gravel and clay soils and wide day-night temperature swings give it freshness and a lively aromatic profile. Pale, bright pink with copper hints; pomegranate, wild strawberry, rose petals and citrus on the nose; fresh, juicy and savoury on the palate, with a fruity finish and mineral length. 12.5% ABV, serve at 8-10 °C.",
+            "de": "Rosé aus biologischem Sangiovese von den Hügeln von Chiaromonte auf 600 Metern. Nach kurzer Mazeration auf den Schalen gärt der Most langsam bei kontrollierter Temperatur, der Wein reift einige Monate im Edelstahl und wird im Frühjahr abgefüllt. Böden aus Sand, Kies und Ton und starke Temperaturunterschiede zwischen Tag und Nacht geben ihm Frische und ein lebendiges Aromaprofil. Zartes, leuchtendes Rosa mit kupfernen Reflexen; in der Nase Granatapfel, Walderdbeere, Rosenblätter und Zitrus; am Gaumen frisch, saftig und mineralisch, mit fruchtigem Abgang. 12,5 % Vol., Serviertemperatur 8-10 °C."
+          },
+          "a": {
+            "it": "Perfetto come aperitivo estivo, con antipasti di mare, tartare di pesce e sushi; sorprende anche con cucina vegetariana, piatti etnici leggeri e carni bianche alla griglia.",
+            "en": "Perfect as a summer aperitif, with seafood starters, fish tartare and sushi; also surprising with vegetarian food, light ethnic dishes and grilled white meat.",
+            "de": "Ideal als Sommeraperitif, zu Meeresfrüchte-Vorspeisen, Fischtatar und Sushi; überrascht auch zu vegetarischer Küche, leichten internationalen Gerichten und gegrilltem hellem Fleisch."
+          }
+        },
+        "V-15-4": {
+          "c": [
+            "Bio"
+          ],
+          "pr": "10,50 € (3 L) · 17,50 € (5 L)",
+          "d": {
+            "it": "Vino rosso da tavola da bere tutti i giorni, da vigneti biologici nel Parco del Pollino. Nasce da più varietà dei vigneti di famiglia: Cabernet Franc, Cabernet Sauvignon, Montepulciano, Merlot e un tocco di Guarnaccino, l'uva autoctona di Chiaromonte. Rosso rubino intenso con velature violacee; rotondo e armonico, con tannini morbidi e setosi e una buona acidità che lo rende piacevole e persistente. Alcol 13%, servizio a 15-18 °C.",
+            "en": "An everyday red table wine from organic vineyards in the Pollino Park. It is made from several varieties grown by the family: Cabernet Franc, Cabernet Sauvignon, Montepulciano, Merlot and a touch of Guarnaccino, Chiaromonte's native grape. Deep ruby with violet tints; round and harmonious, with soft, silky tannins and good acidity that make it pleasant and persistent. 13% ABV, serve at 15-18 °C.",
+            "de": "Roter Tafelwein für jeden Tag aus biologischen Weinbergen im Pollino-Park. Er entsteht aus mehreren Rebsorten der Familie: Cabernet Franc, Cabernet Sauvignon, Montepulciano, Merlot und einem Hauch Guarnaccino, der autochthonen Traube aus Chiaromonte. Tiefes Rubinrot mit violetten Tönen; rund und harmonisch, mit weichen, seidigen Tanninen und guter Säure, angenehm und anhaltend. 13 % Vol., Serviertemperatur 15-18 °C."
+          },
+          "a": {
+            "it": "Con salumi stagionati, carni rosse alla griglia e primi elaborati come lasagne o pasta al forno; in generale con molti piatti diversi.",
+            "en": "With cured meats, grilled red meat and rich pasta dishes such as lasagne or baked pasta; in general, with many different dishes.",
+            "de": "Zu luftgetrockneter Wurst, gegrilltem rotem Fleisch und üppigen Pastagerichten wie Lasagne oder Nudelauflauf; allgemein zu vielen Gerichten."
+          }
+        },
+        "V-15-5": {
+          "c": [
+            "IGP",
+            "Bio",
+            "Prodotto di montagna"
+          ],
+          "pr": "30,00 € (in offerta, prezzo pieno 32,00 €)",
+          "d": {
+            "it": "Confezione con tre bottiglie da 75 cl: Kouros Rosso (Merlot e Sangiovese), Kouros Bianco (Viognier e Trebbiano Toscano) e Guarnaccino. Per assaggiare i vini della cantina in una volta sola.",
+            "en": "A box of three 75 cl bottles: Kouros Rosso (Merlot and Sangiovese), Kouros Bianco (Viognier and Trebbiano Toscano) and Guarnaccino. A way to taste the winery's range in one go.",
+            "de": "Box mit drei Flaschen zu 75 cl: Kouros Rosso (Merlot und Sangiovese), Kouros Bianco (Viognier und Trebbiano Toscano) und Guarnaccino. So lässt sich das Sortiment auf einmal probieren."
+          },
+          "a": {
+            "it": "Pensata anche come idea regalo.",
+            "en": "Also designed as a gift.",
+            "de": "Auch als Geschenk gedacht."
+          }
+        }
+      },
+      "fonti": [
+        "https://www.vozzivini.it/vini/",
+        "https://www.vozzivini.it/web/shop/",
+        "https://www.vozzivini.it/web/storia-vozzi/",
+        "https://www.vozzivini.it/web/vigneti/",
+        "https://www.vozzivini.it/cantina/",
+        "https://www.vozzivini.it/web/territorio/"
+      ]
     }
   ],
   "IMG": {
@@ -6303,6 +6599,19 @@ window.VETRINE = {
     "prod-V-13-86": "https://shopleferre.com/wp-content/uploads/2022/11/1_-25.png",
     "prod-V-13-87": "https://shopleferre.com/wp-content/uploads/2022/11/pochette_LF_verde_open_aromatizzati-1024x1024.png",
     "prod-V-13-88": "https://shopleferre.com/wp-content/uploads/2022/07/1_-21.png",
-    "prod-V-13-89": "https://shopleferre.com/wp-content/uploads/2024/11/autentico_lamp_composizione.png"
+    "prod-V-13-89": "https://shopleferre.com/wp-content/uploads/2024/11/autentico_lamp_composizione.png",
+    "logo-V-14": "https://images.squarespace-cdn.com/content/v1/67cab5e8b8138e14a93fc10f/1741338114036-P3OP500H6ZUSGE5SS1GO/Kopie+van+full_trimmed_white_base.png",
+    "prod-V-14-0": "img/v14-aurea.jpg",
+    "prod-V-14-1": "img/v14-serenitas.jpg",
+    "prod-V-14-2": "img/v14-eredita.jpg",
+    "prod-V-14-3": "img/v14-colle-dell-assedio.jpg",
+    "prod-V-14-4": "img/v14-concordia.jpg",
+    "logo-V-15": "https://www.vozzivini.it/web/wp-content/uploads/2023/09/log-vozz.png",
+    "prod-V-15-0": "https://www.vozzivini.it/web/wp-content/uploads/2024/09/acquista-guarnaccino-di-chiaromonte-vozzi-vini-shop-online-uva-autoctona-basilicata.jpg",
+    "prod-V-15-1": "https://www.vozzivini.it/web/wp-content/uploads/2023/10/bbbbbb-1.jpg",
+    "prod-V-15-2": "https://www.vozzivini.it/web/wp-content/uploads/2023/09/bianco.jpg",
+    "prod-V-15-3": "https://www.vozzivini.it/web/wp-content/uploads/2025/05/vino-rose-vozzi-vini-lucano-basilicata-sangiovese-uve-bio-made-in-italy-online-acquista.jpg",
+    "prod-V-15-4": "https://www.vozzivini.it/web/wp-content/uploads/2023/10/vino-rosso-tavola.jpg",
+    "prod-V-15-5": "https://www.vozzivini.it/web/wp-content/uploads/2024/11/box-tris-vino-biologico-guarnaccino-merlot-sangiovese-rosso-Viognier-e-Trebbiano-bianco-vozzi-vini-lucani-basilicata-italia-made-in-italy-wine.jpg"
   }
 };
