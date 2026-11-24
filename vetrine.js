@@ -7734,6 +7734,7 @@ window.VETRINE = {
         "it"
       ],
       "moq": null,
+      "logoBg": "#fdf6ee",
       "d": {
         "it": "Liquorificio artigianale di La Morra, borgo medievale nel cuore delle Langhe, patrimonio UNESCO dal 2014 e terra del Barolo. Qui nasce il Nocciolino Langhe, un liquore che vuole valorizzare la nocciola più celebre del Piemonte: solo Nocciola Piemonte IGP della varietà Tonda Gentile Trilobata, scelta tra le migliori coltivazioni delle Langhe e tostata con cura. Ogni bottiglia è il frutto di un'infusione lenta e di una macerazione tradizionale, seguendo ricette tramandate da generazioni, per unire tradizione e innovazione e far conoscere le eccellenze di questo territorio.",
         "en": "An artisan liqueur maker in La Morra, a medieval village in the heart of the Langhe, a UNESCO World Heritage site since 2014 and home of Barolo. This is where Nocciolino Langhe is made, a liqueur that showcases Piedmont's most famous hazelnut: only Nocciola Piemonte IGP of the Tonda Gentile Trilobata variety, chosen from the best Langhe orchards and carefully toasted. Every bottle comes from slow infusion and traditional maceration, following recipes handed down through generations, combining tradition and innovation to promote the excellence of this land.",
@@ -8085,6 +8086,7 @@ window.VETRINE = {
     "prod-V-19-29": "https://cdn.shopify.com/s/files/1/0574/3732/3315/files/pate-pomodori-secchi-olio-evo-minnelea_0ff9b345-ced6-4ca3-a41d-cfbf235809b2.jpg?width=900",
     "prod-V-19-30": "https://cdn.shopify.com/s/files/1/0574/3732/3315/files/kit-gran-riserva-cilento-12-vasetti-minnelea.jpg?width=900",
     "prod-V-19-31": "https://cdn.shopify.com/s/files/1/0574/3732/3315/files/kit-regalo-premium-18-vasetti-natale-minnelea.jpg?width=900",
+    "logo-V-20": "img/v20-logo.png",
     "prod-V-20-0": "https://nocciolinolanghe.com/assets/nocciolino-bottle.jpg"
   }
 };
