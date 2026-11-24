@@ -8882,6 +8882,968 @@ window.VETRINE = {
         "https://pastaidelmetapontino.it/chi-siamo/",
         "https://pastaidelmetapontino.it/contatti/"
       ]
+    },
+    {
+      "id": "V-25",
+      "n": "Dolci di Casa Sofia",
+      "cat": "dolci",
+      "reg": "Liguria",
+      "city": "Busalla (GE)",
+      "lat": 44.571,
+      "lng": 8.945,
+      "y": 2002,
+      "certs": [],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "d": {
+        "it": "Laboratorio artigianale di pasticceria secca e fresca a Busalla, nell'entroterra genovese, avviato nel 2002 da Adriano Cammarano e dai suoi soci. I dolci sono noti per friabilità, lunga conservazione e genuinità: solo ingredienti italiani di alta qualità, impasti curati e modellati a mano, una cottura studiata per mantenere la friabilità, mandorle italiane di provenienza siciliana per la pasta di mandorla. Nel 2018 i prodotti sono stati selezionati tra le Eccellenze Italiane. I più legati al territorio sono i canestrelli liguri e il pandolce genovese. Dopo un raffreddamento naturale i dolci vengono confezionati sottovuoto in cellophane e chiusi in scatole di cartone alimentare con sigillo di garanzia, eleganti anche come regalo; durano da 4 a 6 mesi. L'azienda vende all'ingrosso i propri dolci, oltre a vini e specialità tipiche: su richiesta confezioni con altri pesi, canestrelli in tubo trasparente e prodotti sfusi in cartoni (escluso pandolce e pasta di mandorla).",
+        "en": "An artisan workshop for biscuits and pastries in Busalla, in the hills behind Genoa, started in 2002 by Adriano Cammarano and his partners. Their sweets are known for being crumbly, long-lasting and wholesome: only high-quality Italian ingredients, doughs carefully shaped by hand, baking designed to keep them crumbly, and Italian almonds from Sicily for the almond paste. In 2018 the products were selected among the Eccellenze Italiane. The most closely tied to the area are Ligurian canestrelli and Genoese pandolce. After cooling naturally, the sweets are vacuum-packed in cellophane and placed in food-grade cardboard boxes with a guarantee seal, elegant enough to give as gifts; shelf life is 4 to 6 months. The company sells its own sweets wholesale, along with wines and regional specialities: on request, other pack weights, canestrelli in clear tubes and loose products in cartons (except pandolce and almond paste).",
+        "de": "Handwerkliche Konditorei für Gebäck und Kuchen in Busalla im Hinterland von Genua, 2002 von Adriano Cammarano und seinen Partnern gegründet. Die Süßwaren sind bekannt für ihre Mürbheit, lange Haltbarkeit und Natürlichkeit: nur hochwertige italienische Zutaten, sorgfältig von Hand geformte Teige, ein Backverfahren, das die Mürbheit erhält, und italienische Mandeln aus Sizilien für das Mandelgebäck. 2018 wurden die Produkte unter die Eccellenze Italiane gewählt. Am stärksten mit der Region verbunden sind die ligurischen Canestrelli und der Genueser Pandolce. Nach natürlichem Abkühlen werden die Süßwaren vakuumverpackt und in Lebensmittelkartons mit Garantiesiegel verpackt, elegant auch als Geschenk; Haltbarkeit 4 bis 6 Monate. Das Unternehmen verkauft seine Süßwaren im Großhandel, dazu Weine und regionale Spezialitäten: auf Anfrage andere Packungsgrößen, Canestrelli in der Klarsichtrolle und lose Ware im Karton (außer Pandolce und Mandelgebäck)."
+      },
+      "sub": [
+        {
+          "k": "canestrelli",
+          "cat": "dolci",
+          "n": {
+            "it": "Canestrelli",
+            "en": "Canestrelli",
+            "de": "Canestrelli"
+          }
+        },
+        {
+          "k": "mandorla",
+          "cat": "dolci",
+          "n": {
+            "it": "Pasta di mandorla e amaretti",
+            "en": "Almond paste and amaretti",
+            "de": "Mandelgebäck und Amaretti"
+          }
+        },
+        {
+          "k": "confezioni",
+          "cat": "dolci",
+          "n": {
+            "it": "Biscotti in confezione",
+            "en": "Packaged biscuits",
+            "de": "Kekse in Packungen"
+          }
+        },
+        {
+          "k": "kilo",
+          "cat": "dolci",
+          "n": {
+            "it": "Biscotti al kilo",
+            "en": "Biscuits by the kilo",
+            "de": "Kekse nach Kilo"
+          }
+        },
+        {
+          "k": "lievitati",
+          "cat": "dolci",
+          "n": {
+            "it": "Lievitati",
+            "en": "Leavened cakes",
+            "de": "Hefegebäck"
+          }
+        },
+        {
+          "k": "pasticceria",
+          "cat": "dolci",
+          "n": {
+            "it": "Torte e pasticceria",
+            "en": "Cakes and pastries",
+            "de": "Kuchen und Gebäck"
+          }
+        },
+        {
+          "k": "vini",
+          "cat": "vino",
+          "n": {
+            "it": "Vini",
+            "en": "Wines",
+            "de": "Weine"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Amaretti morbidi",
+          "confezione da 200 g · confezione da 300 g",
+          "mandorla"
+        ],
+        [
+          "Misto di pasta di mandorla e amaretti morbidi",
+          "confezione da 500 g · confezione da 1 kg",
+          "mandorla"
+        ],
+        [
+          "Biscotti di pasta di mandorla",
+          "confezione da 200 g · confezione da 300 g",
+          "mandorla"
+        ],
+        [
+          "Biscotti di pasta di mandorla siciliana al limone",
+          "confezione da 500 g · confezione da 1 kg",
+          "mandorla"
+        ],
+        [
+          "Biscotti fior di mandorla",
+          "confezione da 200 g · confezione da 300 g",
+          "mandorla"
+        ],
+        [
+          "Fiocchi di pasta di mandorla al pistacchio",
+          "vassoio da 1 kg",
+          "mandorla"
+        ],
+        [
+          "Pasta alla mandorla",
+          "vassoio da 2 kg",
+          "mandorla"
+        ],
+        [
+          "Baci di dama",
+          "confezione da 200 g · confezione da 300 g",
+          "confezioni"
+        ],
+        [
+          "Biscotti misti di pasta frolla",
+          "confezione da 200 g · confezione da 300 g",
+          "confezioni"
+        ],
+        [
+          "Cantucci classici",
+          "confezione da 200 g · confezione da 300 g",
+          "confezioni"
+        ],
+        [
+          "Canestrelli classici",
+          "confezione da 200 g · confezione da 300 g",
+          "canestrelli"
+        ],
+        [
+          "Canestrelli al cacao",
+          "confezione da 200 g · confezione da 300 g",
+          "canestrelli"
+        ],
+        [
+          "Canestrelli integrali",
+          "confezione da 200 g · confezione da 300 g",
+          "canestrelli"
+        ],
+        [
+          "Canestrelli con gocce di cioccolato",
+          "confezione da 200 g · confezione da 300 g",
+          "canestrelli"
+        ],
+        [
+          "Canestrelli di castagne",
+          "confezione da 200 g · confezione da 300 g",
+          "canestrelli"
+        ],
+        [
+          "Canestrelli con rose della Valle Scrivia",
+          "confezione da 200 g · confezione da 300 g",
+          "canestrelli"
+        ],
+        [
+          "Canestrelli variegati al cioccolato",
+          "vassoio da 2 kg",
+          "canestrelli"
+        ],
+        [
+          "Buccellati con fichi secchi",
+          "vassoio da 1 kg",
+          "kilo"
+        ],
+        [
+          "Occhi di bue",
+          "vassoio da 1 kg",
+          "kilo"
+        ],
+        [
+          "Cannolicchi farciti al pistacchio",
+          "vassoio da 1 kg",
+          "kilo"
+        ],
+        [
+          "Aragostine",
+          "vassoio da 1 kg",
+          "kilo"
+        ],
+        [
+          "Biscotti accoppiati con crema al cacao",
+          "vassoio da 2 kg",
+          "kilo"
+        ],
+        [
+          "Saccottini con confettura di albicocca",
+          "vassoio da 2 kg",
+          "kilo"
+        ],
+        [
+          "Biscottini a forma di cuore",
+          "vassoio da 1 kg",
+          "kilo"
+        ],
+        [
+          "Biscottini a smile",
+          "vassoio da 1 kg",
+          "kilo"
+        ],
+        [
+          "Tartellette miste",
+          "formato su richiesta",
+          "kilo"
+        ],
+        [
+          "Biscotteria assortita",
+          "formato su richiesta",
+          "kilo"
+        ],
+        [
+          "Biscotti singoli",
+          "formato su richiesta",
+          "kilo"
+        ],
+        [
+          "Biscotti tipo rustiche",
+          "formato su richiesta",
+          "kilo"
+        ],
+        [
+          "Pandolce genovese",
+          "500 g · 600 g · 750 g",
+          "lievitati"
+        ],
+        [
+          "Panettoni artigianali, vari gusti",
+          "formato su richiesta",
+          "lievitati"
+        ],
+        [
+          "Panettoni farciti, vari gusti",
+          "formato su richiesta",
+          "lievitati"
+        ],
+        [
+          "Colombe farcite, vari gusti",
+          "750 g · 1 kg",
+          "lievitati"
+        ],
+        [
+          "Torte soffici",
+          "formato su richiesta",
+          "pasticceria"
+        ],
+        [
+          "Torte varie",
+          "formato su richiesta",
+          "pasticceria"
+        ],
+        [
+          "Crostate",
+          "formato su richiesta",
+          "pasticceria"
+        ],
+        [
+          "Ciambelloni e salami dolci",
+          "formato su richiesta",
+          "pasticceria"
+        ],
+        [
+          "Girelle e rotolini assortiti",
+          "formato su richiesta",
+          "pasticceria"
+        ],
+        [
+          "Millefoglie e tortine",
+          "formato su richiesta",
+          "pasticceria"
+        ],
+        [
+          "Altipiani Spumante Pinot-Chardonnay Brut",
+          "bottiglia da 75 cl",
+          "vini"
+        ],
+        [
+          "Barbera d'Asti DOCG Superiore Nonno Cein",
+          "bottiglia da 75 cl",
+          "vini"
+        ],
+        [
+          "Barbera del Monferrato DOC",
+          "bottiglia da 75 cl · bottiglia da 150 cl",
+          "vini"
+        ],
+        [
+          "Bonarda DOC frizzante",
+          "bottiglia da 75 cl",
+          "vini"
+        ],
+        [
+          "Chardonnay frizzante Premier Amour",
+          "bottiglia da 75 cl",
+          "vini"
+        ],
+        [
+          "Dolcetto d'Acqui DOC",
+          "bottiglia da 75 cl",
+          "vini"
+        ],
+        [
+          "Dolcetto d'Acqui DOC Superiore Diciannove Settembre",
+          "bottiglia da 75 cl",
+          "vini"
+        ],
+        [
+          "Prodigio Rosso vino da tavola",
+          "bottiglia da 75 cl · bottiglia da 150 cl",
+          "vini"
+        ]
+      ],
+      "pd": {
+        "V-25-0": {
+          "c": [],
+          "pr": "200 g 3,00 € · 300 g 4,50 €",
+          "d": {
+            "it": "Amaretti morbidi e gustosi, fatti a mano. A listino in due ricette: con farina di mandorla, oppure con armelline e mandorla.",
+            "en": "Soft, flavourful amaretti made by hand. Two recipes on the price list: with almond flour, or with apricot kernels and almonds.",
+            "de": "Weiche, aromatische Amaretti, von Hand geformt. Zwei Rezepte im Sortiment: mit Mandelmehl oder mit Aprikosenkernen und Mandeln."
+          },
+          "a": {
+            "it": "Ideale a colazione, per la pausa tè e caffè, per feste e cerimonie e come idea regalo. Durata da 4 a 6 mesi, come indicato in confezione.",
+            "en": "Ideal for breakfast, tea and coffee breaks, parties and ceremonies, and as a gift. Shelf life 4 to 6 months, as stated on the pack.",
+            "de": "Ideal zum Frühstück, zur Tee- und Kaffeepause, für Feste und Feiern und als Geschenk. Haltbarkeit 4 bis 6 Monate, wie auf der Packung angegeben."
+          }
+        },
+        "V-25-1": {
+          "c": [],
+          "d": {
+            "it": "Assortimento di biscotti di pasta di mandorla e amaretti morbidi.",
+            "en": "An assortment of almond paste biscuits and soft amaretti.",
+            "de": "Mischung aus Mandelgebäck und weichen Amaretti."
+          },
+          "a": {
+            "it": "Ideale a colazione, per la pausa tè o caffè, per cerimonie ed eventi. Durata da 4 a 6 mesi, come indicato in confezione.",
+            "en": "Ideal for breakfast, tea or coffee breaks, ceremonies and events. Shelf life 4 to 6 months, as stated on the pack.",
+            "de": "Ideal zum Frühstück, zur Tee- oder Kaffeepause, für Feiern und Events. Haltbarkeit 4 bis 6 Monate, wie auf der Packung angegeben."
+          }
+        },
+        "V-25-2": {
+          "c": [],
+          "pr": "200 g 3,20 € · 300 g 4,50 €",
+          "d": {
+            "it": "Biscotti di pasta di mandorla siciliana, gustosi e friabili, preparati con mandorle italiane di provenienza siciliana.",
+            "en": "Sicilian almond paste biscuits, flavourful and crumbly, made with Italian almonds from Sicily.",
+            "de": "Sizilianisches Mandelgebäck, aromatisch und mürbe, aus italienischen Mandeln sizilianischer Herkunft."
+          },
+          "a": {
+            "it": "Ideale a colazione, per la pausa tè e caffè, per feste e cerimonie e come idea regalo. Durata da 4 a 6 mesi, come indicato in confezione.",
+            "en": "Ideal for breakfast, tea and coffee breaks, parties and ceremonies, and as a gift. Shelf life 4 to 6 months, as stated on the pack.",
+            "de": "Ideal zum Frühstück, zur Tee- und Kaffeepause, für Feste und Feiern und als Geschenk. Haltbarkeit 4 bis 6 Monate, wie auf der Packung angegeben."
+          }
+        },
+        "V-25-3": {
+          "c": [],
+          "d": {
+            "it": "Biscotti di pasta di mandorla siciliana al sapore di limone.",
+            "en": "Sicilian almond paste biscuits with a lemon flavour.",
+            "de": "Sizilianisches Mandelgebäck mit Zitronengeschmack."
+          },
+          "a": {
+            "it": "Ideali a colazione, per la pausa tè o caffè, per eventi e cerimonie. Durata da 4 a 6 mesi, come indicato in confezione.",
+            "en": "Ideal for breakfast, tea or coffee breaks, events and ceremonies. Shelf life 4 to 6 months, as stated on the pack.",
+            "de": "Ideal zum Frühstück, zur Tee- oder Kaffeepause, für Events und Feiern. Haltbarkeit 4 bis 6 Monate, wie auf der Packung angegeben."
+          }
+        },
+        "V-25-4": {
+          "c": [],
+          "pr": "200 g 3,20 € · 300 g 4,50 €",
+          "d": {
+            "it": "Biscotti fior di mandorla assortiti, classici e al pistacchio, gustosi e friabili.",
+            "en": "Assorted almond flower biscuits, classic and pistachio, flavourful and crumbly.",
+            "de": "Gemischte Mandelblüten-Kekse, klassisch und mit Pistazie, aromatisch und mürbe."
+          },
+          "a": {
+            "it": "Ideale a colazione, per la pausa tè e caffè, per feste e cerimonie e come idea regalo. Durata da 4 a 6 mesi, come indicato in confezione.",
+            "en": "Ideal for breakfast, tea and coffee breaks, parties and ceremonies, and as a gift. Shelf life 4 to 6 months, as stated on the pack.",
+            "de": "Ideal zum Frühstück, zur Tee- und Kaffeepause, für Feste und Feiern und als Geschenk. Haltbarkeit 4 bis 6 Monate, wie auf der Packung angegeben."
+          }
+        },
+        "V-25-5": {
+          "c": [],
+          "d": {
+            "it": "Biscotti di pasta di mandorla siciliana al sapore di pistacchio. Vassoio da 1 kg, ma si possono richiedere confezioni con pesi su misura.",
+            "en": "Sicilian almond paste biscuits with a pistachio flavour. Tray of 1 kg, with custom pack weights available on request.",
+            "de": "Sizilianisches Mandelgebäck mit Pistaziengeschmack. Tablett à 1 kg; auf Anfrage auch individuelle Packungsgrößen."
+          },
+          "a": {
+            "it": "Ideali a colazione, per la pausa tè o caffè, per eventi e cerimonie. Durata da 4 a 6 mesi, come indicato in confezione.",
+            "en": "Ideal for breakfast, tea or coffee breaks, events and ceremonies. Shelf life 4 to 6 months, as stated on the pack.",
+            "de": "Ideal zum Frühstück, zur Tee- oder Kaffeepause, für Events und Feiern. Haltbarkeit 4 bis 6 Monate, wie auf der Packung angegeben."
+          }
+        },
+        "V-25-6": {
+          "c": [],
+          "d": {
+            "it": "Biscotti di pasta di mandorla siciliana fatti a mano, ideali per feste ed eventi di ogni tipo. Vassoio da 2 kg; su richiesta anche confezioni da 200 o 300 g in scatola.",
+            "en": "Handmade Sicilian almond paste biscuits, ideal for parties and events of every kind. 2 kg tray; 200 or 300 g boxes also available on request.",
+            "de": "Handgemachtes sizilianisches Mandelgebäck, ideal für Feste und Events aller Art. Tablett à 2 kg; auf Anfrage auch Schachteln à 200 oder 300 g."
+          },
+          "a": {
+            "it": "Per feste, buffet ed eventi. Durata da 4 a 6 mesi, come indicato in confezione.",
+            "en": "For parties, buffets and events. Shelf life 4 to 6 months, as stated on the pack.",
+            "de": "Für Feste, Buffets und Events. Haltbarkeit 4 bis 6 Monate, wie auf der Packung angegeben."
+          }
+        },
+        "V-25-7": {
+          "c": [],
+          "d": {
+            "it": "Una delle specialità italiane più note: due biscotti alle nocciole uniti da un dolce strato di cioccolato.",
+            "en": "One of Italy's best-known specialities: two hazelnut biscuits joined by a sweet layer of chocolate.",
+            "de": "Eine der bekanntesten italienischen Spezialitäten: zwei Haselnusskekse, verbunden durch eine süße Schicht Schokolade."
+          },
+          "a": {
+            "it": "Ideale a colazione, per la pausa tè e caffè, per feste e cerimonie e come idea regalo. Durata da 4 a 6 mesi, come indicato in confezione.",
+            "en": "Ideal for breakfast, tea and coffee breaks, parties and ceremonies, and as a gift. Shelf life 4 to 6 months, as stated on the pack.",
+            "de": "Ideal zum Frühstück, zur Tee- und Kaffeepause, für Feste und Feiern und als Geschenk. Haltbarkeit 4 bis 6 Monate, wie auf der Packung angegeben."
+          }
+        },
+        "V-25-8": {
+          "c": [],
+          "d": {
+            "it": "Dolcetti misto bontà: biscotti misti di pasta frolla, gustosi e friabili.",
+            "en": "Mixed shortcrust biscuits, flavourful and crumbly.",
+            "de": "Gemischte Mürbeteigkekse, aromatisch und mürbe."
+          },
+          "a": {
+            "it": "Ideale a colazione, per la pausa tè e caffè, per feste e cerimonie e come idea regalo. Durata da 4 a 6 mesi, come indicato in confezione.",
+            "en": "Ideal for breakfast, tea and coffee breaks, parties and ceremonies, and as a gift. Shelf life 4 to 6 months, as stated on the pack.",
+            "de": "Ideal zum Frühstück, zur Tee- und Kaffeepause, für Feste und Feiern und als Geschenk. Haltbarkeit 4 bis 6 Monate, wie auf der Packung angegeben."
+          }
+        },
+        "V-25-9": {
+          "c": [],
+          "d": {
+            "it": "Biscotti secchi con le mandorle, croccanti e dal colore dorato, fragranti e profumati.",
+            "en": "Crunchy, golden dry biscuits with almonds, fragrant and aromatic.",
+            "de": "Knusprige, goldbraune Mandelkekse, duftend und aromatisch."
+          },
+          "a": {
+            "it": "Da inzuppare nel vin santo a fine pasto, oppure come spuntino in qualsiasi momento. Durata da 4 a 6 mesi, come indicato in confezione.",
+            "en": "For dipping in vin santo after a meal, or as a snack at any time of day. Shelf life 4 to 6 months, as stated on the pack.",
+            "de": "Zum Eintunken in Vin Santo nach dem Essen oder als Snack zu jeder Tageszeit. Haltbarkeit 4 bis 6 Monate, wie auf der Packung angegeben."
+          }
+        },
+        "V-25-10": {
+          "c": [],
+          "pr": "200 g 2,80 € · 300 g 4,20 €",
+          "d": {
+            "it": "Il dolce tradizionale ligure, con farina di grano tenero: gustoso e friabile. Su richiesta anche in tubo trasparente.",
+            "en": "The traditional Ligurian biscuit made with soft wheat flour: flavourful and crumbly. Also available in a clear tube on request.",
+            "de": "Das traditionelle ligurische Gebäck aus Weichweizenmehl: aromatisch und mürbe. Auf Anfrage auch in der Klarsichtrolle."
+          },
+          "a": {
+            "it": "Ideale a colazione, per la pausa tè e caffè, per feste e cerimonie e come idea regalo. Durata da 4 a 6 mesi, come indicato in confezione.",
+            "en": "Ideal for breakfast, tea and coffee breaks, parties and ceremonies, and as a gift. Shelf life 4 to 6 months, as stated on the pack.",
+            "de": "Ideal zum Frühstück, zur Tee- und Kaffeepause, für Feste und Feiern und als Geschenk. Haltbarkeit 4 bis 6 Monate, wie auf der Packung angegeben."
+          }
+        },
+        "V-25-11": {
+          "c": [],
+          "pr": "200 g 2,90 € · 300 g 4,35 €",
+          "d": {
+            "it": "Canestrelli con farina di cacao, gustosi e friabili.",
+            "en": "Canestrelli made with cocoa, flavourful and crumbly.",
+            "de": "Canestrelli mit Kakao, aromatisch und mürbe."
+          },
+          "a": {
+            "it": "Ideale a colazione, per la pausa tè e caffè, per feste e cerimonie e come idea regalo. Durata da 4 a 6 mesi, come indicato in confezione.",
+            "en": "Ideal for breakfast, tea and coffee breaks, parties and ceremonies, and as a gift. Shelf life 4 to 6 months, as stated on the pack.",
+            "de": "Ideal zum Frühstück, zur Tee- und Kaffeepause, für Feste und Feiern und als Geschenk. Haltbarkeit 4 bis 6 Monate, wie auf der Packung angegeben."
+          }
+        },
+        "V-25-12": {
+          "c": [],
+          "pr": "200 g 2,90 € · 300 g 4,30 €",
+          "d": {
+            "it": "Canestrelli con pregiate farine integrali, gustosi e friabili.",
+            "en": "Canestrelli made with fine wholemeal flours, flavourful and crumbly.",
+            "de": "Canestrelli aus hochwertigen Vollkornmehlen, aromatisch und mürbe."
+          },
+          "a": {
+            "it": "Ideale a colazione, per la pausa tè e caffè, per feste e cerimonie e come idea regalo. Durata da 4 a 6 mesi, come indicato in confezione.",
+            "en": "Ideal for breakfast, tea and coffee breaks, parties and ceremonies, and as a gift. Shelf life 4 to 6 months, as stated on the pack.",
+            "de": "Ideal zum Frühstück, zur Tee- und Kaffeepause, für Feste und Feiern und als Geschenk. Haltbarkeit 4 bis 6 Monate, wie auf der Packung angegeben."
+          }
+        },
+        "V-25-13": {
+          "c": [],
+          "d": {
+            "it": "Canestrelli friabili con gocce di cioccolato.",
+            "en": "Crumbly canestrelli with chocolate chips.",
+            "de": "Mürbe Canestrelli mit Schokotropfen."
+          },
+          "a": {
+            "it": "Ideale a colazione, per la pausa tè e caffè, per feste e cerimonie e come idea regalo. Durata da 4 a 6 mesi, come indicato in confezione.",
+            "en": "Ideal for breakfast, tea and coffee breaks, parties and ceremonies, and as a gift. Shelf life 4 to 6 months, as stated on the pack.",
+            "de": "Ideal zum Frühstück, zur Tee- und Kaffeepause, für Feste und Feiern und als Geschenk. Haltbarkeit 4 bis 6 Monate, wie auf der Packung angegeben."
+          }
+        },
+        "V-25-14": {
+          "c": [],
+          "d": {
+            "it": "Canestrelli friabili con farina di castagne.",
+            "en": "Crumbly canestrelli made with chestnut flour.",
+            "de": "Mürbe Canestrelli mit Kastanienmehl."
+          },
+          "a": {
+            "it": "Ideale a colazione, per la pausa tè e caffè, per feste e cerimonie e come idea regalo. Durata da 4 a 6 mesi, come indicato in confezione.",
+            "en": "Ideal for breakfast, tea and coffee breaks, parties and ceremonies, and as a gift. Shelf life 4 to 6 months, as stated on the pack.",
+            "de": "Ideal zum Frühstück, zur Tee- und Kaffeepause, für Feste und Feiern und als Geschenk. Haltbarkeit 4 bis 6 Monate, wie auf der Packung angegeben."
+          }
+        },
+        "V-25-15": {
+          "c": [],
+          "d": {
+            "it": "Canestrelli friabili con petali di rosa biologici della Valle Scrivia. Certificato prodotto Gourmet.",
+            "en": "Crumbly canestrelli with organic rose petals from the Scrivia Valley. Certified Gourmet product.",
+            "de": "Mürbe Canestrelli mit Bio-Rosenblättern aus dem Scrivia-Tal. Als Gourmet-Produkt zertifiziert."
+          },
+          "a": {
+            "it": "Ideale a colazione, per la pausa tè e caffè, per feste e cerimonie e come idea regalo. Durata da 4 a 6 mesi, come indicato in confezione.",
+            "en": "Ideal for breakfast, tea and coffee breaks, parties and ceremonies, and as a gift. Shelf life 4 to 6 months, as stated on the pack.",
+            "de": "Ideal zum Frühstück, zur Tee- und Kaffeepause, für Feste und Feiern und als Geschenk. Haltbarkeit 4 bis 6 Monate, wie auf der Packung angegeben."
+          }
+        },
+        "V-25-16": {
+          "c": [],
+          "d": {
+            "it": "Canestrellini fatti a mano variegati con cioccolato fondente. Vassoio da 2 kg; su richiesta anche confezioni da 300 g in scatola.",
+            "en": "Handmade small canestrelli swirled with dark chocolate. 2 kg tray; 300 g boxes also available on request.",
+            "de": "Handgemachte kleine Canestrelli mit Zartbitterschokolade. Tablett à 2 kg; auf Anfrage auch Schachteln à 300 g."
+          },
+          "a": {
+            "it": "Per la prima colazione o uno spuntino. Durata da 4 a 6 mesi, come indicato in confezione.",
+            "en": "For breakfast or a snack. Shelf life 4 to 6 months, as stated on the pack.",
+            "de": "Zum Frühstück oder als Snack. Haltbarkeit 4 bis 6 Monate, wie auf der Packung angegeben."
+          }
+        },
+        "V-25-17": {
+          "c": [],
+          "pr": "8,60 € (listino biscotti al kilo)",
+          "d": {
+            "it": "Biscotti tradizionali ripieni di fichi secchi.",
+            "en": "Traditional biscuits filled with dried figs.",
+            "de": "Traditionelle Kekse mit Trockenfeigenfüllung."
+          },
+          "a": {
+            "it": "Ideali a colazione, per la pausa tè o caffè, per eventi e cerimonie. Durata da 4 a 6 mesi, come indicato in confezione.",
+            "en": "Ideal for breakfast, tea or coffee breaks, events and ceremonies. Shelf life 4 to 6 months, as stated on the pack.",
+            "de": "Ideal zum Frühstück, zur Tee- oder Kaffeepause, für Events und Feiern. Haltbarkeit 4 bis 6 Monate, wie auf der Packung angegeben."
+          }
+        },
+        "V-25-18": {
+          "c": [],
+          "pr": "7,80 € · bagnati al cioccolato 8,00 € (listino biscotti al kilo)",
+          "d": {
+            "it": "Biscotti occhio di bue a forma classica, farciti con vari gusti di marmellata o cioccolato; disponibili anche metà bagnati nel cioccolato. Vassoio da 1 kg, ma si possono richiedere confezioni con pesi su misura.",
+            "en": "Classic bull's-eye biscuits filled with various jams or chocolate; also available half-dipped in chocolate. Tray of 1 kg, with custom pack weights available on request.",
+            "de": "Klassische Ochsenaugen-Kekse mit verschiedenen Marmeladen oder Schokolade gefüllt; auch halb in Schokolade getaucht erhältlich. Tablett à 1 kg; auf Anfrage auch individuelle Packungsgrößen."
+          },
+          "a": {
+            "it": "Per colazione, bar, buffet ed eventi. Durata da 4 a 6 mesi, come indicato in confezione.",
+            "en": "For breakfast, cafés, buffets and events. Shelf life 4 to 6 months, as stated on the pack.",
+            "de": "Für Frühstück, Bars, Buffets und Events. Haltbarkeit 4 bis 6 Monate, wie auf der Packung angegeben."
+          }
+        },
+        "V-25-19": {
+          "c": [],
+          "pr": "14,50 € (listino biscotti al kilo)",
+          "d": {
+            "it": "Cannolicchi farciti con crema al pistacchio e granella di pistacchio. Vassoio da 1 kg, ma si possono richiedere confezioni con pesi su misura.",
+            "en": "Small cannoli filled with pistachio cream and topped with chopped pistachios. Tray of 1 kg, with custom pack weights available on request.",
+            "de": "Kleine Cannoli mit Pistaziencreme und gehackten Pistazien. Tablett à 1 kg; auf Anfrage auch individuelle Packungsgrößen."
+          },
+          "a": {
+            "it": "Per colazione, bar, buffet ed eventi. Durata da 4 a 6 mesi, come indicato in confezione.",
+            "en": "For breakfast, cafés, buffets and events. Shelf life 4 to 6 months, as stated on the pack.",
+            "de": "Für Frühstück, Bars, Buffets und Events. Haltbarkeit 4 bis 6 Monate, wie auf der Packung angegeben."
+          }
+        },
+        "V-25-20": {
+          "c": [],
+          "pr": "10,25 € (listino biscotti al kilo)",
+          "d": {
+            "it": "Biscotti al cioccolato e nocciola; a listino farcite in cinque gusti diversi. Vassoio da 1 kg, ma si possono richiedere confezioni con pesi su misura.",
+            "en": "Chocolate and hazelnut biscuits; on the price list filled in five different flavours. Tray of 1 kg, with custom pack weights available on request.",
+            "de": "Kekse mit Schokolade und Haselnuss; im Sortiment mit fünf verschiedenen Füllungen. Tablett à 1 kg; auf Anfrage auch individuelle Packungsgrößen."
+          },
+          "a": {
+            "it": "Per colazione, bar, buffet ed eventi. Durata da 4 a 6 mesi, come indicato in confezione.",
+            "en": "For breakfast, cafés, buffets and events. Shelf life 4 to 6 months, as stated on the pack.",
+            "de": "Für Frühstück, Bars, Buffets und Events. Haltbarkeit 4 bis 6 Monate, wie auf der Packung angegeben."
+          }
+        },
+        "V-25-21": {
+          "c": [],
+          "d": {
+            "it": "Biscotti bicolore fatti a mano con crema al cacao. Vassoio da 2 kg; su richiesta anche confezioni da 200 o 300 g in scatola.",
+            "en": "Handmade two-tone sandwich biscuits with cocoa cream. 2 kg tray; 200 or 300 g boxes also available on request.",
+            "de": "Handgemachte zweifarbige Doppelkekse mit Kakaocreme. Tablett à 2 kg; auf Anfrage auch Schachteln à 200 oder 300 g."
+          },
+          "a": {
+            "it": "Per colazione, bar, buffet ed eventi. Durata da 4 a 6 mesi, come indicato in confezione.",
+            "en": "For breakfast, cafés, buffets and events. Shelf life 4 to 6 months, as stated on the pack.",
+            "de": "Für Frühstück, Bars, Buffets und Events. Haltbarkeit 4 bis 6 Monate, wie auf der Packung angegeben."
+          }
+        },
+        "V-25-22": {
+          "c": [],
+          "d": {
+            "it": "Saccottini fatti a mano ripieni di confettura di albicocca. Vassoio da 2 kg; su richiesta anche confezioni da 200 o 300 g in scatola.",
+            "en": "Handmade pastries filled with apricot jam. 2 kg tray; 200 or 300 g boxes also available on request.",
+            "de": "Handgemachtes Gebäck mit Aprikosenkonfitüre. Tablett à 2 kg; auf Anfrage auch Schachteln à 200 oder 300 g."
+          },
+          "a": {
+            "it": "Per colazione, bar, buffet ed eventi. Durata da 4 a 6 mesi, come indicato in confezione.",
+            "en": "For breakfast, cafés, buffets and events. Shelf life 4 to 6 months, as stated on the pack.",
+            "de": "Für Frühstück, Bars, Buffets und Events. Haltbarkeit 4 bis 6 Monate, wie auf der Packung angegeben."
+          }
+        },
+        "V-25-23": {
+          "c": [],
+          "d": {
+            "it": "Biscottini di pasta frolla a forma di cuore. Vassoio da 1 kg, ma si possono richiedere confezioni con pesi su misura.",
+            "en": "Heart-shaped shortcrust biscuits. Tray of 1 kg, with custom pack weights available on request.",
+            "de": "Herzförmige Mürbeteigkekse. Tablett à 1 kg; auf Anfrage auch individuelle Packungsgrößen."
+          },
+          "a": {
+            "it": "Per colazione, bar, buffet ed eventi. Durata da 4 a 6 mesi, come indicato in confezione.",
+            "en": "For breakfast, cafés, buffets and events. Shelf life 4 to 6 months, as stated on the pack.",
+            "de": "Für Frühstück, Bars, Buffets und Events. Haltbarkeit 4 bis 6 Monate, wie auf der Packung angegeben."
+          }
+        },
+        "V-25-24": {
+          "c": [],
+          "d": {
+            "it": "Biscottini sfiziosi a forma di smile e altre forme simpatiche. Vassoio da 1 kg, ma si possono richiedere confezioni con pesi su misura.",
+            "en": "Fun biscuits shaped like smiley faces and other playful shapes. Tray of 1 kg, with custom pack weights available on request.",
+            "de": "Lustige Kekse in Smiley- und anderen fröhlichen Formen. Tablett à 1 kg; auf Anfrage auch individuelle Packungsgrößen."
+          },
+          "a": {
+            "it": "Per colazione, bar, buffet ed eventi. Durata da 4 a 6 mesi, come indicato in confezione.",
+            "en": "For breakfast, cafés, buffets and events. Shelf life 4 to 6 months, as stated on the pack.",
+            "de": "Für Frühstück, Bars, Buffets und Events. Haltbarkeit 4 bis 6 Monate, wie auf der Packung angegeben."
+          }
+        },
+        "V-25-25": {
+          "c": [],
+          "d": {
+            "it": "Tartellette miste in vari gusti.",
+            "en": "Mixed mini tarts in various flavours.",
+            "de": "Gemischte Törtchen in verschiedenen Geschmacksrichtungen."
+          },
+          "a": {
+            "it": "Per colazione, bar, buffet ed eventi. Durata da 4 a 6 mesi, come indicato in confezione.",
+            "en": "For breakfast, cafés, buffets and events. Shelf life 4 to 6 months, as stated on the pack.",
+            "de": "Für Frühstück, Bars, Buffets und Events. Haltbarkeit 4 bis 6 Monate, wie auf der Packung angegeben."
+          }
+        },
+        "V-25-26": {
+          "c": [],
+          "d": {
+            "it": "Biscotti assortiti in vari gusti.",
+            "en": "Assorted biscuits in various flavours.",
+            "de": "Gemischte Kekse in verschiedenen Geschmacksrichtungen."
+          },
+          "a": {
+            "it": "Per colazione, bar, buffet ed eventi. Durata da 4 a 6 mesi, come indicato in confezione.",
+            "en": "For breakfast, cafés, buffets and events. Shelf life 4 to 6 months, as stated on the pack.",
+            "de": "Für Frühstück, Bars, Buffets und Events. Haltbarkeit 4 bis 6 Monate, wie auf der Packung angegeben."
+          }
+        },
+        "V-25-27": {
+          "c": [],
+          "d": {
+            "it": "Biscotti singoli con impasti diversi.",
+            "en": "Individual biscuits made with different doughs.",
+            "de": "Einzelkekse aus verschiedenen Teigen."
+          },
+          "a": {
+            "it": "Per colazione, bar, buffet ed eventi. Durata da 4 a 6 mesi, come indicato in confezione.",
+            "en": "For breakfast, cafés, buffets and events. Shelf life 4 to 6 months, as stated on the pack.",
+            "de": "Für Frühstück, Bars, Buffets und Events. Haltbarkeit 4 bis 6 Monate, wie auf der Packung angegeben."
+          }
+        },
+        "V-25-28": {
+          "c": [],
+          "d": {
+            "it": "Biscotti rustici in vari gusti, realizzabili anche con gusti a scelta.",
+            "en": "Rustic biscuits in various flavours, also made to order with flavours of your choice.",
+            "de": "Rustikale Kekse in verschiedenen Sorten, auf Wunsch auch mit frei wählbaren Geschmacksrichtungen."
+          },
+          "a": {
+            "it": "Per colazione, bar, buffet ed eventi. Durata da 4 a 6 mesi, come indicato in confezione.",
+            "en": "For breakfast, cafés, buffets and events. Shelf life 4 to 6 months, as stated on the pack.",
+            "de": "Für Frühstück, Bars, Buffets und Events. Haltbarkeit 4 bis 6 Monate, wie auf der Packung angegeben."
+          }
+        },
+        "V-25-29": {
+          "c": [],
+          "pr": "500 g 6,00 € · 600 g 7,20 € · 750 g 8,65 €",
+          "d": {
+            "it": "Il dolce tipico genovese, nella versione friabile, con macedonia di frutta candita, noci e pinoli. Tra i prodotti più legati alla tradizione ligure dell'azienda.",
+            "en": "The traditional Genoese cake in its crumbly version, with candied fruit, walnuts and pine nuts. One of the company's products most closely tied to Ligurian tradition.",
+            "de": "Der typische Genueser Kuchen in der mürben Variante, mit kandierten Früchten, Walnüssen und Pinienkernen. Eines der am stärksten mit der ligurischen Tradition verbundenen Produkte."
+          },
+          "a": {
+            "it": "Per ogni occasione e come idea regalo, specialmente a Natale. Durata da 4 a 6 mesi, come indicato in confezione.",
+            "en": "For any occasion and as a gift, especially at Christmas. Shelf life 4 to 6 months, as stated on the pack.",
+            "de": "Für jeden Anlass und als Geschenk, besonders zu Weihnachten. Haltbarkeit 4 bis 6 Monate, wie auf der Packung angegeben."
+          }
+        },
+        "V-25-30": {
+          "c": [],
+          "d": {
+            "it": "Panettoni artigianali. Ingredienti di alta qualità, lievito madre e lievitazione naturale. Gusti: pera e cioccolato, veneziano basso, amarena, classico, fichi e uvetta, gocce di cioccolato, mandorlato, marron glacé, pandorato senza canditi. Peso secondo le esigenze del cliente. Confezione in cellophane o scatola di cartone, a richiesta.",
+            "en": "Artisan panettoni. High-quality ingredients, sourdough starter and natural rising. Flavours: pear and chocolate, low Veneziano, sour cherry, classic, fig and raisin, chocolate chip, almond-glazed, marron glacé, pandoro-style without candied peel. Weight to the customer's requirements. Packed in cellophane or a cardboard box, on request.",
+            "de": "Handwerkliche Panettoni. Hochwertige Zutaten, Mutterhefe und natürliche Gärung. Sorten: Birne und Schokolade, flacher Veneziano, Sauerkirsche, klassisch, Feige und Rosine, Schokotropfen, Mandelglasur, Marron glacé, Pandoro-Art ohne Zitronat. Gewicht nach Kundenwunsch. Verpackung in Zellophan oder Karton, nach Wunsch."
+          },
+          "a": {
+            "it": "Per Natale e come regalo aziendale.",
+            "en": "For Christmas and as a corporate gift.",
+            "de": "Für Weihnachten und als Firmengeschenk."
+          }
+        },
+        "V-25-31": {
+          "c": [],
+          "d": {
+            "it": "Panettoni artigianali farciti. Ingredienti di alta qualità, lievito madre e lievitazione naturale. Farciture: frutti di bosco, pistacchio, cioccolato gianduia; farcitura personalizzata su richiesta. Peso secondo le esigenze del cliente. Confezione in cellophane o scatola di cartone, a richiesta.",
+            "en": "Artisan filled panettoni. High-quality ingredients, sourdough starter and natural rising. Fillings: berries, pistachio, gianduja chocolate; custom fillings on request. Weight to the customer's requirements. Packed in cellophane or a cardboard box, on request.",
+            "de": "Handwerkliche gefüllte Panettoni. Hochwertige Zutaten, Mutterhefe und natürliche Gärung. Füllungen: Waldbeeren, Pistazie, Gianduja-Schokolade; individuelle Füllung auf Anfrage. Gewicht nach Kundenwunsch. Verpackung in Zellophan oder Karton, nach Wunsch."
+          },
+          "a": {
+            "it": "Per Natale e come regalo aziendale.",
+            "en": "For Christmas and as a corporate gift.",
+            "de": "Für Weihnachten und als Firmengeschenk."
+          }
+        },
+        "V-25-32": {
+          "c": [],
+          "d": {
+            "it": "Colombe artigianali. Ingredienti di alta qualità, lievito madre e lievitazione naturale. Gusti: classica, con glassa ai frutti di bosco, con glassa al cioccolato bianco e farcitura al pistacchio di Bronte, pera e cioccolato, con farcitura al cioccolato, pandorata senza canditi; farcitura personalizzata su richiesta. Confezione in cellophane o scatola di cartone, a richiesta.",
+            "en": "Artisan Easter colombe. High-quality ingredients, sourdough starter and natural rising. Flavours: classic, berry glaze, white chocolate glaze with Bronte pistachio filling, pear and chocolate, chocolate filling, pandoro-style without candied peel; custom fillings on request. Packed in cellophane or a cardboard box, on request.",
+            "de": "Handwerkliche Osterkuchen (Colomba). Hochwertige Zutaten, Mutterhefe und natürliche Gärung. Sorten: klassisch, mit Waldbeerglasur, mit weißer Schokoladenglasur und Bronte-Pistazienfüllung, Birne und Schokolade, mit Schokoladenfüllung, Pandoro-Art ohne Zitronat; individuelle Füllung auf Anfrage. Verpackung in Zellophan oder Karton, nach Wunsch."
+          },
+          "a": {
+            "it": "Per Pasqua e come regalo aziendale.",
+            "en": "For Easter and as a corporate gift.",
+            "de": "Für Ostern und als Firmengeschenk."
+          }
+        },
+        "V-25-33": {
+          "c": [],
+          "d": {
+            "it": "Torte soffici in vari gusti, come limone, frutti di bosco o crema chantilly; realizzabili anche con gusti a scelta.",
+            "en": "Soft cakes in various flavours, such as lemon, berries or Chantilly cream; also made with flavours of your choice.",
+            "de": "Weiche Kuchen in verschiedenen Sorten wie Zitrone, Waldbeeren oder Chantilly-Creme; auch mit frei wählbaren Geschmacksrichtungen."
+          },
+          "a": {
+            "it": "Per bar, pasticcerie, ristorazione ed eventi.",
+            "en": "For cafés, pastry shops, food service and events.",
+            "de": "Für Bars, Konditoreien, Gastronomie und Events."
+          }
+        },
+        "V-25-34": {
+          "c": [],
+          "d": {
+            "it": "Torte della tradizione: torta della nonna, torta di mele, torta dama e torta al limone.",
+            "en": "Traditional cakes: torta della nonna, apple cake, torta dama and lemon cake.",
+            "de": "Traditionelle Kuchen: Torta della nonna, Apfelkuchen, Torta dama und Zitronenkuchen."
+          },
+          "a": {
+            "it": "Per bar, pasticcerie, ristorazione ed eventi.",
+            "en": "For cafés, pastry shops, food service and events.",
+            "de": "Für Bars, Konditoreien, Gastronomie und Events."
+          }
+        },
+        "V-25-35": {
+          "c": [],
+          "d": {
+            "it": "Crostate in vari gusti.",
+            "en": "Jam tarts in various flavours.",
+            "de": "Crostate in verschiedenen Geschmacksrichtungen."
+          },
+          "a": {
+            "it": "Per bar, pasticcerie, ristorazione ed eventi.",
+            "en": "For cafés, pastry shops, food service and events.",
+            "de": "Für Bars, Konditoreien, Gastronomie und Events."
+          }
+        },
+        "V-25-36": {
+          "c": [],
+          "d": {
+            "it": "Ciambelloni e salami dolci farciti in vari gusti, realizzabili anche con gusti su richiesta.",
+            "en": "Ring cakes and chocolate salami filled in various flavours, also made with flavours on request.",
+            "de": "Napfkuchen und Schokoladensalami mit verschiedenen Füllungen, auf Anfrage auch mit Wunschgeschmack."
+          },
+          "a": {
+            "it": "Per bar, pasticcerie, ristorazione ed eventi.",
+            "en": "For cafés, pastry shops, food service and events.",
+            "de": "Für Bars, Konditoreien, Gastronomie und Events."
+          }
+        },
+        "V-25-37": {
+          "c": [],
+          "d": {
+            "it": "Girelle e rotolini assortiti in vari gusti.",
+            "en": "Assorted swirls and rolls in various flavours.",
+            "de": "Gemischte Schnecken und Röllchen in verschiedenen Sorten."
+          },
+          "a": {
+            "it": "Per bar, pasticcerie, ristorazione ed eventi.",
+            "en": "For cafés, pastry shops, food service and events.",
+            "de": "Für Bars, Konditoreien, Gastronomie und Events."
+          }
+        },
+        "V-25-38": {
+          "c": [],
+          "d": {
+            "it": "Millefoglie e tortine in vari gusti, realizzabili anche per occasioni speciali.",
+            "en": "Mille-feuille and small cakes in various flavours, also made for special occasions.",
+            "de": "Mille-feuille und Törtchen in verschiedenen Sorten, auch für besondere Anlässe."
+          },
+          "a": {
+            "it": "Per bar, pasticcerie, ristorazione ed eventi.",
+            "en": "For cafés, pastry shops, food service and events.",
+            "de": "Für Bars, Konditoreien, Gastronomie und Events."
+          }
+        },
+        "V-25-39": {
+          "c": [],
+          "d": {
+            "it": "Vino spumante brut da Pinot e Chardonnay, ottenuto da un'accurata selezione di uve bianche; bouquet delicato, sapore secco, gradevole e garbato. 12% vol. Bottiglia champagnotta, cartoni da 6 bottiglie.",
+            "en": "Brut sparkling wine from Pinot and Chardonnay, made from a careful selection of white grapes; delicate bouquet, dry, pleasant and refined. 12% ABV. Champagne-style bottle, cases of 6.",
+            "de": "Brut-Schaumwein aus Pinot und Chardonnay, aus sorgfältig ausgewählten weißen Trauben; zartes Bouquet, trocken, angenehm und fein. 12% Vol. Champagnerflasche, Kartons à 6 Flaschen."
+          },
+          "a": {
+            "it": "Con tutti i piatti importanti; servire fresco a 6-8 °C.",
+            "en": "With all special dishes; serve chilled at 6-8 °C.",
+            "de": "Zu allen festlichen Gerichten; gekühlt bei 6-8 °C servieren."
+          }
+        },
+        "V-25-40": {
+          "c": [
+            "DOCG"
+          ],
+          "d": {
+            "it": "Barbera d'Asti DOCG rosso superiore, 13,5% vol. Rosso elegante dal bouquet vinoso e variegato, di buona struttura; rubino intenso che vira al granato con l'invecchiamento, profumo tipico del Barbera, sapore asciutto con un delicato sentore di legno. Bottiglia bordolese antica.",
+            "en": "Barbera d'Asti DOCG Superiore red, 13.5% ABV. An elegant red with a vinous, varied bouquet and good structure; deep ruby turning garnet with age, typical Barbera nose, dry palate with a delicate hint of oak. Antique Bordeaux bottle.",
+            "de": "Barbera d'Asti DOCG Superiore, Rotwein, 13,5% Vol. Eleganter Rotwein mit weinigem, vielschichtigem Bouquet und guter Struktur; tiefes Rubinrot, das mit dem Alter ins Granatrot übergeht, typischer Barbera-Duft, trocken mit zartem Holzton. Antike Bordeauxflasche."
+          },
+          "a": {
+            "it": "Accompagna tutto il pasto; servire a 18-20 °C stappando qualche ora prima, in calice a tulipano.",
+            "en": "Pairs with a whole meal; serve at 18-20 °C, opening a few hours ahead, in a tulip glass.",
+            "de": "Passt zum ganzen Menü; bei 18-20 °C servieren, einige Stunden vorher öffnen, im Tulpenglas."
+          }
+        },
+        "V-25-41": {
+          "c": [
+            "DOC"
+          ],
+          "d": {
+            "it": "Barbera del Monferrato DOC rosso vivace, 12% vol. Rosso vivo intenso, profumo vinoso e delicato con una nota leggermente fruttata, sapore fresco, asciutto, leggermente abboccato e mosso, di medio corpo. Cartoni da 12 bottiglie.",
+            "en": "Barbera del Monferrato DOC, lightly sparkling red, 12% ABV. Bright deep red, vinous, delicate nose with a slightly fruity note, fresh, dry, faintly off-dry and lightly fizzy palate, medium body. Cases of 12.",
+            "de": "Barbera del Monferrato DOC, leicht perlender Rotwein, 12% Vol. Lebhaftes, intensives Rot, weiniger, zarter Duft mit leicht fruchtiger Note, frisch, trocken, leicht lieblich und perlend, mittlerer Körper. Kartons à 12 Flaschen."
+          },
+          "a": {
+            "it": "Vino da tutto pasto: carni, primi al sugo, formaggi, selvaggina se invecchiato. Servire a circa 18 °C.",
+            "en": "An all-round food wine: meat, pasta with sauce, cheese, and game when aged. Serve at about 18 °C.",
+            "de": "Ein Essensbegleiter: Fleisch, Pasta mit Sauce, Käse, gereift auch Wild. Bei etwa 18 °C servieren."
+          }
+        },
+        "V-25-42": {
+          "c": [
+            "DOC"
+          ],
+          "d": {
+            "it": "Bonarda 100% frizzante DOC, 12% vol, vinificata in acciaio con lieviti selezionati. Rosso rubino brillante con riflessi violacei, profumo intenso di frutta matura, sapore rotondo, corposo, leggermente tannico e sapido. Cartoni da 12 bottiglie.",
+            "en": "100% Bonarda sparkling DOC, 12% ABV, made in steel with selected yeasts. Bright ruby with violet hints, intense ripe fruit nose, round, full, slightly tannic and savoury. Cases of 12.",
+            "de": "100% Bonarda, perlend, DOC, 12% Vol., im Stahltank mit ausgewählten Hefen ausgebaut. Leuchtendes Rubinrot mit violetten Reflexen, intensiver Duft nach reifer Frucht, rund, kräftig, leicht tanninhaltig und würzig. Kartons à 12 Flaschen."
+          },
+          "a": {
+            "it": "Con salumi, primi corposi e carni bianche; servire a 14-16 °C d'estate e 16-18 °C d'inverno.",
+            "en": "With cured meats, hearty pasta dishes and white meat; serve at 14-16 °C in summer and 16-18 °C in winter.",
+            "de": "Zu Wurst, kräftigen Pastagerichten und hellem Fleisch; im Sommer bei 14-16 °C, im Winter bei 16-18 °C servieren."
+          }
+        },
+        "V-25-43": {
+          "c": [],
+          "d": {
+            "it": "Vino bianco frizzante naturale da uve Chardonnay, 11,5% vol: spiccata personalità e profumi intensi. Cartoni da 12 bottiglie.",
+            "en": "Naturally sparkling white wine from Chardonnay grapes, 11.5% ABV: distinctive character and intense aromas. Cases of 12.",
+            "de": "Natürlich perlender Weißwein aus Chardonnay-Trauben, 11,5% Vol.: ausgeprägter Charakter und intensive Aromen. Kartons à 12 Flaschen."
+          },
+          "a": {
+            "it": "Con piatti di pesce e come aperitivo; da bere giovane e molto fresco.",
+            "en": "With fish dishes and as an aperitif; drink young and well chilled.",
+            "de": "Zu Fischgerichten und als Aperitif; jung und gut gekühlt trinken."
+          }
+        },
+        "V-25-44": {
+          "c": [
+            "DOC"
+          ],
+          "d": {
+            "it": "Dolcetto d'Acqui DOC rosso giovane, 12% vol. Rubino intenso che tende al granato, profumo delicato che ricorda la mandorla amara con note fruttate, sapore morbido, armonico e mandorlato. Cartoni da 12 bottiglie.",
+            "en": "Dolcetto d'Acqui DOC, young red, 12% ABV. Deep ruby turning garnet, delicate nose recalling bitter almond with fruity notes, soft, harmonious, almondy palate. Cases of 12.",
+            "de": "Dolcetto d'Acqui DOC, junger Rotwein, 12% Vol. Tiefes Rubinrot mit Granattönen, zarter Duft nach Bittermandel mit fruchtigen Noten, weich, harmonisch, mandelig. Kartons à 12 Flaschen."
+          },
+          "a": {
+            "it": "Vino da tutto pasto: piatti delicati, carni bianche e rosse, formaggi. Servire a circa 18 °C.",
+            "en": "An all-round food wine: delicate dishes, white and red meat, cheese. Serve at about 18 °C.",
+            "de": "Ein Essensbegleiter: feine Gerichte, helles und rotes Fleisch, Käse. Bei etwa 18 °C servieren."
+          }
+        },
+        "V-25-45": {
+          "c": [
+            "DOC"
+          ],
+          "d": {
+            "it": "Dolcetto in purezza da vigneti del solo comune di Cartosio, massimo 80 quintali per ettaro, vendemmia manuale e selettiva a settembre. Macerazione in acciaio a temperatura controllata e affinamento in botti di rovere. Profumo elegante, complesso e persistente; sapore ampio, vinoso, sapido, di buon corpo e struttura importante. 13% vol.",
+            "en": "Pure Dolcetto from vineyards in the commune of Cartosio only, max 80 quintals per hectare, selective hand harvest in September. Temperature-controlled maceration in steel and ageing in oak casks. Elegant, complex, lasting nose; broad, vinous, savoury palate with good body and solid structure. 13% ABV.",
+            "de": "Reinsortiger Dolcetto ausschließlich aus Lagen der Gemeinde Cartosio, max. 80 Doppelzentner je Hektar, selektive Handlese im September. Temperaturkontrollierte Maischegärung im Stahl und Ausbau im Eichenfass. Eleganter, vielschichtiger, langer Duft; breit, weinig, würzig, mit gutem Körper und kräftiger Struktur. 13% Vol."
+          },
+          "a": {
+            "it": "Con piatti di carne e formaggi stagionati; servire a circa 18 °C.",
+            "en": "With meat dishes and aged cheeses; serve at about 18 °C.",
+            "de": "Zu Fleischgerichten und gereiftem Käse; bei etwa 18 °C servieren."
+          }
+        },
+        "V-25-46": {
+          "c": [],
+          "d": {
+            "it": "Vino rosso da tavola, 12% vol. Rubino intenso, profumo vinoso e gradevolmente fruttato, sapore semplice e armonico; rosso giovane, morbido e brioso.",
+            "en": "Red table wine, 12% ABV. Deep ruby, vinous and pleasantly fruity nose, simple, harmonious palate; a young, soft, lively red.",
+            "de": "Roter Tafelwein, 12% Vol. Tiefes Rubinrot, weiniger, angenehm fruchtiger Duft, einfach und harmonisch; ein junger, weicher, lebhafter Rotwein."
+          },
+          "a": {
+            "it": "Per tutte le occasioni di buona cucina; servire a 18 °C.",
+            "en": "For any good meal; serve at 18 °C.",
+            "de": "Für jede gute Küche; bei 18 °C servieren."
+          }
+        }
+      },
+      "fonti": [
+        "https://www.dolcidicasasofia.it/#prodotti",
+        "https://www.dolcidicasasofia.it/listino-prezzi-2022-dolci-di-casa-sofia/",
+        "https://www.dolcidicasasofia.it/#lanostrastoria"
+      ]
     }
   ],
   "IMG": {
@@ -9253,6 +10215,54 @@ window.VETRINE = {
     "prod-V-24-10": "img/v24-10.jpg",
     "prod-V-24-11": "img/v24-11.jpg",
     "prod-V-24-12": "img/v24-12.jpg",
-    "prod-V-24-13": "img/v24-13.jpg"
+    "prod-V-24-13": "img/v24-13.jpg",
+    "logo-V-25": "https://www.dolcidicasasofia.it/wp-content/uploads/2021/11/logo-home.png",
+    "prod-V-25-0": "https://www.dolcidicasasofia.it/wp-content/uploads/2021/10/amaretti-morbidi-dolci-di-casa-sofia.jpg",
+    "prod-V-25-1": "https://www.dolcidicasasofia.it/wp-content/uploads/2021/11/MISTO-DI-PASTA-DI-MANDORLA.jpg",
+    "prod-V-25-2": "https://www.dolcidicasasofia.it/wp-content/uploads/2021/10/biscotti-di-pasta-di-mandorle-dolci-di-casa-sofia.jpg",
+    "prod-V-25-3": "https://www.dolcidicasasofia.it/wp-content/uploads/2021/11/PASTA-DI-MANDORLA-AL-LIMONE.jpg",
+    "prod-V-25-4": "https://www.dolcidicasasofia.it/wp-content/uploads/2021/11/fior-di-mandorla-i-dolci-di-casa-sofia.jpg",
+    "prod-V-25-5": "https://www.dolcidicasasofia.it/wp-content/uploads/2021/11/PASTA-DI-MANDORLA-AL-PISTACCHIO-3.jpg",
+    "prod-V-25-6": "https://www.dolcidicasasofia.it/wp-content/uploads/2022/03/FOTO-DOLCI-FAIRE-5.jpeg",
+    "prod-V-25-7": "https://www.dolcidicasasofia.it/wp-content/uploads/2021/11/baci-di-dama-dolci-di-casa-sofia.jpg",
+    "prod-V-25-8": "https://www.dolcidicasasofia.it/wp-content/uploads/2021/10/biscotti-di-pasta-frolla-i-dolci-di-casa-sofia.jpg",
+    "prod-V-25-9": "https://www.dolcidicasasofia.it/wp-content/uploads/2021/11/cantucci-dolci-di-casa-sofia.jpg",
+    "prod-V-25-10": "https://www.dolcidicasasofia.it/wp-content/uploads/2021/10/canestrelli-classici-dolci-di-casa-sofia.jpg",
+    "prod-V-25-11": "https://www.dolcidicasasofia.it/wp-content/uploads/2021/10/canestrelli-al-cacao-dolci-di-casa-sofia.jpg",
+    "prod-V-25-12": "https://www.dolcidicasasofia.it/wp-content/uploads/2021/11/canestrelli-integrali-dolci-di-casa-sofia.jpg",
+    "prod-V-25-13": "https://www.dolcidicasasofia.it/wp-content/uploads/2026/04/20260420_105848-rotated.jpg",
+    "prod-V-25-14": "https://www.dolcidicasasofia.it/wp-content/uploads/2026/04/20260420_105835-rotated.jpg",
+    "prod-V-25-15": "https://www.dolcidicasasofia.it/wp-content/uploads/2026/04/IMG-20260420-WA0020.jpg",
+    "prod-V-25-16": "https://www.dolcidicasasofia.it/wp-content/uploads/2022/03/FOTO-DOLCI-FAIRE-4.jpeg",
+    "prod-V-25-17": "https://www.dolcidicasasofia.it/wp-content/uploads/2021/11/BUCCELLATINI-CON-FICHI.jpg",
+    "prod-V-25-18": "https://www.dolcidicasasofia.it/wp-content/uploads/2022/06/OCCHI-DI-BUE-AL-CIOCCOLATO.jpeg",
+    "prod-V-25-19": "https://www.dolcidicasasofia.it/wp-content/uploads/2022/06/CANNOLI-AL-PISTACCHIO.jpeg",
+    "prod-V-25-20": "https://www.dolcidicasasofia.it/wp-content/uploads/2022/06/ARAGOSTINE.jpeg",
+    "prod-V-25-21": "https://www.dolcidicasasofia.it/wp-content/uploads/2022/03/FOTO-DOLCI-FAIRE-2.jpeg",
+    "prod-V-25-22": "https://www.dolcidicasasofia.it/wp-content/uploads/2022/03/FOTO-DOLCI-FAIRE-3.jpeg",
+    "prod-V-25-23": "https://www.dolcidicasasofia.it/wp-content/uploads/2022/06/DOLCI-A-CUORE.jpeg",
+    "prod-V-25-24": "https://www.dolcidicasasofia.it/wp-content/uploads/2022/06/SMILE-1.jpeg",
+    "prod-V-25-25": "https://www.dolcidicasasofia.it/wp-content/uploads/2023/03/FOTO-12-1-rotated.jpeg",
+    "prod-V-25-26": "https://www.dolcidicasasofia.it/wp-content/uploads/2023/03/FOTO-11-rotated.jpeg",
+    "prod-V-25-27": "https://www.dolcidicasasofia.it/wp-content/uploads/2023/03/FOTO-13-rotated.jpeg",
+    "prod-V-25-28": "https://www.dolcidicasasofia.it/wp-content/uploads/2023/03/FOTO-10-rotated.jpeg",
+    "prod-V-25-29": "https://www.dolcidicasasofia.it/wp-content/uploads/2021/11/pan-dolce-genovese-i-dolci-di-casa-sofia.jpg",
+    "prod-V-25-30": "https://www.dolcidicasasofia.it/wp-content/uploads/2026/04/panettone-classico-dolci-di-casa-sofia-alt1.jpg",
+    "prod-V-25-31": "https://www.dolcidicasasofia.it/wp-content/uploads/2021/11/panettone-al-pistacchio-dolci-di-casa-sofia.jpg",
+    "prod-V-25-32": "https://www.dolcidicasasofia.it/wp-content/uploads/2022/02/COLOMBA_CLASSICA-removebg-preview-removebg-preview.png",
+    "prod-V-25-33": "https://www.dolcidicasasofia.it/wp-content/uploads/2023/03/FOTO-3-rotated.jpeg",
+    "prod-V-25-34": "https://www.dolcidicasasofia.it/wp-content/uploads/2023/03/FOTO-4-rotated.jpeg",
+    "prod-V-25-35": "https://www.dolcidicasasofia.it/wp-content/uploads/2023/03/FOTO-5-rotated.jpeg",
+    "prod-V-25-36": "https://www.dolcidicasasofia.it/wp-content/uploads/2023/03/FOTO-2-rotated.jpeg",
+    "prod-V-25-37": "https://www.dolcidicasasofia.it/wp-content/uploads/2023/03/FOTO-7-1-rotated.jpeg",
+    "prod-V-25-38": "https://www.dolcidicasasofia.it/wp-content/uploads/2023/03/FOTO-8-1-rotated.jpeg",
+    "prod-V-25-39": "https://www.dolcidicasasofia.it/wp-content/uploads/2022/06/PINOT-CHARDONNAY.jpg",
+    "prod-V-25-40": "https://www.dolcidicasasofia.it/wp-content/uploads/2022/06/BARBERA-DASTI.jpg",
+    "prod-V-25-41": "https://www.dolcidicasasofia.it/wp-content/uploads/2022/06/BARBERA-DEL-MONFERRATO.jpg",
+    "prod-V-25-42": "https://www.dolcidicasasofia.it/wp-content/uploads/2022/06/BONARDA.jpg",
+    "prod-V-25-43": "https://www.dolcidicasasofia.it/wp-content/uploads/2022/06/CHADONNAY-FRIZZANTE.jpg",
+    "prod-V-25-44": "https://www.dolcidicasasofia.it/wp-content/uploads/2022/06/DOLCETTO-DAQUI-12-GRADI.jpg",
+    "prod-V-25-45": "https://www.dolcidicasasofia.it/wp-content/uploads/2022/06/DOLCETTO-DAQUI.jpg",
+    "prod-V-25-46": "https://www.dolcidicasasofia.it/wp-content/uploads/2022/06/PRODIGIO-ROSSO-VINO.jpg"
   }
 };
