@@ -2168,6 +2168,842 @@ window.VETRINE = {
         "https://www.cadecartocci.it/shop/",
         "https://www.cadecartocci.it/"
       ]
+    },
+    {
+      "id": "V-08",
+      "n": "Agrigiò",
+      "cat": "pasta",
+      "reg": "Puglia",
+      "city": "Candela (FG)",
+      "lat": 41.14,
+      "lng": 15.51,
+      "y": null,
+      "certs": [],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "d": {
+        "it": "Azienda agricola di Generoso Siconolfi, detto Gio Giò, a Candela, in provincia di Foggia: quarta generazione di una famiglia di coltivatori. Lavora 100 ettari con metodi sostenibili e punta sul grano duro Senatore Cappelli, con circa 2.000 quintali l'anno. Metà del raccolto diventa farina, macinata a pietra naturale in azienda; l'altra metà diventa pasta, biscotti e scaldatelli, i taralli tipici del territorio. A Natale produce anche panettoni artigianali.",
+        "en": "Farm run by Generoso Siconolfi, known as Gio Giò, in Candela, province of Foggia: the fourth generation of a farming family. It works 100 hectares with sustainable methods and focuses on Senatore Cappelli durum wheat, about 200 tonnes a year. Half the harvest becomes flour, ground on natural stone on the farm; the other half becomes pasta, biscuits and scaldatelli, the area's typical taralli. At Christmas it also makes artisan panettoni.",
+        "de": "Landwirtschaftsbetrieb von Generoso Siconolfi, genannt Gio Giò, in Candela in der Provinz Foggia: vierte Generation einer Bauernfamilie. Er bewirtschaftet 100 Hektar mit nachhaltigen Methoden und setzt auf den Hartweizen Senatore Cappelli, rund 200 Tonnen pro Jahr. Die Hälfte der Ernte wird im Betrieb auf Naturstein zu Mehl gemahlen, die andere Hälfte zu Pasta, Keksen und Scaldatelli, den typischen Taralli der Gegend, verarbeitet. Zu Weihnachten gibt es auch handwerkliche Panettoni."
+      },
+      "sub": [
+        {
+          "k": "pasta",
+          "cat": "pasta",
+          "n": {
+            "it": "Pasta",
+            "en": "Pasta",
+            "de": "Pasta"
+          }
+        },
+        {
+          "k": "farine",
+          "cat": "pasta",
+          "n": {
+            "it": "Farine",
+            "en": "Flours",
+            "de": "Mehle"
+          }
+        },
+        {
+          "k": "biscotti",
+          "cat": "dolci",
+          "n": {
+            "it": "Biscotti",
+            "en": "Biscuits",
+            "de": "Kekse"
+          }
+        },
+        {
+          "k": "panettoni",
+          "cat": "dolci",
+          "n": {
+            "it": "Panettoni",
+            "en": "Panettoni",
+            "de": "Panettoni"
+          }
+        },
+        {
+          "k": "scaldatelli",
+          "cat": "misti",
+          "n": {
+            "it": "Scaldatelli e bruschette",
+            "en": "Scaldatelli and bruschette",
+            "de": "Scaldatelli und Bruschette"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Panettone Classico Artigianale",
+          "750 g",
+          "panettoni"
+        ],
+        [
+          "Panettone Artigianale con Uvetta",
+          "750 g",
+          "panettoni"
+        ],
+        [
+          "Panettone Artigianale Uvetta e Vino",
+          "750 g",
+          "panettoni"
+        ],
+        [
+          "Panettone Artigianale con gocce di Cioccolato",
+          "750 g",
+          "panettoni"
+        ],
+        [
+          "Panettone Artigianale al Pistacchio",
+          "750 g",
+          "panettoni"
+        ],
+        [
+          "Panettone Artigianale al Caffè",
+          "750 g",
+          "panettoni"
+        ],
+        [
+          "Panettone Artigianale Vegano",
+          "750 g",
+          "panettoni"
+        ],
+        [
+          "Biscotti Ripieni al Caffè",
+          "300 g",
+          "biscotti"
+        ],
+        [
+          "Biscotti al Caffè",
+          "300 g",
+          "biscotti"
+        ],
+        [
+          "Biscotti Vegani al Grano Arso",
+          "300 g",
+          "biscotti"
+        ],
+        [
+          "Biscotti Vegani con Uvetta e Vino Rosso",
+          "300 g",
+          "biscotti"
+        ],
+        [
+          "Biscotti Vegani all'Orzo",
+          "300 g",
+          "biscotti"
+        ],
+        [
+          "Biscotti ripieni all'Amarena (Vegani)",
+          "250 g",
+          "biscotti"
+        ],
+        [
+          "Biscotti con Gocce di Cioccolato (Vegani)",
+          "250 g",
+          "biscotti"
+        ],
+        [
+          "Biscotti Integrali alla Cannella",
+          "300 g",
+          "biscotti"
+        ],
+        [
+          "Biscotti al Cacao",
+          "250 g",
+          "biscotti"
+        ],
+        [
+          "Biscotti alle Mandorle",
+          "250 g",
+          "biscotti"
+        ],
+        [
+          "Biscotti ripieni alla Nocciola",
+          "250 g",
+          "biscotti"
+        ],
+        [
+          "Biscotti ripieni di Albicocca",
+          "250 g",
+          "biscotti"
+        ],
+        [
+          "Biscotti Ciambelle",
+          "300 g",
+          "biscotti"
+        ],
+        [
+          "Biscotti Frollini",
+          "300 g",
+          "biscotti"
+        ],
+        [
+          "Scaldatelli al Finocchio Senatore Cappelli",
+          "300 g",
+          "scaldatelli"
+        ],
+        [
+          "Scaldatelli al Finocchio",
+          "350 g",
+          "scaldatelli"
+        ],
+        [
+          "Scaldatelli al Peperoncino",
+          "350 g",
+          "scaldatelli"
+        ],
+        [
+          "Scaldatelli al Sale Marino Integrale",
+          "350 g",
+          "scaldatelli"
+        ],
+        [
+          "Scaldatelli al Grano Arso",
+          "300 g",
+          "scaldatelli"
+        ],
+        [
+          "Scaldatelli di Orzo",
+          "300 g",
+          "scaldatelli"
+        ],
+        [
+          "Scaldatelli alla Spirulina",
+          "300 g",
+          "scaldatelli"
+        ],
+        [
+          "Scaldatelli integrali",
+          "300 g",
+          "scaldatelli"
+        ],
+        [
+          "Bruschette integrali Senatore Cappelli",
+          "250 g",
+          "scaldatelli"
+        ],
+        [
+          "Orecchiette Senatore Cappelli",
+          "500 g",
+          "pasta"
+        ],
+        [
+          "Orecchiette al Grano Arso",
+          "500 g",
+          "pasta"
+        ],
+        [
+          "Cavatelli Senatore Cappelli",
+          "500 g",
+          "pasta"
+        ],
+        [
+          "Cavatelli di Grano Arso",
+          "500 g",
+          "pasta"
+        ],
+        [
+          "Ricce Contadine",
+          "500 g",
+          "pasta"
+        ],
+        [
+          "Gemelli Senatore Cappelli",
+          "500 g",
+          "pasta"
+        ],
+        [
+          "Spaghetti Spezzati Senatore Cappelli",
+          "500 g",
+          "pasta"
+        ],
+        [
+          "Semolato di Grano Duro Senatore Cappelli",
+          "1 kg / 5 kg",
+          "farine"
+        ],
+        [
+          "Farina Tipo 1 di Grano Tenero",
+          "1 kg / 5 kg",
+          "farine"
+        ],
+        [
+          "Farina di Grano Arso",
+          "500 g / 1 kg / 5 kg",
+          "farine"
+        ]
+      ],
+      "pd": {
+        "V-08-0": {
+          "c": [],
+          "pr": "25,00 €",
+          "d": {
+            "it": "Panettone artigianale da 750 g con farina di grano macinato a pietra dell'azienda. La ricetta classica.",
+            "en": "Artisan 750 g panettone made with the farm's own stone-ground flour. The classic recipe.",
+            "de": "Handwerklicher Panettone (750 g) mit dem steingemahlenen Mehl des Betriebs. Das klassische Rezept."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-08-1": {
+          "c": [],
+          "pr": "25,00 €",
+          "d": {
+            "it": "Panettone artigianale da 750 g con farina di grano macinato a pietra dell'azienda. Con uvetta e senza canditi; burro di centrifuga, tuorli d'uovo da allevamento a terra, miele d'acacia e vaniglia in bacche.",
+            "en": "Artisan 750 g panettone made with the farm's own stone-ground flour. With raisins and no candied fruit; centrifuged butter, barn egg yolks, acacia honey and vanilla pods.",
+            "de": "Handwerklicher Panettone (750 g) mit dem steingemahlenen Mehl des Betriebs. Mit Rosinen und ohne kandierte Früchte; Zentrifugenbutter, Eigelb aus Bodenhaltung, Akazienhonig und Vanilleschoten."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-08-2": {
+          "c": [],
+          "pr": "25,00 €",
+          "d": {
+            "it": "Panettone artigianale da 750 g con farina di grano macinato a pietra dell'azienda. Con uvetta e vino.",
+            "en": "Artisan 750 g panettone made with the farm's own stone-ground flour. With raisins and wine.",
+            "de": "Handwerklicher Panettone (750 g) mit dem steingemahlenen Mehl des Betriebs. Mit Rosinen und Wein."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-08-3": {
+          "c": [],
+          "pr": "25,00 €",
+          "d": {
+            "it": "Panettone artigianale da 750 g con farina di grano macinato a pietra dell'azienda. Con gocce di cioccolato.",
+            "en": "Artisan 750 g panettone made with the farm's own stone-ground flour. With chocolate chips.",
+            "de": "Handwerklicher Panettone (750 g) mit dem steingemahlenen Mehl des Betriebs. Mit Schokoladenstückchen."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-08-4": {
+          "c": [],
+          "pr": "25,00 €",
+          "d": {
+            "it": "Panettone artigianale da 750 g con farina di grano macinato a pietra dell'azienda. Al pistacchio; burro di centrifuga, tuorli d'uovo freschi, miele d'acacia e vaniglia in bacche.",
+            "en": "Artisan 750 g panettone made with the farm's own stone-ground flour. With pistachio; centrifuged butter, fresh egg yolks, acacia honey and vanilla pods.",
+            "de": "Handwerklicher Panettone (750 g) mit dem steingemahlenen Mehl des Betriebs. Mit Pistazie; Zentrifugenbutter, frisches Eigelb, Akazienhonig und Vanilleschoten."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-08-5": {
+          "c": [],
+          "pr": "25,00 €",
+          "d": {
+            "it": "Panettone artigianale da 750 g con farina di grano macinato a pietra dell'azienda. Al caffè.",
+            "en": "Artisan 750 g panettone made with the farm's own stone-ground flour. With coffee.",
+            "de": "Handwerklicher Panettone (750 g) mit dem steingemahlenen Mehl des Betriebs. Mit Kaffee."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-08-6": {
+          "c": [],
+          "pr": "25,00 €",
+          "d": {
+            "it": "Panettone artigianale da 750 g con farina di grano macinato a pietra dell'azienda. Ricetta 100% vegetale.",
+            "en": "Artisan 750 g panettone made with the farm's own stone-ground flour. 100% plant-based recipe.",
+            "de": "Handwerklicher Panettone (750 g) mit dem steingemahlenen Mehl des Betriebs. Rein pflanzliches Rezept."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-08-7": {
+          "c": [],
+          "pr": "6,00 €",
+          "d": {
+            "it": "Biscotti artigianali fatti con le farine macinate a pietra dell'azienda. Frolla friabile con un ripieno morbido al caffè; uova fresche e burro italiano.",
+            "en": "Artisan biscuits made with the farm's own stone-ground flours. Crumbly shortcrust with a soft coffee filling; fresh eggs and Italian butter.",
+            "de": "Handwerkliche Kekse aus den steingemahlenen Mehlen des Betriebs. Mürber Teig mit weicher Kaffeefüllung; frische Eier und italienische Butter."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-08-8": {
+          "c": [],
+          "pr": "4,40 €",
+          "d": {
+            "it": "Biscotti artigianali fatti con le farine macinate a pietra dell'azienda. Al caffè, con uova fresche e burro italiano.",
+            "en": "Artisan biscuits made with the farm's own stone-ground flours. Coffee flavoured, with fresh eggs and Italian butter.",
+            "de": "Handwerkliche Kekse aus den steingemahlenen Mehlen des Betriebs. Mit Kaffee, frischen Eiern und italienischer Butter."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-08-9": {
+          "c": [],
+          "pr": "4,40 €",
+          "d": {
+            "it": "Biscotti artigianali fatti con le farine macinate a pietra dell'azienda. Con farina di grano arso. Vegani: senza uova, latte e burro.",
+            "en": "Artisan biscuits made with the farm's own stone-ground flours. With burnt wheat flour (grano arso). Vegan: no eggs, milk or butter.",
+            "de": "Handwerkliche Kekse aus den steingemahlenen Mehlen des Betriebs. Mit Mehl aus geröstetem Weizen (Grano Arso). Vegan: ohne Eier, Milch und Butter."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-08-10": {
+          "c": [],
+          "pr": "4,40 €",
+          "d": {
+            "it": "Biscotti artigianali fatti con le farine macinate a pietra dell'azienda. Con uvetta e vino rosso. Vegani: senza uova, latte e burro.",
+            "en": "Artisan biscuits made with the farm's own stone-ground flours. With raisins and red wine. Vegan: no eggs, milk or butter.",
+            "de": "Handwerkliche Kekse aus den steingemahlenen Mehlen des Betriebs. Mit Rosinen und Rotwein. Vegan: ohne Eier, Milch und Butter."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-08-11": {
+          "c": [],
+          "pr": "4,40 €",
+          "d": {
+            "it": "Biscotti artigianali fatti con le farine macinate a pietra dell'azienda. All'orzo. Vegani: senza uova, latte e burro.",
+            "en": "Artisan biscuits made with the farm's own stone-ground flours. With barley. Vegan: no eggs, milk or butter.",
+            "de": "Handwerkliche Kekse aus den steingemahlenen Mehlen des Betriebs. Mit Gerste. Vegan: ohne Eier, Milch und Butter."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-08-12": {
+          "c": [],
+          "pr": "4,40 €",
+          "d": {
+            "it": "Biscotti artigianali fatti con le farine macinate a pietra dell'azienda. Ripieni all'amarena. Vegani: senza uova, latte e burro.",
+            "en": "Artisan biscuits made with the farm's own stone-ground flours. Filled with sour cherry. Vegan: no eggs, milk or butter.",
+            "de": "Handwerkliche Kekse aus den steingemahlenen Mehlen des Betriebs. Mit Sauerkirschfüllung. Vegan: ohne Eier, Milch und Butter."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-08-13": {
+          "c": [],
+          "pr": "4,40 €",
+          "d": {
+            "it": "Biscotti artigianali fatti con le farine macinate a pietra dell'azienda. Con gocce di cioccolato. Vegani: senza uova, latte e burro.",
+            "en": "Artisan biscuits made with the farm's own stone-ground flours. With chocolate chips. Vegan: no eggs, milk or butter.",
+            "de": "Handwerkliche Kekse aus den steingemahlenen Mehlen des Betriebs. Mit Schokoladenstückchen. Vegan: ohne Eier, Milch und Butter."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-08-14": {
+          "c": [],
+          "pr": "4,00 €",
+          "d": {
+            "it": "Biscotti artigianali fatti con le farine macinate a pietra dell'azienda. Integrali, alla cannella. Vegani: senza uova, latte e burro.",
+            "en": "Artisan biscuits made with the farm's own stone-ground flours. Wholemeal, with cinnamon. Vegan: no eggs, milk or butter.",
+            "de": "Handwerkliche Kekse aus den steingemahlenen Mehlen des Betriebs. Vollkorn, mit Zimt. Vegan: ohne Eier, Milch und Butter."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-08-15": {
+          "c": [],
+          "pr": "4,40 €",
+          "d": {
+            "it": "Biscotti artigianali fatti con le farine macinate a pietra dell'azienda. Al cacao.",
+            "en": "Artisan biscuits made with the farm's own stone-ground flours. With cocoa.",
+            "de": "Handwerkliche Kekse aus den steingemahlenen Mehlen des Betriebs. Mit Kakao."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-08-16": {
+          "c": [],
+          "pr": "4,40 €",
+          "d": {
+            "it": "Biscotti artigianali fatti con le farine macinate a pietra dell'azienda. Alle mandorle.",
+            "en": "Artisan biscuits made with the farm's own stone-ground flours. With almonds.",
+            "de": "Handwerkliche Kekse aus den steingemahlenen Mehlen des Betriebs. Mit Mandeln."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-08-17": {
+          "c": [],
+          "pr": "4,80 €",
+          "d": {
+            "it": "Biscotti artigianali fatti con le farine macinate a pietra dell'azienda. Ripieni alla nocciola.",
+            "en": "Artisan biscuits made with the farm's own stone-ground flours. Filled with hazelnut.",
+            "de": "Handwerkliche Kekse aus den steingemahlenen Mehlen des Betriebs. Mit Haselnussfüllung."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-08-18": {
+          "c": [],
+          "pr": "4,80 €",
+          "d": {
+            "it": "Biscotti artigianali fatti con le farine macinate a pietra dell'azienda. Ripieni di albicocca.",
+            "en": "Artisan biscuits made with the farm's own stone-ground flours. Filled with apricot.",
+            "de": "Handwerkliche Kekse aus den steingemahlenen Mehlen des Betriebs. Mit Aprikosenfüllung."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-08-19": {
+          "c": [],
+          "pr": "4,80 €",
+          "d": {
+            "it": "Biscotti artigianali fatti con le farine macinate a pietra dell'azienda. A forma di ciambella.",
+            "en": "Artisan biscuits made with the farm's own stone-ground flours. Ring-shaped.",
+            "de": "Handwerkliche Kekse aus den steingemahlenen Mehlen des Betriebs. In Kringelform."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-08-20": {
+          "c": [],
+          "pr": "4,80 €",
+          "d": {
+            "it": "Biscotti artigianali fatti con le farine macinate a pietra dell'azienda. Frollini classici.",
+            "en": "Artisan biscuits made with the farm's own stone-ground flours. Classic shortbread biscuits.",
+            "de": "Handwerkliche Kekse aus den steingemahlenen Mehlen des Betriebs. Klassisches Mürbegebäck."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-08-21": {
+          "c": [],
+          "pr": "4,80 €",
+          "d": {
+            "it": "Scaldatelli, i taralli pugliesi della tradizione dauna. Al finocchio, con semola Senatore Cappelli.",
+            "en": "Scaldatelli, the traditional taralli of the Daunia area in Puglia. With fennel, made with Senatore Cappelli semolina.",
+            "de": "Scaldatelli, die traditionellen Taralli aus der Daunia in Apulien. Mit Fenchel, aus Senatore-Cappelli-Grieß."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-08-22": {
+          "c": [],
+          "pr": "4,80 €",
+          "d": {
+            "it": "Scaldatelli, i taralli pugliesi della tradizione dauna. Al finocchio, con farina di grano tenero tipo 1.",
+            "en": "Scaldatelli, the traditional taralli of the Daunia area in Puglia. With fennel, made with type 1 soft wheat flour.",
+            "de": "Scaldatelli, die traditionellen Taralli aus der Daunia in Apulien. Mit Fenchel, aus Weichweizenmehl Typ 1."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-08-23": {
+          "c": [],
+          "pr": "4,80 €",
+          "d": {
+            "it": "Scaldatelli, i taralli pugliesi della tradizione dauna. Al peperoncino, con farina di grano tenero tipo 1.",
+            "en": "Scaldatelli, the traditional taralli of the Daunia area in Puglia. With chilli, made with type 1 soft wheat flour.",
+            "de": "Scaldatelli, die traditionellen Taralli aus der Daunia in Apulien. Mit Chili, aus Weichweizenmehl Typ 1."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-08-24": {
+          "c": [],
+          "pr": "4,80 €",
+          "d": {
+            "it": "Scaldatelli, i taralli pugliesi della tradizione dauna. Con sale marino integrale.",
+            "en": "Scaldatelli, the traditional taralli of the Daunia area in Puglia. With unrefined sea salt.",
+            "de": "Scaldatelli, die traditionellen Taralli aus der Daunia in Apulien. Mit naturbelassenem Meersalz."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-08-25": {
+          "c": [],
+          "pr": "4,80 €",
+          "d": {
+            "it": "Scaldatelli, i taralli pugliesi della tradizione dauna. Con farina di grano arso.",
+            "en": "Scaldatelli, the traditional taralli of the Daunia area in Puglia. With burnt wheat flour (grano arso).",
+            "de": "Scaldatelli, die traditionellen Taralli aus der Daunia in Apulien. Mit Mehl aus geröstetem Weizen (Grano Arso)."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-08-26": {
+          "c": [],
+          "pr": "4,80 €",
+          "d": {
+            "it": "Scaldatelli, i taralli pugliesi della tradizione dauna. All'orzo.",
+            "en": "Scaldatelli, the traditional taralli of the Daunia area in Puglia. With barley.",
+            "de": "Scaldatelli, die traditionellen Taralli aus der Daunia in Apulien. Mit Gerste."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-08-27": {
+          "c": [],
+          "pr": "4,80 €",
+          "d": {
+            "it": "Scaldatelli, i taralli pugliesi della tradizione dauna. Alla spirulina.",
+            "en": "Scaldatelli, the traditional taralli of the Daunia area in Puglia. With spirulina.",
+            "de": "Scaldatelli, die traditionellen Taralli aus der Daunia in Apulien. Mit Spirulina."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-08-28": {
+          "c": [],
+          "pr": "4,20 €",
+          "d": {
+            "it": "Scaldatelli, i taralli pugliesi della tradizione dauna. Integrali.",
+            "en": "Scaldatelli, the traditional taralli of the Daunia area in Puglia. Wholemeal.",
+            "de": "Scaldatelli, die traditionellen Taralli aus der Daunia in Apulien. Vollkorn."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-08-29": {
+          "c": [],
+          "pr": "3,00 €",
+          "d": {
+            "it": "Bruschette integrali di grano duro Senatore Cappelli.",
+            "en": "Wholemeal bruschetta toasts made from Senatore Cappelli durum wheat.",
+            "de": "Vollkorn-Bruschette aus Senatore-Cappelli-Hartweizen."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-08-30": {
+          "c": [],
+          "pr": "3,70 €",
+          "d": {
+            "it": "Orecchiette di semolato di grano duro Senatore Cappelli. Il grano è coltivato dall'azienda e macinato a pietra.",
+            "en": "Orecchiette made from Senatore Cappelli durum wheat semolina. The wheat is grown on the farm and stone-ground.",
+            "de": "Orecchiette aus Hartweizengrieß der Sorte Senatore Cappelli. Der Weizen wird vom Betrieb angebaut und auf Stein gemahlen."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-08-31": {
+          "c": [],
+          "pr": "3,80 €",
+          "d": {
+            "it": "Orecchiette di semolato di grano duro Senatore Cappelli e farina di grano arso. Il grano è coltivato dall'azienda e macinato a pietra.",
+            "en": "Orecchiette made from Senatore Cappelli durum wheat semolina and burnt wheat flour (grano arso). The wheat is grown on the farm and stone-ground.",
+            "de": "Orecchiette aus Senatore-Cappelli-Hartweizengrieß und Mehl aus geröstetem Weizen (Grano Arso). Der Weizen wird vom Betrieb angebaut und auf Stein gemahlen."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-08-32": {
+          "c": [],
+          "pr": "3,20 €",
+          "d": {
+            "it": "Cavatelli di semolato di grano duro Senatore Cappelli. Il grano è coltivato dall'azienda e macinato a pietra.",
+            "en": "Cavatelli made from Senatore Cappelli durum wheat semolina. The wheat is grown on the farm and stone-ground.",
+            "de": "Cavatelli aus Hartweizengrieß der Sorte Senatore Cappelli. Der Weizen wird vom Betrieb angebaut und auf Stein gemahlen."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-08-33": {
+          "c": [],
+          "pr": "3,70 €",
+          "d": {
+            "it": "Cavatelli di semolato di grano duro Senatore Cappelli e farina di grano arso. Il grano è coltivato dall'azienda e macinato a pietra.",
+            "en": "Cavatelli made from Senatore Cappelli durum wheat semolina and burnt wheat flour (grano arso). The wheat is grown on the farm and stone-ground.",
+            "de": "Cavatelli aus Senatore-Cappelli-Hartweizengrieß und Mehl aus geröstetem Weizen (Grano Arso). Der Weizen wird vom Betrieb angebaut und auf Stein gemahlen."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-08-34": {
+          "c": [],
+          "pr": "3,70 €",
+          "d": {
+            "it": "Ricce contadine di semolato di grano duro Senatore Cappelli. Il grano è coltivato dall'azienda e macinato a pietra.",
+            "en": "Ricce contadine made from Senatore Cappelli durum wheat semolina. The wheat is grown on the farm and stone-ground.",
+            "de": "Ricce contadine aus Hartweizengrieß der Sorte Senatore Cappelli. Der Weizen wird vom Betrieb angebaut und auf Stein gemahlen."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-08-35": {
+          "c": [],
+          "pr": "3,70 €",
+          "d": {
+            "it": "Gemelli di grano duro Senatore Cappelli. Il grano è coltivato dall'azienda e macinato a pietra.",
+            "en": "Gemelli made from Senatore Cappelli durum wheat. The wheat is grown on the farm and stone-ground.",
+            "de": "Gemelli aus Senatore-Cappelli-Hartweizen. Der Weizen wird vom Betrieb angebaut und auf Stein gemahlen."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-08-36": {
+          "c": [],
+          "pr": "3,70 €",
+          "d": {
+            "it": "Spaghetti spezzati di semola di grano duro Senatore Cappelli. Il grano è coltivato dall'azienda e macinato a pietra.",
+            "en": "Broken spaghetti made from Senatore Cappelli durum wheat semolina. The wheat is grown on the farm and stone-ground.",
+            "de": "Gebrochene Spaghetti aus Senatore-Cappelli-Hartweizengrieß. Der Weizen wird vom Betrieb angebaut und auf Stein gemahlen."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-08-37": {
+          "c": [],
+          "pr": "4,00 € (1 kg) · 16,00 € (5 kg)",
+          "d": {
+            "it": "Semolato di grano duro Senatore Cappelli, coltivato dall'azienda e macinato a pietra naturale.",
+            "en": "Senatore Cappelli durum wheat semolina, grown on the farm and ground on natural stone.",
+            "de": "Hartweizengrieß der Sorte Senatore Cappelli, vom Betrieb angebaut und auf Naturstein gemahlen."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-08-38": {
+          "c": [],
+          "pr": "3,20 € (1 kg) · 14,40 € (5 kg)",
+          "d": {
+            "it": "Farina di grano tenero tipo 1, macinata a pietra naturale.",
+            "en": "Type 1 soft wheat flour, ground on natural stone.",
+            "de": "Weichweizenmehl Typ 1, auf Naturstein gemahlen."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-08-39": {
+          "c": [],
+          "pr": "3,20 € (500 g) · 5,60 € (1 kg) · 23,90 € (5 kg)",
+          "d": {
+            "it": "Farina di grano arso, tipica della tradizione pugliese, dal gusto tostato.",
+            "en": "Burnt wheat flour (grano arso), typical of Puglia's tradition, with a toasted flavour.",
+            "de": "Mehl aus geröstetem Weizen (Grano Arso), typisch für die apulische Tradition, mit Röstaroma."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        }
+      },
+      "fonti": [
+        "https://agrigio.com/negozio/",
+        "https://agrigio.com/chi-siamo/"
+      ]
     }
   ],
   "IMG": {
@@ -2229,6 +3065,47 @@ window.VETRINE = {
     "prod-V-07-9": "https://www.cadecartocci.it/wp-content/uploads/2026/07/crema-aglione-1.png",
     "prod-V-07-10": "https://www.cadecartocci.it/wp-content/uploads/2026/07/sugo-aglione-1.png",
     "prod-V-07-11": "https://www.cadecartocci.it/wp-content/uploads/2026/07/zucchine-sottolio-1.png",
-    "prod-V-07-12": "https://www.cadecartocci.it/wp-content/uploads/2026/07/zucchine-pomodoro-1.png"
+    "prod-V-07-12": "https://www.cadecartocci.it/wp-content/uploads/2026/07/zucchine-pomodoro-1.png",
+    "logo-V-08": "https://agrigio.com/wp-content/uploads/2024/03/Logo-AgriGio.png",
+    "prod-V-08-0": "https://agrigio.com/wp-content/uploads/2026/11/natale_panettone-classico.jpeg",
+    "prod-V-08-1": "https://agrigio.com/wp-content/uploads/2026/11/natale_panettone-Uvetta-stiker.jpg",
+    "prod-V-08-2": "https://agrigio.com/wp-content/uploads/2026/11/natale_panettone-Uvetta-e-Vino-stiker.jpg",
+    "prod-V-08-3": "https://agrigio.com/wp-content/uploads/2026/11/natale_panettone-cioccolato.jpeg",
+    "prod-V-08-4": "https://agrigio.com/wp-content/uploads/2026/11/natale_panettone_pistacchio.jpeg",
+    "prod-V-08-5": "https://agrigio.com/wp-content/uploads/2026/11/natale_panettone-caffe.jpg",
+    "prod-V-08-6": "https://agrigio.com/wp-content/uploads/2026/11/natale_panettone-vegano-stiker.jpg",
+    "prod-V-08-7": "https://agrigio.com/wp-content/uploads/2025/03/biscotti-caffe-1.jpg",
+    "prod-V-08-8": "https://agrigio.com/wp-content/uploads/2025/03/biscotti-al-caffe.jpg",
+    "prod-V-08-9": "https://agrigio.com/wp-content/uploads/2025/03/biscotti-vegani-grano-arso.jpg",
+    "prod-V-08-10": "https://agrigio.com/wp-content/uploads/2025/03/biscotti-vegani-uvetta-vino-rosso.jpg",
+    "prod-V-08-11": "https://agrigio.com/wp-content/uploads/2025/03/biiscotti-vegani-orzo.jpg",
+    "prod-V-08-12": "https://agrigio.com/wp-content/uploads/2024/05/biscotti-ripieni-amarena.jpeg",
+    "prod-V-08-13": "https://agrigio.com/wp-content/uploads/2024/05/biscotti-gocce-cioccolato-vegani.jpg",
+    "prod-V-08-14": "https://agrigio.com/wp-content/uploads/2024/05/biscotti-cannella.jpg",
+    "prod-V-08-15": "https://agrigio.com/wp-content/uploads/2024/05/biscotti-vegani-al-cacao.jpeg",
+    "prod-V-08-16": "https://agrigio.com/wp-content/uploads/2024/03/biscotti-alle-mandorle.jpeg",
+    "prod-V-08-17": "https://agrigio.com/wp-content/uploads/2024/03/biscotti-ripieni-nocciola-1.jpeg",
+    "prod-V-08-18": "https://agrigio.com/wp-content/uploads/2024/03/biscotti-ripieni-albicocca.jpeg",
+    "prod-V-08-19": "https://agrigio.com/wp-content/uploads/2024/03/biscotti-ciambelle.jpeg",
+    "prod-V-08-20": "https://agrigio.com/wp-content/uploads/2024/03/biscotti-frollini.jpeg",
+    "prod-V-08-21": "https://agrigio.com/wp-content/uploads/2024/04/scaldatelli-finocchio-senatore-cappelli.jpg",
+    "prod-V-08-22": "https://agrigio.com/wp-content/uploads/2024/04/scaldatelli-finocchio.jpg",
+    "prod-V-08-23": "https://agrigio.com/wp-content/uploads/2024/04/scaldatelli-peperoncino.jpg",
+    "prod-V-08-24": "https://agrigio.com/wp-content/uploads/2024/04/scaldatelli-sale-marino-integrale.jpg",
+    "prod-V-08-25": "https://agrigio.com/wp-content/uploads/2024/04/scaldatelli-grano-arso.jpg",
+    "prod-V-08-26": "https://agrigio.com/wp-content/uploads/2024/04/scaldatelli-allorzo.jpg",
+    "prod-V-08-27": "https://agrigio.com/wp-content/uploads/2024/10/scaldatelli-spirulina.jpg",
+    "prod-V-08-28": "https://agrigio.com/wp-content/uploads/2024/04/scaldatelli-integrali-2.jpg",
+    "prod-V-08-29": "https://agrigio.com/wp-content/uploads/2024/05/bruschette-integrali-senatore-Cappelli.jpeg",
+    "prod-V-08-30": "https://agrigio.com/wp-content/uploads/2024/04/orecchiette-senatore-cappelli.jpg",
+    "prod-V-08-31": "https://agrigio.com/wp-content/uploads/2024/04/orecchiette-grano-arso.jpg",
+    "prod-V-08-32": "https://agrigio.com/wp-content/uploads/2024/04/cavatelli-senatore-cappelli.jpg",
+    "prod-V-08-33": "https://agrigio.com/wp-content/uploads/2024/04/cavatelli-grano-arso.jpg",
+    "prod-V-08-34": "https://agrigio.com/wp-content/uploads/2024/04/ricce-senatore-cappelli.jpg",
+    "prod-V-08-35": "https://agrigio.com/wp-content/uploads/2024/05/gemelli-senatore-cappelli.jpg",
+    "prod-V-08-36": "https://agrigio.com/wp-content/uploads/2024/05/spaghetti-spezzati-senatore-cappelli.jpg",
+    "prod-V-08-37": "https://agrigio.com/wp-content/uploads/2024/05/Semolato-di-Grano-Duro-Senatore-Cappelli.jpg",
+    "prod-V-08-38": "https://agrigio.com/wp-content/uploads/2024/05/Farina-tipo-1.jpg",
+    "prod-V-08-39": "https://agrigio.com/wp-content/uploads/2024/05/Farina-Grano-Arso.jpg"
   }
 };
