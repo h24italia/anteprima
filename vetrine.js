@@ -1852,6 +1852,322 @@ window.VETRINE = {
         "https://www.diegalewineshop.info/contatti",
         "https://www.diegale.it/i-nostri-vini/ciarlibo/"
       ]
+    },
+    {
+      "id": "V-07",
+      "n": "Ca' de Cartocci",
+      "cat": "olio",
+      "reg": "Toscana",
+      "city": "Arezzo (AR)",
+      "lat": 43.42,
+      "lng": 11.85,
+      "y": null,
+      "certs": [
+        "IGP",
+        "Bio"
+      ],
+      "exp": [],
+      "lg": [
+        "it",
+        "en"
+      ],
+      "moq": null,
+      "d": {
+        "it": "Azienda agricola a conduzione familiare da generazioni in località Fontiano, ad Arezzo, nel cuore della Valdichiana. Coltiva olivi secolari su colline tra 300 e 400 metri di quota, con pratiche sostenibili; le olive vanno subito al frantoio e diventano olio extravergine toscano IGP. Nel campo in Valdichiana coltiva anche l'Aglione della Valdichiana, l'aglio bianco e il fagiolino dall'occhio, e prepara conserve con l'aglione e le verdure di stagione.",
+        "en": "Family-run farm for generations in Fontiano, Arezzo, in the heart of the Valdichiana. It grows century-old olive trees on hills between 300 and 400 metres using sustainable practices; the olives go straight to the mill and become Tuscan IGP extra virgin olive oil. In its Valdichiana field it also grows Aglione della Valdichiana, white garlic and black-eyed beans, and makes preserves with aglione and seasonal vegetables.",
+        "de": "Seit Generationen familiengeführter Landwirtschaftsbetrieb in Fontiano bei Arezzo, im Herzen des Valdichiana. Er pflegt jahrhundertealte Olivenbäume auf Hügeln zwischen 300 und 400 Metern mit nachhaltigen Methoden; die Oliven kommen sofort in die Ölmühle und werden zu toskanischem Olivenöl extra vergine g.g.A. Auf seinem Feld im Valdichiana baut er außerdem Aglione della Valdichiana, weißen Knoblauch und Augenbohnen an und stellt Konserven mit Aglione und saisonalem Gemüse her."
+      },
+      "sub": [
+        {
+          "k": "olio",
+          "cat": "olio",
+          "n": {
+            "it": "Olio extravergine",
+            "en": "Extra virgin olive oil",
+            "de": "Olivenöl extra vergine"
+          }
+        },
+        {
+          "k": "aglione",
+          "cat": "conserve",
+          "n": {
+            "it": "Aglione e conserve",
+            "en": "Aglione and preserves",
+            "de": "Aglione und Konserven"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Olio extravergine di oliva toscano IGP",
+          "bottiglia da 100 ml",
+          "olio"
+        ],
+        [
+          "Olio extravergine di oliva toscano IGP",
+          "bottiglia da 250 ml",
+          "olio"
+        ],
+        [
+          "Olio extravergine di oliva toscano IGP",
+          "latta da 250 ml",
+          "olio"
+        ],
+        [
+          "Olio extravergine di oliva toscano IGP",
+          "bottiglia da 500 ml",
+          "olio"
+        ],
+        [
+          "Olio extravergine di oliva toscano IGP",
+          "latta da 500 ml",
+          "olio"
+        ],
+        [
+          "Olio extravergine di oliva toscano IGP",
+          "bottiglia da 750 ml",
+          "olio"
+        ],
+        [
+          "Olio extravergine di oliva toscano IGP",
+          "3 litri",
+          "olio"
+        ],
+        [
+          "Olio extravergine di oliva toscano IGP",
+          "5 litri",
+          "olio"
+        ],
+        [
+          "Aglione della Valdichiana",
+          "al chilo",
+          "aglione"
+        ],
+        [
+          "Crema di Aglione della Valdichiana",
+          "vasetto",
+          "aglione"
+        ],
+        [
+          "Sugo all'Aglione della Valdichiana",
+          "vasetto",
+          "aglione"
+        ],
+        [
+          "Zucchine sott'olio Stuzzicaperitivi",
+          "vasetto",
+          "aglione"
+        ],
+        [
+          "Zucchine al pomodoro",
+          "vasetto",
+          "aglione"
+        ]
+      ],
+      "pd": {
+        "V-07-0": {
+          "c": [
+            "IGP"
+          ],
+          "pr": "6,00 €",
+          "d": {
+            "it": "Olio extravergine di oliva toscano IGP da olivi secolari della Valdichiana. Sentori erbacei e di oliva, note di mandorla e ortaggi freschi; in bocca amaro lieve e piccante medio, con sensazioni vegetali.",
+            "en": "Tuscan IGP extra virgin olive oil from century-old olive trees in the Valdichiana. Grassy and olive aromas with notes of almond and fresh vegetables; on the palate a light bitterness and medium pungency, with green notes.",
+            "de": "Toskanisches Olivenöl extra vergine g.g.A. von jahrhundertealten Olivenbäumen im Valdichiana. Grasige Aromen und Olivennoten, dazu Mandel und frisches Gemüse; im Mund leicht bitter und mittel scharf, mit grünen Noten."
+          },
+          "a": {
+            "it": "Olive raccolte a giusta maturazione e portate subito al frantoio.",
+            "en": "Olives picked at the right ripeness and taken straight to the mill.",
+            "de": "Oliven werden im richtigen Reifegrad geerntet und sofort zur Ölmühle gebracht."
+          }
+        },
+        "V-07-1": {
+          "c": [
+            "IGP"
+          ],
+          "pr": "9,00 €",
+          "d": {
+            "it": "Olio extravergine di oliva toscano IGP da olivi secolari della Valdichiana. Sentori erbacei e di oliva, note di mandorla e ortaggi freschi; in bocca amaro lieve e piccante medio, con sensazioni vegetali.",
+            "en": "Tuscan IGP extra virgin olive oil from century-old olive trees in the Valdichiana. Grassy and olive aromas with notes of almond and fresh vegetables; on the palate a light bitterness and medium pungency, with green notes.",
+            "de": "Toskanisches Olivenöl extra vergine g.g.A. von jahrhundertealten Olivenbäumen im Valdichiana. Grasige Aromen und Olivennoten, dazu Mandel und frisches Gemüse; im Mund leicht bitter und mittel scharf, mit grünen Noten."
+          },
+          "a": {
+            "it": "Olive raccolte a giusta maturazione e portate subito al frantoio.",
+            "en": "Olives picked at the right ripeness and taken straight to the mill.",
+            "de": "Oliven werden im richtigen Reifegrad geerntet und sofort zur Ölmühle gebracht."
+          }
+        },
+        "V-07-2": {
+          "c": [
+            "IGP"
+          ],
+          "pr": "9,00 €",
+          "d": {
+            "it": "Olio extravergine di oliva toscano IGP da olivi secolari della Valdichiana. Sentori erbacei e di oliva, note di mandorla e ortaggi freschi; in bocca amaro lieve e piccante medio, con sensazioni vegetali.",
+            "en": "Tuscan IGP extra virgin olive oil from century-old olive trees in the Valdichiana. Grassy and olive aromas with notes of almond and fresh vegetables; on the palate a light bitterness and medium pungency, with green notes.",
+            "de": "Toskanisches Olivenöl extra vergine g.g.A. von jahrhundertealten Olivenbäumen im Valdichiana. Grasige Aromen und Olivennoten, dazu Mandel und frisches Gemüse; im Mund leicht bitter und mittel scharf, mit grünen Noten."
+          },
+          "a": {
+            "it": "Olive raccolte a giusta maturazione e portate subito al frantoio.",
+            "en": "Olives picked at the right ripeness and taken straight to the mill.",
+            "de": "Oliven werden im richtigen Reifegrad geerntet und sofort zur Ölmühle gebracht."
+          }
+        },
+        "V-07-3": {
+          "c": [
+            "IGP"
+          ],
+          "pr": "18,00 €",
+          "d": {
+            "it": "Olio extravergine di oliva toscano IGP da olivi secolari della Valdichiana. Sentori erbacei e di oliva, note di mandorla e ortaggi freschi; in bocca amaro lieve e piccante medio, con sensazioni vegetali.",
+            "en": "Tuscan IGP extra virgin olive oil from century-old olive trees in the Valdichiana. Grassy and olive aromas with notes of almond and fresh vegetables; on the palate a light bitterness and medium pungency, with green notes.",
+            "de": "Toskanisches Olivenöl extra vergine g.g.A. von jahrhundertealten Olivenbäumen im Valdichiana. Grasige Aromen und Olivennoten, dazu Mandel und frisches Gemüse; im Mund leicht bitter und mittel scharf, mit grünen Noten."
+          },
+          "a": {
+            "it": "Olive raccolte a giusta maturazione e portate subito al frantoio.",
+            "en": "Olives picked at the right ripeness and taken straight to the mill.",
+            "de": "Oliven werden im richtigen Reifegrad geerntet und sofort zur Ölmühle gebracht."
+          }
+        },
+        "V-07-4": {
+          "c": [
+            "IGP"
+          ],
+          "pr": "16,00 €",
+          "d": {
+            "it": "Olio extravergine di oliva toscano IGP da olivi secolari della Valdichiana. Sentori erbacei e di oliva, note di mandorla e ortaggi freschi; in bocca amaro lieve e piccante medio, con sensazioni vegetali.",
+            "en": "Tuscan IGP extra virgin olive oil from century-old olive trees in the Valdichiana. Grassy and olive aromas with notes of almond and fresh vegetables; on the palate a light bitterness and medium pungency, with green notes.",
+            "de": "Toskanisches Olivenöl extra vergine g.g.A. von jahrhundertealten Olivenbäumen im Valdichiana. Grasige Aromen und Olivennoten, dazu Mandel und frisches Gemüse; im Mund leicht bitter und mittel scharf, mit grünen Noten."
+          },
+          "a": {
+            "it": "Olive raccolte a giusta maturazione e portate subito al frantoio.",
+            "en": "Olives picked at the right ripeness and taken straight to the mill.",
+            "de": "Oliven werden im richtigen Reifegrad geerntet und sofort zur Ölmühle gebracht."
+          }
+        },
+        "V-07-5": {
+          "c": [
+            "IGP"
+          ],
+          "pr": "22,00 €",
+          "d": {
+            "it": "Olio extravergine di oliva toscano IGP da olivi secolari della Valdichiana. Sentori erbacei e di oliva, note di mandorla e ortaggi freschi; in bocca amaro lieve e piccante medio, con sensazioni vegetali.",
+            "en": "Tuscan IGP extra virgin olive oil from century-old olive trees in the Valdichiana. Grassy and olive aromas with notes of almond and fresh vegetables; on the palate a light bitterness and medium pungency, with green notes.",
+            "de": "Toskanisches Olivenöl extra vergine g.g.A. von jahrhundertealten Olivenbäumen im Valdichiana. Grasige Aromen und Olivennoten, dazu Mandel und frisches Gemüse; im Mund leicht bitter und mittel scharf, mit grünen Noten."
+          },
+          "a": {
+            "it": "Olive raccolte a giusta maturazione e portate subito al frantoio.",
+            "en": "Olives picked at the right ripeness and taken straight to the mill.",
+            "de": "Oliven werden im richtigen Reifegrad geerntet und sofort zur Ölmühle gebracht."
+          }
+        },
+        "V-07-6": {
+          "c": [
+            "IGP"
+          ],
+          "pr": "66,00 €",
+          "d": {
+            "it": "Olio extravergine di oliva toscano IGP da olivi secolari della Valdichiana. Sentori erbacei e di oliva, note di mandorla e ortaggi freschi; in bocca amaro lieve e piccante medio, con sensazioni vegetali.",
+            "en": "Tuscan IGP extra virgin olive oil from century-old olive trees in the Valdichiana. Grassy and olive aromas with notes of almond and fresh vegetables; on the palate a light bitterness and medium pungency, with green notes.",
+            "de": "Toskanisches Olivenöl extra vergine g.g.A. von jahrhundertealten Olivenbäumen im Valdichiana. Grasige Aromen und Olivennoten, dazu Mandel und frisches Gemüse; im Mund leicht bitter und mittel scharf, mit grünen Noten."
+          },
+          "a": {
+            "it": "Olive raccolte a giusta maturazione e portate subito al frantoio.",
+            "en": "Olives picked at the right ripeness and taken straight to the mill.",
+            "de": "Oliven werden im richtigen Reifegrad geerntet und sofort zur Ölmühle gebracht."
+          }
+        },
+        "V-07-7": {
+          "c": [
+            "IGP"
+          ],
+          "pr": "100,00 €",
+          "d": {
+            "it": "Olio extravergine di oliva toscano IGP da olivi secolari della Valdichiana. Sentori erbacei e di oliva, note di mandorla e ortaggi freschi; in bocca amaro lieve e piccante medio, con sensazioni vegetali.",
+            "en": "Tuscan IGP extra virgin olive oil from century-old olive trees in the Valdichiana. Grassy and olive aromas with notes of almond and fresh vegetables; on the palate a light bitterness and medium pungency, with green notes.",
+            "de": "Toskanisches Olivenöl extra vergine g.g.A. von jahrhundertealten Olivenbäumen im Valdichiana. Grasige Aromen und Olivennoten, dazu Mandel und frisches Gemüse; im Mund leicht bitter und mittel scharf, mit grünen Noten."
+          },
+          "a": {
+            "it": "Olive raccolte a giusta maturazione e portate subito al frantoio.",
+            "en": "Olives picked at the right ripeness and taken straight to the mill.",
+            "de": "Oliven werden im richtigen Reifegrad geerntet und sofort zur Ölmühle gebracht."
+          }
+        },
+        "V-07-8": {
+          "c": [],
+          "pr": "18,00 €/kg fresco · 20-25 €/kg secco",
+          "d": {
+            "it": "Bulbo di grandi dimensioni, fino a 800 grammi, con spicchi che arrivano a 70-80 g. Più dolce e delicato dell'aglio comune, con un contenuto di allina molto basso. Si vende fresco oppure secco: il prezzo del secco sale da luglio (20 €/kg) ad agosto (22 €/kg) e da settembre in poi (25 €/kg).",
+            "en": "A very large bulb, up to 800 grams, with cloves of 70-80 g. Sweeter and milder than common garlic, with very low alliin content. Sold fresh or dried: the dried price rises from July (20 €/kg) to August (22 €/kg) and from September on (25 €/kg).",
+            "de": "Sehr große Knolle bis 800 Gramm mit Zehen von 70-80 g. Milder und feiner als gewöhnlicher Knoblauch, mit sehr wenig Alliin. Erhältlich frisch oder getrocknet: der Preis für getrockneten steigt von Juli (20 €/kg) über August (22 €/kg) bis ab September (25 €/kg)."
+          },
+          "a": {
+            "it": "Disponibile da luglio a dicembre; la vendita riprende dal 15 giugno.",
+            "en": "Available from July to December; sales resume from 15 June.",
+            "de": "Erhältlich von Juli bis Dezember; der Verkauf beginnt wieder ab 15. Juni."
+          }
+        },
+        "V-07-9": {
+          "c": [],
+          "pr": "6,00 € (1 pz) · 30,00 € (6 pz)",
+          "d": {
+            "it": "Crema pronta a base di Aglione della Valdichiana, da usare come base per pasta, riso, vellutate e crostini.",
+            "en": "Ready-made cream of Aglione della Valdichiana, a base for pasta, rice, soups and crostini.",
+            "de": "Fertige Creme aus Aglione della Valdichiana, als Grundlage für Pasta, Reis, Suppen und Crostini."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-07-10": {
+          "c": [],
+          "pr": "6,00 € (1 pz) · 30,00 € (6 pz)",
+          "d": {
+            "it": "Sugo vegetale, senza carne, da ricette semplici: per pasta di ogni formato, pici, tagliatelle e bruschette.",
+            "en": "Plant-based sauce without meat, from simple recipes: for any pasta shape, pici, tagliatelle and bruschetta.",
+            "de": "Pflanzliche Sauce ohne Fleisch nach einfachen Rezepten: für alle Nudelsorten, Pici, Tagliatelle und Bruschetta."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-07-11": {
+          "c": [],
+          "pr": "7,00 € (1 pz) · 36,00 € (6 pz)",
+          "d": {
+            "it": "Zucchine di stagione sott'olio preparate come una volta, con pochi ingredienti semplici. Da aperitivo.",
+            "en": "Seasonal courgettes in oil made the old-fashioned way, with a few simple ingredients. For aperitifs.",
+            "de": "Saisonale Zucchini in Öl nach alter Art, mit wenigen einfachen Zutaten. Zum Aperitif."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        },
+        "V-07-12": {
+          "c": [],
+          "pr": "7,00 € (1 pz) · 36,00 € (6 pz)",
+          "d": {
+            "it": "Zucchine cotte nella salsa di pomodoro con olio extravergine e un pizzico di finocchietto. Per antipasti e contorni.",
+            "en": "Courgettes cooked in tomato sauce with extra virgin olive oil and a pinch of wild fennel. For starters and side dishes.",
+            "de": "Zucchini in Tomatensauce mit Olivenöl extra vergine und einer Prise wildem Fenchel gegart. Für Vorspeisen und Beilagen."
+          },
+          "a": {
+            "it": "",
+            "en": "",
+            "de": ""
+          }
+        }
+      },
+      "fonti": [
+        "https://www.cadecartocci.it/shop/",
+        "https://www.cadecartocci.it/"
+      ]
     }
   ],
   "IMG": {
@@ -1899,6 +2215,20 @@ window.VETRINE = {
     "prod-V-06-1": "https://www.diegale.it/wp-content/uploads/2026/01/diegale-ciarlibo-2026-1.jpg",
     "prod-V-06-2": "https://static.wixstatic.com/media/5ae127_abb39bd697b349bc979ffeefc8f965ad~mv2.jpg",
     "prod-V-06-3": "https://static.wixstatic.com/media/5ae127_d82e050c2f454bf89d62456c53993b06~mv2.jpg",
-    "prod-V-06-4": "https://static.wixstatic.com/media/5ae127_fb5e2f125d8343469531eb59c2c4b22e~mv2.jpg"
+    "prod-V-06-4": "https://static.wixstatic.com/media/5ae127_fb5e2f125d8343469531eb59c2c4b22e~mv2.jpg",
+    "logo-V-07": "https://www.cadecartocci.it/wp-content/uploads/2022/12/logo-cadecartocci.png",
+    "prod-V-07-0": "https://www.cadecartocci.it/wp-content/uploads/2024/11/100ml-new.png",
+    "prod-V-07-1": "https://www.cadecartocci.it/wp-content/uploads/2025/06/2-1.jpg",
+    "prod-V-07-2": "https://www.cadecartocci.it/wp-content/uploads/2026/11/1.jpg",
+    "prod-V-07-3": "https://www.cadecartocci.it/wp-content/uploads/2024/11/500ml-new.png",
+    "prod-V-07-4": "https://www.cadecartocci.it/wp-content/uploads/2024/11/500-ml-lat-new.png",
+    "prod-V-07-5": "https://www.cadecartocci.it/wp-content/uploads/2024/11/750ml-new.png",
+    "prod-V-07-6": "https://www.cadecartocci.it/wp-content/uploads/2024/11/3l-new.png",
+    "prod-V-07-7": "https://www.cadecartocci.it/wp-content/uploads/2024/11/5l-new.png",
+    "prod-V-07-8": "https://www.cadecartocci.it/wp-content/uploads/2024/11/Fotografia-editoriale-dellaglione-della-Valdichiana.jpg",
+    "prod-V-07-9": "https://www.cadecartocci.it/wp-content/uploads/2026/07/crema-aglione-1.png",
+    "prod-V-07-10": "https://www.cadecartocci.it/wp-content/uploads/2026/07/sugo-aglione-1.png",
+    "prod-V-07-11": "https://www.cadecartocci.it/wp-content/uploads/2026/07/zucchine-sottolio-1.png",
+    "prod-V-07-12": "https://www.cadecartocci.it/wp-content/uploads/2026/07/zucchine-pomodoro-1.png"
   }
 };
