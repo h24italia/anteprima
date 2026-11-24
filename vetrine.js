@@ -13178,6 +13178,3055 @@ window.VETRINE = {
         "https://saporiantichi.net/la-storia/",
         "https://www.vetrinedicalabria.it/home/sapori/gruppo-muraca-specialita-alimentari/"
       ]
+    },
+    {
+      "id": "V-43",
+      "n": "Mr. Pilo Gourmet Food",
+      "cat": "dolci",
+      "reg": "Marche",
+      "city": "Cagli (PU)",
+      "lat": 43.546,
+      "lng": 12.65,
+      "y": null,
+      "certs": [],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "d": {
+        "it": "Mr. Pilo è un laboratorio artigianale di prodotti da forno con sede a Cagli, in provincia di Pesaro e Urbino, nato dalla tradizione di una famiglia e specializzato da oltre dieci anni in piadine, snack e cresce sfogliate a mano. Le sue crefole e crepole sono simili alle piadine ma più ricche, saporite e friabili: la sfogliatura a mano, secondo la tradizione di famiglia, le rende fragranti e digeribili anche dopo la cottura. Il metodo unisce selezione accurata delle materie prime, lavorazione manuale e confezionamento in atmosfera controllata, nel rispetto della tradizione culinaria del territorio. In gamma anche i Crefolini da sgranocchiare, le piadine e le basi pinsate a mano. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy.",
+        "en": "Mr. Pilo è un laboratorio artigianale di prodotti da forno con sede a Cagli, in provincia di Pesaro e Urbino, nato dalla tradizione di una famiglia e specializzato da oltre dieci anni in piadine, snack e cresce sfogliate a mano. Le sue crefole e crepole sono simili alle piadine ma più ricche, saporite e friabili: la sfogliatura a mano, secondo la tradizione di famiglia, le rende fragranti e digeribili anche dopo la cottura. Il metodo unisce selezione accurata delle materie prime, lavorazione manuale e confezionamento in atmosfera controllata, nel rispetto della tradizione culinaria del territorio. In gamma anche i Crefolini da sgranocchiare, le piadine e le basi pinsate a mano. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy.",
+        "de": "Mr. Pilo è un laboratorio artigianale di prodotti da forno con sede a Cagli, in provincia di Pesaro e Urbino, nato dalla tradizione di una famiglia e specializzato da oltre dieci anni in piadine, snack e cresce sfogliate a mano. Le sue crefole e crepole sono simili alle piadine ma più ricche, saporite e friabili: la sfogliatura a mano, secondo la tradizione di famiglia, le rende fragranti e digeribili anche dopo la cottura. Il metodo unisce selezione accurata delle materie prime, lavorazione manuale e confezionamento in atmosfera controllata, nel rispetto della tradizione culinaria del territorio. In gamma anche i Crefolini da sgranocchiare, le piadine e le basi pinsate a mano. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy."
+      },
+      "sub": [
+        {
+          "k": "crefole",
+          "cat": "dolci",
+          "n": {
+            "it": "Crefole e crepole sfogliate",
+            "en": "Crefole e crepole sfogliate",
+            "de": "Crefole e crepole sfogliate"
+          }
+        },
+        {
+          "k": "snack",
+          "cat": "dolci",
+          "n": {
+            "it": "Crefolini snack",
+            "en": "Crefolini snack",
+            "de": "Crefolini snack"
+          }
+        },
+        {
+          "k": "piadine",
+          "cat": "dolci",
+          "n": {
+            "it": "Piadine",
+            "en": "Piadine",
+            "de": "Piadine"
+          }
+        },
+        {
+          "k": "pinsa",
+          "cat": "dolci",
+          "n": {
+            "it": "Basi pinsate",
+            "en": "Basi pinsate",
+            "de": "Basi pinsate"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Crefole sfogliate",
+          "confezione da 3 pezzi, 450 g",
+          "crefole"
+        ],
+        [
+          "Crefole sfogliate senza uova",
+          "confezione da 3 pezzi, 450 g",
+          "crefole"
+        ],
+        [
+          "Crefole sfogliate integrali",
+          "confezione da 3 pezzi, 450 g",
+          "crefole"
+        ],
+        [
+          "Crefole sfogliate al farro",
+          "confezione da 3 pezzi, 450 g",
+          "crefole"
+        ],
+        [
+          "Crefole sfogliate all'aroma di tartufo",
+          "confezione da 3 pezzi, 450 g",
+          "crefole"
+        ],
+        [
+          "Crefole con impasto di patate",
+          "confezione da 3 pezzi, 510 g",
+          "crefole"
+        ],
+        [
+          "Crepole con impasto di polenta",
+          "confezione da 3 pezzi, 510 g",
+          "crefole"
+        ],
+        [
+          "Crefole sfogliate Mini",
+          "confezione da 5 pezzi, 250 g",
+          "crefole"
+        ],
+        [
+          "Crefolini sfogliati",
+          "confezione da 150 g",
+          "snack"
+        ],
+        [
+          "Crepolini sfogliati di polenta",
+          "confezione da 180 g",
+          "snack"
+        ],
+        [
+          "Piadina classica all'olio extravergine",
+          "confezione da 3 pezzi, 300 g",
+          "piadine"
+        ],
+        [
+          "Piadina classica saporita",
+          "confezione da 3 pezzi, 300 g",
+          "piadine"
+        ],
+        [
+          "Base pizza pinsata rettangolare",
+          "1 pezzo da 250 g",
+          "pinsa"
+        ],
+        [
+          "Base focaccia pinsata",
+          "1 pezzo da 400 g",
+          "pinsa"
+        ],
+        [
+          "Panino pinsato",
+          "1 pezzo da 150 g",
+          "pinsa"
+        ]
+      ],
+      "pd": {
+        "V-43-0": {
+          "c": [],
+          "pr": "3,40 € (shop T.F.I.)",
+          "d": {
+            "it": "Simili alle Piadine, ma arricchite con uova, latte e vari altri ingredienti. Sfogliate a mano secondo la tradizione di famiglia. Ingredienti: farina di grano tenero tipo 0, strutto, acqua, uova, sale, saccarosio, agente lievitante: carbonato acido di sodio, conservante E200 (acido sorbico), pepe, olio extravergine d'oliva. Contiene glutine di frumento e uova."
+          },
+          "a": {
+            "it": "Da scaldare in padella o sulla piastra e farcire con salumi, formaggi e verdure. Confezionato in atmosfera protettiva, shelf life di 90 giorni."
+          }
+        },
+        "V-43-1": {
+          "c": [],
+          "pr": "4,50 € (shop T.F.I.)",
+          "d": {
+            "it": "Sono la nostra versione di prodotto che più si avvicina alla Piadina classica, ma, rispetto alla stessa, risultano essere molto più saporite, fragranti e friabili. Sono arricchite con ingredienti selezionati, ma senza uova. Sfogliate a mano secondo la tradizione di famiglia. Ingredienti: farina di grano tenero tipo 0, strutto, acqua, agente lievitante: carbonato acido di sodio, conservante E200 (acido sorbico), pepe. Contiene glutine di frumento. Prodotto in uno stabilimento che utilizza uova, può contenere tracce di uova."
+          },
+          "a": {
+            "it": "Da scaldare in padella o sulla piastra e farcire con salumi, formaggi e verdure. Confezionato in atmosfera protettiva, shelf life di 90 giorni."
+          }
+        },
+        "V-43-2": {
+          "c": [],
+          "pr": "3,40 € (shop T.F.I.)",
+          "d": {
+            "it": "Anche queste simili alle Piadine classiche, ma arricchite con uova e vari altri ingredienti. Seguendo l'insegnamento dei nostri nonni, la misura di farina integrale impiegata consente di ottenere un prodotto molto delicato, ma, al tempo stesso, pieno di gusto. Sfogliate a mano secondo la tradizione di famiglia. Ingredienti: farina di grano tenero tipo 0, farina di grano tenero integrale (17%), strutto, acqua, uova, sale, saccarosio, agente lievitante: carbonato acido di sodio, conservante E200 (acido sorbico), pepe, olio extravergine d'oliva. Contiene glutine di frumento e uova."
+          },
+          "a": {
+            "it": "Da scaldare in padella o sulla piastra e farcire con salumi, formaggi e verdure. Confezionato in atmosfera protettiva, shelf life di 90 giorni."
+          }
+        },
+        "V-43-3": {
+          "c": [],
+          "pr": "3,50 € (shop T.F.I.)",
+          "d": {
+            "it": "Grazie ad un'antica ricetta, queste Crefole si ottengono aggiungendo all'impasto originale, arricchito da uova ed ingredienti vari, un pò di farro, la componente che aiuta a rendere il risultato finale più speziato, lasciando comunque inalterate bontà e leggerezza. Sfogliate a mano secondo la tradizione di famiglia. Ingredienti: farina di farro bianca (43%),acqua,strutto, farina di grano tenero tipo '0',uova, sale, farina di farro integrale (1%),olio extravergine d'oliva, saccarosio, conservante E200 (acido sorbico), agente lievitante: carbonato acido di sodio, pepe, Contiene glutine di frumento e uova. Può contenere tracce di soia e senape."
+          },
+          "a": {
+            "it": "Da scaldare in padella o sulla piastra e farcire con salumi, formaggi e verdure. Confezionato in atmosfera protettiva, shelf life di 90 giorni."
+          }
+        },
+        "V-43-4": {
+          "c": [],
+          "pr": "4,60 € (shop T.F.I.)",
+          "d": {
+            "it": "Arricchite con uova, latte ed altri ingredienti vari, tra cui, appunto, l'aroma di tartufo, tipico dell'Appennino Umbro- Marchigiano. Sfogliate a mano secondo la tradizione di famiglia. Ingredienti: farina di grano tenero tipo 0, strutto, acqua, uova, sale, saccarosio, agente lievitante: carbonato acido di sodio, conservante E200 (acido sorbico), pepe, olio extravergine d'oliva, aroma al tartufo bianco. Contiene glutine di frumento e uova."
+          },
+          "a": {
+            "it": "Da scaldare in padella o sulla piastra e farcire con salumi, formaggi e verdure. Confezionato in atmosfera protettiva, shelf life di 90 giorni."
+          }
+        },
+        "V-43-5": {
+          "c": [],
+          "pr": "3,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Si distinguono dalle Piadine classiche, oltre che per la ricetta, anche per i tempi di lavorazione. Le patate vengono infatti lessate, poi lasciate raffreddare ed infine impastate con farina, uova, sale e vari altri ingredienti. Sfogliate a mano secondo la tradizione di famiglia. Ingredienti: farina di grano tenero tipo 0, strutto, acqua, uova, patate lesse 9% (patate lesse, sale, antiossidante E223, solfiti), sale, olio extravergine d'oliva, saccarosio, agenti lievitanti: carbonato acido di sodio, conservante E200 (acido sorbico), pepe. Contiene glutine di frumento, uova e solfiti."
+          },
+          "a": {
+            "it": "Da scaldare in padella o sulla piastra e farcire con salumi, formaggi e verdure. Confezionato in atmosfera protettiva, shelf life di 90 giorni."
+          }
+        },
+        "V-43-6": {
+          "c": [],
+          "pr": "3,60 € (shop T.F.I.)",
+          "d": {
+            "it": "Antica ricetta dei nostri nonni, secondo cui, una volta preparata la Polenta, la si lascia prima raffreddare per poi tritarla e procedere ad impastarla con farina, uova e vari altri ingredienti. Sfogliate a mano secondo la tradizione di famiglia. Ingredienti: farina di grano tenero tipo 0, polenta 35% (acqua, farina di mais, sale, correttore di acidità acido tartarico), uova, strutto, sale, saccarosio, agenti lievitanti: carbonato acido di sodio, conservante E200 (acido sorbico), pepe. Contiene glutine di frumento e uova."
+          },
+          "a": {
+            "it": "Da scaldare in padella o sulla piastra e farcire con salumi, formaggi e verdure. Confezionato in atmosfera protettiva, shelf life di 90 giorni."
+          }
+        },
+        "V-43-7": {
+          "c": [],
+          "pr": "3,95 € (shop T.F.I.)",
+          "d": {
+            "it": "Sono la nostra versione di prodotto che più si avvicina alla Piadina classica, ma, rispetto alla stessa, risultano essere molto più saporite, fragranti e friabili. Sono arricchite con ingredienti scelti, ma senza uova. Sfogliate a mano secondo la tradizione di famiglia. Ingredienti: farina di grano tenero tipo 0, strutto, acqua, agente lievitante: carbonato acido di sodio, conservante E200 (acido sorbico), pepe. Contiene glutine di frumento. Prodotto in uno stabilimento che utilizza uova, può contenere tracce di uova."
+          },
+          "a": {
+            "it": "Da scaldare in padella o sulla piastra e farcire con salumi, formaggi e verdure. Confezionato in atmosfera protettiva, shelf life di 90 giorni."
+          }
+        },
+        "V-43-8": {
+          "c": [],
+          "pr": "3,25 € (shop T.F.I.)",
+          "d": {
+            "it": "I Crefolini si ottengono dal prodotto base, ovvero dalle Crefole Sfogliate. Ricordano una sorta di “grissini schiacciati”, larghi circa 2 cm e pronti da sgranocchiare con piacere in qualsiasi momento della giornata. Ingredienti: farina di grano tenero tipo 0, strutto, acqua, uova, sale, saccarosio, agente lievitante: carbonato acido di sodio, conservante E200 (acido sorbico), pepe, olio extravergine d'oliva. Contiene glutine di frumento e uova."
+          },
+          "a": {
+            "it": "Da sgranocchiare da soli o con salumi, formaggi e creme spalmabili. Confezionato in atmosfera protettiva, shelf life di 180 giorni."
+          }
+        },
+        "V-43-9": {
+          "c": [],
+          "pr": "3,25 € (shop T.F.I.)",
+          "d": {
+            "it": "I Crepolini vengono invece ricavati dalle Crepole con Impasto di Polenta. Ricordano una sorta di “grissini schiacciati”, larghi circa 2 cm e pronti da sgranocchiare con piacere in qualsiasi momento della giornata. Ingredienti: farina di grano tenero tipo 0, polenta 35% (acqua, farina di mais, sale, correttore di acidità acido tartarico), acqua, uova, strutto, sale, saccarosio, agenti lievitanti: carbonato acido di sodio, conservante E200 (acido sorbico), pepe. Contiene glutine di frumento e uova."
+          },
+          "a": {
+            "it": "Da sgranocchiare da soli o con salumi, formaggi e creme spalmabili. Confezionato in atmosfera protettiva, shelf life di 180 giorni."
+          }
+        },
+        "V-43-10": {
+          "c": [],
+          "pr": "2,70 € (shop T.F.I.)",
+          "d": {
+            "it": "La Piadina Classica con Olio Extra Vergine d'oliva. Da farcire a proprio gusto. Realizzata con prodotti selezionati e preparata secondo la ricetta tradizionale."
+          },
+          "a": {
+            "it": "Da scaldare e farcire a piacere. Confezionato in atmosfera protettiva, shelf life di 90 giorni."
+          }
+        },
+        "V-43-11": {
+          "c": [],
+          "pr": "2,60 € (shop T.F.I.)",
+          "d": {
+            "it": "La Piadina Classica Saporita è realizzata con cura e maestria e preparata seguendo fedelmente la ricetta tradizionale, utilizzando ingredienti selezionati con attenzione. Il tocco segreto? Lo strutto, che conferisce alla piadina quella consistenza irresistibilmente croccante e un sapore unico. Pronta per essere farcita secondo i gusti personali, questa piadina è la scelta perfetta per chi desidera assaporare l'autentica tradizione culinaria italiana."
+          },
+          "a": {
+            "it": "Da scaldare e farcire a piacere. Confezionato in atmosfera protettiva, shelf life di 90 giorni."
+          }
+        },
+        "V-43-12": {
+          "c": [],
+          "pr": "3,50 € (shop T.F.I.)",
+          "d": {
+            "it": "Base pizza pinsata a mano per renderla più digeribile e friabile. Croccante fuori, soffice al suo interno. Da condire a piacimento, base margherita o semplicemente bianca con olio, sale e rosmarino. Da cuocere nella griglia del forno preriscaldato a 240° fino a che non risulta ben dorata. Ingredienti: farina di frumento tipo 00, acqua, farina di riso, farina di soia, olio extra vergine d'oliva, sale, lievito madre, (farina di frumento, pasta acida di frumento essiccata, enzimi) E 282, aromi naturali. Confezionato singolarmente. Allergeni: glutine e soia."
+          },
+          "a": {
+            "it": "Da cuocere in forno preriscaldato a 240 °C e farcire a piacere. Confezionato in atmosfera protettiva, shelf life di 75 giorni."
+          }
+        },
+        "V-43-13": {
+          "c": [],
+          "pr": "3,70 € (shop T.F.I.)",
+          "d": {
+            "it": "Base focaccia pinsata a mano per esser ancora più soffice e digeribile. Da cuocere in forno preriscaldato a 240° fino a che non risulta ben dorata. Da farcire a piacimento, ogni abbinamento la renderà ancora più gustosa e più gioiosa. Ingredienti: farina di frumento tipo 00, acqua, farina di riso, farina di soia, olio extra vergine d'oliva, sale, lievito madre, (farina di frumento, pasta acida di frumento essiccata, enzimi) E 282, aromi naturali. Confezionato singolarmente. Allergeni: glutine e soia."
+          },
+          "a": {
+            "it": "Da cuocere in forno preriscaldato a 240 °C e farcire a piacere. Confezionato in atmosfera protettiva, shelf life di 75 giorni."
+          }
+        },
+        "V-43-14": {
+          "c": [],
+          "pr": "2,25 € (shop T.F.I.)",
+          "d": {
+            "it": "Panino pinsato a mano così da essere ancora più soffice e digeribile. Da cuocere sia in piastra che in forno preriscaldato a 240° fino a che non risulta ben dorato. Da farcire a piacimento, ogni abbinamento lo renderà ancora più gustoso e saporito. Ingredienti: farina di frumento tipo 00, acqua, farina di riso, farina di soia, olio extra vergine d'oliva, sale, lievito madre, (farina di frumento, pasta acida di frumento essiccata, enzimi) E 282, aromi naturali. Confezionato singolarmente. Allergeni: glutine e soia."
+          },
+          "a": {
+            "it": "Da cuocere in forno preriscaldato a 240 °C e farcire a piacere. Confezionato in atmosfera protettiva, shelf life di 75 giorni."
+          }
+        }
+      },
+      "fonti": [
+        "https://tipicifoodsitaly.it/categoria-prodotto/aziende-partner/pizza-e-piadina-mr-pilo-gourmet-food/",
+        "https://mrpilo.it/"
+      ]
+    },
+    {
+      "id": "V-44",
+      "n": "Casearia Silana, Valle Fiore",
+      "cat": "formaggi",
+      "reg": "Calabria",
+      "city": "San Giovanni in Fiore (CS)",
+      "lat": 39.264,
+      "lng": 16.699,
+      "y": null,
+      "certs": [
+        "DOP"
+      ],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "d": {
+        "it": "La Società Cooperativa Casearia Silana ha sede a San Giovanni in Fiore, in contrada Garga, nel cuore della Sila cosentina, e firma i suoi formaggi con il marchio Valle Fiore. È il frutto del lavoro di tre generazioni dell'arte casearia: latte vaccino degli allevamenti di montagna, anche da agricoltura biologica nel Parco Nazionale della Sila, lavorato con cura e dedizione. Il prodotto simbolo è il Caciocavallo Silano DOP, re dell'arte casearia silana: un formaggio a pasta filata il cui sapore va dal dolce al piccante secondo la stagionatura e che deve il nome all'usanza di appendere le forme a coppie, a cavallo di un sostegno di legno. Accanto, scamorze, provola, caciotte e formaggi di montagna. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy.",
+        "en": "La Società Cooperativa Casearia Silana ha sede a San Giovanni in Fiore, in contrada Garga, nel cuore della Sila cosentina, e firma i suoi formaggi con il marchio Valle Fiore. È il frutto del lavoro di tre generazioni dell'arte casearia: latte vaccino degli allevamenti di montagna, anche da agricoltura biologica nel Parco Nazionale della Sila, lavorato con cura e dedizione. Il prodotto simbolo è il Caciocavallo Silano DOP, re dell'arte casearia silana: un formaggio a pasta filata il cui sapore va dal dolce al piccante secondo la stagionatura e che deve il nome all'usanza di appendere le forme a coppie, a cavallo di un sostegno di legno. Accanto, scamorze, provola, caciotte e formaggi di montagna. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy.",
+        "de": "La Società Cooperativa Casearia Silana ha sede a San Giovanni in Fiore, in contrada Garga, nel cuore della Sila cosentina, e firma i suoi formaggi con il marchio Valle Fiore. È il frutto del lavoro di tre generazioni dell'arte casearia: latte vaccino degli allevamenti di montagna, anche da agricoltura biologica nel Parco Nazionale della Sila, lavorato con cura e dedizione. Il prodotto simbolo è il Caciocavallo Silano DOP, re dell'arte casearia silana: un formaggio a pasta filata il cui sapore va dal dolce al piccante secondo la stagionatura e che deve il nome all'usanza di appendere le forme a coppie, a cavallo di un sostegno di legno. Accanto, scamorze, provola, caciotte e formaggi di montagna. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy."
+      },
+      "sub": [
+        {
+          "k": "cacio",
+          "cat": "formaggi",
+          "n": {
+            "it": "Caciocavalli",
+            "en": "Caciocavalli",
+            "de": "Caciocavalli"
+          }
+        },
+        {
+          "k": "filata",
+          "cat": "formaggi",
+          "n": {
+            "it": "Scamorze e provola",
+            "en": "Scamorze e provola",
+            "de": "Scamorze e provola"
+          }
+        },
+        {
+          "k": "tome",
+          "cat": "formaggi",
+          "n": {
+            "it": "Caciotte e formaggi",
+            "en": "Caciotte e formaggi",
+            "de": "Caciotte e formaggi"
+          }
+        },
+        {
+          "k": "box",
+          "cat": "formaggi",
+          "n": {
+            "it": "Box",
+            "en": "Box",
+            "de": "Box"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Caciocavallo Silano DOP",
+          "forma da 1,2 kg circa",
+          "cacio"
+        ],
+        [
+          "Caciocavallo Silano DOP Vallefiore, asciutto",
+          "forma da 1,2 kg circa",
+          "cacio"
+        ],
+        [
+          "Caciocavallo a palla",
+          "forma da 1,2 kg circa",
+          "cacio"
+        ],
+        [
+          "Caciocavallo affumicato Vallefiore",
+          "forma da 1 kg circa",
+          "cacio"
+        ],
+        [
+          "Caciocavallo stagionato in porzioni, con espositore",
+          "espositore da 12 porzioni da 125 g circa",
+          "cacio"
+        ],
+        [
+          "Scamorza della Sila",
+          "pezzo da 600 g circa",
+          "filata"
+        ],
+        [
+          "Scamorza affumicata",
+          "pezzo da 600 g circa",
+          "filata"
+        ],
+        [
+          "Scamorza senza lattosio",
+          "pezzo da 500 g circa",
+          "filata"
+        ],
+        [
+          "Provola Vallefiore senza lattosio",
+          "pezzo da 1 kg circa",
+          "filata"
+        ],
+        [
+          "Caciotta della Sila",
+          "forma da 500 g circa",
+          "tome"
+        ],
+        [
+          "Caciotta della Sila ai porcini, vino e noci",
+          "forma da 500 g circa",
+          "tome"
+        ],
+        [
+          "Formaggio Montanaro",
+          "forma da 1,7 kg circa",
+          "tome"
+        ],
+        [
+          "Formaggio Montenero",
+          "forma da 5,5 kg circa",
+          "tome"
+        ],
+        [
+          "Dolce Sila, vaccino fresco",
+          "pezzo da 1 kg circa, venduto a peso",
+          "tome"
+        ],
+        [
+          "Box “Formaggi Coop. Silana”",
+          "confezione da 5 referenze",
+          "box"
+        ]
+      ],
+      "pd": {
+        "V-44-0": {
+          "c": [
+            "DOP"
+          ],
+          "pr": "26,90 €, 22,90 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "Tra i nostri formaggi non poteva mancare il prodotto più rappresentativo dell'arte casearia calabrese: il caciocavallo. Prodotto con 100% latte vaccino, dal gusto intenso ed aromatico, il nostro caciocavallo racconta la storia casearia calabrese attraverso un sapere antico che continuiamo a riproporre con impegno e passione. Ingredienti: latte intero vaccino, caglio in pasta di vitello e sale."
+          },
+          "a": {
+            "it": "A fette, alla piastra o alla brace, con miele e confetture. Conservare in frigorifero."
+          }
+        },
+        "V-44-1": {
+          "c": [
+            "DOP"
+          ],
+          "pr": "25,90 €, 21,60 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "Il Caciocavallo Silano DOP. Re dell'arte casearia silana, il prelibato Caciocavallo Silano DOP è un patrimonio alimentare e culturale di inestimabile valore. Prodotto con passione e tradizione, questo formaggio fresco offre un gusto ricco e deciso. Ogni boccone racchiude l'essenza della Calabria, rendendolo un vero e proprio viaggio sensoriale. Ingredienti: latte vaccino, caglio, sale."
+          },
+          "a": {
+            "it": "Al tagliere, alla piastra o grattugiato sui primi piatti. Conservare in frigorifero."
+          }
+        },
+        "V-44-2": {
+          "c": [],
+          "pr": "29,90 €, 16,90 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "Tra i nostri formaggi non poteva mancare il prodotto più rappresentativo dell'arte casearia calabrese: il caciocavallo. Prodotto con 100% latte vaccino, dal gusto intenso ed aromatico, il nostro caciocavallo racconta la storia casearia calabrese attraverso un sapere antico che continuiamo a riproporre con impegno e passione. Ingredienti: latte intero vaccino, caglio in pasta di vitello e sale."
+          },
+          "a": {
+            "it": "A fette, alla piastra o alla brace. Conservare in frigorifero."
+          }
+        },
+        "V-44-3": {
+          "c": [],
+          "pr": "22,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Tra i nostri formaggi non poteva mancare il prodotto più rappresentativo dell'arte casearia calabrese: il caciocavallo! Prodotto con 100% latte vaccino, dal gusto intenso ed aromatico, il nostro caciocavallo racconta la storia casearia calabrese attraverso un sapere antico che continuiamo a riproporre con impegno e passione. Ingredienti: latte intero vaccino, caglio in pasta di vitello e sale,smoke liquido (aromatizzata a fumo di liquido)."
+          },
+          "a": {
+            "it": "Al tagliere, alla piastra e nei ripieni. Conservare in frigorifero."
+          }
+        },
+        "V-44-4": {
+          "c": [],
+          "pr": "2,90 € a porzione, 16,50 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "Sua maestà il Caciocavallo in comode porzioni da circa 125 grammi, con il suo espositore da 12 pezzi. Un formaggio genuino, prodotto senza conservanti, senza additivi e senza coloranti. Ingredienti: latte intero vaccino pastorizzato, caglio, sale, fermenti lattici naturali."
+          },
+          "a": {
+            "it": "Porzioni pronte per il banco e per l'aperitivo. Conservare in frigorifero."
+          }
+        },
+        "V-44-5": {
+          "c": [],
+          "pr": "12,90 €, 14,20 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "La nostra scamorza è frutto del lavoro di tre generazioni dell'arte casearia, realizzato con grande cura e dedizione. È un formaggio leggero e delicato ottenuto da una brevissima stagionatura. Ottima per arricchire insalate e spiedini o per ripieni filanti. Ingredienti: cagliata vaccina di latte, sale."
+          },
+          "a": {
+            "it": "Conservare in frigorifero."
+          }
+        },
+        "V-44-6": {
+          "c": [],
+          "pr": "14,90 €, 24,00 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "Se la nostra scamorza ti ha già reso felice non lasciarti sfuggire la versione affumicata. Dal sapore rustico e deciso, la scamorza fresca viene esaltata da un'affumicatura per rendere ancora più gustosi i tuoi piatti e i tuoi aperitivi. . Ingredienti: cagliata vaccina di latte, sale, smoke liquido (aromatizzata a fumo di liquido)."
+          },
+          "a": {
+            "it": "Per piatti e aperitivi dal gusto rustico. Conservare in frigorifero."
+          }
+        },
+        "V-44-7": {
+          "c": [],
+          "pr": "11,90 €, 16,20 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "La nostra scamorza è frutto del lavoro di tre generazioni dell'arte casearia, realizzato con grande cura e dedizione. È un formaggio leggero e delicato ottenuto da una brevissima stagionatura. Prodotto Vaccino Fresco senza lattosio. Ottima per arricchire insalate e spiedini o per ripieni filanti. Ingredienti: cagliata vaccina di latte delattosato, sale."
+          },
+          "a": {
+            "it": "Conservare in frigorifero."
+          }
+        },
+        "V-44-8": {
+          "c": [],
+          "pr": "19,90 €, 15,50 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "La provola: uno dei formaggi più amati della Calabria dalla forma inconfondibile. Prodotto Vaccino Fresco senza lattosio. Un formaggio fresco realizzato con sapere artigianale ed esportato oltre i confini territoriali, per portare la cultura calabrese sulle tavole di tutto il mondo. Puoi gustarla a fette di 2-3 cm cotte alla griglia o alla piastra e appoggiate sul pane croccante. Ingredienti: cagliata vaccina di latte delattosata, sale."
+          },
+          "a": {
+            "it": "Conservare in frigorifero."
+          }
+        },
+        "V-44-9": {
+          "c": [],
+          "pr": "11,90 €, 23,80 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "Formaggio con latte da agricoltura Biologica realizzato nel Parco Nazionale della Sila, in Calabria. Ingredienti: latte vaccino termizzato, caglio, sale."
+          },
+          "a": {
+            "it": "Al tagliere, con pane casereccio e confetture. Conservare in frigorifero."
+          }
+        },
+        "V-44-10": {
+          "c": [],
+          "pr": "13,90 €, 27,80 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "Caciotta della Sila nella versione aromatizzata con porcini, vino e noci. Formaggio con latte da agricoltura Biologica realizzato nel Parco Nazionale della Sila, in Calabria."
+          },
+          "a": {
+            "it": "Al tagliere, con pane casereccio. Conservare in frigorifero."
+          }
+        },
+        "V-44-11": {
+          "c": [],
+          "pr": "36,90 €, 16,80 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "Il formaggio montanaro prende il proprio nome dal fatto che nasce dalla lavorazione del latte pastorizzato proveniente dagli allevamenti di montagna, utilizzato rigorosamente intero."
+          },
+          "a": {
+            "it": "Conservare in frigorifero."
+          }
+        },
+        "V-44-12": {
+          "c": [],
+          "pr": "119,90 €, 16,80 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "È un formaggio a pasta semimorbida, a media maturazione, prodotto con latte vaccino intero pastorizzato. Il sapore è morbido e intenso. La crosta è trattata con il carbone vegetale e assume così il caratteristico colore nero. Ingredienti: latte intero vaccino pastorizzato, caglio, sale, fermenti lattici naturali."
+          },
+          "a": {
+            "it": "Conservare in frigorifero."
+          }
+        },
+        "V-44-13": {
+          "c": [],
+          "pr": "21,90 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "È un formaggio fresco a pasta semi-morbida ottenuto da latte intero, crudo, di vacca. Ha un aroma di latte fresco, fragrante, legato alle essenze presenti nelle erbe e nei foraggi utilizzati per l'alimentazione delle vacche. Il sapore è dolce, delicato, tipico della cagliata fresca. Prodotto di latte vaccino fresco. Ingredienti: latte vaccino, caglio, fermenti lattici vivi naturali, sale."
+          },
+          "a": {
+            "it": "Conservare in frigorifero."
+          }
+        },
+        "V-44-14": {
+          "c": [],
+          "pr": "75,40 € (shop T.F.I.)",
+          "d": {
+            "it": "Box con cinque referenze: Caciocavallo Silano DOP a palla da 500-600 g circa, Provola Vallefiore da 500-600 g circa, Scamorza affumicata da 500-600 g circa, Scamorza senza lattosio da 500-600 g circa e Caciocavallo in porzioni da 125 g in confezione da 12 pezzi."
+          },
+          "a": {
+            "it": "Conservare in frigorifero."
+          }
+        }
+      },
+      "fonti": [
+        "https://tipicifoodsitaly.it/categoria-prodotto/aziende-partner/formaggi-coop-casearia-silana/",
+        "https://vallefiore.com/prodotto/caciocavallo-silano-dop/",
+        "https://www.caciocavallosilano.it/2023/05/22/soc-coop-agric-casearia-silana/"
+      ]
+    },
+    {
+      "id": "V-45",
+      "n": "Mezzadri, Scalzo",
+      "cat": "conserve",
+      "reg": "Calabria",
+      "city": "Marzi (CS)",
+      "lat": 39.172,
+      "lng": 16.307,
+      "y": 1973,
+      "certs": [],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "d": {
+        "it": "Mezzadri è una linea di conserve dell'azienda Scalzo, che dal 1973 produce a Marzi, in provincia di Cosenza, nella Valle del Savuto, conserve, confetture e salse artigianali della tradizione calabrese. La famiglia Scalzo guida l'azienda da tre generazioni con un principio semplice: quello che cresce nella valle si conserva nella valle. Coltivazione e trasformazione sono interne, la lavorazione è artigianale e la filiera controllata, con soli ingredienti naturali e nessun additivo. In gamma sottoli, salse e creme, confetture extra, spezie ed essiccati. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy.",
+        "en": "Mezzadri è una linea di conserve dell'azienda Scalzo, che dal 1973 produce a Marzi, in provincia di Cosenza, nella Valle del Savuto, conserve, confetture e salse artigianali della tradizione calabrese. La famiglia Scalzo guida l'azienda da tre generazioni con un principio semplice: quello che cresce nella valle si conserva nella valle. Coltivazione e trasformazione sono interne, la lavorazione è artigianale e la filiera controllata, con soli ingredienti naturali e nessun additivo. In gamma sottoli, salse e creme, confetture extra, spezie ed essiccati. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy.",
+        "de": "Mezzadri è una linea di conserve dell'azienda Scalzo, che dal 1973 produce a Marzi, in provincia di Cosenza, nella Valle del Savuto, conserve, confetture e salse artigianali della tradizione calabrese. La famiglia Scalzo guida l'azienda da tre generazioni con un principio semplice: quello che cresce nella valle si conserva nella valle. Coltivazione e trasformazione sono interne, la lavorazione è artigianale e la filiera controllata, con soli ingredienti naturali e nessun additivo. In gamma sottoli, salse e creme, confetture extra, spezie ed essiccati. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy."
+      },
+      "sub": [
+        {
+          "k": "sottoli",
+          "cat": "conserve",
+          "n": {
+            "it": "Sottoli",
+            "en": "Sottoli",
+            "de": "Sottoli"
+          }
+        },
+        {
+          "k": "salse",
+          "cat": "conserve",
+          "n": {
+            "it": "Salse, pesto e creme",
+            "en": "Salse, pesto e creme",
+            "de": "Salse, pesto e creme"
+          }
+        },
+        {
+          "k": "confetture",
+          "cat": "conserve",
+          "n": {
+            "it": "Confetture extra",
+            "en": "Confetture extra",
+            "de": "Confetture extra"
+          }
+        },
+        {
+          "k": "spezie",
+          "cat": "conserve",
+          "n": {
+            "it": "Aromi e spezie",
+            "en": "Aromi e spezie",
+            "de": "Aromi e spezie"
+          }
+        },
+        {
+          "k": "box",
+          "cat": "misti",
+          "n": {
+            "it": "Box",
+            "en": "Box",
+            "de": "Box"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Cicoria selvaggia sott'olio",
+          "vasetto da 190 g",
+          "sottoli"
+        ],
+        [
+          "Melanzane a filetti",
+          "vasetto da 190 g",
+          "sottoli"
+        ],
+        [
+          "Melanzane grigliate",
+          "vasetto da 190 g",
+          "sottoli"
+        ],
+        [
+          "Peperoncini ripieni",
+          "vasetto da 190 g",
+          "sottoli"
+        ],
+        [
+          "Cipolla di Tropea in agrodolce",
+          "vasetto da 190 g",
+          "sottoli"
+        ],
+        [
+          "Salsa di pomodoro",
+          "vasetto da 240 g",
+          "salse"
+        ],
+        [
+          "Pesto di basilico",
+          "vasetto da 190 g",
+          "salse"
+        ],
+        [
+          "Crema di peperoncino",
+          "vasetto da 190 g",
+          "salse"
+        ],
+        [
+          "Confettura extra di fichi",
+          "vasetto da 230 g",
+          "confetture"
+        ],
+        [
+          "Confettura extra di castagne",
+          "vasetto da 230 g",
+          "confetture"
+        ],
+        [
+          "Confettura extra di amarene",
+          "vasetto da 230 g",
+          "confetture"
+        ],
+        [
+          "Confettura extra di sambuco",
+          "vasetto da 230 g",
+          "confetture"
+        ],
+        [
+          "Confettura extra di uva fragola",
+          "vasetto da 230 g",
+          "confetture"
+        ],
+        [
+          "Origano essiccato",
+          "vasetto da 190 g",
+          "spezie"
+        ],
+        [
+          "Peperoncino macinato",
+          "vasetto da 190 g",
+          "spezie"
+        ],
+        [
+          "Box “Mix Mezzadri”",
+          "confezione da 12 vasetti",
+          "box"
+        ]
+      ],
+      "pd": {
+        "V-45-0": {
+          "c": [],
+          "pr": "7,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Cicoria selvaggia conservata sott'olio, della linea Mezzadri."
+          },
+          "a": {
+            "it": "Come antipasto o contorno, su bruschette e con salumi e formaggi."
+          }
+        },
+        "V-45-1": {
+          "c": [],
+          "pr": "5,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Melanzane a filetti sott'olio, della linea Mezzadri."
+          },
+          "a": {
+            "it": "Come antipasto, nei panini e su bruschette."
+          }
+        },
+        "V-45-2": {
+          "c": [],
+          "pr": "6,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Melanzane grigliate sott'olio, della linea Mezzadri."
+          },
+          "a": {
+            "it": "Come antipasto o contorno, nei panini e sulla pizza."
+          }
+        },
+        "V-45-3": {
+          "c": [],
+          "pr": "7,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Peperoncini ripieni sott'olio, della linea Mezzadri."
+          },
+          "a": {
+            "it": "Come antipasto e per l'aperitivo."
+          }
+        },
+        "V-45-4": {
+          "c": [],
+          "pr": "6,50 € (shop T.F.I.)",
+          "d": {
+            "it": "Cipolla rossa di Tropea in agrodolce, della linea Mezzadri."
+          },
+          "a": {
+            "it": "Con formaggi, carni, hamburger e bruschette."
+          }
+        },
+        "V-45-5": {
+          "c": [],
+          "pr": "4,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Salsa di pomodoro pronta, della linea Mezzadri."
+          },
+          "a": {
+            "it": "Base per condire la pasta e per le ricette di tutti i giorni."
+          }
+        },
+        "V-45-6": {
+          "c": [],
+          "pr": "6,50 € (shop T.F.I.)",
+          "d": {
+            "it": "Pesto di basilico, della linea Mezzadri."
+          },
+          "a": {
+            "it": "Per condire la pasta, su bruschette e nei panini."
+          }
+        },
+        "V-45-7": {
+          "c": [],
+          "pr": "5,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Crema di peperoncino calabrese, della linea Mezzadri."
+          },
+          "a": {
+            "it": "Per dare una nota piccante a pasta, pizza, bruschette e carni."
+          }
+        },
+        "V-45-8": {
+          "c": [],
+          "pr": "5,50 € (shop T.F.I.)",
+          "d": {
+            "it": "Confettura extra di fichi."
+          },
+          "a": {
+            "it": "Ideale per un antipasto con i formaggi o per una piccola pausa di dolcezza."
+          }
+        },
+        "V-45-9": {
+          "c": [],
+          "pr": "5,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Confettura extra di castagne."
+          },
+          "a": {
+            "it": "Ideale per un antipasto con i formaggi, per preparare dolci autunnali o per una piccola pausa di dolcezza."
+          }
+        },
+        "V-45-10": {
+          "c": [],
+          "pr": "6,50 € (shop T.F.I.)",
+          "d": {
+            "it": "Confettura extra di amarene."
+          },
+          "a": {
+            "it": "Ideale per un antipasto con i formaggi, per preparare dolci, guarnire semifreddi, budini e gelati o per una piccola pausa di dolcezza."
+          }
+        },
+        "V-45-11": {
+          "c": [],
+          "pr": "5,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Confettura extra ottenuta dai frutti della pianta del sambuco."
+          },
+          "a": {
+            "it": "Ideale per un antipasto con i formaggi, per preparare crostate dal sapore originale, guarnire semifreddi, budini e gelati o per una piccola pausa di dolcezza."
+          }
+        },
+        "V-45-12": {
+          "c": [],
+          "pr": "5,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Confettura extra di uva fragola."
+          },
+          "a": {
+            "it": "Ideale per un antipasto con i formaggi, per preparare crostate, guarnire semifreddi, budini e gelati o per una piccola pausa di dolcezza."
+          }
+        },
+        "V-45-13": {
+          "c": [],
+          "pr": "3,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Origano essiccato, della linea Mezzadri."
+          },
+          "a": {
+            "it": "Su pizza, insalate di pomodori, carni e pesce."
+          }
+        },
+        "V-45-14": {
+          "c": [],
+          "pr": "6,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Peperoncino calabrese macinato, della linea Mezzadri."
+          },
+          "a": {
+            "it": "Su pasta, pizza, carni e verdure."
+          }
+        },
+        "V-45-15": {
+          "c": [],
+          "pr": "75,00 € (shop T.F.I.)",
+          "d": {
+            "it": "Box con dodici referenze: melanzane a filetti, melanzane grigliate, peperoncini ripieni, cipolla di Tropea in agrodolce, origano essiccato, pesto di basilico, crema di peperoncino e cicoria selvaggia sott'olio da 190 g, salsa di pomodoro da 240 g e confetture extra di fichi, amarene e uva fragola da 230 g."
+          },
+          "a": {
+            "it": "Per gli usi si veda la scheda di ciascun prodotto."
+          }
+        }
+      },
+      "fonti": [
+        "https://tipicifoodsitaly.it/categoria-prodotto/aziende-partner/conserve-mezzadri-scalzo/",
+        "https://www.scalzo.it/"
+      ]
+    },
+    {
+      "id": "V-46",
+      "n": "SAP Salumi di Calabria",
+      "cat": "salumi",
+      "reg": "Calabria",
+      "city": "San Calogero (VV)",
+      "lat": 38.573,
+      "lng": 16.022,
+      "y": null,
+      "certs": [
+        "DOP"
+      ],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "d": {
+        "it": "SAP Salumi di Calabria è il Salumificio Fratelli Pugliese, azienda di famiglia con sede a Calimera Calabra, nel comune di San Calogero, in provincia di Vibo Valentia, nella zona del Monte Poro: la famiglia lavora carni e salumi fin dagli anni Trenta. Accanto alla linea dei Salumi di Calabria DOP (soppressata, salsiccia, capocollo e pancetta, prodotti secondo il disciplinare del Consorzio di tutela) il salumificio è specializzato nella 'Nduja di Spilinga, proposta in molte forme: crespone, muletta, a fette, in vasetto, fino a creazioni esclusive come il Ndujotto e la Piccantina. Carni controllate e garantite e il peperoncino rosso coltivato negli appezzamenti di famiglia danno ai salumi SAP un sapore inconfondibile; lavorazione e stagionatura restano tradizionali, con piano di autocontrollo HACCP e analisi affidate a centri accreditati. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy.",
+        "en": "SAP Salumi di Calabria è il Salumificio Fratelli Pugliese, azienda di famiglia con sede a Calimera Calabra, nel comune di San Calogero, in provincia di Vibo Valentia, nella zona del Monte Poro: la famiglia lavora carni e salumi fin dagli anni Trenta. Accanto alla linea dei Salumi di Calabria DOP (soppressata, salsiccia, capocollo e pancetta, prodotti secondo il disciplinare del Consorzio di tutela) il salumificio è specializzato nella 'Nduja di Spilinga, proposta in molte forme: crespone, muletta, a fette, in vasetto, fino a creazioni esclusive come il Ndujotto e la Piccantina. Carni controllate e garantite e il peperoncino rosso coltivato negli appezzamenti di famiglia danno ai salumi SAP un sapore inconfondibile; lavorazione e stagionatura restano tradizionali, con piano di autocontrollo HACCP e analisi affidate a centri accreditati. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy.",
+        "de": "SAP Salumi di Calabria è il Salumificio Fratelli Pugliese, azienda di famiglia con sede a Calimera Calabra, nel comune di San Calogero, in provincia di Vibo Valentia, nella zona del Monte Poro: la famiglia lavora carni e salumi fin dagli anni Trenta. Accanto alla linea dei Salumi di Calabria DOP (soppressata, salsiccia, capocollo e pancetta, prodotti secondo il disciplinare del Consorzio di tutela) il salumificio è specializzato nella 'Nduja di Spilinga, proposta in molte forme: crespone, muletta, a fette, in vasetto, fino a creazioni esclusive come il Ndujotto e la Piccantina. Carni controllate e garantite e il peperoncino rosso coltivato negli appezzamenti di famiglia danno ai salumi SAP un sapore inconfondibile; lavorazione e stagionatura restano tradizionali, con piano di autocontrollo HACCP e analisi affidate a centri accreditati. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy."
+      },
+      "sub": [
+        {
+          "k": "nduja",
+          "cat": "salumi",
+          "n": {
+            "it": "'Nduja di Spilinga",
+            "en": "'Nduja di Spilinga",
+            "de": "'Nduja di Spilinga"
+          }
+        },
+        {
+          "k": "salsicce",
+          "cat": "salumi",
+          "n": {
+            "it": "Salsicce e soppressate",
+            "en": "Salsicce e soppressate",
+            "de": "Salsicce e soppressate"
+          }
+        },
+        {
+          "k": "tranci",
+          "cat": "salumi",
+          "n": {
+            "it": "Capocollo, pancetta e tranci",
+            "en": "Capocollo, pancetta e tranci",
+            "de": "Capocollo, pancetta e tranci"
+          }
+        },
+        {
+          "k": "dop",
+          "cat": "salumi",
+          "n": {
+            "it": "Salumi di Calabria DOP",
+            "en": "Salumi di Calabria DOP",
+            "de": "Salumi di Calabria DOP"
+          }
+        },
+        {
+          "k": "vasetti",
+          "cat": "conserve",
+          "n": {
+            "it": "Vasetti e confetture",
+            "en": "Vasetti e confetture",
+            "de": "Vasetti e confetture"
+          }
+        },
+        {
+          "k": "formaggi",
+          "cat": "formaggi",
+          "n": {
+            "it": "Pecorino",
+            "en": "Pecorino",
+            "de": "Pecorino"
+          }
+        }
+      ],
+      "p": [
+        [
+          "'Nduja di Spilinga Crespone",
+          "pezzo da 400 g circa",
+          "nduja"
+        ],
+        [
+          "'Nduja di Spilinga Muletta",
+          "pezzo da 1,5-2 kg circa",
+          "nduja"
+        ],
+        [
+          "'Nduja di Spilinga a fette",
+          "confezione da 250 g circa",
+          "nduja"
+        ],
+        [
+          "'Nduja Riserva, dolce o piccante",
+          "confezione da 1 kg circa",
+          "nduja"
+        ],
+        [
+          "'Nduja in sac à poche",
+          "sac à poche da 500 g · sac à poche da 200 g",
+          "nduja"
+        ],
+        [
+          "PiccaNduja, dolce o piccante",
+          "confezione da 250 g",
+          "nduja"
+        ],
+        [
+          "'Nduja Piccantina",
+          "pezzo da 160 g · pezzo da 250 g",
+          "nduja"
+        ],
+        [
+          "Ndujotto",
+          "pezzo da 160 g · pezzo da 250 g",
+          "nduja"
+        ],
+        [
+          "'Nduja di Spilinga in vasetto con scaldanduja",
+          "vasetto da 100 g con scaldanduja in ceramica",
+          "nduja"
+        ],
+        [
+          "Salsiccia a catena, dolce o piccante",
+          "confezione da 500 g",
+          "salsicce"
+        ],
+        [
+          "Salsiccia a girella, dolce o piccante",
+          "pezzo da 250 g circa",
+          "salsicce"
+        ],
+        [
+          "Salsiccia fresca, dolce o piccante",
+          "confezione da 1 kg circa",
+          "salsicce"
+        ],
+        [
+          "Diavoletti, salsicciotti dolci o piccanti",
+          "confezione da 3 pezzi sottovuoto, 150 g circa",
+          "salsicce"
+        ],
+        [
+          "Diavoletti in scatola",
+          "scatola da 150 g",
+          "salsicce"
+        ],
+        [
+          "Soppressata Cularina, dolce o piccante",
+          "pezzo da 550 g circa",
+          "salsicce"
+        ],
+        [
+          "Soppressata Nostrana, dolce o piccante",
+          "pezzo da 400 g circa",
+          "salsicce"
+        ],
+        [
+          "Soppressata Crespone, dolce o piccante",
+          "pezzo da 350 g circa",
+          "salsicce"
+        ],
+        [
+          "Saporello, dolce o piccante",
+          "pezzo da 220 g circa",
+          "salsicce"
+        ],
+        [
+          "Schiacciata, dolce o piccante",
+          "pezzo da 500 g circa",
+          "salsicce"
+        ],
+        [
+          "Ventricina piccante",
+          "pezzo da 500 g circa",
+          "salsicce"
+        ],
+        [
+          "Filonzo di suino",
+          "pezzo da 180 g circa",
+          "salsicce"
+        ],
+        [
+          "Capocollo stagionato",
+          "trancio da 500 g circa",
+          "tranci"
+        ],
+        [
+          "Lonza Filetto Fiore",
+          "trancio da 500 g circa",
+          "tranci"
+        ],
+        [
+          "Guanciale, dolce o piccante",
+          "porzione da 500 g circa",
+          "tranci"
+        ],
+        [
+          "Pancetta tesa, dolce o piccante",
+          "porzione da 500 g circa",
+          "tranci"
+        ],
+        [
+          "Pancetta arrotolata, dolce o piccante",
+          "trancio da 500 g circa",
+          "tranci"
+        ],
+        [
+          "Fiocco calabrese",
+          "trancio da 1 kg circa",
+          "tranci"
+        ],
+        [
+          "Prosciutto rustico Cuore",
+          "trancio da 1 kg circa",
+          "tranci"
+        ],
+        [
+          "Porchetta",
+          "trancio da 1 kg circa",
+          "tranci"
+        ],
+        [
+          "Soppressata di Calabria DOP",
+          "",
+          "dop"
+        ],
+        [
+          "Capocollo di Calabria DOP",
+          "",
+          "dop"
+        ],
+        [
+          "Pancetta di Calabria DOP",
+          "",
+          "dop"
+        ],
+        [
+          "Salsiccia di Calabria DOP",
+          "",
+          "dop"
+        ],
+        [
+          "'Nduja di Spilinga in vasetto",
+          "vasetto da 180 g · vasetto da 280 g · vasetto da 100 g",
+          "vasetti"
+        ],
+        [
+          "'Nduja Nuts",
+          "vasetto da 90 g · vasetto da 180 g",
+          "vasetti"
+        ],
+        [
+          "Pizzicotti piccanti di Calabria",
+          "vasetto da 212 g",
+          "vasetti"
+        ],
+        [
+          "Trito di peperoncino",
+          "vasetto da 212 g",
+          "vasetti"
+        ],
+        [
+          "Confettura di peperoncino",
+          "vasetto da 212 g",
+          "vasetti"
+        ],
+        [
+          "Confettura di cipolla di Tropea",
+          "vasetto da 212 g",
+          "vasetti"
+        ],
+        [
+          "Pecorino: semistagionato, stagionato, al peperoncino o alla 'nduja",
+          "porzione da 500 g circa",
+          "formaggi"
+        ]
+      ],
+      "pd": {
+        "V-46-0": {
+          "c": [],
+          "pr": "7,50 €, 17,90 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "Salame spalmabile caratteristico della zona del Monte Poro di Spilinga (VV) preparato utilizzando un trito di carne di origine italiana (guanciale, pancetta e lardello) macinato con peperoncino rosso dolce e piccante e con un modesto quantitativo di sale. Proposta nella versione “Crespone” con un peso che si aggira intorno ai 400 g. Ingredienti: grasso suino, carne di suino, peperoncino dolce 22% e peperoncino piccante 8%, sale. Prodotto senza conservanti, né coloranti. Prodotto senza glutine né lattosio."
+          },
+          "a": {
+            "it": "Spalmata su pane caldo e bruschette, nei sughi, sulla pizza e con i formaggi."
+          }
+        },
+        "V-46-1": {
+          "c": [],
+          "pr": "27,00 €, 17,90 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "Salame spalmabile caratteristico della zona del Monte Poro di Spilinga (VV) preparato utilizzando un trito di carne di origine italiana (guanciale, pancetta e lardello) macinato con peperoncino rosso dolce e piccante e con un modesto quantitativo di sale. Nella versione “Muletta” il cui peso oscilla da kg 1.5 fino ad oltre i 3 kg. Ingredienti: grasso suino, carne di suino, peperoncino dolce 22% e peperoncino piccante 8%, sale. Prodotto senza conservanti, né coloranti. Prodotto senza glutine ne lattosio."
+          },
+          "a": {
+            "it": "Spalmata su pane caldo e bruschette, nei sughi, sulla pizza e con i formaggi."
+          }
+        },
+        "V-46-2": {
+          "c": [],
+          "pr": "5,00 € (shop T.F.I.)",
+          "d": {
+            "it": "Salame spalmabile caratteristico della zona del Monte Poro di Spilinga (VV), preparato con un trito di carne di origine italiana (guanciale, pancetta e lardello) macinato con peperoncino rosso dolce e piccante e un modesto quantitativo di sale. Qui proposta già tagliata a fette, in confezione da circa 250 grammi. Ingredienti: grasso suino, carne di suino, peperoncino dolce 22% e peperoncino piccante 8%, sale. Senza conservanti né coloranti, senza glutine né lattosio."
+          },
+          "a": {
+            "it": "Spalmata su pane caldo e bruschette, nei sughi, sulla pizza e con i formaggi."
+          }
+        },
+        "V-46-3": {
+          "c": [],
+          "pr": "19,90 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "Salame spalmabile caratteristico della zona del Monte Poro di Spilinga (VV) preparato utilizzando un trito di carne di origine italiana (guanciale, pancetta e lardello) macinato con peperoncino rosso dolce e piccante e con un modesto quantitativo di sale. Versione Riserva. Ingredienti: grasso suino, carne di suino, peperoncino dolce 22% e peperoncino piccante 8%, sale. Prodotto senza conservanti, né coloranti. Prodotto senza glutine ne lattosio."
+          },
+          "a": {
+            "it": "Spalmata su pane caldo e bruschette, nei sughi, sulla pizza e con i formaggi."
+          }
+        },
+        "V-46-4": {
+          "c": [],
+          "pr": "500 g 9,90 € · 200 g 6,90 € (shop T.F.I.)",
+          "d": {
+            "it": "'Nduja di Spilinga nella pratica confezione in sac à poche, pronta da dosare su pizze, bruschette e piatti."
+          },
+          "a": {
+            "it": "Spalmata su pane caldo e bruschette, nei sughi, sulla pizza e con i formaggi."
+          }
+        },
+        "V-46-5": {
+          "c": [],
+          "pr": "8,90 € (shop T.F.I.)",
+          "d": {
+            "it": "È il classico trito di carni suine utilizzato per la realizzazione della famosa 'Nduja di Spilinga, salame spalmabile tipico, lavorato in questo caso in modo più fine e macinato con peperoncino rosso piccante in quantità maggiore rispetto alla normali dosi utilizzate nella 'Nduja classica, per dare così origine ad un prodotto iperpiccante. Modesto è il quantitativo di sale. La forma leggermente cilindrica del budello rende il prodotto pratico da conservare comodamente in frigo. Una volta aperto consumare entro 30 giorni. Confezione da 250. Ingredienti: grasso suino, carne di suino, peperoncino dolce 22% e peperoncino piccante 8%, sale. Prodotto senza conservanti, né coloranti. Prodotto senza glutine ne lattosio."
+          },
+          "a": {
+            "it": "Spalmata su pane caldo e bruschette, nei sughi, sulla pizza e con i formaggi."
+          }
+        },
+        "V-46-6": {
+          "c": [],
+          "pr": "160 g 6,90 € · 250 g 8,90 € (shop T.F.I.)",
+          "d": {
+            "it": "È il classico trito di carni utilizzate per la realizzazione della famosa 'Nduja di Spilinga, salame spalmabile tipico calabrese, lavorato in questo caso in modo più fine e macinato con peperoncino rosso piccante in quantità maggiore rispetto alle normali dosi utilizzate nella 'Nduja classica, per dare cosi origine ad un prodotto iperpiccante. Modesto è il quantitativo di sale. La forma leggermente cilindrica del budello rende il prodotto pratico da conservare comodamente in frigo. Una volta aperto consumare entro 30 giorni. Confezione da 250 e da 160 g."
+          },
+          "a": {
+            "it": "Spalmata su pane caldo e bruschette, nei sughi, sulla pizza e con i formaggi."
+          }
+        },
+        "V-46-7": {
+          "c": [],
+          "pr": "160 g 5,90 € · 250 g 6,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Prodotto esclusivo del Salumificio F.lli Pugliese, classico trito di carni suine utilizzato per la realizzazione della famosa 'Nduja di Spilinga, salame spalmabile tipico calabrese, lavorato in questo caso in modo più fine e macinato con peperoncino rosso dolce in quantità maggiore rispetto alla quantità di peperoncino rosso piccante, che viene utilizzato comunque in minima parte per dare solo un piccolo accenno di piccantezza. Modesto è il quantitativo di sale e di aromi naturali. La forma arrotondata è leggermente conica da un lato per permettere un facile riavvolgimento del budello allo scopo di richiudere con praticità il prodotto dopo l'uso e conservarlo comodamente in frigo. Una volta aperto consumare entro 30 giorni. Confezione da 250 e da 160 g."
+          },
+          "a": {
+            "it": "Spalmata su pane caldo e bruschette, nei sughi, sulla pizza e con i formaggi."
+          }
+        },
+        "V-46-8": {
+          "c": [],
+          "pr": "9,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Scaldanduja “Tegamino” in ceramica è realizzato a mano e personalizzato dall'azienda artigiana TAF ceramiche artistiche di San Costantino Calabro. È un caratteristico ed originale utensile usato per riscaldare la Nduja allo scopo di presentarla calda e ancora più spalmabile per le bruschette degli aperitivi o per degli stuzzichini in compagnia, un centro tavola ideale per stupire i propri ospiti con un'idea originale. La preparazione dello scaldanduja “Tegamino” è semplice ed immediata. Dopo averlo assemblato come nell'immagine (piattino sovrapposto alla base), accendere la candelina fornita e infilarla nella base dal foro posto sul retro dell'oggetto. Aggiungere un piccolo quantitativo di Nduja nel piattino e lasciare per qualche minuto facendo così riscaldare il prodotto. 'Nduja di Spilinga in vaso Peso netto: 100 g circa. Salame tipico, molto spalmabile e piccante, proposto nella versione in vasetto di vetro. Dopo la stagionatura la 'Nduja di Spilinga viene confezionata nel vasetto con l'aggiunta di olio extra vergine di oliva che grazie alle sue proprietà conservanti da al prodotto una durata maggiore rispetto alla 'Nduja classica in budello. (2 anni circa). Ingredienti: grasso suino, carne di suino, peperoncino dolce 22% e peperoncino piccante 8%, sale. Prodotto senza conservanti, né coloranti. Prodotto senza glutine ne lattosio."
+          },
+          "a": {
+            "it": "Calda e spalmabile su bruschette e stuzzichini, come centrotavola per l'aperitivo."
+          }
+        },
+        "V-46-9": {
+          "c": [],
+          "pr": "8,95 €, 17,90 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "Questa salsiccia è ricavata dall'impasto, ben amalgamato, delle carni della spalla e della sottocostola dei suini macinate a grana grossa con lardo, sale e peperoncino dolce e piccante, lavorazione eseguita come da tradizione calabrese, la salsiccia viene insaccata a mano e legata nella caratteristica forma a catena. Ingredienti: carne di suino, sale, peperoncino dolce e piccante, destrosio, saccarosio, aromi naturali, antiossidante: E300, conservante: E252."
+          },
+          "a": {
+            "it": "Affettato al tagliere con pane casereccio e formaggi; ottimo anche nei panini."
+          }
+        },
+        "V-46-10": {
+          "c": [],
+          "pr": "4,50 €, 17,90 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "Questa salsiccia è ricavata dall'impasto, ben amalgamato, delle carni della spalla e della sottocostola dei suini macinate a grana grossa con lardo, sale e peperoncino dolce e piccante, lavorazione eseguita come da tradizione calabrese, la salsiccia girella viene insaccata a mano e lasciata senza legature nella particolare forma a ferro di cavallo. Ingredienti: carne di suino, sale, peperoncino dolce e piccante, destrosio, saccarosio, aromi naturali, antiossidante: E300, conservante: E252."
+          },
+          "a": {
+            "it": "Affettato al tagliere con pane casereccio e formaggi; ottimo anche nei panini."
+          }
+        },
+        "V-46-11": {
+          "c": [],
+          "pr": "15,90 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "Salsiccia fresca di suino, dolce o piccante, in confezioni da circa 1 kg."
+          },
+          "a": {
+            "it": "Alla griglia, in padella o nei sughi."
+          }
+        },
+        "V-46-12": {
+          "c": [],
+          "pr": "3,90 €, 24,90 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "Salsicciotti dal gusto tipico della zona di Monteporo. Il gusto schietto e piccante di questo insaccato restituisce il naturale piacere del peperoncino piccante di Calabria che si sposa stupendamente con le ottime carni fresche di suino. L'impasto viene ottenuto con l'ormai abbandonata tecnica del taglio della carne “a punta di coltello” che viene ben amalgamata con sale e peperoncino piccante, ed insaccato in budella naturali di suino. Ingredienti: carne di suino, peperoncino dolce e piccante, sale, aromi. Prodotto senza conservanti e coloranti. Confezione da 150 g circa (3 pezzi sottovuoto) - prezzo al kg € 24.90."
+          },
+          "a": {
+            "it": "Affettato al tagliere con pane casereccio e formaggi; ottimo anche nei panini."
+          }
+        },
+        "V-46-13": {
+          "c": [],
+          "pr": "6,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Salsicciotti dal gusto tipico della zona di Monteporo. Il gusto schietto e piccante di questo insaccato restituisce il naturale piacere del peperoncino piccante di Calabria che si sposa stupendamente con le ottime carni fresche di suino. L'impasto viene ottenuto con l'ormai abbandonata tecnica del taglio della carne “a punta di coltello” che viene ben amalgamata con sale e peperoncino piccante, ed insaccato in budella naturali di suino. Ingredienti: carne di suino, peperoncino dolce e piccante, sale, aromi. Prodotto senza conservanti e coloranti."
+          },
+          "a": {
+            "it": "Affettato al tagliere con pane casereccio e formaggi; ottimo anche nei panini."
+          }
+        },
+        "V-46-14": {
+          "c": [],
+          "pr": "12,00 €, 21,90 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "Soppressata tipica calabrese, salame di puro suino, insaccato e stagionato in budello naturale. Preparata con l'impasto della carne, tritata a medio taglio, ricavata dalla spalla di suini, con grasso ben scelto ottenuto dal lardo della parte anteriore del lobo, vicino al capocollo, e di sale e pepe nero. Il macinato è insaccato in budella “gentile” di suino, forate e quindi legate a mano con spago naturale. La forma è assimilabile ad una figura cilindrica leggermente conica, della lunghezza media di cm 30-40. Ingredienti: carne di suino, sale, peperoncino dolce e piccante, destrosio, saccarosio, aromi, antiossidante: E300, conservante: E252."
+          },
+          "a": {
+            "it": "Affettato al tagliere con pane casereccio e formaggi; ottimo anche nei panini."
+          }
+        },
+        "V-46-15": {
+          "c": [],
+          "pr": "8,50 €, 20,90 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "Soppressata tipica calabrese, salame di puro suino, insaccato e stagionato in budello naturale. Preparata con l'impasto della carne, tritata a medio taglio, ricavata dalla spalla di suini, con grasso ben scelto ottenuto dal lardo della parte anteriore del lobo, vicino al capocollo, e di sale e pepe nero. Il macinato è insaccato in budella naturali di suino, forate e quindi legate a mano con spago naturale. La forma è assimilabile ad una figura cilindrica tonda, della lunghezza media di cm 25-30. Ingredienti: carne di suino, sale, destrosio, saccarosio, aromi e spezie, antiossidante: E300, conservante: E252."
+          },
+          "a": {
+            "it": "Affettato al tagliere con pane casereccio e formaggi; ottimo anche nei panini."
+          }
+        },
+        "V-46-16": {
+          "c": [],
+          "pr": "7,50 €, 20,90 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "Soppressata tipica calabrese, salame di puro suino, insaccato e stagionato in budello naturale. Preparata con l'impasto della carne, tritata a medio taglio, ricavata dalla spalla di suini, con grasso ben scelto ottenuto dal lardo della parte anteriore del lobo, vicino al capocollo, e di sale e pepe nero. Il macinato è insaccato in budella naturali di suino, forate e quindi legate a mano con spago naturale. La forma è assimilabile ad una figura cilindrica leggermente schiacciata, della lunghezza media di cm 15 circa e del diametro di cm 6 circa. Ingredienti: carne di suino, sale, pepe nero, destrosio, saccarosio, aromi naturali, antiossidante: E300, conservante:E252."
+          },
+          "a": {
+            "it": "Affettato al tagliere con pane casereccio e formaggi; ottimo anche nei panini."
+          }
+        },
+        "V-46-17": {
+          "c": [],
+          "pr": "4,90 €, 20,90 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "L'accurata lavorazione di questo salame, ultimo nato in casa SAP, da origine ad un prodotto profumato e gustoso con una fetta friabile e al tempo stesso compatta. Per la sua preparazione si usano carni di suino tritate a grana medio/grossa, insieme a sale, peperoncino dolce e piccante. Insaccato in budello e legato a mano, il Saporello viene sottoposto al naturale processo di asciugatura e stagionatura. A tagliere si consiglia di affettare trasversalmente, a sessanta gradi con coltello ben affilato, ad uno spessore uguale al grano di pepe. Ingredienti: carne di suino, sale, peperoncino dolce e piccante, destrosio, saccarosio, aromi antiossidante: E300, conservante: E252."
+          },
+          "a": {
+            "it": "Affettato al tagliere con pane casereccio e formaggi; ottimo anche nei panini."
+          }
+        },
+        "V-46-18": {
+          "c": [],
+          "pr": "8,50 €, 17,50 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "Salame di puro suino, dopo l'insacco viene pressata per farle raggiungere la tipica forma schiacciata, si distingue per il colore rosso intenso ed il sapore deciso e piccante. Prodotto con carne di suino nazionale utilizzando la carne della coscia del maiale, tagliata manualmente, alla quale si unisce il lardo di pancetta tagliato a cubetti e una concia di sale e peperoncino. Carne di suino, sale, peperoncino dolce e piccante, destrosio, saccarosio, aromi naturali, spezie, antiossidante: E301, conservante: E252, E250."
+          },
+          "a": {
+            "it": "Affettato al tagliere con pane casereccio e formaggi; ottimo anche nei panini."
+          }
+        },
+        "V-46-19": {
+          "c": [],
+          "pr": "8,50 €, 17,50 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "Salame di puro suino di forma tondeggiante, si distingue per il colore rosso intenso ed il sapore deciso e piccante. Prodotto con carne di suino nazionale utilizzando la carne della coscia del maiale, tagliata manualmente, alla quale si unisce il lardo di pancetta tagliato a cubetti e una concia di sale e peperoncino. Carne di suino, sale, peperoncino dolce e piccante, destrosio, saccarosio, aromi naturali, spezie, antiossidante: E301, conservante: E250, E 252."
+          },
+          "a": {
+            "it": "Affettato al tagliere con pane casereccio e formaggi; ottimo anche nei panini."
+          }
+        },
+        "V-46-20": {
+          "c": [],
+          "pr": "6,40 €, 34,90 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "Il Filonzo è una delle ultime creazione della linea di prodotti SAP ed è il risultato di un'attenta selezione volta alla realizzazione di un salame esclusivo. Si presenta sotto una delicata forma conica allungata e si distingue per il suo sapore gentile e raffinato oltre che per il colore vivo che ne evidenzia la corposità particolarmente magra. Il pezzo di carne utilizzato nella lavorazione è sicuramente una delle parti più tenere del suino e si trova sotto la lombata, si ha cosi la possibilità di realizzare due Filonzi per ogni capo. Il trattamento in salamoia che dura qualche giorno insieme al modesto quantitativo di sale che lo avvolge per un breve periodo di tempo, danno al prodotto una corposità unica e compatta e dopo la lenta e naturale stagionatura in locali idonei si ottiene un eccezionale salame poco salato e dal gusto delicatissimo che si scioglie letteralmente in bocca. Ingredienti: carne di suino, sale, aromi, spezie, destrosio, saccarosio, antiossidante: E300, conservanti: E250 - E252."
+          },
+          "a": {
+            "it": "Affettato al tagliere con pane casereccio e formaggi; ottimo anche nei panini."
+          }
+        },
+        "V-46-21": {
+          "c": [],
+          "pr": "11,90 €, 22,90 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "Prodotto tipico del territorio calabrese, viene preparato usando la parte superiore del lombo dei suini, disossato e salato ed aromatizzato intero. La stagionatura viene fatta in ambiente igienicamente sano, per circa 90 giorni. Ingredienti: grasso suino, carne di suino, peperoncino dolce 22% e peperoncino piccante 8%, sale. Prodotto senza conservanti, né coloranti. Prodotto senza glutine ne lattosio.. Disponibile in tranci sottovuoto al prezzo al kg di € 22,90 (su richiesta)."
+          },
+          "a": {
+            "it": "Affettato al tagliere con pane casereccio e formaggi; ottimo anche nei panini."
+          }
+        },
+        "V-46-22": {
+          "c": [],
+          "pr": "13,00 €, 25,90 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "Prodotto tipico del territorio, viene preparato usando la parte magra del lombo dei suini, salato ed aromatizzato intero. La stagionatura viene fatta in ambiente igienicamente sano, per circa 100 giorni. Ingredienti: carne di suino, sale, aromi, spezie, destrosio, saccarosio, antiossidante: E300, conservanti:E250-E252."
+          },
+          "a": {
+            "it": "Affettato al tagliere con pane casereccio e formaggi; ottimo anche nei panini."
+          }
+        },
+        "V-46-23": {
+          "c": [],
+          "pr": "8,50 €, 16,90 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "Prodotto di forma triangolare di una consistenza di grasso di ottima qualità coronato da una venatura di magro che lo rende tipicamente caratteristico, proveniente da animali del peso di 130-160 kg, lavorata in salamoia, in particolari condizioni che permettono l'utilizzo di un modesto quantitativo di sale. La versione dolce presenta un colore roseo con sopra una spolverata di pepe nero macinato fine. Ingredienti: carne di suino, sale, peperoncino dolce e piccante, destrosio, saccarosio, aromi antiossidante: E300, conservante: E252."
+          },
+          "a": {
+            "it": "Al tagliere oppure in cucina per sughi e primi piatti."
+          }
+        },
+        "V-46-24": {
+          "c": [],
+          "pr": "8,90 €, 18,90 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "La Pancetta Tesa è un salume tipico di suino preparato con la parte della pancia dell'animale, la materia prima ha la forma squadrata e rettangolare, viene salata con l'aggiunta di ingredienti aromatici. La versione piccante si presenta con la parte superficiale ricoperta di polvere di peperoncino piccante. Ingredienti: carne di suino, sale, peperoncino dolce e piccante, destrosio, saccarosio, aromi antiossidante: E300, conservante: E252."
+          },
+          "a": {
+            "it": "Al tagliere oppure in cucina per sughi e primi piatti."
+          }
+        },
+        "V-46-25": {
+          "c": [],
+          "pr": "10,00 €, 19,90 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "La Pancetta Arrotolata è un salume tipico di suino preparato con la parte della pancia dell'animale, la materia prima viene sgrassata ricoperta di polvere di peperoncino ed infine arrotolata su se stessa, in modo tale da assumere la tipica forma cilindrica. Presenta al taglio una fetta di colore bianco rosato con venature di colore rosso tenue. Ingredienti: pancetta di suino, sale, destrosio, saccarosio, peperoncino dolce e piccante, aromi, spezie,antiossidante: E300, conservanti: E250-E252."
+          },
+          "a": {
+            "it": "Affettato al tagliere con pane casereccio e formaggi; ottimo anche nei panini."
+          }
+        },
+        "V-46-26": {
+          "c": [],
+          "pr": "25,90 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "Fiocco calabrese: prosciutto stagionato pregiato, in tranci da circa 1 kg."
+          },
+          "a": {
+            "it": "Affettato al tagliere con pane casereccio e formaggi; ottimo anche nei panini."
+          }
+        },
+        "V-46-27": {
+          "c": [],
+          "pr": "25,90 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "Prosciutto rustico Cuore: prosciutto stagionato pregiato, in tranci da circa 1 kg."
+          },
+          "a": {
+            "it": "Affettato al tagliere con pane casereccio e formaggi; ottimo anche nei panini."
+          }
+        },
+        "V-46-28": {
+          "c": [],
+          "pr": "19,90 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "Porchetta di suino in tranci da circa 1 kg."
+          },
+          "a": {
+            "it": "A fette nei panini o come secondo piatto."
+          }
+        },
+        "V-46-29": {
+          "c": [
+            "DOP"
+          ],
+          "pr": "6,20 € (shop T.F.I.)",
+          "d": {
+            "it": "Soppressata di Calabria DOP. Quanto di meglio la tradizione calabrese può dare. La scelta di carni controllate e garantite ed il costante uso di peperoncino rosso, coltivato con cura negli appezzamenti di famiglia, conferiscono a tutti gli insaccati SAP un sapore inconfondibile ed un aroma unico."
+          },
+          "a": {
+            "it": "Affettato al tagliere con pane casereccio e formaggi; ottimo anche nei panini."
+          }
+        },
+        "V-46-30": {
+          "c": [
+            "DOP"
+          ],
+          "pr": "17,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Capocollo di Calabria DOP. Quanto di meglio la tradizione calabrese può dare. La scelta di carni controllate e garantite ed il costante uso di peperoncino rosso, coltivato con cura negli appezzamenti di famiglia, conferiscono a tutti gli insaccati SAP un sapore inconfondibile ed un aroma unico."
+          },
+          "a": {
+            "it": "Affettato al tagliere con pane casereccio e formaggi; ottimo anche nei panini."
+          }
+        },
+        "V-46-31": {
+          "c": [
+            "DOP"
+          ],
+          "pr": "14,50 € (shop T.F.I.)",
+          "d": {
+            "it": "Pancetta di Calabria DOP. Quanto di meglio la tradizione calabrese può dare. La scelta di carni controllate e garantite ed il costante uso di peperoncino rosso, coltivato con cura negli appezzamenti di famiglia, conferiscono a tutti gli insaccati SAP un sapore inconfondibile ed un aroma unico."
+          },
+          "a": {
+            "it": "Affettato al tagliere con pane casereccio e formaggi; ottimo anche nei panini."
+          }
+        },
+        "V-46-32": {
+          "c": [
+            "DOP"
+          ],
+          "pr": "5,40 € (shop T.F.I.)",
+          "d": {
+            "it": "Salsiccia di Calabria DOP. Quanto di meglio la tradizione calabrese può dare. La scelta di carni controllate e garantite ed il costante uso di peperoncino rosso, coltivato con cura negli appezzamenti di famiglia, conferiscono a tutti gli insaccati SAP un sapore inconfondibile ed un aroma unico."
+          },
+          "a": {
+            "it": "Affettato al tagliere con pane casereccio e formaggi; ottimo anche nei panini."
+          }
+        },
+        "V-46-33": {
+          "c": [],
+          "pr": "180 g 5,90 € · 280 g 6,90 € · 100 g 3,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Per questo prodotto viene utilizzata la 'Nduja già stagionata che liberata dal budello viene rimescolata con olio extra vergine di oliva e con olio di semi di girasole e riposta in vasetto di vetro dentro al quale viene aggiunto a copertura uno filo di olio extra vergine di oliva, viene infine pastorizzata. Il peperoncino piccante ne caratterizza il sapore esaltandone il profumo intenso e il colore rosso vivo."
+          },
+          "a": {
+            "it": "Spalmata su pane caldo e bruschette, nei sughi, sulla pizza e con i formaggi."
+          }
+        },
+        "V-46-34": {
+          "c": [],
+          "pr": "90 g 5,90 € · 180 g 8,50 € (shop T.F.I.)",
+          "d": {
+            "it": "Un accostamento particolare tra 'nduja e Nutella, da provare."
+          },
+          "a": {
+            "it": "Su crostini e pane tostato, per stupire all'aperitivo."
+          }
+        },
+        "V-46-35": {
+          "c": [],
+          "pr": "4,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Antica specialità di SAP, Fratelli Pugliese: un mix di verdure tritate con peperoncino piccante, olio di semi di girasole e una modesta quantità di sale."
+          },
+          "a": {
+            "it": "Ideale per sfiziosi antipasti."
+          }
+        },
+        "V-46-36": {
+          "c": [],
+          "pr": "4,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Trito di peperoncino calabrese in vasetto: piccantissimo."
+          },
+          "a": {
+            "it": "Un cucchiaino in sughi, zuppe, bruschette e sulla pizza."
+          }
+        },
+        "V-46-37": {
+          "c": [],
+          "pr": "5,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Confettura di peperoncino calabrese, che si sposa bene con piatti sia salati sia dolci."
+          },
+          "a": {
+            "it": "Su crostini di pane, con taglieri di formaggi a pasta dura o molle, come condimento per carne e pesce."
+          }
+        },
+        "V-46-38": {
+          "c": [],
+          "pr": "4,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Composta di cipolla di Tropea dal gusto ricercato."
+          },
+          "a": {
+            "it": "Per bruschette originali e antipasti; da provare con un tagliere di formaggi, di cui esalta il gusto senza coprirne l'aroma."
+          }
+        },
+        "V-46-39": {
+          "c": [],
+          "pr": "semistagionato 10,00 € (18,90 € al kg) · stagionato 10,00 € (19,90 € al kg) · al peperoncino 10,00 € (19,90 € al kg) · alla 'nduja 10,50 € (20,90 € al kg) (shop T.F.I.)",
+          "d": {
+            "it": "Pecorino in più varianti e stagionature, sempre prodotto secondo la tradizione. Particolari le varianti al peperoncino e alla 'nduja."
+          },
+          "a": {
+            "it": "Al tagliere con salumi, miele e confetture."
+          }
+        }
+      },
+      "fonti": [
+        "https://tipicifoodsitaly.it/categoria-prodotto/aziende-partner/salumi-sap-salumi-di-calabria/",
+        "https://ndujaonline.it/pages/chi-siamo",
+        "https://sapsalumi.com/prodotti/"
+      ]
+    },
+    {
+      "id": "V-47",
+      "n": "Delizie Vaticane di Tropea",
+      "cat": "conserve",
+      "reg": "Calabria",
+      "city": "Santa Domenica di Ricadi (VV)",
+      "lat": 38.647,
+      "lng": 15.867,
+      "y": 1996,
+      "certs": [],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "d": {
+        "it": "Delizie Vaticane di Tropea nasce nel 1996 a Santa Domenica di Ricadi, in provincia di Vibo Valentia, a due passi da Capo Vaticano e da Tropea. Protagonista è la Cipolla Rossa di Tropea Calabria IGP, trasformata in specialità come la Mousse di Cipolla, la Cipolla marinata “Donna Canfora”, la cipolla caramellata e la Bomba Vaticana. Accanto alla cipolla ci sono la 'Nduja di Spilinga artigianale, la crema di peperoncino, i patè e i sottoli, le marmellate di agrumi di Calabria, gli oli extravergini aromatizzati e i fileja con i loro condimenti. Tutti i prodotti sono senza conservanti e coloranti, preparati con materie prime locali e ricette tramandate da generazioni, unendo tradizione e modernità con la qualità al centro. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy.",
+        "en": "Delizie Vaticane di Tropea nasce nel 1996 a Santa Domenica di Ricadi, in provincia di Vibo Valentia, a due passi da Capo Vaticano e da Tropea. Protagonista è la Cipolla Rossa di Tropea Calabria IGP, trasformata in specialità come la Mousse di Cipolla, la Cipolla marinata “Donna Canfora”, la cipolla caramellata e la Bomba Vaticana. Accanto alla cipolla ci sono la 'Nduja di Spilinga artigianale, la crema di peperoncino, i patè e i sottoli, le marmellate di agrumi di Calabria, gli oli extravergini aromatizzati e i fileja con i loro condimenti. Tutti i prodotti sono senza conservanti e coloranti, preparati con materie prime locali e ricette tramandate da generazioni, unendo tradizione e modernità con la qualità al centro. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy.",
+        "de": "Delizie Vaticane di Tropea nasce nel 1996 a Santa Domenica di Ricadi, in provincia di Vibo Valentia, a due passi da Capo Vaticano e da Tropea. Protagonista è la Cipolla Rossa di Tropea Calabria IGP, trasformata in specialità come la Mousse di Cipolla, la Cipolla marinata “Donna Canfora”, la cipolla caramellata e la Bomba Vaticana. Accanto alla cipolla ci sono la 'Nduja di Spilinga artigianale, la crema di peperoncino, i patè e i sottoli, le marmellate di agrumi di Calabria, gli oli extravergini aromatizzati e i fileja con i loro condimenti. Tutti i prodotti sono senza conservanti e coloranti, preparati con materie prime locali e ricette tramandate da generazioni, unendo tradizione e modernità con la qualità al centro. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy."
+      },
+      "sub": [
+        {
+          "k": "cipolla",
+          "cat": "conserve",
+          "n": {
+            "it": "Cipolla Rossa di Tropea",
+            "en": "Cipolla Rossa di Tropea",
+            "de": "Cipolla Rossa di Tropea"
+          }
+        },
+        {
+          "k": "antipasti",
+          "cat": "conserve",
+          "n": {
+            "it": "Bruschette e antipasti",
+            "en": "Bruschette e antipasti",
+            "de": "Bruschette e antipasti"
+          }
+        },
+        {
+          "k": "piccanti",
+          "cat": "conserve",
+          "n": {
+            "it": "'Nduja e peperoncino",
+            "en": "'Nduja e peperoncino",
+            "de": "'Nduja e peperoncino"
+          }
+        },
+        {
+          "k": "marmellate",
+          "cat": "conserve",
+          "n": {
+            "it": "Marmellate",
+            "en": "Marmellate",
+            "de": "Marmellate"
+          }
+        },
+        {
+          "k": "sughi",
+          "cat": "conserve",
+          "n": {
+            "it": "CondiFileja",
+            "en": "CondiFileja",
+            "de": "CondiFileja"
+          }
+        },
+        {
+          "k": "pasta",
+          "cat": "pasta",
+          "n": {
+            "it": "Fileja",
+            "en": "Fileja",
+            "de": "Fileja"
+          }
+        },
+        {
+          "k": "olio",
+          "cat": "olio",
+          "n": {
+            "it": "Oli aromatizzati",
+            "en": "Oli aromatizzati",
+            "de": "Oli aromatizzati"
+          }
+        },
+        {
+          "k": "box",
+          "cat": "misti",
+          "n": {
+            "it": "Box",
+            "en": "Box",
+            "de": "Box"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Mousse di Cipolla",
+          "vasetto da 40 ml · vasetto da 106 ml · vasetto da 212 ml · vasetto da 314 ml · vaso da 1062 ml",
+          "cipolla"
+        ],
+        [
+          "Mousse di Cipolla al peperoncino",
+          "vasetto da 212 ml",
+          "cipolla"
+        ],
+        [
+          "Patè di Cipolla",
+          "vasetto da 212 ml",
+          "cipolla"
+        ],
+        [
+          "Cuor di Cipolla",
+          "vasetto da 212 ml · vasetto da 314 ml",
+          "cipolla"
+        ],
+        [
+          "Cipolla caramellata",
+          "vasetto da 212 ml · vaso da 1062 ml",
+          "cipolla"
+        ],
+        [
+          "Cipolla in agrodolce a filetti",
+          "vasetto da 314 ml · vaso da 1062 ml",
+          "cipolla"
+        ],
+        [
+          "Cipolla marinata “Donna Canfora”",
+          "vasetto da 314 ml · vaso da 1062 ml",
+          "cipolla"
+        ],
+        [
+          "Bomba Vaticana, cipolla piccante",
+          "vasetto da 212 ml · vaso da 1062 ml",
+          "cipolla"
+        ],
+        [
+          "5 Sfizi Cipolla & 'Nduja",
+          "vasetto da 212 ml · vaso da 1062 ml",
+          "cipolla"
+        ],
+        [
+          "Bruschetta Tropeana",
+          "vasetto da 212 ml · vaso da 1062 ml",
+          "antipasti"
+        ],
+        [
+          "Bruschetta Vaticana",
+          "vasetto da 212 ml · vaso da 1062 ml",
+          "antipasti"
+        ],
+        [
+          "Bruschetta Calabrese",
+          "vasetto da 212 ml",
+          "antipasti"
+        ],
+        [
+          "Antipasto Tropeano",
+          "vasetto da 314 ml · vaso da 1062 ml",
+          "antipasti"
+        ],
+        [
+          "Caponata Tropeana",
+          "vasetto da 314 ml",
+          "antipasti"
+        ],
+        [
+          "Vellutata contadina",
+          "vasetto da 180 g",
+          "antipasti"
+        ],
+        [
+          "Melanzane casarecce",
+          "vasetto da 314 ml · vaso da 1062 ml",
+          "antipasti"
+        ],
+        [
+          "Pomodori secchi",
+          "vasetto da 314 ml · vaso da 1062 ml",
+          "antipasti"
+        ],
+        [
+          "Patè di pomodori secchi",
+          "vasetto da 212 ml · vaso da 1062 ml",
+          "antipasti"
+        ],
+        [
+          "Cuori di carciofi",
+          "vasetto da 314 ml",
+          "antipasti"
+        ],
+        [
+          "Carciofini grigliati alla brace",
+          "vasetto da 314 ml",
+          "antipasti"
+        ],
+        [
+          "Peperoncini ripieni al tonno",
+          "vasetto da 314 ml",
+          "antipasti"
+        ],
+        [
+          "'Nduja di Spilinga in vasetto",
+          "vasetto da 40 ml · vasetto da 106 ml · vasetto da 212 ml · vasetto da 314 ml · vaso da 1062 ml",
+          "piccanti"
+        ],
+        [
+          "'Nduja di Spilinga in budello",
+          "pezzo da 1 kg circa",
+          "piccanti"
+        ],
+        [
+          "Crema di peperoncino",
+          "vasetto da 106 ml · vasetto da 212 ml · vasetto da 314 ml",
+          "piccanti"
+        ],
+        [
+          "Confettura di peperoncino",
+          "vasetto da 106 ml · vasetto da 212 ml",
+          "piccanti"
+        ],
+        [
+          "Marmellata di arance",
+          "vasetto da 212 ml · vaso da 1062 ml",
+          "marmellate"
+        ],
+        [
+          "Marmellata di limoni",
+          "vasetto da 212 ml · vaso da 1062 ml",
+          "marmellate"
+        ],
+        [
+          "Marmellata di mandarini",
+          "vasetto da 212 ml · vaso da 1062 ml",
+          "marmellate"
+        ],
+        [
+          "Marmellate assortite: extra di fichi, bergamotto o cedro",
+          "vasetto da 212 ml",
+          "marmellate"
+        ],
+        [
+          "CondiFileja: cipolla, cipolla e 'nduja, melanzane, melanzane e 'nduja",
+          "vasetto da 314 ml",
+          "sughi"
+        ],
+        [
+          "Fileja Tropeani, classici o al peperoncino",
+          "confezione da 500 g",
+          "pasta"
+        ],
+        [
+          "Olio extravergine aromatizzato al bergamotto",
+          "bottiglia da 175 ml · bottiglia da 250 ml",
+          "olio"
+        ],
+        [
+          "Olio extravergine aromatizzato al peperoncino",
+          "bottiglia da 175 ml · bottiglia da 250 ml",
+          "olio"
+        ],
+        [
+          "Olio extravergine aromatizzato alla cipolla",
+          "bottiglia da 175 ml · bottiglia da 250 ml",
+          "olio"
+        ],
+        [
+          "Olio extravergine aromatizzato all'habanero",
+          "bottiglia da 175 ml · bottiglia da 250 ml",
+          "olio"
+        ],
+        [
+          "Box “Cuore Delizie Vaticane”",
+          "confezione da 10 vasetti",
+          "box"
+        ],
+        [
+          "Box “Assaggio Delizie Vaticane”",
+          "confezione da 12 vasetti",
+          "box"
+        ]
+      ],
+      "pd": {
+        "V-47-0": {
+          "c": [],
+          "pr": "40 ml 2,50 € · 106 ml 4,50 € · 212 ml 5,90 € · 314 ml 6,90 € · 1062 ml 24,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Ingredienti: “Cipolla Rossa di Tropea Calabria IGP” (67%), zucchero, aceto, uva passa, aromi naturali."
+          },
+          "a": {
+            "it": "Prodotto di altissima qualità, può essere utilizzato dall'antipasto al dolce. Eccezionale su formaggi, su carni arrostite o bollite, sui salumi e pesce. Con questo prodotto puoi sbizzarrirti con la fantasia, creando ogni tipo di ricetta per stupire con un sapore di assoluta eccellenza."
+          }
+        },
+        "V-47-1": {
+          "c": [],
+          "pr": "4,20 € (shop T.F.I.)",
+          "d": {
+            "it": "Ingredienti: cipolla Rossa di Tropea Calabria IGP (67%) , zucchero, aceto, uva passa, cannella, chiodi di garofano, peperoncino. Ingredienti: zuccheri Tot. 55 g. per 100 g. Senza coloranti e conservanti. Gluten free. Vegan."
+          },
+          "a": {
+            "it": "È un prodotto molto versatile, si abbina a tutti i tipi di piatti: antipasti, contorni e secondi. Si può utilizzare sui formaggi stagionati, sulla pizza, focacce, hamburger, panini, tramezzini, bruschette, pane tostato o crostini. È molto utilizzata per le pizze gourmet. È deliziosa servita con carni arrostite, ma anche con il pesce. Dà un tocco particolare a tutti i tuoi piatti!"
+          }
+        },
+        "V-47-2": {
+          "c": [],
+          "pr": "5,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Ingredienti: cipolla Rossa di Tropea Calabria IGP, olive verdi, olio di oliva, basilico, prezzemolo, sale, origano. Senza coloranti e conservanti. Gluten free. Vegan."
+          },
+          "a": {
+            "it": "È un prodotto molto versatile, si abbina a tutti i tipi di piatti: antipasti, contorni, primi e secondi. Aggiunge un sapore gradevole a sughi, risotti, pizza, focacce, hamburger, panini, tramezzini, bruschette, pane tostato o crostini. Ideale per rendere speciali i tuoi antipasti, da soli o in compagnia di amici."
+          }
+        },
+        "V-47-3": {
+          "c": [],
+          "pr": "212 ml 5,50 € · 314 ml 6,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Cuor di Cipolla ottenuta da cipolle di pertinenza del consorzio “Cipolla rossa di Tropea Calabria I.G.P”. Conservati in aceto di vino, sale, zucchero, erbe aromatiche e spezie."
+          },
+          "a": {
+            "it": "Cuor di Cipolla a base di “Cipolla rossa di Tropea Calabria I.G.P” indicata per realizzare stuzzicanti aperitivi."
+          }
+        },
+        "V-47-4": {
+          "c": [],
+          "pr": "212 ml 5,90 € · 1062 ml 21,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Ingredienti: cipolla Rossa di Tropea Calabria IGP (72,5%) , zucchero, aceto, olio di oliva, sale. Senza coloranti e conservanti. Gluten free. Vegan."
+          },
+          "a": {
+            "it": "È un prodotto molto versatile, si abbina a tutti i tipi di piatti: antipasti, contorni e secondi. Si può utilizzare sui formaggi, in abbinamento ai tuoi primi piatti, sulla pizza, focacce, quiche, hamburger, panini, tramezzini, bruschette, pane tostato o crostini, insalate con altre verdure. È deliziosa servita con carni arrostite. Dà un tocco particolare a tutti i tuoi piatti!"
+          }
+        },
+        "V-47-5": {
+          "c": [],
+          "pr": "314 ml 6,00 € · 1062 ml 21,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Ingredienti: cipolla Rossa di Tropea Calabria IGP, Aceto, Zucchero,Olio d' oliva, uva passa,sale, chiodi di garofano. Senza coloranti e conservanti. Gluten free. Vegan."
+          },
+          "a": {
+            "it": "È un prodotto molto versatile, si abbina a tutti i tipi di piatti: antipasti, contorni e secondi. Si può utilizzare sui formaggi, come soffritto di gustosi sughi, risotti, sulla pizza, focacce, quiche, hamburger, panini, tramezzini, bruschette, pane tostato o crostini, insalate con altre verdure. È deliziosa servita con carni arrostite o con pesce come i filetti di sgombro o la tagliata di tonno."
+          }
+        },
+        "V-47-6": {
+          "c": [],
+          "pr": "314 ml 6,90 € · 1062 ml 21,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Ingredienti: cipolla Rossa di Tropea Calabria IGP, Aceto, Zucchero, Olio d' oliva, uva passa, sale, chiodi di garofano. Senza coloranti e conservanti. Gluten free. Vegan."
+          },
+          "a": {
+            "it": "È un prodotto molto versatile, si abbina a tutti i tipi di piatti: antipasti, contorni e secondi. Si può utilizzare sui formaggi, sulla pizza, focacce, quiche, hamburger, panini, tramezzini, bruschette, pane tostato o crostini, insalate con altre verdure. È deliziosa servita con carni arrostite o con pesce."
+          }
+        },
+        "V-47-7": {
+          "c": [],
+          "pr": "212 ml 5,50 € · 1062 ml 21,00 € (shop T.F.I.)",
+          "d": {
+            "it": "Ingredienti: cipolla Rossa di Tropea Calabria IGP (70%) , Olio Di Oliva, Aceto, Olive,Peperoncino Rosso Piccante,Peperoncino Dolce, Sale, Origano. Senza coloranti e conservanti. Gluten free. Vegan."
+          },
+          "a": {
+            "it": "Si può consumare su fette di pane, sulle carni, sulla pizza, sulle focacce, per insaporire sughi. Dà un tocco piccante a tutti i tuoi piatti."
+          }
+        },
+        "V-47-8": {
+          "c": [],
+          "pr": "212 ml 5,00 € · 1062 ml 21,00 € (shop T.F.I.)",
+          "d": {
+            "it": "Ingredienti: cipolla Rossa di Tropea Calabria IGP, 'Nduja di Spilinga, Olive verdi, Olio di oliva, Pomodori secchi, Sale. Senza coloranti e conservanti. Gluten free."
+          },
+          "a": {
+            "it": "È un prodotto molto versatile, si abbina a tutti i tipi di piatti: antipasti, primi e secondi. Aggiunge un sapore piccante ai sughi, risotti, pizza, focacce, hamburger, tramezzini, bruschette, pane tostato o crostini. Perfetto da usare come “sfizio” finale sulle tue ricette."
+          }
+        },
+        "V-47-9": {
+          "c": [],
+          "pr": "212 ml 5,00 € · 1062 ml 21,00 € (shop T.F.I.)",
+          "d": {
+            "it": "Ingredienti: cipolla Rossa di Tropea Calabria IGP, Olive verdi, Olio di oliva, Pomodori secchi, Basilico,Prezzemolo, Peperoncino dolce, Sale, Origano. Senza coloranti e conservanti. Gluten free. Vegan."
+          },
+          "a": {
+            "it": "È un prodotto molto versatile, si abbina a tutti i tipi di piatti: antipasti, contorni, primi e secondi. Aggiunge un sapore gradevole a sughi, risotti, pizza, focacce, hamburger, panini, tramezzini, bruschette, pane tostato o crostini. Ideale per rendere speciali i tuoi antipasti, da soli o in compagnia di amici."
+          }
+        },
+        "V-47-10": {
+          "c": [],
+          "pr": "212 ml 5,00 € · 1062 ml 21,00 € (shop T.F.I.)",
+          "d": {
+            "it": "Ingredienti: cipolla Rossa di Tropea Calabria IGP, pomodori secchi, 'Nduja di Spilinga, olio di oliva, olive verdi, peperoncino dolce, sale, origano. Senza coloranti e conservanti. Gluten free."
+          },
+          "a": {
+            "it": "È un prodotto molto versatile, si abbina a tutti i tipi di piatti: antipasti, contorni, primi e secondi. Aggiunge un sapore leggermente piccante a sughi, risotti, pizza, focacce, hamburger, panini, tramezzini, bruschette, pane tostato o crostini. Ideale per rendere speciali i tuoi antipasti, da soli o in compagnia di amici."
+          }
+        },
+        "V-47-11": {
+          "c": [],
+          "pr": "5,00 € (shop T.F.I.)",
+          "d": {
+            "it": "Ingredienti: melanzane di Calabria , olio di oliva, pomodori secchi, olive, peperoni dolci, carote, sale, prezzemolo, peperoncino fine piccante, origano, peperoncino a scaglie piccante. Senza coloranti e conservanti. Gluten free. Vegan."
+          },
+          "a": {
+            "it": "È un prodotto molto versatile, si abbina a tutti i tipi di piatti: antipasti, contorni, primi e secondi. Aggiunge un sapore piccante a sughi, risotti, pizza, focacce, panini, tramezzini, bruschette, pane tostato o crostini. Ideale per rendere speciali i tuoi antipasti, da soli o in compagnia di amici."
+          }
+        },
+        "V-47-12": {
+          "c": [],
+          "pr": "314 ml 6,00 € · 1062 ml 21,00 € (shop T.F.I.)",
+          "d": {
+            "it": "Ingredienti: melanzane di Calabria, olio di oliva, aceto, peperoni, carote, sale, origano, pomodori, olive, capperi. Senza coloranti e conservanti. Gluten free. Vegan."
+          },
+          "a": {
+            "it": "È ottimo come antipasto o contorno: renderà speciali e indimenticabili i tuoi piatti! Inoltre si abbina a tutti i tipi carne."
+          }
+        },
+        "V-47-13": {
+          "c": [],
+          "pr": "6,00 € (shop T.F.I.)",
+          "d": {
+            "it": "Ingredienti: cipolla Rossa di Tropea Calabria IGP, melanzane di Calabria, pomodori freschi, peperoni dolci, olive verdi, olio di oliva, sale, origano. Senza coloranti e conservanti. Gluten free. Vegan."
+          },
+          "a": {
+            "it": "È ottimo come antipasto o contorno: renderà speciali e indimenticabili i tuoi piatti! Inoltre si abbina a tutti i tipi carne."
+          }
+        },
+        "V-47-14": {
+          "c": [],
+          "pr": "5,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Ingredienti: melanzane di Calabria, aceto, olio di oliva, peperoni dolci, carote, pomodori secchi, olive verdi, zucchero, sale, origano. Senza coloranti e conservanti. Gluten free. Vegan."
+          },
+          "a": {
+            "it": "Un'esplosione di sapori genuini e freschi: La Vellutata Contadina è un prodotto a base di melanzane, carote, peperoni, pomodori e olive, che racchiude in sé il vero gusto della tradizione contadina."
+          }
+        },
+        "V-47-15": {
+          "c": [],
+          "pr": "314 ml 6,90 € · 1062 ml 21,00 € (shop T.F.I.)",
+          "d": {
+            "it": "Ingredienti: melanzane di Calabria, olio di oliva, aceto, peperoni, carote, sale, origano. Senza coloranti e conservanti. Gluten free. Vegan."
+          },
+          "a": {
+            "it": "È ottimo come antipasto o contorno: renderà speciali e indimenticabili i tuoi piatti! Inoltre si abbina a tutti i tipi carne."
+          }
+        },
+        "V-47-16": {
+          "c": [],
+          "pr": "314 ml 6,00 € · 1062 ml 21,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Ingredienti: pomodori secchi (90%), olio di oliva, origano. Senza coloranti e conservanti. Gluten free. Vegan."
+          },
+          "a": {
+            "it": "È ottimo come antipasto o contorno: renderà speciali e indimenticabili i tuoi piatti! Inoltre si abbina a tutti i tipi carne."
+          }
+        },
+        "V-47-17": {
+          "c": [],
+          "pr": "212 ml 5,90 € · 1062 ml 21,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Ingredienti: pomodori secchi (90%), olio di oliva, prezzemolo, basilico, origano, sale. Senza coloranti e conservanti. Gluten free. Vegan."
+          },
+          "a": {
+            "it": "È un prodotto molto versatile, si abbina a tutti i tipi di piatti: antipasti e secondi. Aggiunge un sapore gradevole a focacce, panini, tramezzini, bruschette, pane tostato o crostini. Ideale per rendere speciali i tuoi antipasti, da soli o in compagnia di amici."
+          }
+        },
+        "V-47-18": {
+          "c": [],
+          "pr": "7,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Ingredienti: carciofini interi 52%, olio extravergine di oliva, aceto, alloro, origano, peperoncino macinato. Senza coloranti e conservanti. Gluten free. Vegan."
+          },
+          "a": {
+            "it": "È ottimo come antipasto o contorno: renderà speciali e indimenticabili i tuoi piatti! Inoltre si abbina a tutti i tipi carne."
+          }
+        },
+        "V-47-19": {
+          "c": [],
+          "pr": "7,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Ingredienti: carciofini 65%, olio extravergine di oliva, sale, aceto, alloro, menta, aglio, pepe nero, peperoncino piccante. Senza coloranti e conservanti. Gluten free. Vegan."
+          },
+          "a": {
+            "it": "È ottimo come antipasto o contorno: renderà speciali e indimenticabili i tuoi piatti, dando un tocco leggermente piccante! Inoltre si abbina a tutti i tipi carne."
+          }
+        },
+        "V-47-20": {
+          "c": [],
+          "pr": "7,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Ingredienti: peperoncini piccanti di Calabria (48%), olio extravergine di oliva, tonno (16%), carciofi, pane grattugiato (farina di grano tenero tipo 00, lievito, sale), origano, pepe nero, sale, aceto di vino. Contiene allergeni: Glutine. Senza coloranti e conservanti. Vegan."
+          },
+          "a": {
+            "it": "Dai un tocco piccante e saporito ai tuoi antipasti o contorni, unendo il gusto del peperoncino al sapore del tonno."
+          }
+        },
+        "V-47-21": {
+          "c": [],
+          "pr": "40 ml 2,90 € · 106 ml 4,50 € · 212 ml 6,90 € · 314 ml 8,90 € · 1062 ml 22,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Ingredienti: 'Nduja di Spilinga 97 %, (Grasso suino, carne suina ,Peperoncino calabrese 25%, Sale, Spezie,) Olio di oliva."
+          },
+          "a": {
+            "it": "È un prodotto molto versatile: la 'Nduja si abbina a tutti i tipi di piatti: antipasti, contorni, primi e secondi. È ottima su bruschette, pane o crostini, pizza, focacce, sughi, arancini, risotti, polenta, paella, formaggi, hamburger, panini, tramezzini. È deliziosa su tutti tipi di carne alla griglia. Perfetta da usare per aggiungere un tocco piccante ai tuoi piatti."
+          }
+        },
+        "V-47-22": {
+          "c": [],
+          "pr": "19,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Ingredienti: 'Nduja di Spilinga 97 %, (Grasso suino, carne suina ,Peperoncino calabrese, Sale) Olio di oliva 3%. Senza coloranti e conservanti. Gluten free. Vegan."
+          },
+          "a": {
+            "it": "È un prodotto molto versatile: la 'Nduja si abbina a tutti i tipi di piatti: antipasti, contorni, primi e secondi. È ottima su bruschette, pane o crostini, pizza, focacce, sughi, arancini, risotti, polenta, paella, formaggi, hamburger, panini, tramezzini. È deliziosa su tutti tipi di carne alla griglia. Perfetta da usare per aggiungere un tocco piccante ai tuoi piatti."
+          }
+        },
+        "V-47-23": {
+          "c": [],
+          "pr": "106 ml 3,90 € · 212 ml 6,50 € · 314 ml 7,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Ingredienti: peperoncini piccanti di Calabria, olio di oliva, prezzemolo, sale. Senza coloranti e conservanti. Gluten free. Vegan."
+          },
+          "a": {
+            "it": "Si può consumare su fette di pane, sui formaggi, sulle carni, sulla cacciagione, sui primi e secondi piatti, sulla pizza, sulle focacce, per dare un tocco piccante ad ogni piatto, creando ogni tipo di ricetta per stupire con un sapore di assoluta eccellenza."
+          }
+        },
+        "V-47-24": {
+          "c": [],
+          "pr": "106 ml 3,90 € · 212 ml 6,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Ti darà la carica energetica giusta per iniziare la giornata! Ingredienti: peperoncini piccanti Calabresi, zucchero. Senza coloranti e conservanti. Gluten free. Vegan."
+          },
+          "a": {
+            "it": "Si può consumare su fette di pane, fette biscottate, crackers, per farcire biscotti, torte, crostate, su formaggi."
+          }
+        },
+        "V-47-25": {
+          "c": [],
+          "pr": "212 ml 5,90 € · 1062 ml 21,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Ingredienti: polpa e buccia di arance di Calabria, zucchero. Zuccheri totali 52 g. per 100 g. di prodotto. Senza coloranti e conservanti. Gluten free. Vegan. Ti darà la carica energetica giusta per iniziare la giornata!"
+          },
+          "a": {
+            "it": "Si può consumare su fette di pane, fette biscottate, per farcire biscotti, torte, crostate."
+          }
+        },
+        "V-47-26": {
+          "c": [],
+          "pr": "212 ml 5,90 € · 1062 ml 21,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Ingredienti: polpa e buccia di Limoni di Calabria, zucchero. Zuccheri totali 52 g. per 100 g. di prodotto. Senza coloranti e conservanti. Gluten free. Vegan. Ti darà la carica energetica giusta per iniziare la giornata!"
+          },
+          "a": {
+            "it": "Si può consumare su fette di pane, fette biscottate, per farcire biscotti, torte, crostate."
+          }
+        },
+        "V-47-27": {
+          "c": [],
+          "pr": "212 ml 5,90 € · 1062 ml 21,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Ingredienti: polpa e buccia di Mandarini di Calabria, zucchero. Zuccheri totali: 51 g. per 100 g. di prodotto. Senza coloranti e conservanti. Gluten free. Vegan. Ti darà la carica energetica giusta per iniziare la giornata!"
+          },
+          "a": {
+            "it": "Si può consumare su fette di pane, fette biscottate, per farcire biscotti, torte, crostate."
+          }
+        },
+        "V-47-28": {
+          "c": [],
+          "pr": "6,00 € (shop T.F.I.)",
+          "d": {
+            "it": "Marmellate di Calabria nei gusti extra di fichi, bergamotto e cedro."
+          },
+          "a": {
+            "it": "Marmellate molto aromatiche, dal gusto intenso. Da usare per crostate e tartellette profumatissime…ma anche per accompagnare formaggi semi-stagionati dal gusto non troppo deciso."
+          }
+        },
+        "V-47-29": {
+          "c": [],
+          "pr": "cipolla 7,00 € · cipolla e 'nduja 7,90 € · melanzane 6,90 € · melanzane e 'nduja 7,00 € (shop T.F.I.)",
+          "d": {
+            "it": "Sugo pronto della linea CondiFileja, in quattro ricette: cipolla, cipolla e 'nduja, melanzane, melanzane e 'nduja. Senza coloranti e conservanti. Gluten free."
+          },
+          "a": {
+            "it": "È ottimo per condire i primi piatti, che siano o meno “fileja” tropeani! Darà un tocco leggermente piccante e un gusto indimenticabile."
+          }
+        },
+        "V-47-30": {
+          "c": [],
+          "pr": "2,90 € (shop T.F.I.)",
+          "d": {
+            "it": "I “fileja” sono una pasta tipicamente calabrese e sono preparati con semola di grano duro e acqua. La sua particolarità è quella di essere stesa con il ferro o con stecca sottile di una pianta chiamata gutimo in dialetto calabrese. Senza coloranti e conservanti. Gluten free. Vegan."
+          },
+          "a": {
+            "it": "È ottima abbinata ai nostri Condifileja, o con qualsiasi sugo!"
+          }
+        },
+        "V-47-31": {
+          "c": [],
+          "pr": "175 ml 7,00 € · 250 ml 8,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Ingredienti: olio extravergine di oliva 99,9%, Bergamotto di Calabria (0,1%). Senza coloranti e conservanti. Gluten free. Vegan. Non contiene aromi artificiali. Ottimo come condimento di insalate, ma non solo. Puoi utilizzarlo per accompagnare il pesce, sia cotto che marinato. È perfetto anche semplicemente su pane o bruschette."
+          },
+          "a": {
+            "it": "Il nostro Olio extravergine di oliva aromatizzato al Bergamotto di Calabria trasforma i piatti più semplici in un capolavoro - indispensabile in ogni buona cucina."
+          }
+        },
+        "V-47-32": {
+          "c": [],
+          "pr": "175 ml 7,00 € · 250 ml 8,00 € (shop T.F.I.)",
+          "d": {
+            "it": "Ingredienti: olio extravergine di oliva 99,9%, Peperoncino di Calabria (0,1%). Senza coloranti e conservanti. Gluten free. Vegan. Non contiene aromi artificiali. Ottimo come condimento di pasta, per aggiungere un sapore inconfondibile ai soffritti di sughi, per condire carni e legumi, per preparare straccetti di pollo. È perfetto anche semplicemente su pane o bruschette."
+          },
+          "a": {
+            "it": "Il nostro Olio extravergine di oliva aromatizzato al Peperoncino Calabrese trasforma i piatti più semplici in un capolavoro, dando un tocco di sapore leggermente piccante. È indispensabile in ogni buona cucina."
+          }
+        },
+        "V-47-33": {
+          "c": [],
+          "pr": "175 ml 7,00 € · 250 ml 8,00 € (shop T.F.I.)",
+          "d": {
+            "it": "Ingredienti: olio extravergine di oliva 99%, Cipolla Rossa di Tropea Calabria IGP (1%). Senza coloranti e conservanti. Gluten free. Vegan. Non contiene aromi artificiali. Ottimo come condimento di pasta, per aggiungere un sapore inconfondibile ai soffritti di sughi, per condire carni e insalate. È perfetto anche semplicemente su pane o bruschette."
+          },
+          "a": {
+            "it": "Il nostro Olio extravergine di oliva aromatizzato alla Cipolla Rossa di Tropea Calabria IGP trasforma i piatti più semplici in un capolavoro - indispensabile in ogni buona cucina."
+          }
+        },
+        "V-47-34": {
+          "c": [],
+          "pr": "175 ml 7,00 € · 250 ml 8,00 € (shop T.F.I.)",
+          "d": {
+            "it": "Ingredienti: olio extravergine di oliva 99,9%, Habanero di Calabria (0,1%). Senza coloranti e conservanti. Gluten free. Vegan. Non contiene aromi artificiali. . Ottimo come condimento di pasta, per aggiungere un sapore inconfondibile ai soffritti di sughi, per condire carni e legumi, per i veri amanti del piccante. È perfetto anche semplicemente su pane o bruschette."
+          },
+          "a": {
+            "it": "Il nostro Olio extravergine di oliva aromatizzato all' Habanero, coltivato in Calabria, trasforma i piatti più semplici in un capolavoro, dando un tocco di sapore molto piccante. È indispensabile in ogni buona cucina."
+          }
+        },
+        "V-47-35": {
+          "c": [],
+          "pr": "69,00 € (shop T.F.I.)",
+          "d": {
+            "it": "Box “invito all'assaggio” dal cuore della Calabria, con dieci vasetti: Mousse di Cipolla, Antipasto Tropeano, Pomodori secchi, Caponata Tropeana e Cipolla a filetti in agrodolce da 314 ml; Bruschetta Tropeana, Patè di Cipolla, Bomba Vaticana, Patè di pomodori secchi e 'Nduja di Spilinga da 212 ml."
+          },
+          "a": {
+            "it": "Il box è una selezione di prodotti gustosi ed estremamente versatili, permettono di effettuare abbinamenti fantasiosi e gustosi per tutti i tipi di piatti: antipasti, contorni, primi e secondi."
+          }
+        },
+        "V-47-36": {
+          "c": [],
+          "pr": "79,00 € (shop T.F.I.)",
+          "d": {
+            "it": "Box “invito all'assaggio” con dodici vasetti: 5 Sfizi Cipolla & 'Nduja, Bruschetta Vaticana, Marmellata di bergamotto, Mousse di Cipolla, Bomba Vaticana, Cipolla caramellata e 'Nduja da 212 ml; Cipolla marinata “Donna Canfora”, CondiFileja cipolla e 'nduja, Melanzane casarecce e Pomodori secchi in olio da 314 ml; Confettura di peperoncini da 106 ml."
+          },
+          "a": {
+            "it": "Il box è una selezione di prodotti gustosi ed estremamente versatili, permettono di effettuare abbinamenti fantasiosi e gustosi per tutti i tipi di piatti: antipasti, contorni, primi e secondi."
+          }
+        }
+      },
+      "fonti": [
+        "https://tipicifoodsitaly.it/categoria-prodotto/aziende-partner/conserve-delizie-vaticane/",
+        "https://delizievaticane.it/"
+      ]
+    },
+    {
+      "id": "V-48",
+      "n": "Luna Funghi",
+      "cat": "conserve",
+      "reg": "Calabria",
+      "city": "Soveria Mannelli (CZ)",
+      "lat": 39.083,
+      "lng": 16.373,
+      "y": null,
+      "certs": [],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "d": {
+        "it": "Luna Funghi è un'azienda calabrese di Soveria Mannelli, in provincia di Catanzaro, tra i boschi della Sila Piccola, specializzata nella lavorazione e conservazione dei funghi. Il fungo porcino, re dei funghi, è il protagonista: tagliato o intero, sott'olio, secco e in crema, insieme al porcino Testa Rossa che nasce spontaneo nelle montagne calabresi, ai rositi, ai galletti e ai misti di bosco. Gli ingredienti arrivano dal territorio e sono lavorati singolarmente con cura; i tartufi sono selezionati e raccolti da cavatori di fiducia. Completano la gamma le specialità al tartufo, i condimenti piccanti, i sottoli e i prodotti tipici calabresi per la dispensa, dal vasetto piccolo ai formati per la ristorazione. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy.",
+        "en": "Luna Funghi è un'azienda calabrese di Soveria Mannelli, in provincia di Catanzaro, tra i boschi della Sila Piccola, specializzata nella lavorazione e conservazione dei funghi. Il fungo porcino, re dei funghi, è il protagonista: tagliato o intero, sott'olio, secco e in crema, insieme al porcino Testa Rossa che nasce spontaneo nelle montagne calabresi, ai rositi, ai galletti e ai misti di bosco. Gli ingredienti arrivano dal territorio e sono lavorati singolarmente con cura; i tartufi sono selezionati e raccolti da cavatori di fiducia. Completano la gamma le specialità al tartufo, i condimenti piccanti, i sottoli e i prodotti tipici calabresi per la dispensa, dal vasetto piccolo ai formati per la ristorazione. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy.",
+        "de": "Luna Funghi è un'azienda calabrese di Soveria Mannelli, in provincia di Catanzaro, tra i boschi della Sila Piccola, specializzata nella lavorazione e conservazione dei funghi. Il fungo porcino, re dei funghi, è il protagonista: tagliato o intero, sott'olio, secco e in crema, insieme al porcino Testa Rossa che nasce spontaneo nelle montagne calabresi, ai rositi, ai galletti e ai misti di bosco. Gli ingredienti arrivano dal territorio e sono lavorati singolarmente con cura; i tartufi sono selezionati e raccolti da cavatori di fiducia. Completano la gamma le specialità al tartufo, i condimenti piccanti, i sottoli e i prodotti tipici calabresi per la dispensa, dal vasetto piccolo ai formati per la ristorazione. I prodotti sono distribuiti da T.F.I. Tipici Foods Italy."
+      },
+      "sub": [
+        {
+          "k": "porcini",
+          "cat": "conserve",
+          "n": {
+            "it": "Funghi porcini",
+            "en": "Funghi porcini",
+            "de": "Funghi porcini"
+          }
+        },
+        {
+          "k": "funghi",
+          "cat": "conserve",
+          "n": {
+            "it": "Altri funghi e antipasti",
+            "en": "Altri funghi e antipasti",
+            "de": "Altri funghi e antipasti"
+          }
+        },
+        {
+          "k": "secchi",
+          "cat": "conserve",
+          "n": {
+            "it": "Porcini secchi",
+            "en": "Porcini secchi",
+            "de": "Porcini secchi"
+          }
+        },
+        {
+          "k": "tartufo",
+          "cat": "conserve",
+          "n": {
+            "it": "Creme e tartufo",
+            "en": "Creme e tartufo",
+            "de": "Creme e tartufo"
+          }
+        },
+        {
+          "k": "condimenti",
+          "cat": "olio",
+          "n": {
+            "it": "Condimenti aromatizzati",
+            "en": "Condimenti aromatizzati",
+            "de": "Condimenti aromatizzati"
+          }
+        },
+        {
+          "k": "piccanti",
+          "cat": "conserve",
+          "n": {
+            "it": "Peperoncino e piccanti",
+            "en": "Peperoncino e piccanti",
+            "de": "Peperoncino e piccanti"
+          }
+        },
+        {
+          "k": "nduja",
+          "cat": "salumi",
+          "n": {
+            "it": "'Nduja",
+            "en": "'Nduja",
+            "de": "'Nduja"
+          }
+        },
+        {
+          "k": "dispensa",
+          "cat": "conserve",
+          "n": {
+            "it": "Sottoli e dispensa",
+            "en": "Sottoli e dispensa",
+            "de": "Sottoli e dispensa"
+          }
+        },
+        {
+          "k": "box",
+          "cat": "misti",
+          "n": {
+            "it": "Box",
+            "en": "Box",
+            "de": "Box"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Funghi porcini tagliati",
+          "vasetto da 314 ml · vasetto da 580 g · vaso da 3100 ml",
+          "porcini"
+        ],
+        [
+          "Funghi porcini tagliati, con tappo in legno",
+          "vasetto da 106 ml · vasetto da 314 ml · vasetto da 580 ml · vaso da 1062 ml · vaso da 3100 ml",
+          "porcini"
+        ],
+        [
+          "Funghi porcini interi, con tappo in legno",
+          "vasetto da 314 ml · vasetto da 580 ml · vaso da 1062 ml · vaso da 3100 ml",
+          "porcini"
+        ],
+        [
+          "Porcini tagliati Testa Rossa",
+          "vasetto da 314 ml · vasetto da 580 ml · vaso da 1062 ml · vaso da 3100 ml",
+          "porcini"
+        ],
+        [
+          "Funghi porcini interi Testa Rossa",
+          "vasetto da 314 ml",
+          "porcini"
+        ],
+        [
+          "Misto funghi in olio",
+          "vasetto da 314 ml · vaso da 1062 ml · vaso da 3100 ml",
+          "funghi"
+        ],
+        [
+          "Misto funghi, con tappo in legno",
+          "vasetto da 314 ml · vasetto da 580 ml",
+          "funghi"
+        ],
+        [
+          "Misto funghi Mondial",
+          "vasetto da 314 ml · vasetto da 580 ml · vaso da 3100 ml",
+          "funghi"
+        ],
+        [
+          "Funghi rositi tagliati, con tappo in legno",
+          "vasetto da 314 ml",
+          "funghi"
+        ],
+        [
+          "Funghi galletti",
+          "vasetto da 314 ml",
+          "funghi"
+        ],
+        [
+          "Antipasto ai funghi",
+          "vasetto da 314 ml · vaso da 1062 ml · vaso da 3100 ml",
+          "funghi"
+        ],
+        [
+          "Porcino secco, qualità speciale",
+          "busta da 50 g · busta da 100 g · busta da 250 g",
+          "secchi"
+        ],
+        [
+          "Porcino secco, qualità commerciale",
+          "busta da 50 g · busta da 100 g · busta da 250 g",
+          "secchi"
+        ],
+        [
+          "Porcino secco, qualità commerciale, con espositore",
+          "espositore da 24 bustine da 10 g",
+          "secchi"
+        ],
+        [
+          "Porcino secco calabrese",
+          "busta da 25 g",
+          "secchi"
+        ],
+        [
+          "Porcino secco, qualità briciole",
+          "busta da 100 g",
+          "secchi"
+        ],
+        [
+          "Crema di funghi porcini",
+          "vasetto da 314 ml",
+          "tartufo"
+        ],
+        [
+          "Crema di funghi porcini, con tappo in legno",
+          "vasetto da 106 ml · vasetto da 314 ml",
+          "tartufo"
+        ],
+        [
+          "Salsa di funghi al tartufo",
+          "vasetto da 180 g",
+          "tartufo"
+        ],
+        [
+          "Tartufata",
+          "vasetto da 106 ml · vasetto da 212 ml",
+          "tartufo"
+        ],
+        [
+          "La Tartufata bianca",
+          "vasetto da 180 g",
+          "tartufo"
+        ],
+        [
+          "Pesto al tartufo",
+          "vasetto da 180 g",
+          "tartufo"
+        ],
+        [
+          "Vellutata di zucca e tartufo",
+          "vasetto da 180 ml",
+          "tartufo"
+        ],
+        [
+          "Burro al tartufo",
+          "vasetto da 160 g",
+          "tartufo"
+        ],
+        [
+          "Tartufette di estivo",
+          "vasetto da 45 g · vasetto da 180 g",
+          "tartufo"
+        ],
+        [
+          "Condimento al tartufo bianco",
+          "bottiglia da 500 ml",
+          "condimenti"
+        ],
+        [
+          "Condimento aromatizzato al fungo porcino",
+          "bottiglia da 500 ml",
+          "condimenti"
+        ],
+        [
+          "“Diablo”, condimento piccante",
+          "vasetto da 106 ml · vasetto da 314 ml · vaso da 3100 ml",
+          "piccanti"
+        ],
+        [
+          "Peperoncino tritato",
+          "vasetto da 106 ml · vasetto da 314 ml · vaso da 3100 ml",
+          "piccanti"
+        ],
+        [
+          "Peperoncino tritato, con tappo in legno",
+          "vasetto da 106 ml",
+          "piccanti"
+        ],
+        [
+          "Spaghettata piccante",
+          "busta da 80 g",
+          "piccanti"
+        ],
+        [
+          "'Nduja piccante in vasetto",
+          "vasetto da 106 ml · vasetto da 212 ml",
+          "nduja"
+        ],
+        [
+          "'Nduja piccante in budello",
+          "pezzo da 400 g circa",
+          "nduja"
+        ],
+        [
+          "Pomodori secchi sott'olio",
+          "vasetto da 314 ml · vaso da 1062 ml · vaso da 3100 ml",
+          "dispensa"
+        ],
+        [
+          "Pomodori essiccati",
+          "busta da 250 g · busta da 500 g",
+          "dispensa"
+        ],
+        [
+          "Melanzane a filetti sott'olio",
+          "vaso da 1062 ml · vaso da 3100 ml",
+          "dispensa"
+        ],
+        [
+          "Cipolla rossa in agrodolce",
+          "vasetto da 314 ml",
+          "dispensa"
+        ],
+        [
+          "Lampascioni in salamoia",
+          "vaso da 1062 ml",
+          "dispensa"
+        ],
+        [
+          "Olive schiacciate calabresi",
+          "vaso da 1700 ml",
+          "dispensa"
+        ],
+        [
+          "Olive al naturale",
+          "vaso da 1700 ml",
+          "dispensa"
+        ],
+        [
+          "Polpa di pomodoro",
+          "bottiglia da 720 ml",
+          "dispensa"
+        ],
+        [
+          "Sughi pronti: arrabbiata, basilico o ai funghi",
+          "vasetto da 314 ml",
+          "dispensa"
+        ],
+        [
+          "Origano: a mazzetto, in vasetto o sfuso",
+          "mazzetto da 20 g · vasetto da 100 g · sfuso al kg",
+          "dispensa"
+        ],
+        [
+          "Box “Tipici Luna Funghi”",
+          "confezione da 10 referenze",
+          "box"
+        ],
+        [
+          "Box “Assaggi Luna Funghi”",
+          "confezione da 5 referenze",
+          "box"
+        ]
+      ],
+      "pd": {
+        "V-48-0": {
+          "c": [],
+          "pr": "314 ml 18,90 € · 580 g 29,90 € · 3100 ml 110,00 € (shop T.F.I.)",
+          "d": {
+            "it": "Il fungo porcino è il re dei funghi, conosciuto ed apprezzato per il suo gusto suadente e per la sua grande croccantezza. La qualità più pregiata di funghi porcini è conosciuta come “testa nera” per via della sua cappella tendente al bruno e straordinariamente carnosa. I nostri funghi porcini testa nera sono lavorati artigianalmente appena raccolti in modo da mantenere intatte tutte le loro preziose caratteristiche, tagliati a metà e conservati interi in olio di oliva."
+          },
+          "a": {
+            "it": "Come antipasto e contorno, su pizze, bruschette e primi piatti."
+          }
+        },
+        "V-48-1": {
+          "c": [],
+          "pr": "106 ml 8,90 € · 314 ml 19,90 € · 580 ml 31,00 € · 1062 ml 49,00 € · 3100 ml 146,00 € (shop T.F.I.)",
+          "d": {
+            "it": "Il fungo porcino è il re dei funghi, conosciuto ed apprezzato per il suo gusto suadente e per la sua grande croccantezza. La qualità più pregiata di funghi porcini è conosciuta come “testa nera” per via della sua cappella tendente al bruno e straordinariamente carnosa. I nostri funghi porcini testa nera sono lavorati artigianalmente appena raccolti in modo da mantenere intatte tutte le loro preziose caratteristiche, tagliati a metà e conservati interi in olio di oliva."
+          },
+          "a": {
+            "it": "Come antipasto e contorno, su pizze, bruschette e primi piatti."
+          }
+        },
+        "V-48-2": {
+          "c": [],
+          "pr": "314 ml 21,90 € · 580 ml 35,90 € · 1062 ml 65,90 € · 3100 ml 169,00 € (shop T.F.I.)",
+          "d": {
+            "it": "La sapiente lavorazione e la ricerca della migliore materia prima rendono questo prodotto una festa per gli occhi e una gioia per il palato più raffinato."
+          },
+          "a": {
+            "it": "Come antipasto e contorno, su pizze, bruschette e primi piatti."
+          }
+        },
+        "V-48-3": {
+          "c": [],
+          "pr": "314 ml 21,90 € · 580 ml 35,90 € · 1062 ml 48,90 € · 3100 ml 162,00 € (shop T.F.I.)",
+          "d": {
+            "it": "Il Fungo Porcino testa rossa è un fungo che nasce spontaneo nelle montagne Calabresi, ottimo per il suo sapore e croccantezza. Lavorato esclusivamente senza l'uso di conservanti o coloranti. Non possono mancare tra i tuoi antipasti o tra i tuoi contorni."
+          },
+          "a": {
+            "it": "Come antipasto e contorno, su pizze, bruschette e primi piatti."
+          }
+        },
+        "V-48-4": {
+          "c": [],
+          "pr": "24,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Il Fungo Porcino testa rossa è un fungo che nasce spontaneo nelle montagne Calabresi, ottimo per il suo sapore e croccantezza. Lavorato esclusivamente senza l'uso di conservanti o coloranti. Non possono mancare tra i tuoi antipasti o tra i tuoi contorni."
+          },
+          "a": {
+            "it": "Come antipasto e contorno, su pizze, bruschette e primi piatti."
+          }
+        },
+        "V-48-5": {
+          "c": [],
+          "pr": "314 ml 8,50 € · 1062 ml 25,90 € · 3100 ml 34,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Nel Misto Funghi le migliori materie prime sono unite in un concentarto di sapore e tradizione. I funghi porcini, i chiodini, gli orecchioni e i sanguinelli sono selezionati e lavorati a mano, e uniti a buon olio d'oliva e aceto di vino con un pizzico di sale. Perfetti per uno stuzzicante aperitivo, costituiscono anche un ottimo contorno e un ingrediente originale per arricchire numerose pietanze."
+          },
+          "a": {
+            "it": "Come antipasto e contorno, su pizze, bruschette e primi piatti."
+          }
+        },
+        "V-48-6": {
+          "c": [],
+          "pr": "314 ml 10,90 € · 580 ml 14,50 € (shop T.F.I.)",
+          "d": {
+            "it": "Nel Misto Funghi le migliori materie prime sono unite in un concentarto di sapore e tradizione. I funghi porcini, i chiodini, gli orecchioni e i sanguinelli sono selezionati e lavorati a mano, e uniti a buon olio d'oliva e aceto di vino con un pizzico di sale. Perfetti per uno stuzzicante aperitivo, costituiscono anche un ottimo contorno e un ingrediente originale per arricchire numerose pietanze."
+          },
+          "a": {
+            "it": "Come antipasto e contorno, su pizze, bruschette e primi piatti."
+          }
+        },
+        "V-48-7": {
+          "c": [],
+          "pr": "314 ml 12,50 € · 580 ml 19,50 € · 3100 ml 35,90 € (shop T.F.I.)",
+          "d": {
+            "it": "È un prodotto nato da funghi coltivati , selezionati, tagliati e preparati minuziosamente per la conservazione secondo la ricetta della tradizione. Vengono riposti in barattoli di vetro a chiusura termica con Olio di Semi di Girasole che ne garantisce un perfetto mantenimento delle proprietà organolettiche."
+          },
+          "a": {
+            "it": "Come antipasto e contorno, su pizze, bruschette e primi piatti."
+          }
+        },
+        "V-48-8": {
+          "c": [],
+          "pr": "12,50 € (shop T.F.I.)",
+          "d": {
+            "it": "Funghi rositi (Lactarius Delicious) conservati sott'olio di oliva in vasetto di vetro da 314 ml. Ideale per antipasti, condire pizza, focacce e infine ottimo per preparare primi piatti o come contorno per carni rosse."
+          },
+          "a": {
+            "it": "Come antipasto e contorno, su pizze, bruschette e primi piatti."
+          }
+        },
+        "V-48-9": {
+          "c": [],
+          "pr": "15,50 € (shop T.F.I.)",
+          "d": {
+            "it": "Il Cantharellus cibarius (gergalmente gallinaccio, galluccio, galletto, finferlo) è uno dei funghi più conosciuti e apprezzati; cresce in estate-autunno, nei boschi di latifoglie e aghifoglie. Lo puoi acquistare preparato e conservato in olio d'oliva."
+          },
+          "a": {
+            "it": "Come antipasto e contorno, su pizze, bruschette e primi piatti."
+          }
+        },
+        "V-48-10": {
+          "c": [],
+          "pr": "314 ml 6,50 € · 1062 ml 19,90 € · 3100 ml 34,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Questo prodotto favoloso nasce dall'unione di semplici e squisiti ingredienti, tutti provenienti dal nostro territorio, lavorati singolarmente con cura e dedizione per poi essere uniti in una unica soluzione, così prende vita il nostro ricco antipasto, invasato in olio di girasole con aromi esclusivamente naturali che lo rendono ancor più saporito e gustoso."
+          },
+          "a": {
+            "it": "Come antipasto e contorno, su pizze, bruschette e primi piatti."
+          }
+        },
+        "V-48-11": {
+          "c": [],
+          "pr": "50 g 11,00 € · 100 g 21,00 € · 250 g 39,90 € (shop T.F.I.)",
+          "d": {
+            "it": "In cucina non si può non avere una busta di funghi secchi, prodotto da abbinare su carne pesce pizza, semplice contorno. Anche una semplice carne ai ferri può acquisire un gusto più ricco e diventare un piatto speciale!"
+          },
+          "a": {
+            "it": "Da reidratare qualche minuto in acqua tiepida per risotti, sughi e secondi piatti."
+          }
+        },
+        "V-48-12": {
+          "c": [],
+          "pr": "50 g 9,90 € · 100 g 13,90 € · 250 g prima scelta 23,90 € · 250 g seconda scelta 22,00 € (shop T.F.I.)",
+          "d": {
+            "it": "In cucina non si può non avere una busta di funghi secchi, prodotto da abbinare su carne pesce pizza, semplice contorno. Anche una semplice carne ai ferri può acquisire un gusto più ricco e diventare un piatto speciale!"
+          },
+          "a": {
+            "it": "Da reidratare qualche minuto in acqua tiepida per risotti, sughi e secondi piatti."
+          }
+        },
+        "V-48-13": {
+          "c": [],
+          "pr": "44,00 € (shop T.F.I.)",
+          "d": {
+            "it": "In cucina non si può non avere una busta di funghi secchi, prodotto da abbinare su carne pesce pizza, semplice contorno. Anche una semplice carne ai ferri può acquisire un gusto più ricco e diventare un piatto speciale!"
+          },
+          "a": {
+            "it": "Da reidratare qualche minuto in acqua tiepida per risotti, sughi e secondi piatti."
+          }
+        },
+        "V-48-14": {
+          "c": [],
+          "pr": "6,50 € (shop T.F.I.)",
+          "d": {
+            "it": "In cucina non si può non avere una busta di funghi secchi, prodotto da abbinare su carne pesce pizza, semplice contorno. Anche una semplice carne ai ferri può acquisire un gusto più ricco e diventare un piatto speciale!"
+          },
+          "a": {
+            "it": "Da reidratare qualche minuto in acqua tiepida per risotti, sughi e secondi piatti."
+          }
+        },
+        "V-48-15": {
+          "c": [],
+          "pr": "7,50 € (shop T.F.I.)",
+          "d": {
+            "it": "Parti essiccate di porcini maturi dal colore piuttosto scuro da usarsi prevalentemente per sughi e primi piatti dopo averle tenute per qualche minuto in ammollo e poi scolate. Nel sacchetto sono contenute le varietà Edulis, Aereus (porcino nero), Aestivalis (estatino) e Pinophilus (porcino rosso)."
+          },
+          "a": {
+            "it": "Da reidratare qualche minuto in acqua tiepida per risotti, sughi e secondi piatti."
+          }
+        },
+        "V-48-16": {
+          "c": [],
+          "pr": "11,90 € (shop T.F.I.)",
+          "d": {
+            "it": "La crema di funghi porcini è solo il risultato finale di una meravigliosa raccolta, selezione e macinatura dei migliori funghi del sottobosco. La macinatura viene eseguita fino a quando il risultato non è quello di una fantastica crema, successivamente, l'aggiunta di varie spezie rende il suo sapore unico e prelibato. Il tutto viene poi invasato e pastorizzato, pronto per portare sulla vostra tavola una crema densa e profumata, tutta da gustare."
+          },
+          "a": {
+            "it": "Su crostini, pasta, risotti, uova e carni."
+          }
+        },
+        "V-48-17": {
+          "c": [],
+          "pr": "106 ml 8,90 € · 314 ml 14,90 € (shop T.F.I.)",
+          "d": {
+            "it": "La crema di funghi porcini è solo il risultato finale di una meravigliosa raccolta, selezione e macinatura dei migliori funghi del sottobosco. La macinatura viene eseguita fino a quando il risultato non è quello di una fantastica crema, successivamente, l'aggiunta di varie spezie rende il suo sapore unico e prelibato. Il tutto viene poi invasato e pastorizzato, pronto per portare sulla vostra tavola una crema densa e profumata, tutta da gustare."
+          },
+          "a": {
+            "it": "Su crostini, pasta, risotti, uova e carni."
+          }
+        },
+        "V-48-18": {
+          "c": [],
+          "pr": "11,90 € (shop T.F.I.)",
+          "d": {
+            "it": "La Salsa di funghi al tartufo è un altro grande classico tra le salse al tartufo, un abbinamento perfetto per tutti i piatti: funghi champignon e tartufo. Potete usare la salsa per condire la pasta, ottima per fare una frittata o per dei crostini sfiziosi. Un prodotto dal sapore unico da provare anche per condire dei roastbeef o per fare delle scaloppine, non ve ne pentirete."
+          },
+          "a": {
+            "it": "Su crostini, pasta, risotti, uova e carni."
+          }
+        },
+        "V-48-19": {
+          "c": [],
+          "pr": "106 ml 8,50 € · 212 ml 10,50 € (shop T.F.I.)",
+          "d": {
+            "it": "Gustosa e versatile, è ideale per tartine, panini, focacce, pizza, pasta, filetti di carne e di pesce, verdure e uova."
+          },
+          "a": {
+            "it": "Su crostini, pasta, risotti, uova e carni."
+          }
+        },
+        "V-48-20": {
+          "c": [],
+          "pr": "13,50 € (shop T.F.I.)",
+          "d": {
+            "it": "Un'aggiunta golosa per i tuoi piatti, l'ingrediente che conferisce ai tuoi antipasti un tocco deciso ed elegante. Particolarmente indicata per condire pasta, risotti, secondi piatti a base di carne e crostini."
+          },
+          "a": {
+            "it": "Su crostini, pasta, risotti, uova e carni."
+          }
+        },
+        "V-48-21": {
+          "c": [],
+          "pr": "11,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Ricetta classica impreziosita dal nostro tartufo. Ideale per antipasti ma anche per primi piatti."
+          },
+          "a": {
+            "it": "Su crostini, pasta, risotti, uova e carni."
+          }
+        },
+        "V-48-22": {
+          "c": [],
+          "pr": "11,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Ottimo per condire pasta, ricette al forno, pizze, panzerotti ecc…."
+          },
+          "a": {
+            "it": "Su crostini, pasta, risotti, uova e carni."
+          }
+        },
+        "V-48-23": {
+          "c": [],
+          "pr": "14,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Condimento per primi e secondi piatti, ottimo anche su bruschette."
+          },
+          "a": {
+            "it": "Su crostini, pasta, risotti, uova e carni."
+          }
+        },
+        "V-48-24": {
+          "c": [],
+          "pr": "45 g 15,50 € · 180 g 48,00 € (shop T.F.I.)",
+          "d": {
+            "it": "Fette di tartufo nero estivo , solo tartufi selezionati e raccolti dai nostri cavatori di fiducia, per offrirvi il massimo della qualità."
+          },
+          "a": {
+            "it": "Su crostini, pasta, risotti, uova e carni."
+          }
+        },
+        "V-48-25": {
+          "c": [],
+          "pr": "21,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Un condimento raffinato al Tartufo Bianco adatto a una moltitudine di piatti: bruschette, crostini, primi piatti, frittate, uova, insalate, filetti e carpacci di carne e di pesce."
+          },
+          "a": {
+            "it": "A crudo su bruschette, primi piatti, uova, insalate e carni."
+          }
+        },
+        "V-48-26": {
+          "c": [],
+          "pr": "21,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Condimento Aromatizzato al Gusto di Fungo Porcino è un fragrante olio aromatizzato al porcino adatto a insaporire e profumare i più diversi piatti: bruschette, crostini, pizze, focacce, primi piatti di pasta e riso, carni e carpacci."
+          },
+          "a": {
+            "it": "A crudo su bruschette, primi piatti, uova, insalate e carni."
+          }
+        },
+        "V-48-27": {
+          "c": [],
+          "pr": "106 ml 5,90 € · 314 ml 5,90 € · 3100 ml 33,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Un trito di funghi misti unici ed irrestitibili per tartine, crostini, bruschette, da usare come farcitura per panini, pizze e tramezzini ideale peri primi piatti."
+          },
+          "a": {
+            "it": "Per dare una nota piccante a sughi, pizze e bruschette."
+          }
+        },
+        "V-48-28": {
+          "c": [],
+          "pr": "106 ml 4,90 € · 314 ml 6,90 € · 3100 ml 34,00 € (shop T.F.I.)",
+          "d": {
+            "it": "Peperoncino tritato piccante, è ottimo per chi ama i sapori forti e piccanti, o per chi vuole riscoprire i sapori unici di una volta, non semplici da trovare al giorno d'oggi."
+          },
+          "a": {
+            "it": "Per dare una nota piccante a sughi, pizze e bruschette."
+          }
+        },
+        "V-48-29": {
+          "c": [],
+          "pr": "5,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Peperoncino tritato piccante, è ottimo per chi ama i sapori forti e piccanti, o per chi vuole riscoprire i sapori unici di una volta, non semplici da trovare al giorno d'oggi."
+          },
+          "a": {
+            "it": "Per dare una nota piccante a sughi, pizze e bruschette."
+          }
+        },
+        "V-48-30": {
+          "c": [],
+          "pr": "3,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Mix di spezie e verdure essiccate miscelati a mano secondo le nostre ricette per dare sapore ai sughi che create in cucina. Senza conservanti e coloranti artificiali."
+          },
+          "a": {
+            "it": "Per dare una nota piccante a sughi, pizze e bruschette."
+          }
+        },
+        "V-48-31": {
+          "c": [],
+          "pr": "106 ml 6,50 € · 212 ml 9,90 € (shop T.F.I.)",
+          "d": {
+            "it": "È un salame morbido, spalmabile, piccantissimo si consuma spalmandola su fette di pane abbrustolito, meglio se ancora calde, o utilizzata come soffritto per la base di un ragù o di un sugo di pomodoro, con aglio; può essere usata per guarnire la pizza, ; si può consumare su fettine di formaggi semi-stagionati o può entrare nella composizione di frittate. ottima anche per primi piatti."
+          },
+          "a": {
+            "it": "Spalmata su pane caldo, nei sughi e sulla pizza."
+          }
+        },
+        "V-48-32": {
+          "c": [],
+          "pr": "10,90 € (shop T.F.I.)",
+          "d": {
+            "it": "È un salame morbido, spalmabile, piccantissimo si consuma spalmandola su fette di pane abbrustolito, meglio se ancora calde, o utilizzata come soffritto per la base di un ragù o di un sugo di pomodoro, con aglio; può essere usata per guarnire la pizza, ; si può consumare su fettine di formaggi semi-stagionati o può entrare nella composizione di frittate. ottima anche per primi piatti."
+          },
+          "a": {
+            "it": "Spalmata su pane caldo, nei sughi e sulla pizza."
+          }
+        },
+        "V-48-33": {
+          "c": [],
+          "pr": "314 ml 5,90 € · 1062 ml 16,90 € · 3100 ml 29,90 € (shop T.F.I.)",
+          "d": {
+            "it": "I Pomodori secchi sott'olio si gustano al naturale per accompagnare aperitivi. Tritati condiscono paste sia calde che fredde e insalate di pomodoro. Tritati e mescolati alla maionese accompagnano pesci bolliti saporiti e fritture; ottima come salsa alternativa da intingere le patate fritte o cipolle."
+          },
+          "a": {
+            "it": "Per antipasti, contorni e ricette di tutti i giorni."
+          }
+        },
+        "V-48-34": {
+          "c": [],
+          "pr": "250 g 5,00 € · 500 g 9,00 € (shop T.F.I.)",
+          "d": {
+            "it": "I pomodori secchi, lasciati lentamente e pazientemente asciugare al sole, sono ideali per aperitivi saporiti, contorni sfiziosi o per arricchire ogni piatto tu voglia; ti basterà condirli con gli aromi che più ti aggradano e assaporarli con gusto!"
+          },
+          "a": {
+            "it": "Per antipasti, contorni e ricette di tutti i giorni."
+          }
+        },
+        "V-48-35": {
+          "c": [],
+          "pr": "1062 ml 12,90 € · 3100 ml 29,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Le Melanzane a filetti sono una conserva tipica calabrese, un'arte antica tramandata nel tempo."
+          },
+          "a": {
+            "it": "Per antipasti, contorni e ricette di tutti i giorni."
+          }
+        },
+        "V-48-36": {
+          "c": [],
+          "pr": "5,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Gustose cipolle rosse dall'inaspettata dolcezza, ideali per crostini gustosi o come contorno con carni di maiale."
+          },
+          "a": {
+            "it": "Per antipasti, contorni e ricette di tutti i giorni."
+          }
+        },
+        "V-48-37": {
+          "c": [],
+          "pr": "15,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Il Lampascione chiamato anche in gergo comune “Cipolla Selvatica” è uno degli ortaggi più antichi diffusi maggiormente nelle zone a clima mediterraneo. Il lampascione ha un colore viola acceso, un odore e un sapore intenso che ricorda la cipolla, con un retrogusto amaro."
+          },
+          "a": {
+            "it": "Per antipasti, contorni e ricette di tutti i giorni."
+          }
+        },
+        "V-48-38": {
+          "c": [],
+          "pr": "23,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Olive Schiacciate alla Calabrese dal un gusto inimitabile sono adatte ad ogni occasione."
+          },
+          "a": {
+            "it": "Per antipasti, contorni e ricette di tutti i giorni."
+          }
+        },
+        "V-48-39": {
+          "c": [],
+          "pr": "15,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Le olive verdi al naturale, preparate solo con acqua e sale marino, sono perfette come antipasto, per arricchire deliziose insalate estive e guarnire pizze. Oppure provale in cucina nella preparazione di salse e sughi."
+          },
+          "a": {
+            "it": "Per antipasti, contorni e ricette di tutti i giorni."
+          }
+        },
+        "V-48-40": {
+          "c": [],
+          "pr": "3,90 € (shop T.F.I.)",
+          "d": {
+            "it": "I migliori pomodori biologici certificati vengono raccolti entro 48 ore dalla raccolta e vengono trasformati senza aggiunta di sale in questa deliziosa Polpa di pomodoro a pezzettoni."
+          },
+          "a": {
+            "it": "Per antipasti, contorni e ricette di tutti i giorni."
+          }
+        },
+        "V-48-41": {
+          "c": [],
+          "pr": "4,50 € (shop T.F.I.)",
+          "d": {
+            "it": "Sughi pronti in vasetto, in tre gusti: all'arrabbiata, al basilico e ai funghi."
+          },
+          "a": {
+            "it": "Da scaldare e versare sulla pasta."
+          }
+        },
+        "V-48-42": {
+          "c": [],
+          "pr": "mazzetto 20 g 5,90 € · vasetto 100 g 6,50 € · sfuso 15,90 € al kg (shop T.F.I.)",
+          "d": {
+            "it": "L'origano ha proprietà medicinali indiscutibili, contenute nelle sommità fiorite."
+          },
+          "a": {
+            "it": "Su pizza, insalate di pomodori, carni e pesce."
+          }
+        },
+        "V-48-43": {
+          "c": [],
+          "pr": "98,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Box con dieci referenze: funghi porcini interi, funghi rositi tagliati, pomodori secchi, antipasto misto funghi, misto funghi sott'olio e sugo ai funghi da 314 ml; crema di funghi porcini da 106 ml; polpa di pomodoro da 720 ml; funghi porcini secchi da 50 g e spaghettata piccante in busta da 80 g."
+          },
+          "a": {
+            "it": "Per gli usi si veda la scheda di ciascun prodotto."
+          }
+        },
+        "V-48-44": {
+          "c": [],
+          "pr": "64,90 € (shop T.F.I.)",
+          "d": {
+            "it": "Box con cinque referenze: funghi porcini tagliati, funghi rositi, pomodori secchi e antipasto misto funghi da 314 ml, salsa di funghi al tartufo da 180 ml."
+          },
+          "a": {
+            "it": "Per gli usi si veda la scheda di ciascun prodotto."
+          }
+        }
+      },
+      "fonti": [
+        "https://tipicifoodsitaly.it/categoria-prodotto/aziende-partner/sottoli-luna-funghi/",
+        "https://www.lunafunghi.it/",
+        "https://www.reteimprese.it/alimenti-surgelati-produzione/soveria-mannelli/azienda/3586718"
+      ]
     }
   ],
   "IMG": {
@@ -13763,6 +16812,180 @@ window.VETRINE = {
     "prod-V-42-8": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/vino-cotto-antichi.webp",
     "prod-V-42-9": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/peperoncino-scaglie-antichi.jpg",
     "prod-V-42-10": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/origano-mazzo-antichi.jpg",
-    "prod-V-42-11": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/kit-pizza-antichi.jpg"
+    "prod-V-42-11": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/kit-pizza-antichi.jpg",
+    "logo-V-43": "https://tipicifoodsitaly.it/wp-content/uploads/2026/07/mr-pilo-logo.png",
+    "prod-V-43-0": "https://tipicifoodsitaly.it/wp-content/uploads/2026/07/crefole-sfogliate-1.png.webp",
+    "prod-V-43-1": "https://tipicifoodsitaly.it/wp-content/uploads/2026/07/crefole-sfogliate-senza-uova.png.webp",
+    "prod-V-43-2": "https://tipicifoodsitaly.it/wp-content/uploads/2026/07/crefole-sfogliate-integrali-660x660.png.webp",
+    "prod-V-43-3": "https://tipicifoodsitaly.it/wp-content/uploads/2026/07/crefole-sfogliate-al-farro-1.png.webp",
+    "prod-V-43-4": "https://tipicifoodsitaly.it/wp-content/uploads/2026/07/crepole-sfogliate-tartufo.png.webp",
+    "prod-V-43-5": "https://tipicifoodsitaly.it/wp-content/uploads/2026/07/crefole-con-impasto-di-patate.png.webp",
+    "prod-V-43-6": "https://tipicifoodsitaly.it/wp-content/uploads/2026/07/crepole-con-impasto-di-polenta-1.png.webp",
+    "prod-V-43-7": "https://tipicifoodsitaly.it/wp-content/uploads/2026/07/mini-crefole-sfogliate-1.png.webp",
+    "prod-V-43-8": "https://tipicifoodsitaly.it/wp-content/uploads/2026/07/crefolini-sfogliati-1-1.png.webp",
+    "prod-V-43-9": "https://tipicifoodsitaly.it/wp-content/uploads/2026/07/crepolini-impasto-di-polenta-1-1-660x660.png.webp",
+    "prod-V-43-10": "https://tipicifoodsitaly.it/wp-content/uploads/2026/07/piadina_olioEVO.jpg",
+    "prod-V-43-11": "https://tipicifoodsitaly.it/wp-content/uploads/2026/07/Piadina_saporita.jpg.webp",
+    "prod-V-43-12": "https://tipicifoodsitaly.it/wp-content/uploads/2026/07/base-pizza-pinsata-2.jpg",
+    "prod-V-43-13": "https://tipicifoodsitaly.it/wp-content/uploads/2026/07/base-focaccia.jpg",
+    "prod-V-43-14": "https://tipicifoodsitaly.it/wp-content/uploads/2026/07/panino-pinsato-confezione.png",
+    "logo-V-44": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/casearia-silana-logo.webp",
+    "prod-V-44-0": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/formaggi-stagionati-caciocavallo.webp",
+    "prod-V-44-1": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/caciocavallo-silano-dop-vallefiore-1300-g.jpg",
+    "prod-V-44-2": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/caciopalla.webp",
+    "prod-V-44-3": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/Caciocavallo-Affumicato.png",
+    "prod-V-44-4": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/20250206_103316-scaled-e1739185911538.jpg",
+    "prod-V-44-5": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/casearia-silana-formaggi-freschi-scamorza.webp",
+    "prod-V-44-6": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/casearia-silana-formaggi-affumicati-scamorza-affettata.webp",
+    "prod-V-44-7": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/casearia-silana-formaggi-freschi-scamorza.webp",
+    "prod-V-44-8": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/formaggi-freschi-provola-affettata.webp",
+    "prod-V-44-9": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/caciotta-della-sila-vallefiore-500-g.jpg",
+    "prod-V-44-10": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/caciotta-della-sila-vallefiore-500-g.jpg",
+    "prod-V-44-11": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/formaggio-caseificio-montanaro.jpg",
+    "prod-V-44-12": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/montenero-da-2-kg_f169_1.1.jpg",
+    "prod-V-44-13": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/dolcesila.jpg",
+    "prod-V-44-14": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/formaggi-stagionati-caciocavallo-1.webp",
+    "logo-V-45": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/mezzadri_logo.jpg",
+    "prod-V-45-0": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/cicoria_selvaggia.jpg",
+    "prod-V-45-1": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/melanzane-sottolio_filetti.webp",
+    "prod-V-45-2": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/melanzane-grigliate-sott-olio-1.jpg",
+    "prod-V-45-3": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/peperoncini-sottolio.jpg",
+    "prod-V-45-4": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/Cipolle-rosse-in-agrodolce.jpg",
+    "prod-V-45-5": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/02-Salsa_web-2.png",
+    "prod-V-45-6": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/09-Pesto-basilico_web-1.png",
+    "prod-V-45-7": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/04-Crema-Peperoncino_web-1.png",
+    "prod-V-45-8": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/confettura_fichi.jpg",
+    "prod-V-45-9": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/confettura_castagne.jpg",
+    "prod-V-45-10": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/confettura_amarene-1.webp",
+    "prod-V-45-11": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/confettura_sambuco.jpg",
+    "prod-V-45-12": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/confettura_uva_fragola-1.jpg",
+    "prod-V-45-13": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/origano-essiccato.jpg",
+    "prod-V-45-14": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/peperoncino_macinato.jpg",
+    "prod-V-45-15": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/melanzane-filetti.jpg",
+    "logo-V-46": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/sap-logo-2021.png",
+    "prod-V-46-0": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/ndujacrespone.jpg",
+    "prod-V-46-1": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/nduja_spilinga.jpg",
+    "prod-V-46-2": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/nduja-calabrese-fette.jpg",
+    "prod-V-46-3": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/nduja-di-spilinga-riserva-premium.png",
+    "prod-V-46-4": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/sac-a-poche-400gr.jpg",
+    "prod-V-46-5": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/piccanduja.png",
+    "prod-V-46-6": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/Bombetta.webp",
+    "prod-V-46-7": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/ndujotto-salame-fine-leggermente-piccante-160g-1.png",
+    "prod-V-46-8": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/scaldanduja2-300x275-1.jpg",
+    "prod-V-46-9": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/salsicciacatena.jpg",
+    "prod-V-46-10": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/girelladolce_piccante.jpg",
+    "prod-V-46-11": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/salsiccia_fresca.jpg",
+    "prod-V-46-12": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/diavoletti.jpg",
+    "prod-V-46-13": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/diavoletti_sap.png",
+    "prod-V-46-14": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/cularina.jpg",
+    "prod-V-46-15": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/nostrana.jpg",
+    "prod-V-46-16": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/soppressata_crespone.jpg",
+    "prod-V-46-17": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/saporello.jpg",
+    "prod-V-46-18": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/schiacciata.jpg",
+    "prod-V-46-19": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/ventricina.jpg",
+    "prod-V-46-20": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/filonzo.jpg",
+    "prod-V-46-21": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/capocollo.jpg",
+    "prod-V-46-22": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/lonza.jpg",
+    "prod-V-46-23": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/guancialedolce.jpg",
+    "prod-V-46-24": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/pancettatesa.jpg",
+    "prod-V-46-25": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/pancettaarrotolata.jpg",
+    "prod-V-46-26": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/Fiocco-di-suino.webp",
+    "prod-V-46-27": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/Fiocco-di-Prosciutto.jpg",
+    "prod-V-46-28": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/porchetta_tagliere.jpg",
+    "prod-V-46-29": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/salumiDOP.jpg",
+    "prod-V-46-30": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/salumiDOP.jpg",
+    "prod-V-46-31": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/salumiDOP.jpg",
+    "prod-V-46-32": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/salumiDOP.jpg",
+    "prod-V-46-33": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/ndujainvaso.jpg",
+    "prod-V-46-34": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/ndujanuts_1-1.webp",
+    "prod-V-46-35": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/pizzicotti.jpg",
+    "prod-V-46-36": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/trito-di-peperoncino-piccante.jpg",
+    "prod-V-46-37": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/confetturadipeperoncini.jpg",
+    "prod-V-46-38": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/confettura-di-cipolle.jpg",
+    "prod-V-46-39": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/pecorino.webp",
+    "logo-V-47": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/DelizieVaticane.png",
+    "prod-V-47-0": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/mousse-cipolla-scaled-1.jpg",
+    "prod-V-47-1": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/mousse_cipolla_peperoncino.jpg",
+    "prod-V-47-2": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/PATE-CIPOLLA2.jpg",
+    "prod-V-47-3": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/cuor-cipolla.jpg",
+    "prod-V-47-4": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/cipolla-caramellata.jpg",
+    "prod-V-47-5": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/cipolla-agrodolce.jpg",
+    "prod-V-47-6": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/cipolla-marinata.jpg",
+    "prod-V-47-7": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/bomba-vaticana.jpg",
+    "prod-V-47-8": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/5sfizi-cipolla-nduja.jpg",
+    "prod-V-47-9": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/bruschetta-tropeana.jpg",
+    "prod-V-47-10": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/bruschetta-vaticana.jpg",
+    "prod-V-47-11": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/bruschetta-calabrese.jpg",
+    "prod-V-47-12": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/antipasto-tropeano.jpg",
+    "prod-V-47-13": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/caponata.jpg",
+    "prod-V-47-14": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/vellutata-contadina-delizie.jpeg",
+    "prod-V-47-15": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/melanzane-casarecce.jpg",
+    "prod-V-47-16": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/pomodori-secchi2.jpg",
+    "prod-V-47-17": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/pate-pomodori-secchi.jpg",
+    "prod-V-47-18": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/cuori-carciofi.jpg",
+    "prod-V-47-19": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/carciofi-brace-1.jpg",
+    "prod-V-47-20": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/peperoncini-ripieni-tonno.jpg",
+    "prod-V-47-21": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/nduja280g-delizie.jpg",
+    "prod-V-47-22": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/nduja-spilinga.jpg",
+    "prod-V-47-23": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/crema-peperoncino.jpg",
+    "prod-V-47-24": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/confettura-peperoncino.jpg",
+    "prod-V-47-25": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/marmellata-arance.jpg",
+    "prod-V-47-26": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/marmellata-limoni.jpg",
+    "prod-V-47-27": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/marmellata-mandarini.jpg",
+    "prod-V-47-28": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/marmellata-bergamotto-1.jpg",
+    "prod-V-47-29": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/condifileja-cipolla-nduja.jpg",
+    "prod-V-47-30": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/fileja-300x300-1.jpg",
+    "prod-V-47-31": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/olio-bergamotto.jpg",
+    "prod-V-47-32": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/olio-peperoncino.jpg",
+    "prod-V-47-33": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/olio-cipolla.jpg",
+    "prod-V-47-34": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/olio-habanero.jpg",
+    "prod-V-47-35": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/TAGLIEREBARATTOLI.jpg",
+    "prod-V-47-36": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/box-assaggio-delizie-vaticane.jpg",
+    "logo-V-48": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/LOGO-lunafunghi.png",
+    "prod-V-48-0": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/PORCINI-TAGLIATI-314ML-luna.jpg",
+    "prod-V-48-1": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/FUNGHI-PORCINI-TAGLIATI-106ML-TL-luna.jpg",
+    "prod-V-48-2": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/FUNGHI-PORCINI-INTERI-580ML-luna.jpg",
+    "prod-V-48-3": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/porcini-tagliati-testarossa-luna.jpg",
+    "prod-V-48-4": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/porcini-testarossa-luna.png",
+    "prod-V-48-5": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/MISTO-FUNGHI-314ML-luna-1.jpg",
+    "prod-V-48-6": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/MISTO-FUNGHI-580ML-TL-luna.jpg",
+    "prod-V-48-7": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/MISTO-FUNGHI-MONDIAL-580ML-TL-luna.jpg",
+    "prod-V-48-8": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/ROSITI-314ML-luna.jpg",
+    "prod-V-48-9": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/funghi-galletti-luna.jpg",
+    "prod-V-48-10": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/ANTIPASTO-AI-FUNGHI-314-luna-1.jpg",
+    "prod-V-48-11": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/PORCINO-QUALITA-SPECIALE-50GR-luna.jpg",
+    "prod-V-48-12": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/PORCINO-QUALITA-COMMERCIALE-100GR-luna.jpg",
+    "prod-V-48-13": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/PORCINO-QUALITA-COMMERCIALE-50GR-luna.jpg",
+    "prod-V-48-14": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/PORCINO-QUALITA-EXTRA-25GR-luna.jpg",
+    "prod-V-48-15": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/porcini-briciole-luna.jpg",
+    "prod-V-48-16": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/cremafunghi-314-luna.jpg",
+    "prod-V-48-17": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/crema-funghi-106-luna.jpg",
+    "prod-V-48-18": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/SALSA-DI-FUNGHI-CON-TARTUFO-212ML-luna-1.jpg",
+    "prod-V-48-19": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/TARTUFATA-106ML-TL-luna.jpg",
+    "prod-V-48-20": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/tartufata-bianca-luna.jpg",
+    "prod-V-48-21": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/PESTO-AL-TARTUFO-212ML-luna.jpg",
+    "prod-V-48-22": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/VELLUTATA-DI-ZUCCA-E-TARTUFO-212ML-luna.jpg",
+    "prod-V-48-23": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/burro-tartufo-luna.jpg",
+    "prod-V-48-24": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/TARTUFETTE-212ML-luna.jpg",
+    "prod-V-48-25": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/olio-tartufo-luna.jpg",
+    "prod-V-48-26": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/olio-funghi-luna.jpg",
+    "prod-V-48-27": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/DIABLO-314ML-luna-1.jpg",
+    "prod-V-48-28": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/PEPERONCINO-TRITATO-106ML-luna.jpg",
+    "prod-V-48-29": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/PEPERONCINO-PICCANTE-106ML-TL-luna.jpg",
+    "prod-V-48-30": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/SPAGHETTATA-PICCANTE-80GR-luna.jpg",
+    "prod-V-48-31": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/NDUJA-212ML-luna.jpg",
+    "prod-V-48-32": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/nduja-400GR-luna.jpg",
+    "prod-V-48-33": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/POMODORI-SECCHI-314ML-luna-1.jpg",
+    "prod-V-48-34": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/pomodori-essiccati.jpg",
+    "prod-V-48-35": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/filetti-di-melanzane-alla-calabrese_2.png",
+    "prod-V-48-36": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/cipolla-agrodolce-luna.jpg",
+    "prod-V-48-37": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/lampascioni-1.jpg",
+    "prod-V-48-38": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/olive-schiacciate.jpg",
+    "prod-V-48-39": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/olive-verdi-al-naturale.jpg",
+    "prod-V-48-40": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/POLPA-DI-POMODORO-720ML-luna.jpg",
+    "prod-V-48-41": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/SUGO-AL-BASILICO-314ML-luna-1.jpg",
+    "prod-V-48-42": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/ORIGANO-20GR-luna.jpg",
+    "prod-V-48-43": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/LOGO-lunafunghi.png",
+    "prod-V-48-44": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/LOGO-lunafunghi.png"
   }
 };
