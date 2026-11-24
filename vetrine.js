@@ -8562,6 +8562,326 @@ window.VETRINE = {
         "https://tenutefascetto.it/#qualita",
         "https://tenutefascetto.it/prodotto/olio-extra-vergine-di-oliva/"
       ]
+    },
+    {
+      "id": "V-24",
+      "n": "Dai Pastai del Metapontino (GRV Distribuzione)",
+      "cat": "pasta",
+      "reg": "Basilicata",
+      "city": "Marconia di Pisticci (MT)",
+      "lat": 40.371,
+      "lng": 16.689,
+      "y": null,
+      "certs": [],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "d": {
+        "it": "Dai Pastai del Metapontino è il marchio di pasta artigianale di GRV Distribuzione, azienda con una lunga esperienza nel settore con sede a Marconia di Pisticci, in Basilicata. Nell'entroterra di Matera e lungo la costa del Metapontino la lavorazione del grano ha radici antichissime: tra Ottocento e Novecento sorsero numerosi mulini sulle colline del Materano. Da questa tradizione nasce una pasta di semola di grano duro 100% italiano, in parte trafilata al bronzo ed essiccata lentamente a bassa temperatura, in confezioni da 500 g: tagliatelle, spaghetti, paccheri, torciglioni, tubetti e formati della tradizione come cavatelli, ferricelli lucani e orecchiette. Completano la gamma la semola rimacinata di grano duro, anche della varietà Senatore Cappelli, in sacchi da 3, 5 e 25 kg, e l'olio extravergine di oliva italiano in bag in box da 5 litri.",
+        "en": "Dai Pastai del Metapontino is the artisan pasta brand of GRV Distribuzione, a company with long experience in the sector, based in Marconia di Pisticci, Basilicata. Grain processing has ancient roots in the Matera hinterland and along the Metapontino coast: in the 19th and 20th centuries many mills sprang up across the hills around Matera. From this tradition comes a pasta made from 100% Italian durum wheat semolina, partly bronze-drawn and slowly dried at low temperature, in 500 g packs: tagliatelle, spaghetti, paccheri, torciglioni, tubetti and traditional shapes such as cavatelli, ferricelli lucani and orecchiette. The range is completed by twice-milled durum wheat semolina, including the Senatore Cappelli variety, in 3, 5 and 25 kg bags, and Italian extra virgin olive oil in a 5 litre bag-in-box.",
+        "de": "Dai Pastai del Metapontino ist die handwerkliche Pastamarke von GRV Distribuzione, einem Unternehmen mit langer Branchenerfahrung mit Sitz in Marconia di Pisticci in der Basilikata. Im Hinterland von Matera und an der Küste des Metapontino hat die Getreideverarbeitung uralte Wurzeln: im 19. und 20. Jahrhundert entstanden zahlreiche Mühlen in den Hügeln um Matera. Aus dieser Tradition entsteht eine Pasta aus 100% italienischem Hartweizengrieß, teils durch Bronze gezogen und langsam bei niedriger Temperatur getrocknet, in 500-g-Packungen: Tagliatelle, Spaghetti, Paccheri, Torciglioni, Tubetti und traditionelle Formen wie Cavatelli, Ferricelli lucani und Orecchiette. Ergänzt wird das Sortiment durch doppelt gemahlenen Hartweizengrieß, auch aus der Sorte Senatore Cappelli, in Säcken zu 3, 5 und 25 kg, sowie italienisches natives Olivenöl extra im 5-Liter-Bag-in-Box."
+      },
+      "sub": [
+        {
+          "k": "bronzo",
+          "cat": "pasta",
+          "n": {
+            "it": "Pasta trafilata al bronzo",
+            "en": "Bronze-drawn pasta",
+            "de": "Bronzegezogene Pasta"
+          }
+        },
+        {
+          "k": "tradizione",
+          "cat": "pasta",
+          "n": {
+            "it": "Formati della tradizione",
+            "en": "Traditional shapes",
+            "de": "Traditionelle Formen"
+          }
+        },
+        {
+          "k": "semole",
+          "cat": "pasta",
+          "n": {
+            "it": "Semole di grano duro",
+            "en": "Durum wheat semolina",
+            "de": "Hartweizengrieß"
+          }
+        },
+        {
+          "k": "olio",
+          "cat": "olio",
+          "n": {
+            "it": "Olio extravergine",
+            "en": "Extra virgin olive oil",
+            "de": "Natives Olivenöl extra"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Tagliatelle pepe e limone",
+          "confezione da 500 g",
+          "bronzo"
+        ],
+        [
+          "Tagliatelle al mirtillo",
+          "confezione da 500 g",
+          "bronzo"
+        ],
+        [
+          "Tagliatelle bianche",
+          "confezione da 500 g",
+          "bronzo"
+        ],
+        [
+          "Spaghetti ad arco",
+          "confezione da 500 g",
+          "bronzo"
+        ],
+        [
+          "Spaghetti rigati",
+          "confezione da 500 g",
+          "bronzo"
+        ],
+        [
+          "Paccheri rigati",
+          "confezione da 500 g",
+          "bronzo"
+        ],
+        [
+          "Torciglioni",
+          "confezione da 500 g",
+          "bronzo"
+        ],
+        [
+          "Tubetti rigati",
+          "confezione da 500 g",
+          "bronzo"
+        ],
+        [
+          "Cavatelli",
+          "confezione da 500 g",
+          "tradizione"
+        ],
+        [
+          "Ferricelli lucani",
+          "confezione da 500 g",
+          "tradizione"
+        ],
+        [
+          "Orecchiette",
+          "confezione da 500 g",
+          "tradizione"
+        ],
+        [
+          "Semola rimacinata di grano duro Senatore Cappelli",
+          "sacco da 3 kg · 5 kg · 25 kg",
+          "semole"
+        ],
+        [
+          "Semola rimacinata di grano duro",
+          "sacco da 3 kg · 5 kg · 25 kg",
+          "semole"
+        ],
+        [
+          "Olio extravergine di oliva",
+          "bag in box da 5 litri",
+          "olio"
+        ]
+      ],
+      "pd": {
+        "V-24-0": {
+          "c": [],
+          "d": {
+            "it": "Tagliatelle aromatizzate al pepe e limone. Pasta artigianale di semola di grano duro 100% italiano, trafilata al bronzo ed essiccata lentamente a bassa temperatura. Contiene glutine.",
+            "en": "Tagliatelle flavoured with pepper and lemon. Artisan pasta made from 100% Italian durum wheat semolina, bronze-drawn and slowly dried at low temperature. Contains gluten.",
+            "de": "Tagliatelle mit Pfeffer und Zitrone. Handwerkliche Pasta aus 100% italienischem Hartweizengrieß, durch Bronze gezogen und langsam bei niedriger Temperatur getrocknet. Enthält Gluten."
+          },
+          "a": {
+            "it": "Cottura circa 7 minuti in abbondante acqua salata. Conservare in luogo fresco e asciutto.",
+            "en": "Cook for about 7 minutes in plenty of salted water. Store in a cool, dry place.",
+            "de": "Etwa 7 Minuten in reichlich Salzwasser kochen. Kühl und trocken lagern."
+          }
+        },
+        "V-24-1": {
+          "c": [],
+          "d": {
+            "it": "Tagliatelle al mirtillo, dal caratteristico colore rosato. Pasta artigianale di semola di grano duro 100% italiano, trafilata al bronzo ed essiccata lentamente a bassa temperatura. Contiene glutine.",
+            "en": "Blueberry tagliatelle, with their distinctive pink colour. Artisan pasta made from 100% Italian durum wheat semolina, bronze-drawn and slowly dried at low temperature. Contains gluten.",
+            "de": "Heidelbeer-Tagliatelle mit ihrer typischen rosa Farbe. Handwerkliche Pasta aus 100% italienischem Hartweizengrieß, durch Bronze gezogen und langsam bei niedriger Temperatur getrocknet. Enthält Gluten."
+          },
+          "a": {
+            "it": "Cottura circa 7 minuti in abbondante acqua salata. Conservare in luogo fresco e asciutto.",
+            "en": "Cook for about 7 minutes in plenty of salted water. Store in a cool, dry place.",
+            "de": "Etwa 7 Minuten in reichlich Salzwasser kochen. Kühl und trocken lagern."
+          }
+        },
+        "V-24-2": {
+          "c": [],
+          "d": {
+            "it": "Tagliatelle lunghe di sola semola. Pasta artigianale di semola di grano duro 100% italiano, trafilata al bronzo ed essiccata lentamente a bassa temperatura. Contiene glutine.",
+            "en": "Long tagliatelle made from semolina only. Artisan pasta made from 100% Italian durum wheat semolina, bronze-drawn and slowly dried at low temperature. Contains gluten.",
+            "de": "Lange Tagliatelle nur aus Grieß. Handwerkliche Pasta aus 100% italienischem Hartweizengrieß, durch Bronze gezogen und langsam bei niedriger Temperatur getrocknet. Enthält Gluten."
+          },
+          "a": {
+            "it": "Cottura circa 7 minuti in abbondante acqua salata. Conservare in luogo fresco e asciutto.",
+            "en": "Cook for about 7 minutes in plenty of salted water. Store in a cool, dry place.",
+            "de": "Etwa 7 Minuten in reichlich Salzwasser kochen. Kühl und trocken lagern."
+          }
+        },
+        "V-24-3": {
+          "c": [],
+          "d": {
+            "it": "Spaghetti lunghi confezionati ad arco. Pasta artigianale di semola di grano duro 100% italiano, trafilata al bronzo ed essiccata lentamente a bassa temperatura. Contiene glutine.",
+            "en": "Long spaghetti packed in an arch. Artisan pasta made from 100% Italian durum wheat semolina, bronze-drawn and slowly dried at low temperature. Contains gluten.",
+            "de": "Lange, im Bogen verpackte Spaghetti. Handwerkliche Pasta aus 100% italienischem Hartweizengrieß, durch Bronze gezogen und langsam bei niedriger Temperatur getrocknet. Enthält Gluten."
+          },
+          "a": {
+            "it": "Cottura circa 10 minuti in abbondante acqua salata. Conservare in luogo fresco e asciutto.",
+            "en": "Cook for about 10 minutes in plenty of salted water. Store in a cool, dry place.",
+            "de": "Etwa 10 Minuten in reichlich Salzwasser kochen. Kühl und trocken lagern."
+          }
+        },
+        "V-24-4": {
+          "c": [],
+          "d": {
+            "it": "Spaghetti con superficie rigata, che trattiene bene il condimento. Pasta artigianale di semola di grano duro 100% italiano, trafilata al bronzo ed essiccata lentamente a bassa temperatura. Contiene glutine.",
+            "en": "Ridged spaghetti that hold sauces well. Artisan pasta made from 100% Italian durum wheat semolina, bronze-drawn and slowly dried at low temperature. Contains gluten.",
+            "de": "Geriffelte Spaghetti, an denen die Sauce gut haftet. Handwerkliche Pasta aus 100% italienischem Hartweizengrieß, durch Bronze gezogen und langsam bei niedriger Temperatur getrocknet. Enthält Gluten."
+          },
+          "a": {
+            "it": "Cottura circa 12 minuti in abbondante acqua salata. Conservare in luogo fresco e asciutto.",
+            "en": "Cook for about 12 minutes in plenty of salted water. Store in a cool, dry place.",
+            "de": "Etwa 12 Minuten in reichlich Salzwasser kochen. Kühl und trocken lagern."
+          }
+        },
+        "V-24-5": {
+          "c": [],
+          "d": {
+            "it": "Grandi maccheroni rigati della tradizione campana, adatti a sughi ricchi e ripieni. Pasta artigianale di semola di grano duro 100% italiano, trafilata al bronzo ed essiccata lentamente a bassa temperatura. Contiene glutine.",
+            "en": "Large ridged pasta tubes from the Campanian tradition, ideal for rich sauces and stuffing. Artisan pasta made from 100% Italian durum wheat semolina, bronze-drawn and slowly dried at low temperature. Contains gluten.",
+            "de": "Große geriffelte Röhrennudeln aus der kampanischen Tradition, ideal für kräftige Saucen und zum Füllen. Handwerkliche Pasta aus 100% italienischem Hartweizengrieß, durch Bronze gezogen und langsam bei niedriger Temperatur getrocknet. Enthält Gluten."
+          },
+          "a": {
+            "it": "Cottura circa 14 minuti in abbondante acqua salata. Conservare in luogo fresco e asciutto.",
+            "en": "Cook for about 14 minutes in plenty of salted water. Store in a cool, dry place.",
+            "de": "Etwa 14 Minuten in reichlich Salzwasser kochen. Kühl und trocken lagern."
+          }
+        },
+        "V-24-6": {
+          "c": [],
+          "d": {
+            "it": "Formato corto e ritorto, ideale per sughi corposi. Pasta artigianale di semola di grano duro 100% italiano, trafilata al bronzo ed essiccata lentamente a bassa temperatura. Contiene glutine.",
+            "en": "A short, twisted shape, ideal for hearty sauces. Artisan pasta made from 100% Italian durum wheat semolina, bronze-drawn and slowly dried at low temperature. Contains gluten.",
+            "de": "Kurze, gedrehte Form, ideal für kräftige Saucen. Handwerkliche Pasta aus 100% italienischem Hartweizengrieß, durch Bronze gezogen und langsam bei niedriger Temperatur getrocknet. Enthält Gluten."
+          },
+          "a": {
+            "it": "Cottura circa 12 minuti in abbondante acqua salata. Conservare in luogo fresco e asciutto.",
+            "en": "Cook for about 12 minutes in plenty of salted water. Store in a cool, dry place.",
+            "de": "Etwa 12 Minuten in reichlich Salzwasser kochen. Kühl und trocken lagern."
+          }
+        },
+        "V-24-7": {
+          "c": [],
+          "d": {
+            "it": "Piccoli tubetti rigati, ideali per minestre e pasta e legumi. Pasta artigianale di semola di grano duro 100% italiano, trafilata al bronzo ed essiccata lentamente a bassa temperatura. Contiene glutine.",
+            "en": "Small ridged tubes, ideal for soups and pasta with pulses. Artisan pasta made from 100% Italian durum wheat semolina, bronze-drawn and slowly dried at low temperature. Contains gluten.",
+            "de": "Kleine geriffelte Röhrchen, ideal für Suppen und Pasta mit Hülsenfrüchten. Handwerkliche Pasta aus 100% italienischem Hartweizengrieß, durch Bronze gezogen und langsam bei niedriger Temperatur getrocknet. Enthält Gluten."
+          },
+          "a": {
+            "it": "Cottura circa 12 minuti in abbondante acqua salata. Conservare in luogo fresco e asciutto.",
+            "en": "Cook for about 12 minutes in plenty of salted water. Store in a cool, dry place.",
+            "de": "Etwa 12 Minuten in reichlich Salzwasser kochen. Kühl und trocken lagern."
+          }
+        },
+        "V-24-8": {
+          "c": [],
+          "d": {
+            "it": "Piccoli gnocchetti incavati, formato tipico del Sud Italia. Pasta artigianale di semola di grano duro 100% italiano, nei formati della tradizione del Sud. Contiene glutine.",
+            "en": "Small hollowed dumpling-shaped pasta, typical of southern Italy. Artisan pasta made from 100% Italian durum wheat semolina, in traditional southern Italian shapes. Contains gluten.",
+            "de": "Kleine, ausgehöhlte Nocken, typisch für Süditalien. Handwerkliche Pasta aus 100% italienischem Hartweizengrieß, in traditionellen süditalienischen Formen. Enthält Gluten."
+          },
+          "a": {
+            "it": "Cottura circa 7 minuti in abbondante acqua salata. Conservare in luogo fresco e asciutto.",
+            "en": "Cook for about 7 minutes in plenty of salted water. Store in a cool, dry place.",
+            "de": "Etwa 7 Minuten in reichlich Salzwasser kochen. Kühl und trocken lagern."
+          }
+        },
+        "V-24-9": {
+          "c": [],
+          "d": {
+            "it": "Pasta lunga e arrotolata della tradizione lucana, un tempo modellata attorno a un ferro sottile. Pasta artigianale di semola di grano duro 100% italiano, nei formati della tradizione del Sud. Contiene glutine.",
+            "en": "A long rolled pasta from the Basilicata tradition, once shaped around a thin iron rod. Artisan pasta made from 100% Italian durum wheat semolina, in traditional southern Italian shapes. Contains gluten.",
+            "de": "Lange, gerollte Pasta aus der Tradition der Basilikata, früher um einen dünnen Eisenstab geformt. Handwerkliche Pasta aus 100% italienischem Hartweizengrieß, in traditionellen süditalienischen Formen. Enthält Gluten."
+          },
+          "a": {
+            "it": "Cottura circa 14 minuti in abbondante acqua salata. Conservare in luogo fresco e asciutto.",
+            "en": "Cook for about 14 minutes in plenty of salted water. Store in a cool, dry place.",
+            "de": "Etwa 14 Minuten in reichlich Salzwasser kochen. Kühl und trocken lagern."
+          }
+        },
+        "V-24-10": {
+          "c": [],
+          "d": {
+            "it": "Il classico formato a piccola cupola del Sud, ideale con verdure e sughi rustici. Pasta artigianale di semola di grano duro 100% italiano, nei formati della tradizione del Sud. Contiene glutine.",
+            "en": "The classic small dome-shaped pasta of the South, ideal with vegetables and rustic sauces. Artisan pasta made from 100% Italian durum wheat semolina, in traditional southern Italian shapes. Contains gluten.",
+            "de": "Die klassischen kleinen Öhrchen aus dem Süden, ideal mit Gemüse und rustikalen Saucen. Handwerkliche Pasta aus 100% italienischem Hartweizengrieß, in traditionellen süditalienischen Formen. Enthält Gluten."
+          },
+          "a": {
+            "it": "Cottura circa 10 minuti in abbondante acqua salata. Conservare in luogo fresco e asciutto.",
+            "en": "Cook for about 10 minutes in plenty of salted water. Store in a cool, dry place.",
+            "de": "Etwa 10 Minuten in reichlich Salzwasser kochen. Kühl und trocken lagern."
+          }
+        },
+        "V-24-11": {
+          "c": [],
+          "d": {
+            "it": "Semola rimacinata di grano duro 100% italiano della varietà antica Senatore Cappelli. Contiene glutine. Umidità massima 15,5%.",
+            "en": "Twice-milled durum wheat semolina, 100% Italian, from the heritage Senatore Cappelli variety. Contains gluten. Maximum moisture 15.5%.",
+            "de": "Doppelt gemahlener Hartweizengrieß, 100% italienisch, aus der alten Sorte Senatore Cappelli. Enthält Gluten. Feuchtigkeit höchstens 15,5%."
+          },
+          "a": {
+            "it": "Per pasta fresca, pane, pizza e dolci. Conservare in luogo fresco e asciutto.",
+            "en": "For fresh pasta, bread, pizza and baking. Store in a cool, dry place.",
+            "de": "Für frische Pasta, Brot, Pizza und Gebäck. Kühl und trocken lagern."
+          }
+        },
+        "V-24-12": {
+          "c": [],
+          "d": {
+            "it": "Semola rimacinata di grano duro 100% italiano. Contiene glutine. Umidità massima 15,5%.",
+            "en": "Twice-milled durum wheat semolina, 100% Italian. Contains gluten. Maximum moisture 15.5%.",
+            "de": "Doppelt gemahlener Hartweizengrieß, 100% italienisch. Enthält Gluten. Feuchtigkeit höchstens 15,5%."
+          },
+          "a": {
+            "it": "Per pasta fresca, pane, pizza e dolci. Conservare in luogo fresco e asciutto.",
+            "en": "For fresh pasta, bread, pizza and baking. Store in a cool, dry place.",
+            "de": "Für frische Pasta, Brot, Pizza und Gebäck. Kühl und trocken lagern."
+          }
+        },
+        "V-24-13": {
+          "c": [],
+          "d": {
+            "it": "Olio extravergine di oliva estratto in Italia da olive coltivate in Italia, ottenuto direttamente dalle olive e unicamente mediante procedimenti meccanici; estratto a freddo.",
+            "en": "Extra virgin olive oil extracted in Italy from olives grown in Italy, obtained directly from the olives by mechanical means only; cold extracted.",
+            "de": "Natives Olivenöl extra, in Italien aus in Italien angebauten Oliven gewonnen, direkt aus den Oliven und ausschließlich mechanisch; kalt extrahiert."
+          },
+          "a": {
+            "it": "A crudo e in cucina; formato pratico per la dispensa e la ristorazione. Conservare al riparo da luce e calore.",
+            "en": "Raw or for cooking; a practical size for the pantry and food service. Store away from light and heat.",
+            "de": "Roh und zum Kochen; praktisches Format für Vorrat und Gastronomie. Vor Licht und Wärme geschützt lagern."
+          }
+        }
+      },
+      "fonti": [
+        "https://pastaidelmetapontino.it/prodotti/",
+        "https://pastaidelmetapontino.it/chi-siamo/",
+        "https://pastaidelmetapontino.it/contatti/"
+      ]
     }
   ],
   "IMG": {
@@ -8918,6 +9238,21 @@ window.VETRINE = {
     "prod-V-23-3": "https://tenutefascetto.it/wp-content/uploads/2026/10/latta_3litri_tenutefascetto.jpg",
     "prod-V-23-4": "https://tenutefascetto.it/wp-content/uploads/2026/10/peperoncino_25cl.png",
     "prod-V-23-5": "https://tenutefascetto.it/wp-content/uploads/2026/10/tartufo_25cl.png",
-    "prod-V-23-6": "https://tenutefascetto.it/wp-content/uploads/2026/10/salmoriglio_25cl.png"
+    "prod-V-23-6": "https://tenutefascetto.it/wp-content/uploads/2026/10/salmoriglio_25cl.png",
+    "logo-V-24": "img/v24-logo.jpg",
+    "prod-V-24-0": "img/v24-0.jpg",
+    "prod-V-24-1": "img/v24-1.jpg",
+    "prod-V-24-2": "img/v24-3.jpg",
+    "prod-V-24-3": "img/v24-4.jpg",
+    "prod-V-24-4": "img/v24-6.jpg",
+    "prod-V-24-5": "img/v24-2.jpg",
+    "prod-V-24-6": "img/v24-5.jpg",
+    "prod-V-24-7": "img/v24-7.jpg",
+    "prod-V-24-8": "img/v24-8.jpg",
+    "prod-V-24-9": "img/v24-9.jpg",
+    "prod-V-24-10": "img/v24-10.jpg",
+    "prod-V-24-11": "img/v24-11.jpg",
+    "prod-V-24-12": "img/v24-12.jpg",
+    "prod-V-24-13": "img/v24-13.jpg"
   }
 };
