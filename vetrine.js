@@ -10197,6 +10197,171 @@ window.VETRINE = {
         "https://extraemo.com/pages/le-tenute",
         "https://extraemo.com/pages/produzione"
       ]
+    },
+    {
+      "id": "V-28",
+      "n": "Fattoria Collefiorito",
+      "cat": "vino",
+      "reg": "Toscana",
+      "city": "Cerreto Guidi (FI)",
+      "lat": 43.759,
+      "lng": 10.882,
+      "y": 1949,
+      "certs": [
+        "DOCG",
+        "DOC",
+        "IGT"
+      ],
+      "exp": [],
+      "lg": [
+        "it",
+        "en",
+        "de"
+      ],
+      "moq": null,
+      "d": {
+        "it": "Fattoria storica tra le dolci colline di Cerreto Guidi e Vinci, patria di Leonardo, nel cuore verde della Toscana. Dal 1949 è di proprietà dei Conti Lucchesi Palli, che hanno riportato a nuovo splendore l'antica villa padronale, oggi loro residenza, e restaurato i casolari e le cantine, aggiornati con tecnologie moderne nel rispetto dell'ambiente. Le terre, un tempo appartenute alla famiglia Medici, si estendono dalla riserva naturale del Padule di Fucecchio fino alle colline di Vinci, con tre terroir distinti, un microclima particolare e suoli variegati, dalle argille limose delle colline alle sabbie sciolte del fondovalle. Nei vigneti si coltivano vitigni autoctoni come Sangiovese, Canaiolo, Trebbiano e San Colombano. In cantina si lavora con vasche di cemento e d'acciaio inox, mentre il Vin Santo Don Stefano affina per almeno 15 anni in piccoli caratelli di castagno. La missione della famiglia è essere ambasciatrice della cultura vinicola italiana nel mondo. Cinque i vini: Chianti DOCG, Sangiovese Toscano IGT, Bianco dell'Empolese DOC, Rosato Toscano IGT e Vin Santo Bianco dell'Empolese DOC.",
+        "en": "A historic estate among the gentle hills of Cerreto Guidi and Vinci, Leonardo's birthplace, in the green heart of Tuscany. Since 1949 it has belonged to the Counts Lucchesi Palli, who restored the old manor house, now their home, and renovated the farmhouses and cellars, updating them with modern technology while respecting the environment. The land, once owned by the Medici family, stretches from the Padule di Fucecchio nature reserve to the hills of Vinci, with three distinct terroirs, a particular microclimate and varied soils, from the silty clays of the hills to the loose sands of the valley floor. The vineyards grow native varieties such as Sangiovese, Canaiolo, Trebbiano and San Colombano. The cellar works with concrete and stainless steel vats, while the Vin Santo Don Stefano ages for at least 15 years in small chestnut casks. The family's mission is to be an ambassador of Italian wine culture around the world. There are five wines: Chianti DOCG, Sangiovese Toscano IGT, Bianco dell'Empolese DOC, Rosato Toscano IGT and Vin Santo Bianco dell'Empolese DOC.",
+        "de": "Ein historisches Gut zwischen den sanften Hügeln von Cerreto Guidi und Vinci, dem Geburtsort Leonardos, im grünen Herzen der Toskana. Seit 1949 gehört es den Grafen Lucchesi Palli, die die alte Herrschaftsvilla, heute ihr Wohnsitz, in neuem Glanz erstrahlen ließen und die Bauernhäuser und Keller restaurierten und mit moderner, umweltschonender Technik ausstatteten. Das Land, einst im Besitz der Medici, reicht vom Naturschutzgebiet Padule di Fucecchio bis zu den Hügeln von Vinci, mit drei unterschiedlichen Terroirs, einem besonderen Mikroklima und vielfältigen Böden, von den schluffigen Tonen der Hügel bis zu den lockeren Sanden der Talsohle. In den Weinbergen wachsen einheimische Sorten wie Sangiovese, Canaiolo, Trebbiano und San Colombano. Im Keller wird mit Beton- und Edelstahltanks gearbeitet, während der Vin Santo Don Stefano mindestens 15 Jahre in kleinen Kastanienfässern reift. Die Familie versteht sich als Botschafterin der italienischen Weinkultur in der Welt. Fünf Weine: Chianti DOCG, Sangiovese Toscano IGT, Bianco dell'Empolese DOC, Rosato Toscano IGT und Vin Santo Bianco dell'Empolese DOC."
+      },
+      "sub": [
+        {
+          "k": "rossi",
+          "cat": "vino",
+          "n": {
+            "it": "Vini rossi",
+            "en": "Red wines",
+            "de": "Rotweine"
+          }
+        },
+        {
+          "k": "bianchi",
+          "cat": "vino",
+          "n": {
+            "it": "Bianco e rosato",
+            "en": "White and rosé",
+            "de": "Weiß und Rosé"
+          }
+        },
+        {
+          "k": "vinsanto",
+          "cat": "vino",
+          "n": {
+            "it": "Vin Santo",
+            "en": "Vin Santo",
+            "de": "Vin Santo"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Chianti DOCG",
+          "bottiglia da 750 ml",
+          "rossi"
+        ],
+        [
+          "Sangiovese Toscano IGT",
+          "bottiglia da 750 ml",
+          "rossi"
+        ],
+        [
+          "Bianco dell'Empolese DOC",
+          "bottiglia da 750 ml",
+          "bianchi"
+        ],
+        [
+          "Rosato Toscano IGT",
+          "bottiglia da 750 ml",
+          "bianchi"
+        ],
+        [
+          "Don Stefano, Vin Santo Bianco dell'Empolese DOC",
+          "",
+          "vinsanto"
+        ]
+      ],
+      "pd": {
+        "V-28-0": {
+          "c": [
+            "DOCG"
+          ],
+          "d": {
+            "it": "Un Chianti dal carattere autentico, prodotto sulle colline di Cerreto Guidi e Vinci: fresco e vivace, con note di frutta fresca e spezie, è l'essenza delle tradizioni toscane. Vitigni: prevalentemente Sangiovese, con Colorino e Canaiolo. Terreni argillo-limosi, tipici delle colline toscane. Vinificazione: fermentazione alcolica e macerazione sulle bucce a temperatura controllata, con frequenti rimontaggi in vasche d'acciaio inox. Affinamento in vasche di cemento, poi in acciaio inox e infine in bottiglia. Rosso rubino brillante con riflessi violacei; al naso note di frutta fresca e spezie delicate; al palato fresco, vivace, con una piacevole vinosità.",
+            "en": "A Chianti of authentic character, made on the hills of Cerreto Guidi and Vinci: fresh and lively, with notes of fresh fruit and spice, it is the essence of Tuscan tradition. Grapes: mainly Sangiovese, with Colorino and Canaiolo. Silty clay soils, typical of the Tuscan hills. Winemaking: alcoholic fermentation and maceration on the skins at controlled temperature, with frequent pump-overs in stainless steel vats. Aged in concrete vats, then in stainless steel and finally in bottle. Bright ruby red with violet tints; fresh fruit and delicate spice on the nose; fresh and lively on the palate, with a pleasant vinosity.",
+            "de": "Ein Chianti mit authentischem Charakter von den Hügeln von Cerreto Guidi und Vinci: frisch und lebendig, mit Noten von frischen Früchten und Gewürzen, die Essenz toskanischer Tradition. Rebsorten: überwiegend Sangiovese, mit Colorino und Canaiolo. Schluffige Tonböden, typisch für die toskanischen Hügel. Ausbau: alkoholische Gärung und Maischestandzeit bei kontrollierter Temperatur, mit häufigem Umpumpen in Edelstahltanks. Reifung in Betontanks, dann in Edelstahl und schließlich in der Flasche. Leuchtendes Rubinrot mit violetten Reflexen; in der Nase frische Früchte und zarte Gewürze; am Gaumen frisch, lebendig, mit angenehmer Weinigkeit."
+          },
+          "a": {
+            "it": "Servire a 16-18 °C.",
+            "en": "Serve at 16-18 °C.",
+            "de": "Bei 16-18 °C servieren."
+          }
+        },
+        "V-28-1": {
+          "c": [
+            "IGT"
+          ],
+          "d": {
+            "it": "Un rosso fresco e vivace, espressione autentica del territorio e della tradizione vitivinicola italiana. Sangiovese in purezza dalle colline di Cerreto Guidi e Vinci, su terreni argillo-limosi tipici delle colline toscane. Vinificazione: fermentazione alcolica e macerazione sulle bucce a temperatura controllata, con frequenti rimontaggi in vasche d'acciaio inox. Affinamento iniziale in vasche di cemento, poi in vasche d'acciaio inox e infine in bottiglia. Rosso rubino brillante, profumo di frutta fresca; al palato fresco, vivace, con una piacevole vinosità.",
+            "en": "A fresh, lively red, an authentic expression of the territory and of Italian winemaking tradition. 100% Sangiovese from the hills of Cerreto Guidi and Vinci, on the silty clay soils typical of the Tuscan hills. Winemaking: alcoholic fermentation and maceration on the skins at controlled temperature, with frequent pump-overs in stainless steel vats. Aged first in concrete vats, then in stainless steel vats and finally in bottle. Bright ruby red with a fresh fruit nose; fresh and lively on the palate, with a pleasant vinosity.",
+            "de": "Ein frischer, lebendiger Rotwein, authentischer Ausdruck des Terroirs und der italienischen Weinbautradition. Reinsortiger Sangiovese von den Hügeln von Cerreto Guidi und Vinci, auf den für die Toskana typischen schluffigen Tonböden. Ausbau: alkoholische Gärung und Maischestandzeit bei kontrollierter Temperatur, mit häufigem Umpumpen in Edelstahltanks. Reifung zunächst in Betontanks, dann in Edelstahltanks und schließlich in der Flasche. Leuchtendes Rubinrot, Duft nach frischen Früchten; am Gaumen frisch, lebendig, mit angenehmer Weinigkeit."
+          },
+          "a": {
+            "it": "L'acidità vivace e le delicate note fruttate lo rendono ideale con i piatti della cucina mediterranea. Servire a 16-18 °C.",
+            "en": "Its lively acidity and delicate fruity notes make it ideal with Mediterranean dishes. Serve at 16-18 °C.",
+            "de": "Die lebendige Säure und die zarten Fruchtnoten machen ihn ideal zur Mittelmeerküche. Bei 16-18 °C servieren."
+          }
+        },
+        "V-28-2": {
+          "c": [
+            "DOC"
+          ],
+          "d": {
+            "it": "Un bianco raffinato, rappresentativo delle colline dell'Empolese, dal profilo aromatico fresco e delicato. Vitigni: prevalentemente Trebbiano, con Ansonica e Malvasia, dal fondovalle di Cerreto Guidi e Vinci, su terreni fertili, sciolti e sabbiosi. Vinificazione: pressatura soffice a temperatura controllata con separazione delle fecce entro 24 ore; fermentazione alcolica a basse temperature in vasche di cemento. Affinamento in vasche d'acciaio inox fino all'imbottigliamento. Giallo paglierino con riflessi verdognoli, aromi di fiori bianchi e agrumi freschi; al palato buona acidità e mineralità, con una lieve sapidità.",
+            "en": "A refined white, representative of the Empolese hills, with a fresh and delicate aromatic profile. Grapes: mainly Trebbiano, with Ansonica and Malvasia, from the valley floor of Cerreto Guidi and Vinci, on fertile, loose, sandy soils. Winemaking: gentle pressing at controlled temperature, with the lees removed within 24 hours; alcoholic fermentation at low temperature in concrete vats. Aged in stainless steel vats until bottling. Straw yellow with greenish tints, aromas of white flowers and fresh citrus; good acidity and minerality on the palate, with a light savouriness.",
+            "de": "Ein feiner Weißwein, typisch für die Hügel des Empolese, mit frischem und zartem Aromaprofil. Rebsorten: überwiegend Trebbiano, mit Ansonica und Malvasia, aus der Talsohle von Cerreto Guidi und Vinci, auf fruchtbaren, lockeren Sandböden. Ausbau: schonendes Pressen bei kontrollierter Temperatur, Trennung vom Trub innerhalb von 24 Stunden; alkoholische Gärung bei niedriger Temperatur in Betontanks. Reifung in Edelstahltanks bis zur Abfüllung. Strohgelb mit grünlichen Reflexen, Aromen von weißen Blüten und frischen Zitrusfrüchten; am Gaumen gute Säure und Mineralität, mit leichter Würze."
+          },
+          "a": {
+            "it": "Ideale con piatti leggeri e conviviali. Servire a 8-10 °C.",
+            "en": "Ideal with light dishes and convivial occasions. Serve at 8-10 °C.",
+            "de": "Ideal zu leichten Gerichten und geselligen Anlässen. Bei 8-10 °C servieren."
+          }
+        },
+        "V-28-3": {
+          "c": [
+            "IGT"
+          ],
+          "d": {
+            "it": "Un rosato fresco e raffinato, nato dall'unione di Sangiovese e Merlot coltivati sulle colline di Cerreto Guidi e Vinci, su terreni argillo-limosi tipici delle colline toscane. Vinificazione: macerazione sulle bucce per 6 ore, seguita da una pressatura soffice; fermentazione a basse temperature. Affinamento in vasche d'acciaio inox fino all'imbottigliamento. Rosa tenue con riflessi rosati, profumo intenso e persistente; al palato buona acidità, mineralità e un lungo finale. L'etichetta in foto riporta l'annata 2022 e 12% vol.",
+            "en": "A fresh, refined rosé from Sangiovese and Merlot grown on the hills of Cerreto Guidi and Vinci, on the silty clay soils typical of the Tuscan hills. Winemaking: 6 hours of skin maceration followed by gentle pressing; fermentation at low temperature. Aged in stainless steel vats until bottling. Pale pink with rosy tints, an intense and persistent nose; good acidity and minerality on the palate, with a long finish. The label pictured shows the 2022 vintage and 12% ABV.",
+            "de": "Ein frischer, feiner Rosé aus Sangiovese und Merlot von den Hügeln von Cerreto Guidi und Vinci, auf den für die Toskana typischen schluffigen Tonböden. Ausbau: 6 Stunden Maischestandzeit, danach schonendes Pressen; Gärung bei niedriger Temperatur. Reifung in Edelstahltanks bis zur Abfüllung. Zartes Rosa mit rosigen Reflexen, intensiver und anhaltender Duft; am Gaumen gute Säure, Mineralität und ein langer Abgang. Das abgebildete Etikett zeigt den Jahrgang 2022 und 12% Vol."
+          },
+          "a": {
+            "it": "Ideale con piatti leggeri e momenti conviviali. Servire a 10-12 °C.",
+            "en": "Ideal with light dishes and convivial moments. Serve at 10-12 °C.",
+            "de": "Ideal zu leichten Gerichten und geselligen Momenten. Bei 10-12 °C servieren."
+          }
+        },
+        "V-28-4": {
+          "c": [
+            "DOC"
+          ],
+          "d": {
+            "it": "Un vino dolce straordinario, frutto della tradizione toscana, prodotto solo nelle migliori annate. Uve Trebbiano e San Colombano dalle colline di Cerreto Guidi e Vinci, su terreni fertili, sciolti e sabbiosi. Vinificazione: appassimento delle uve sui tradizionali cannicci e pressatura a dicembre. Affinamento in piccoli caratelli di castagno per almeno 15-20 anni. Ambrato con riflessi dorati, aromi intensi di frutta secca e fichi; al palato note di miele e straordinaria persistenza. L'etichetta in foto riporta l'annata 2001.",
+            "en": "An extraordinary sweet wine born of Tuscan tradition, made only in the best vintages. Trebbiano and San Colombano grapes from the hills of Cerreto Guidi and Vinci, on fertile, loose, sandy soils. Winemaking: the grapes are dried on traditional cane racks (cannicci) and pressed in December. Aged in small chestnut casks (caratelli) for at least 15-20 years. Amber with golden tints, intense aromas of dried fruit and figs; notes of honey and extraordinary length on the palate. The label pictured shows the 2001 vintage.",
+            "de": "Ein außergewöhnlicher Süßwein aus toskanischer Tradition, nur in den besten Jahrgängen erzeugt. Trebbiano- und San-Colombano-Trauben von den Hügeln von Cerreto Guidi und Vinci, auf fruchtbaren, lockeren Sandböden. Ausbau: Trocknung der Trauben auf traditionellen Schilfmatten (cannicci) und Pressung im Dezember. Reifung in kleinen Kastanienfässern (caratelli) für mindestens 15-20 Jahre. Bernsteinfarben mit goldenen Reflexen, intensive Aromen von Trockenfrüchten und Feigen; am Gaumen Honignoten und außergewöhnliche Länge. Das abgebildete Etikett zeigt den Jahrgang 2001."
+          },
+          "a": {
+            "it": "Servire a 10-14 °C.",
+            "en": "Serve at 10-14 °C.",
+            "de": "Bei 10-14 °C servieren."
+          }
+        }
+      },
+      "fonti": [
+        "https://collefiorito.wine/homeita#inv",
+        "https://collefiorito.wine/homeita#la-nostra-storia",
+        "https://collefiorito.wine/s/schedeitaf-1.pdf"
+      ]
     }
   ],
   "IMG": {
@@ -10629,6 +10794,12 @@ window.VETRINE = {
     "prod-V-27-0": "https://cdn.shopify.com/s/files/1/0991/8834/3133/files/extraemo-olio-extravergine-casaliva-500ml-garda.jpg?width=900",
     "prod-V-27-1": "https://cdn.shopify.com/s/files/1/0991/8834/3133/files/extraemo-olio-extravergine-nord-trittico-500ml.jpg?width=900",
     "prod-V-27-2": "https://cdn.shopify.com/s/files/1/0991/8834/3133/files/extraemo-olio-extravergine-sud-700m-500ml-cilento.jpg?width=900",
-    "prod-V-27-3": "https://cdn.shopify.com/s/files/1/0991/8834/3133/files/extraemo-assaggio-set-olio-extravergine.jpg?width=900"
+    "prod-V-27-3": "https://cdn.shopify.com/s/files/1/0991/8834/3133/files/extraemo-assaggio-set-olio-extravergine.jpg?width=900",
+    "logo-V-28": "https://images.squarespace-cdn.com/content/v1/67e3350d5f10b04bec7efb68/fe9c67ef-477e-47e4-a7a8-bfb373f8ea84/Screenshot_2025-01-09_01.35.49-removebg.png?format=750w",
+    "prod-V-28-0": "https://images.squarespace-cdn.com/content/v1/67e3350d5f10b04bec7efb68/3ffc69db-85a4-40c2-9cf9-93b83ea02099/DSC07555-removebg.png?format=1000w",
+    "prod-V-28-1": "https://images.squarespace-cdn.com/content/v1/67e3350d5f10b04bec7efb68/9bf2f330-4089-4b6c-bfe0-62de561314e6/DSC07559-removebg+%281%29.png?format=1000w",
+    "prod-V-28-2": "https://images.squarespace-cdn.com/content/v1/67e3350d5f10b04bec7efb68/c39545f0-4618-4a1e-ab21-46e2e862ca1d/image.png?format=1000w",
+    "prod-V-28-3": "https://images.squarespace-cdn.com/content/v1/67e3350d5f10b04bec7efb68/e12dd962-4aca-4f0c-8f27-23f41514ec97/DSC07550-removebg+%281%29.png?format=1000w",
+    "prod-V-28-4": "https://images.squarespace-cdn.com/content/v1/67e3350d5f10b04bec7efb68/a1b42ce8-fc24-4b53-a5d9-0697e3857013/DSC07542-removebg+%281%29.png?format=1000w"
   }
 };
