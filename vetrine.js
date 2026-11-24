@@ -7718,6 +7718,51 @@ window.VETRINE = {
         "https://minnelea.com/pages/premi",
         "https://minnelea.com/pages/contatti"
       ]
+    },
+    {
+      "id": "V-20",
+      "n": "LiquorAlba (Nocciolino Langhe)",
+      "cat": "liquori",
+      "reg": "Piemonte",
+      "city": "La Morra (CN)",
+      "lat": 44.638,
+      "lng": 7.934,
+      "y": null,
+      "certs": [],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "d": {
+        "it": "Liquorificio artigianale di La Morra, borgo medievale nel cuore delle Langhe, patrimonio UNESCO dal 2014 e terra del Barolo. Qui nasce il Nocciolino Langhe, un liquore che vuole valorizzare la nocciola più celebre del Piemonte: solo Nocciola Piemonte IGP della varietà Tonda Gentile Trilobata, scelta tra le migliori coltivazioni delle Langhe e tostata con cura. Ogni bottiglia è il frutto di un'infusione lenta e di una macerazione tradizionale, seguendo ricette tramandate da generazioni, per unire tradizione e innovazione e far conoscere le eccellenze di questo territorio.",
+        "en": "An artisan liqueur maker in La Morra, a medieval village in the heart of the Langhe, a UNESCO World Heritage site since 2014 and home of Barolo. This is where Nocciolino Langhe is made, a liqueur that showcases Piedmont's most famous hazelnut: only Nocciola Piemonte IGP of the Tonda Gentile Trilobata variety, chosen from the best Langhe orchards and carefully toasted. Every bottle comes from slow infusion and traditional maceration, following recipes handed down through generations, combining tradition and innovation to promote the excellence of this land.",
+        "de": "Handwerkliche Likörmanufaktur in La Morra, einem mittelalterlichen Dorf im Herzen der Langhe, seit 2014 UNESCO-Welterbe und Heimat des Barolo. Hier entsteht der Nocciolino Langhe, ein Likör, der die berühmteste Haselnuss des Piemont in den Mittelpunkt stellt: ausschließlich Nocciola Piemonte IGP der Sorte Tonda Gentile Trilobata, aus den besten Anlagen der Langhe ausgewählt und sorgfältig geröstet. Jede Flasche entsteht durch langsame Infusion und traditionelle Mazeration nach über Generationen weitergegebenen Rezepten, als Verbindung von Tradition und Innovation und als Botschafter dieses Gebiets."
+      },
+      "p": [
+        [
+          "Nocciolino Langhe, liquore di nocciola",
+          "bottiglia da 700 ml"
+        ]
+      ],
+      "pd": {
+        "V-20-0": {
+          "c": [],
+          "d": {
+            "it": "Liquore artigianale di nocciola, 28% vol. Prodotto con Nocciole Piemonte IGP delle Langhe (Tonda Gentile Trilobata), tostate e lasciate in infusione lenta con macerazione tradizionale, e alcool di altissima qualità. Gusto intenso e avvolgente di nocciola tostata. Ingredienti dichiarati: nocciole IGP, alcool di altissima qualità.",
+            "en": "Artisan hazelnut liqueur, 28% ABV. Made with Nocciola Piemonte IGP hazelnuts from the Langhe (Tonda Gentile Trilobata), toasted and slowly infused with traditional maceration, and top-quality alcohol. Intense, enveloping flavour of toasted hazelnut. Stated ingredients: IGP hazelnuts, top-quality alcohol.",
+            "de": "Handwerklicher Haselnusslikör, 28% Vol. Hergestellt aus Nocciola Piemonte IGP aus den Langhe (Tonda Gentile Trilobata), geröstet und langsam mit traditioneller Mazeration angesetzt, und Alkohol höchster Qualität. Intensiver, umhüllender Geschmack nach gerösteter Haselnuss. Angegebene Zutaten: IGP-Haselnüsse, Alkohol höchster Qualität."
+          },
+          "a": {
+            "it": "Servire a temperatura ambiente o leggermente fresco (12-14 °C). Perfetto liscio o con ghiaccio, nel caffè e sul gelato, come base per cocktail; ideale anche in pasticceria.",
+            "en": "Serve at room temperature or lightly chilled (12-14 °C). Perfect neat or on ice, in coffee and over ice cream, as a cocktail base; also ideal for pastry making.",
+            "de": "Bei Raumtemperatur oder leicht gekühlt (12-14 °C) servieren. Pur oder auf Eis, im Kaffee und über Eis, als Cocktailbasis; auch ideal für Gebäck und Desserts."
+          }
+        }
+      },
+      "fonti": [
+        "https://nocciolinolanghe.com/"
+      ]
     }
   ],
   "IMG": {
@@ -8039,6 +8084,7 @@ window.VETRINE = {
     "prod-V-19-28": "https://cdn.shopify.com/s/files/1/0574/3732/3315/files/kit-crostate-dolci-4-confetture-minnelea.jpg?width=900",
     "prod-V-19-29": "https://cdn.shopify.com/s/files/1/0574/3732/3315/files/pate-pomodori-secchi-olio-evo-minnelea_0ff9b345-ced6-4ca3-a41d-cfbf235809b2.jpg?width=900",
     "prod-V-19-30": "https://cdn.shopify.com/s/files/1/0574/3732/3315/files/kit-gran-riserva-cilento-12-vasetti-minnelea.jpg?width=900",
-    "prod-V-19-31": "https://cdn.shopify.com/s/files/1/0574/3732/3315/files/kit-regalo-premium-18-vasetti-natale-minnelea.jpg?width=900"
+    "prod-V-19-31": "https://cdn.shopify.com/s/files/1/0574/3732/3315/files/kit-regalo-premium-18-vasetti-natale-minnelea.jpg?width=900",
+    "prod-V-20-0": "https://nocciolinolanghe.com/assets/nocciolino-bottle.jpg"
   }
 };
