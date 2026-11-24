@@ -3776,6 +3776,461 @@ window.VETRINE = {
         "https://www.lacasaia.it/la-casaia/",
         "https://www.lacasaia.it/"
       ]
+    },
+    {
+      "id": "V-12",
+      "n": "Pasta Formia (Paone Distribuzione)",
+      "cat": "pasta",
+      "reg": "Lazio",
+      "city": "Formia (LT)",
+      "lat": 41.256,
+      "lng": 13.607,
+      "y": 2018,
+      "certs": [],
+      "exp": [],
+      "lg": [
+        "it",
+        "en"
+      ],
+      "moq": null,
+      "d": {
+        "it": "Pastificio Pasta Formia, della Paone Distribuzione srl, con sede a Formia e stabilimento a Minturno, in provincia di Latina. Nasce nel 2018 e porta avanti l'esperienza di una famiglia attiva da oltre 145 anni nella produzione di pasta. Fa pasta secca di semola di grano duro con metodo artigianale, trafilatura ruvida ed essiccazione lenta a bassa temperatura in celle statiche; produce anche gnocchi, chicche di patate e una linea di pasta istantanea in cup, con il proprio marchio e per marchi privati.",
+        "en": "Pasta Formia, a pasta maker owned by Paone Distribuzione srl, based in Formia with its plant in Minturno, province of Latina. Founded in 2018, it carries on the know-how of a family that has been making pasta for over 145 years. It makes durum wheat semolina pasta the artisan way, with rough extrusion and slow, low-temperature drying in static cells; it also makes potato gnocchi and chicche and a line of instant pasta in cups, under its own brand and for private labels.",
+        "de": "Pasta Formia, Nudelmanufaktur der Paone Distribuzione srl mit Sitz in Formia und Werk in Minturno, Provinz Latina. Gegründet 2018, führt sie die Erfahrung einer Familie fort, die seit über 145 Jahren Pasta herstellt. Hergestellt wird Pasta aus Hartweizengrieß nach handwerklicher Methode, mit rauer Ziehung und langsamer Trocknung bei niedriger Temperatur in statischen Kammern; dazu Kartoffelgnocchi und Chicche sowie eine Linie Instant-Pasta im Becher, unter eigener Marke und als Handelsmarke."
+      },
+      "sub": [
+        {
+          "k": "lunga",
+          "cat": "pasta",
+          "n": {
+            "it": "Pasta lunga",
+            "en": "Long pasta",
+            "de": "Lange Pasta"
+          }
+        },
+        {
+          "k": "corta",
+          "cat": "pasta",
+          "n": {
+            "it": "Pasta corta",
+            "en": "Short pasta",
+            "de": "Kurze Pasta"
+          }
+        },
+        {
+          "k": "speciali",
+          "cat": "pasta",
+          "n": {
+            "it": "Paste speciali",
+            "en": "Special pasta",
+            "de": "Spezialitäten"
+          }
+        },
+        {
+          "k": "gnocchi",
+          "cat": "pasta",
+          "n": {
+            "it": "Gnocchi e chicche",
+            "en": "Gnocchi and chicche",
+            "de": "Gnocchi und Chicche"
+          }
+        },
+        {
+          "k": "cups",
+          "cat": "pasta",
+          "n": {
+            "it": "Pasta in cup",
+            "en": "Pasta in cups",
+            "de": "Pasta im Becher"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Linguine",
+          "500 g · cartone da 12 pezzi",
+          "lunga"
+        ],
+        [
+          "Spaghetti",
+          "500 g · cartone da 12 pezzi",
+          "lunga"
+        ],
+        [
+          "Spaghetti alla chitarra",
+          "500 g · cartone da 12 pezzi",
+          "lunga"
+        ],
+        [
+          "Ziti",
+          "500 g · cartone da 12 pezzi",
+          "lunga"
+        ],
+        [
+          "Penne zita rigate",
+          "500 g · cartone da 12 pezzi",
+          "corta"
+        ],
+        [
+          "Ditali rigati",
+          "500 g · cartone da 12 pezzi",
+          "corta"
+        ],
+        [
+          "Fusilli",
+          "500 g · cartone da 12 pezzi",
+          "corta"
+        ],
+        [
+          "Mezzo rigatone",
+          "500 g · cartone da 12 pezzi",
+          "corta"
+        ],
+        [
+          "Rigatoni",
+          "500 g · cartone da 12 pezzi",
+          "corta"
+        ],
+        [
+          "Candele corte",
+          "500 g · cartone da 12 pezzi",
+          "corta"
+        ],
+        [
+          "Scialatielli",
+          "500 g · cartone da 12 pezzi",
+          "corta"
+        ],
+        [
+          "Calamarata",
+          "500 g · cartone da 12 pezzi",
+          "corta"
+        ],
+        [
+          "Paccheri",
+          "500 g · cartone da 12 pezzi",
+          "corta"
+        ],
+        [
+          "Lasagne di semola",
+          "500 g · cartone da 12 pezzi",
+          "speciali"
+        ],
+        [
+          "Gnocchi di patate",
+          "500 g · cartone da 12 pezzi",
+          "gnocchi"
+        ],
+        [
+          "Chicche di patate",
+          "500 g · cartone da 12 pezzi",
+          "gnocchi"
+        ],
+        [
+          "Fusilli al pesto",
+          "70 g · cartone da 8 pezzi",
+          "cups"
+        ],
+        [
+          "Fusilli pomodoro e basilico",
+          "70 g · cartone da 8 pezzi",
+          "cups"
+        ],
+        [
+          "Fusilli pomodoro, basilico e mozzarella",
+          "70 g · cartone da 8 pezzi",
+          "cups"
+        ],
+        [
+          "Maccheroncini al formaggio",
+          "70 g · cartone da 8 pezzi",
+          "cups"
+        ],
+        [
+          "Maccheroncini alla carbonara",
+          "70 g · cartone da 8 pezzi",
+          "cups"
+        ]
+      ],
+      "pd": {
+        "V-12-0": {
+          "c": [],
+          "d": {
+            "it": "Pasta lunga a sezione ovale. Pasta di semola di grano duro con lavorazione artigianale: trafilatura ruvida ed essiccazione lenta a bassa temperatura in celle statiche.",
+            "en": "Long pasta with an oval cross-section. Durum wheat semolina pasta made the artisan way: rough extrusion and slow, low-temperature drying in static cells.",
+            "de": "Lange Pasta mit ovalem Querschnitt. Pasta aus Hartweizengrieß in handwerklicher Herstellung: raue Ziehung und langsame Trocknung bei niedriger Temperatur in statischen Kammern."
+          },
+          "a": {
+            "it": "Cottura 9-10 minuti. Codice articolo 210213.",
+            "en": "Cooking time 9-10 minutes. Item code 210213.",
+            "de": "Kochzeit 9-10 Minuten. Artikelnummer 210213."
+          }
+        },
+        "V-12-1": {
+          "c": [],
+          "d": {
+            "it": "Pasta lunga a sezione tonda, diametro 2,2 mm. Pasta di semola di grano duro con lavorazione artigianale: trafilatura ruvida ed essiccazione lenta a bassa temperatura in celle statiche.",
+            "en": "Long round pasta, 2.2 mm in diameter. Durum wheat semolina pasta made the artisan way: rough extrusion and slow, low-temperature drying in static cells.",
+            "de": "Lange runde Pasta, 2,2 mm Durchmesser. Pasta aus Hartweizengrieß in handwerklicher Herstellung: raue Ziehung und langsame Trocknung bei niedriger Temperatur in statischen Kammern."
+          },
+          "a": {
+            "it": "Cottura 11-12 minuti. Codice articolo 210220.",
+            "en": "Cooking time 11-12 minutes. Item code 210220.",
+            "de": "Kochzeit 11-12 Minuten. Artikelnummer 210220."
+          }
+        },
+        "V-12-2": {
+          "c": [],
+          "d": {
+            "it": "Pasta lunga a sezione quadrata. Pasta di semola di grano duro con lavorazione artigianale: trafilatura ruvida ed essiccazione lenta a bassa temperatura in celle statiche.",
+            "en": "Long pasta with a square cross-section. Durum wheat semolina pasta made the artisan way: rough extrusion and slow, low-temperature drying in static cells.",
+            "de": "Lange Pasta mit quadratischem Querschnitt. Pasta aus Hartweizengrieß in handwerklicher Herstellung: raue Ziehung und langsame Trocknung bei niedriger Temperatur in statischen Kammern."
+          },
+          "a": {
+            "it": "Cottura 10-11 minuti. Codice articolo 210107.",
+            "en": "Cooking time 10-11 minutes. Item code 210107.",
+            "de": "Kochzeit 10-11 Minuten. Artikelnummer 210107."
+          }
+        },
+        "V-12-3": {
+          "c": [],
+          "d": {
+            "it": "Pasta lunga e forata, a sezione tonda. Pasta di semola di grano duro con lavorazione artigianale: trafilatura ruvida ed essiccazione lenta a bassa temperatura in celle statiche.",
+            "en": "Long, hollow round pasta. Durum wheat semolina pasta made the artisan way: rough extrusion and slow, low-temperature drying in static cells.",
+            "de": "Lange, hohle runde Pasta. Pasta aus Hartweizengrieß in handwerklicher Herstellung: raue Ziehung und langsame Trocknung bei niedriger Temperatur in statischen Kammern."
+          },
+          "a": {
+            "it": "Cottura 7-8 minuti. Codice articolo 210756.",
+            "en": "Cooking time 7-8 minutes. Item code 210756.",
+            "de": "Kochzeit 7-8 Minuten. Artikelnummer 210756."
+          }
+        },
+        "V-12-4": {
+          "c": [],
+          "d": {
+            "it": "Pasta corta rigata. Pasta di semola di grano duro con lavorazione artigianale: trafilatura ruvida ed essiccazione lenta a bassa temperatura in celle statiche.",
+            "en": "Ridged short pasta. Durum wheat semolina pasta made the artisan way: rough extrusion and slow, low-temperature drying in static cells.",
+            "de": "Geriffelte kurze Pasta. Pasta aus Hartweizengrieß in handwerklicher Herstellung: raue Ziehung und langsame Trocknung bei niedriger Temperatur in statischen Kammern."
+          },
+          "a": {
+            "it": "Cottura 9-10 minuti. Codice articolo 210176.",
+            "en": "Cooking time 9-10 minutes. Item code 210176.",
+            "de": "Kochzeit 9-10 Minuten. Artikelnummer 210176."
+          }
+        },
+        "V-12-5": {
+          "c": [],
+          "d": {
+            "it": "Pasta corta rigata, adatta a minestre e pasta e legumi. Pasta di semola di grano duro con lavorazione artigianale: trafilatura ruvida ed essiccazione lenta a bassa temperatura in celle statiche.",
+            "en": "Small ridged short pasta, good for soups and pasta with pulses. Durum wheat semolina pasta made the artisan way: rough extrusion and slow, low-temperature drying in static cells.",
+            "de": "Kleine geriffelte Pasta, ideal für Suppen und Pasta mit Hülsenfrüchten. Pasta aus Hartweizengrieß in handwerklicher Herstellung: raue Ziehung und langsame Trocknung bei niedriger Temperatur in statischen Kammern."
+          },
+          "a": {
+            "it": "Cottura 9-10 minuti. Codice articolo 210763.",
+            "en": "Cooking time 9-10 minutes. Item code 210763.",
+            "de": "Kochzeit 9-10 Minuten. Artikelnummer 210763."
+          }
+        },
+        "V-12-6": {
+          "c": [],
+          "d": {
+            "it": "Pasta corta a spirale. Pasta di semola di grano duro con lavorazione artigianale: trafilatura ruvida ed essiccazione lenta a bassa temperatura in celle statiche.",
+            "en": "Spiral short pasta. Durum wheat semolina pasta made the artisan way: rough extrusion and slow, low-temperature drying in static cells.",
+            "de": "Spiralförmige kurze Pasta. Pasta aus Hartweizengrieß in handwerklicher Herstellung: raue Ziehung und langsame Trocknung bei niedriger Temperatur in statischen Kammern."
+          },
+          "a": {
+            "it": "Cottura 9-10 minuti. Codice articolo 210732.",
+            "en": "Cooking time 9-10 minutes. Item code 210732.",
+            "de": "Kochzeit 9-10 Minuten. Artikelnummer 210732."
+          }
+        },
+        "V-12-7": {
+          "c": [],
+          "d": {
+            "it": "Pasta corta rigata, versione corta del rigatone. Pasta di semola di grano duro con lavorazione artigianale: trafilatura ruvida ed essiccazione lenta a bassa temperatura in celle statiche.",
+            "en": "Ridged short pasta, a shorter version of rigatoni. Durum wheat semolina pasta made the artisan way: rough extrusion and slow, low-temperature drying in static cells.",
+            "de": "Geriffelte kurze Pasta, kürzere Variante der Rigatoni. Pasta aus Hartweizengrieß in handwerklicher Herstellung: raue Ziehung und langsame Trocknung bei niedriger Temperatur in statischen Kammern."
+          },
+          "a": {
+            "it": "Codice articolo 210725.",
+            "en": "Item code 210725.",
+            "de": "Artikelnummer 210725."
+          }
+        },
+        "V-12-8": {
+          "c": [],
+          "d": {
+            "it": "Pasta corta rigata di grande diametro. Pasta di semola di grano duro con lavorazione artigianale: trafilatura ruvida ed essiccazione lenta a bassa temperatura in celle statiche.",
+            "en": "Large ridged short pasta. Durum wheat semolina pasta made the artisan way: rough extrusion and slow, low-temperature drying in static cells.",
+            "de": "Große geriffelte kurze Pasta. Pasta aus Hartweizengrieß in handwerklicher Herstellung: raue Ziehung und langsame Trocknung bei niedriger Temperatur in statischen Kammern."
+          },
+          "a": {
+            "it": "Codice articolo 210152.",
+            "en": "Item code 210152.",
+            "de": "Artikelnummer 210152."
+          }
+        },
+        "V-12-9": {
+          "c": [],
+          "d": {
+            "it": "Pasta corta liscia a tubo lungo. Pasta di semola di grano duro con lavorazione artigianale: trafilatura ruvida ed essiccazione lenta a bassa temperatura in celle statiche.",
+            "en": "Smooth tube-shaped short pasta. Durum wheat semolina pasta made the artisan way: rough extrusion and slow, low-temperature drying in static cells.",
+            "de": "Glatte, röhrenförmige kurze Pasta. Pasta aus Hartweizengrieß in handwerklicher Herstellung: raue Ziehung und langsame Trocknung bei niedriger Temperatur in statischen Kammern."
+          },
+          "a": {
+            "it": "Codice articolo 210237.",
+            "en": "Item code 210237.",
+            "de": "Artikelnummer 210237."
+          }
+        },
+        "V-12-10": {
+          "c": [],
+          "d": {
+            "it": "Formato tipico della costiera campana. Pasta di semola di grano duro con lavorazione artigianale: trafilatura ruvida ed essiccazione lenta a bassa temperatura in celle statiche.",
+            "en": "A shape typical of the Campanian coast. Durum wheat semolina pasta made the artisan way: rough extrusion and slow, low-temperature drying in static cells.",
+            "de": "Ein typisches Format der kampanischen Küste. Pasta aus Hartweizengrieß in handwerklicher Herstellung: raue Ziehung und langsame Trocknung bei niedriger Temperatur in statischen Kammern."
+          },
+          "a": {
+            "it": "Cottura 12-13 minuti. Codice articolo 210183.",
+            "en": "Cooking time 12-13 minutes. Item code 210183.",
+            "de": "Kochzeit 12-13 Minuten. Artikelnummer 210183."
+          }
+        },
+        "V-12-11": {
+          "c": [],
+          "d": {
+            "it": "Anelli larghi di pasta, tipici della tradizione campana. Pasta di semola di grano duro con lavorazione artigianale: trafilatura ruvida ed essiccazione lenta a bassa temperatura in celle statiche.",
+            "en": "Wide rings of pasta, typical of Campanian tradition. Durum wheat semolina pasta made the artisan way: rough extrusion and slow, low-temperature drying in static cells.",
+            "de": "Breite Pastaringe aus der kampanischen Tradition. Pasta aus Hartweizengrieß in handwerklicher Herstellung: raue Ziehung und langsame Trocknung bei niedriger Temperatur in statischen Kammern."
+          },
+          "a": {
+            "it": "Cottura 12-13 minuti. Codice articolo 210190.",
+            "en": "Cooking time 12-13 minutes. Item code 210190.",
+            "de": "Kochzeit 12-13 Minuten. Artikelnummer 210190."
+          }
+        },
+        "V-12-12": {
+          "c": [],
+          "d": {
+            "it": "Grandi tubi di pasta, tipici della tradizione campana. Pasta di semola di grano duro con lavorazione artigianale: trafilatura ruvida ed essiccazione lenta a bassa temperatura in celle statiche.",
+            "en": "Large pasta tubes, typical of Campanian tradition. Durum wheat semolina pasta made the artisan way: rough extrusion and slow, low-temperature drying in static cells.",
+            "de": "Große Pastaröhren aus der kampanischen Tradition. Pasta aus Hartweizengrieß in handwerklicher Herstellung: raue Ziehung und langsame Trocknung bei niedriger Temperatur in statischen Kammern."
+          },
+          "a": {
+            "it": "Cottura 12-13 minuti. Codice articolo 210206.",
+            "en": "Cooking time 12-13 minutes. Item code 210206.",
+            "de": "Kochzeit 12-13 Minuten. Artikelnummer 210206."
+          }
+        },
+        "V-12-13": {
+          "c": [],
+          "d": {
+            "it": "Sfoglie per lasagne. Pasta di semola di grano duro con lavorazione artigianale: trafilatura ruvida ed essiccazione lenta a bassa temperatura in celle statiche.",
+            "en": "Lasagne sheets. Durum wheat semolina pasta made the artisan way: rough extrusion and slow, low-temperature drying in static cells.",
+            "de": "Lasagneplatten. Pasta aus Hartweizengrieß in handwerklicher Herstellung: raue Ziehung und langsame Trocknung bei niedriger Temperatur in statischen Kammern."
+          },
+          "a": {
+            "it": "Cottura 20 minuti. Codice articolo 210787.",
+            "en": "Cooking time 20 minutes. Item code 210787.",
+            "de": "Kochzeit 20 Minuten. Artikelnummer 210787."
+          }
+        },
+        "V-12-14": {
+          "c": [],
+          "d": {
+            "it": "Gnocchi di patate.",
+            "en": "Potato gnocchi.",
+            "de": "Kartoffelgnocchi."
+          },
+          "a": {
+            "it": "Cottura 2 minuti. Codice articolo 210039.",
+            "en": "Cooking time 2 minutes. Item code 210039.",
+            "de": "Kochzeit 2 Minuten. Artikelnummer 210039."
+          }
+        },
+        "V-12-15": {
+          "c": [],
+          "d": {
+            "it": "Chicche di patate, gnocchetti di piccolo formato.",
+            "en": "Chicche, small potato gnocchi.",
+            "de": "Chicche, kleine Kartoffelgnocchi."
+          },
+          "a": {
+            "it": "Cottura 2 minuti. Codice articolo 210046.",
+            "en": "Cooking time 2 minutes. Item code 210046.",
+            "de": "Kochzeit 2 Minuten. Artikelnummer 210046."
+          }
+        },
+        "V-12-16": {
+          "c": [],
+          "d": {
+            "it": "Pasta istantanea in cup, fusilli al pesto. Si aggiunge acqua calda fino al livello indicato, si lascia riposare 4 minuti e si mescola; in alternativa microonde a 700 W per 3-5 minuti.",
+            "en": "Instant pasta in a cup, fusilli with pesto. Add hot water up to the line, leave for 4 minutes and stir; or microwave at 700 W for 3-5 minutes.",
+            "de": "Instant-Pasta im Becher, Fusilli mit Pesto. Heißes Wasser bis zur Markierung einfüllen, 4 Minuten ziehen lassen und umrühren; oder 3-5 Minuten in der Mikrowelle bei 700 W."
+          },
+          "a": {
+            "it": "Codice articolo 211364.",
+            "en": "Item code 211364.",
+            "de": "Artikelnummer 211364."
+          }
+        },
+        "V-12-17": {
+          "c": [],
+          "d": {
+            "it": "Pasta istantanea in cup, fusilli al pomodoro e basilico. Si aggiunge acqua calda fino al livello indicato, si lascia riposare 4 minuti e si mescola; in alternativa microonde a 700 W per 3-5 minuti.",
+            "en": "Instant pasta in a cup, fusilli with tomato and basil. Add hot water up to the line, leave for 4 minutes and stir; or microwave at 700 W for 3-5 minutes.",
+            "de": "Instant-Pasta im Becher, Fusilli mit Tomate und Basilikum. Heißes Wasser bis zur Markierung einfüllen, 4 Minuten ziehen lassen und umrühren; oder 3-5 Minuten in der Mikrowelle bei 700 W."
+          },
+          "a": {
+            "it": "Codice articolo 211357.",
+            "en": "Item code 211357.",
+            "de": "Artikelnummer 211357."
+          }
+        },
+        "V-12-18": {
+          "c": [],
+          "d": {
+            "it": "Pasta istantanea in cup, fusilli al pomodoro, basilico e mozzarella. Si aggiunge acqua calda fino al livello indicato, si lascia riposare 4 minuti e si mescola; in alternativa microonde a 700 W per 3-5 minuti.",
+            "en": "Instant pasta in a cup, fusilli with tomato, basil and mozzarella. Add hot water up to the line, leave for 4 minutes and stir; or microwave at 700 W for 3-5 minutes.",
+            "de": "Instant-Pasta im Becher, Fusilli mit Tomate, Basilikum und Mozzarella. Heißes Wasser bis zur Markierung einfüllen, 4 Minuten ziehen lassen und umrühren; oder 3-5 Minuten in der Mikrowelle bei 700 W."
+          },
+          "a": {
+            "it": "Codice articolo 211371.",
+            "en": "Item code 211371.",
+            "de": "Artikelnummer 211371."
+          }
+        },
+        "V-12-19": {
+          "c": [],
+          "d": {
+            "it": "Pasta istantanea in cup, maccheroncini al formaggio. Si aggiunge acqua calda fino al livello indicato, si lascia riposare 4 minuti e si mescola; in alternativa microonde a 700 W per 3-5 minuti.",
+            "en": "Instant pasta in a cup, maccheroncini with cheese. Add hot water up to the line, leave for 4 minutes and stir; or microwave at 700 W for 3-5 minutes.",
+            "de": "Instant-Pasta im Becher, Maccheroncini mit Käse. Heißes Wasser bis zur Markierung einfüllen, 4 Minuten ziehen lassen und umrühren; oder 3-5 Minuten in der Mikrowelle bei 700 W."
+          },
+          "a": {
+            "it": "Codice articolo 211388.",
+            "en": "Item code 211388.",
+            "de": "Artikelnummer 211388."
+          }
+        },
+        "V-12-20": {
+          "c": [],
+          "d": {
+            "it": "Pasta istantanea in cup, maccheroncini alla carbonara. Si aggiunge acqua calda fino al livello indicato, si lascia riposare 4 minuti e si mescola; in alternativa microonde a 700 W per 3-5 minuti.",
+            "en": "Instant pasta in a cup, maccheroncini carbonara. Add hot water up to the line, leave for 4 minutes and stir; or microwave at 700 W for 3-5 minutes.",
+            "de": "Instant-Pasta im Becher, Maccheroncini Carbonara. Heißes Wasser bis zur Markierung einfüllen, 4 Minuten ziehen lassen und umrühren; oder 3-5 Minuten in der Mikrowelle bei 700 W."
+          },
+          "a": {
+            "it": "Codice articolo 211340.",
+            "en": "Item code 211340.",
+            "de": "Artikelnummer 211340."
+          }
+        }
+      },
+      "fonti": [
+        "https://pastaformia.it/images/PastaFormiaCatalogo2025.pdf",
+        "https://pastaformia.it/en/"
+      ]
     }
   ],
   "IMG": {
@@ -3911,6 +4366,27 @@ window.VETRINE = {
     "prod-V-11-8": "https://www.lacasaia.it/wp-content/uploads/2021/10/gruppo_vero_oltrepo.jpg",
     "prod-V-11-9": "https://www.lacasaia.it/wp-content/uploads/2021/10/gruppo_serata_importante.jpg",
     "prod-V-11-10": "https://www.lacasaia.it/wp-content/uploads/2021/10/gruppo_pinot.jpg",
-    "prod-V-11-11": "https://www.lacasaia.it/wp-content/uploads/2021/11/riso_carnaroli-scaled.jpg"
+    "prod-V-11-11": "https://www.lacasaia.it/wp-content/uploads/2021/11/riso_carnaroli-scaled.jpg",
+    "logo-V-12": "https://pastaformia.it/images/pasta-formia-logo.svg",
+    "prod-V-12-0": "https://pastaformia.it/media/yootheme/cache/e0/e06b3692.jpg",
+    "prod-V-12-1": "https://pastaformia.it/media/yootheme/cache/21/21c1eb46.jpg",
+    "prod-V-12-2": "https://pastaformia.it/media/yootheme/cache/dd/dda7fe26.jpg",
+    "prod-V-12-3": "https://pastaformia.it/media/yootheme/cache/67/6711f39f.jpg",
+    "prod-V-12-4": "https://pastaformia.it/media/yootheme/cache/c5/c59b6d84.jpg",
+    "prod-V-12-6": "https://pastaformia.it/media/yootheme/cache/f0/f0adcb00.jpg",
+    "prod-V-12-7": "https://pastaformia.it/media/yootheme/cache/24/24eb2034.jpg",
+    "prod-V-12-8": "https://pastaformia.it/media/yootheme/cache/29/29fa73a4.jpg",
+    "prod-V-12-9": "https://pastaformia.it/media/yootheme/cache/b6/b67d919a.jpg",
+    "prod-V-12-10": "https://pastaformia.it/media/yootheme/cache/3d/3db00ae9.jpg",
+    "prod-V-12-11": "https://pastaformia.it/media/yootheme/cache/02/0263e63f.jpg",
+    "prod-V-12-12": "https://pastaformia.it/media/yootheme/cache/48/48c89a94.jpg",
+    "prod-V-12-13": "https://pastaformia.it/media/yootheme/cache/ee/ee4aa24d.jpg",
+    "prod-V-12-14": "https://pastaformia.it/media/yootheme/cache/73/730db7c1.jpg",
+    "prod-V-12-15": "https://pastaformia.it/media/yootheme/cache/74/746d0a9c.jpg",
+    "prod-V-12-16": "https://pastaformia.it/media/yootheme/cache/74/74639afe.jpg",
+    "prod-V-12-17": "https://pastaformia.it/media/yootheme/cache/36/3626c082.jpg",
+    "prod-V-12-18": "https://pastaformia.it/media/yootheme/cache/62/6227a13f.jpg",
+    "prod-V-12-19": "https://pastaformia.it/media/yootheme/cache/1f/1f7c22f5.jpg",
+    "prod-V-12-20": "https://pastaformia.it/media/yootheme/cache/65/652d5920.jpg"
   }
 };
