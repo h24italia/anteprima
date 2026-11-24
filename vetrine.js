@@ -8055,6 +8055,329 @@ window.VETRINE = {
         "https://www.bonomonte.com/bonomonte/cantina/",
         "https://www.bonomonte.com/schedetecniche/"
       ]
+    },
+    {
+      "id": "V-22",
+      "n": "La Mosca Bianca",
+      "cat": "vino",
+      "reg": "Piemonte",
+      "city": "Nizza Monferrato (AT)",
+      "lat": 44.776,
+      "lng": 8.356,
+      "y": null,
+      "certs": [
+        "Bio",
+        "DOCG"
+      ],
+      "exp": [],
+      "lg": [
+        "it",
+        "en"
+      ],
+      "moq": null,
+      "d": {
+        "it": "Azienda agricola biologica sulle colline di Nizza Monferrato, nata dall'incontro tra Barbara, piemontese, che segue vendite e fiere, e Corrado, lombardo, che cura la vigna: due persone estranee all'agricoltura che hanno scelto di lasciare la città e imbottigliare fughe dalla monotonia. La loro filosofia è lo slow living: vini biologici, autentici e testardi, fatti con calma e senza stereotipi. In vigna solo rame e zolfo minerali in dosi ridotte, nessun prodotto di sintesi né diserbo; in cantina fermentazioni senza lieviti aggiunti e lunghi affinamenti. Producono Barbera d'Asti DOCG, Cabernet Sauvignon, Chardonnay in più versioni (affinato in legno, frizzante metodo ancestrale, orange wine), spumanti metodo classico, un Moscato da uve stramature e due grappe, in piccole quantità. In cantina organizzano wine tour con degustazione per gruppi fino a 15 persone, in italiano e in inglese. Ai locali propongono una collaborazione B2B con vini da raccontare al cliente.",
+        "en": "An organic farm in the hills of Nizza Monferrato, born from the meeting of Barbara, from Piedmont, who handles sales and fairs, and Corrado, from Lombardy, who looks after the vineyard: two outsiders to farming who left the city to bottle escapes from monotony. Their philosophy is slow living: organic, authentic and stubborn wines, made unhurriedly and without stereotypes. In the vineyard only mineral copper and sulphur in reduced doses, no synthetic products or herbicides; in the cellar fermentations with no added yeast and long ageing. They make Barbera d'Asti DOCG, Cabernet Sauvignon, Chardonnay in several styles (wood-aged, ancestral-method sparkling, orange wine), traditional-method sparkling wines, a Moscato from overripe grapes and two grappas, all in small quantities. At the winery they host wine tours with tastings for groups of up to 15, in Italian and English. For restaurants and bars they offer B2B partnerships with wines that invite storytelling.",
+        "de": "Biologisches Weingut in den Hügeln von Nizza Monferrato, entstanden aus der Begegnung von Barbara aus dem Piemont, die Verkauf und Messen betreut, und Corrado aus der Lombardei, der sich um den Weinberg kümmert: zwei Quereinsteiger, die die Stadt verlassen haben, um Fluchten aus der Monotonie in Flaschen zu füllen. Ihre Philosophie ist Slow Living: biologische, authentische und eigensinnige Weine, ohne Eile und ohne Klischees. Im Weinberg nur mineralisches Kupfer und Schwefel in reduzierter Menge, keine synthetischen Mittel oder Herbizide; im Keller Gärung ohne Reinzuchthefe und lange Reifung. Sie erzeugen Barbera d'Asti DOCG, Cabernet Sauvignon, Chardonnay in mehreren Stilen (im Holz ausgebaut, perlend nach Méthode ancestrale, Orange Wine), Schaumweine nach traditioneller Methode, einen Moscato aus überreifen Trauben und zwei Grappe, alles in kleinen Mengen. Im Weingut bieten sie Weintouren mit Verkostung für Gruppen bis 15 Personen auf Italienisch und Englisch an. Gastronomen bieten sie eine B2B-Zusammenarbeit mit Weinen, die man gern erzählt."
+      },
+      "sub": [
+        {
+          "k": "rossi",
+          "cat": "vino",
+          "n": {
+            "it": "Vini rossi",
+            "en": "Red wines",
+            "de": "Rotweine"
+          }
+        },
+        {
+          "k": "bianchi",
+          "cat": "vino",
+          "n": {
+            "it": "Vini bianchi e dolci",
+            "en": "White and sweet wines",
+            "de": "Weiß- und Süßweine"
+          }
+        },
+        {
+          "k": "spumanti",
+          "cat": "vino",
+          "n": {
+            "it": "Metodo classico",
+            "en": "Traditional method",
+            "de": "Traditionelle Methode"
+          }
+        },
+        {
+          "k": "grappe",
+          "cat": "liquori",
+          "n": {
+            "it": "Grappe",
+            "en": "Grappa",
+            "de": "Grappa"
+          }
+        }
+      ],
+      "p": [
+        [
+          "La S'cetta, Barbera d'Asti DOCG 2025",
+          "bottiglia da 750 ml",
+          "rossi"
+        ],
+        [
+          "Sgairun, Cabernet Sauvignon",
+          "bottiglia da 750 ml",
+          "rossi"
+        ],
+        [
+          "SuperEgo, Cabernet Sauvignon",
+          "bottiglia da 750 ml",
+          "rossi"
+        ],
+        [
+          "La Moisa, Chardonnay",
+          "bottiglia da 750 ml",
+          "bianchi"
+        ],
+        [
+          "Amourusa, Chardonnay frizzante metodo ancestrale",
+          "bottiglia da 750 ml",
+          "bianchi"
+        ],
+        [
+          "Bastian Contrari, Chardonnay orange wine",
+          "bottiglia da 750 ml",
+          "bianchi"
+        ],
+        [
+          "Saltamartì, Chardonnay rifermentato in bottiglia",
+          "bottiglia da 750 ml",
+          "bianchi"
+        ],
+        [
+          "Rus du Sul, Moscato Bianco da uve stramature",
+          "",
+          "bianchi"
+        ],
+        [
+          "Festina Lente, Brut Rosato metodo classico",
+          "bottiglia da 750 ml",
+          "spumanti"
+        ],
+        [
+          "Sursum Corda, Brut metodo classico",
+          "bottiglia da 750 ml",
+          "spumanti"
+        ],
+        [
+          "Gava Sagrin, grappa di Cabernet Sauvignon",
+          "",
+          "grappe"
+        ],
+        [
+          "Grappa Rus du Sul, grappa di Moscato",
+          "",
+          "grappe"
+        ]
+      ],
+      "pd": {
+        "V-22-0": {
+          "c": [
+            "DOCG",
+            "Bio"
+          ],
+          "pr": "18,00 €",
+          "d": {
+            "it": "Barbera 100% delle colline di Nizza Monferrato, vendemmiata a inizio-metà settembre a piena maturazione. Pigiadiraspatura e lunghe fermentazioni senza lieviti aggiunti, fermentazione e affinamento in acciaio. Rosso intenso, profumi di ciliegia, lampone, fragolina e mirtillo; morbido e sostenuto da buona acidità. Il nome evoca una ragazzina giovane e determinata: un vino giovane che promette di evolvere. Circa 5.000-6.000 bottiglie l'anno. Vigneti collinari a 200-210 m esposti a sud-ovest, su terreno argilloso con intercalazioni sabbiose; Guyot a potatura corta, 5.000 viti per ettaro, resa 50-60 quintali per ettaro, vendemmia manuale in cassetta. Coltivazione biologica: solo rame e zolfo minerali in dosi ridotte, nessun prodotto di sintesi né diserbo, erba sfalciata a mano.",
+            "en": "100% Barbera from the hills of Nizza Monferrato, picked fully ripe in early to mid September. Crushing and destemming, long fermentations with no added yeast, fermented and aged in steel. Deep red, with cherry, raspberry, wild strawberry and blueberry; soft and supported by good acidity. The name evokes a young, determined girl: a young wine with the potential to evolve. About 5,000-6,000 bottles a year. Hillside vineyards at 200-210 m facing south-west, on clay soil with sandy layers; short-pruned Guyot, 5,000 vines per hectare, yield 50-60 quintals per hectare, harvested by hand into crates. Organic farming: only mineral copper and sulphur in reduced doses, no synthetic products or herbicides, grass cut by hand.",
+            "de": "100% Barbera aus den Hügeln von Nizza Monferrato, Anfang bis Mitte September vollreif gelesen. Abbeeren und Quetschen, lange Gärungen ohne Reinzuchthefe, Gärung und Ausbau im Stahl. Intensives Rot, Duft nach Kirsche, Himbeere, Walderdbeere und Heidelbeere; weich, getragen von guter Säure. Der Name erinnert an ein junges, entschlossenes Mädchen: ein junger Wein mit Entwicklungspotenzial. Etwa 5.000-6.000 Flaschen im Jahr. Hanglagen auf 200-210 m mit Südwestausrichtung, auf Tonboden mit Sandeinlagerungen; Guyot mit kurzem Schnitt, 5.000 Reben je Hektar, Ertrag 50-60 Doppelzentner je Hektar, Handlese in Kisten. Biologischer Anbau: nur mineralisches Kupfer und Schwefel in reduzierter Menge, keine synthetischen Mittel oder Herbizide, Gras von Hand gemäht."
+          },
+          "a": {
+            "it": "A pranzo, a cena e all'aperitivo; con primi piatti, carni e cucina mediterranea. Abbinamento originale suggerito da Barbara e Corrado: tartare di carne alla piemontese con scaglie di grana, o cucina asiatica con salsa di soia.",
+            "en": "With lunch, dinner or as an aperitif; with pasta dishes, meat and Mediterranean cuisine. Barbara and Corrado's unusual pairing: Piedmontese beef tartare with grana shavings, or Asian dishes with soy sauce.",
+            "de": "Zum Mittag- und Abendessen oder als Aperitif; zu Pasta, Fleisch und mediterraner Küche. Ausgefallene Empfehlung von Barbara und Corrado: piemontesisches Tatar mit Grana-Spänen oder asiatische Küche mit Sojasauce."
+          }
+        },
+        "V-22-1": {
+          "c": [
+            "Bio"
+          ],
+          "pr": "21,00 € · 6 bottiglie 110,00 €",
+          "d": {
+            "it": "Cabernet Sauvignon 100% di Nizza Monferrato, vendemmiato a inizio-metà ottobre. Lunghe fermentazioni senza lieviti aggiunti, fermentazione in vasche di cemento e maturazione in tonneaux di rovere francese esausti per 12-18 mesi, poi 12-18 mesi in bottiglia; imbottigliato senza filtrazione. Rosso rubino intenso, sentori erbacei e speziati, tannino intenso ma elegante, ottima struttura. In piemontese Sgairun significa sprecone: un omaggio alla passione e alla fatica spese senza risparmio. Circa 5.000-6.000 bottiglie l'anno. Vigneti collinari a 200-210 m esposti a sud-ovest, su terreno argilloso con intercalazioni sabbiose; Guyot a potatura corta, 5.000 viti per ettaro, resa 50-60 quintali per ettaro, vendemmia manuale in cassetta. Coltivazione biologica: solo rame e zolfo minerali in dosi ridotte, nessun prodotto di sintesi né diserbo, erba sfalciata a mano.",
+            "en": "100% Cabernet Sauvignon from Nizza Monferrato, picked in early to mid October. Long fermentations with no added yeast, fermented in concrete tanks and aged in used French oak tonneaux for 12-18 months, then 12-18 months in bottle; bottled unfiltered. Deep ruby red, herbaceous and spicy notes, intense yet elegant tannins, great structure. In Piedmontese Sgairun means spendthrift: a tribute to the passion and effort lavished on it. About 5,000-6,000 bottles a year. Hillside vineyards at 200-210 m facing south-west, on clay soil with sandy layers; short-pruned Guyot, 5,000 vines per hectare, yield 50-60 quintals per hectare, harvested by hand into crates. Organic farming: only mineral copper and sulphur in reduced doses, no synthetic products or herbicides, grass cut by hand.",
+            "de": "100% Cabernet Sauvignon aus Nizza Monferrato, Anfang bis Mitte Oktober gelesen. Lange Gärungen ohne Reinzuchthefe, Gärung im Betontank und 12-18 Monate Ausbau in gebrauchten Tonneaux aus französischer Eiche, danach 12-18 Monate Flaschenreife; unfiltriert abgefüllt. Tiefes Rubinrot, krautige und würzige Noten, intensives, aber elegantes Tannin, sehr gute Struktur. Sgairun heißt auf Piemontesisch Verschwender: eine Hommage an die grenzenlose Leidenschaft und Mühe. Etwa 5.000-6.000 Flaschen im Jahr. Hanglagen auf 200-210 m mit Südwestausrichtung, auf Tonboden mit Sandeinlagerungen; Guyot mit kurzem Schnitt, 5.000 Reben je Hektar, Ertrag 50-60 Doppelzentner je Hektar, Handlese in Kisten. Biologischer Anbau: nur mineralisches Kupfer und Schwefel in reduzierter Menge, keine synthetischen Mittel oder Herbizide, Gras von Hand gemäht."
+          },
+          "a": {
+            "it": "Con piatti di carne importanti e con la cucina mediterranea. Barbara e Corrado lo suggeriscono anche fresco di cantina con finger food all'aperitivo.",
+            "en": "With rich meat dishes and Mediterranean cuisine. Barbara and Corrado also suggest it cellar-cool with finger food at aperitivo time.",
+            "de": "Zu kräftigen Fleischgerichten und mediterraner Küche. Barbara und Corrado empfehlen ihn auch kellerkühl mit Fingerfood zum Aperitif."
+          }
+        },
+        "V-22-2": {
+          "c": [
+            "Bio"
+          ],
+          "pr": "24,00 €",
+          "d": {
+            "it": "La versione più potente del Cabernet Sauvignon aziendale, vendemmiato a inizio-metà ottobre. Lunghe fermentazioni senza lieviti aggiunti, fermentazione in vasche di cemento e maturazione in tonneaux di rovere francese esausti per 60 mesi, poi 12-18 mesi in bottiglia. Rosso rubino intenso a tratti cupo, sentori erbacei e speziati, tannino intenso ed avvolgente, grande struttura e complessità. Circa 5.000-6.000 bottiglie l'anno. Vigneti collinari a 200-210 m esposti a sud-ovest, su terreno argilloso con intercalazioni sabbiose; Guyot a potatura corta, 5.000 viti per ettaro, resa 50-60 quintali per ettaro, vendemmia manuale in cassetta. Coltivazione biologica: solo rame e zolfo minerali in dosi ridotte, nessun prodotto di sintesi né diserbo, erba sfalciata a mano.",
+            "en": "The most powerful version of the estate's Cabernet Sauvignon, picked in early to mid October. Long fermentations with no added yeast, fermented in concrete tanks and aged in used French oak tonneaux for 60 months, then 12-18 months in bottle. Deep, at times dark ruby, herbaceous and spicy notes, intense and enveloping tannins, great structure and complexity. About 5,000-6,000 bottles a year. Hillside vineyards at 200-210 m facing south-west, on clay soil with sandy layers; short-pruned Guyot, 5,000 vines per hectare, yield 50-60 quintals per hectare, harvested by hand into crates. Organic farming: only mineral copper and sulphur in reduced doses, no synthetic products or herbicides, grass cut by hand.",
+            "de": "Die kraftvollste Version des Cabernet Sauvignon des Hauses, Anfang bis Mitte Oktober gelesen. Lange Gärungen ohne Reinzuchthefe, Gärung im Betontank und 60 Monate Ausbau in gebrauchten Tonneaux aus französischer Eiche, danach 12-18 Monate Flaschenreife. Tiefes, teils dunkles Rubinrot, krautige und würzige Noten, intensives, umhüllendes Tannin, große Struktur und Komplexität. Etwa 5.000-6.000 Flaschen im Jahr. Hanglagen auf 200-210 m mit Südwestausrichtung, auf Tonboden mit Sandeinlagerungen; Guyot mit kurzem Schnitt, 5.000 Reben je Hektar, Ertrag 50-60 Doppelzentner je Hektar, Handlese in Kisten. Biologischer Anbau: nur mineralisches Kupfer und Schwefel in reduzierter Menge, keine synthetischen Mittel oder Herbizide, Gras von Hand gemäht."
+          },
+          "a": {
+            "it": "Con piatti di carne importanti e come vino da meditazione. Abbinamento originale: mousse di cioccolato amaro.",
+            "en": "With rich meat dishes and as a meditation wine. Unusual pairing: dark chocolate mousse.",
+            "de": "Zu kräftigen Fleischgerichten und als Meditationswein. Ausgefallene Empfehlung: Mousse aus Bitterschokolade."
+          }
+        },
+        "V-22-3": {
+          "c": [
+            "Bio"
+          ],
+          "pr": "18,00 € · 6 bottiglie 92,00 €",
+          "d": {
+            "it": "Chardonnay 100% raccolto a piena maturazione, fermentato e affinato per un anno in botti grandi di rovere esauste; solo travasi, nessuna filtrazione. Giallo intenso, sentori di sale e frutta acida, fortemente sapido. Moisa in dialetto astigiano indica chi è un po' matto: un vino che sorprende. Circa 2.000-3.000 bottiglie l'anno. Vigneti in cima alla collina a 200-210 m esposti a nord-est, su terreno argilloso con intercalazioni sabbiose; Guyot a potatura corta, 5.000 viti per ettaro, resa 50-60 quintali per ettaro, vendemmia manuale in cassetta tra metà e fine agosto. Coltivazione biologica: solo rame e zolfo minerali in dosi ridotte, nessun prodotto di sintesi né diserbo, erba sfalciata a mano.",
+            "en": "100% Chardonnay picked fully ripe, fermented and aged for a year in large used oak casks; racked only, no filtration. Deep yellow, saline notes and tart fruit, strongly savoury. In the Asti dialect Moisa means a bit crazy: a wine that surprises. About 2,000-3,000 bottles a year. Hilltop vineyards at 200-210 m facing north-east, on clay soil with sandy layers; short-pruned Guyot, 5,000 vines per hectare, yield 50-60 quintals per hectare, harvested by hand into crates from mid to late August. Organic farming: only mineral copper and sulphur in reduced doses, no synthetic products or herbicides, grass cut by hand.",
+            "de": "100% Chardonnay, vollreif gelesen, ein Jahr in großen gebrauchten Eichenfässern vergoren und ausgebaut; nur abgestochen, nicht filtriert. Intensives Gelb, salzige Noten und säuerliche Frucht, sehr würzig. Moisa heißt im Dialekt von Asti ein bisschen verrückt: ein Wein, der überrascht. Etwa 2.000-3.000 Flaschen im Jahr. Lagen auf der Hügelkuppe auf 200-210 m mit Nordostausrichtung, auf Tonboden mit Sandeinlagerungen; Guyot mit kurzem Schnitt, 5.000 Reben je Hektar, Ertrag 50-60 Doppelzentner je Hektar, Handlese in Kisten von Mitte bis Ende August. Biologischer Anbau: nur mineralisches Kupfer und Schwefel in reduzierter Menge, keine synthetischen Mittel oder Herbizide, Gras von Hand gemäht."
+          },
+          "a": {
+            "it": "Dall'aperitivo alle cene informali, con piatti di pesce e cucina mediterranea. Abbinamento originale: tagliata di Fassona.",
+            "en": "From aperitivo to informal dinners, with fish and Mediterranean cuisine. Unusual pairing: sliced Fassona beef.",
+            "de": "Vom Aperitif bis zum zwanglosen Abendessen, zu Fisch und mediterraner Küche. Ausgefallene Empfehlung: Tagliata vom Fassona-Rind."
+          }
+        },
+        "V-22-4": {
+          "c": [
+            "Bio"
+          ],
+          "pr": "18,00 €",
+          "d": {
+            "it": "Chardonnay 100% raccolto in leggero anticipo, breve sosta sulle bucce e fermentazione fermata con il freddo lasciando un residuo zuccherino; imbottigliato, riprende a fermentare in bottiglia con i primi tepori della primavera secondo il metodo ancestrale, senza lieviti aggiunti. Ambrato, sentori di agrumi e frutta acida, bollicina fine ed elegante. Circa 2.000-3.000 bottiglie l'anno. Vigneti in cima alla collina a 200-210 m esposti a nord-est, su terreno argilloso con intercalazioni sabbiose; Guyot a potatura corta, 5.000 viti per ettaro, resa 50-60 quintali per ettaro, vendemmia manuale in cassetta tra metà e fine agosto. Coltivazione biologica: solo rame e zolfo minerali in dosi ridotte, nessun prodotto di sintesi né diserbo, erba sfalciata a mano.",
+            "en": "100% Chardonnay picked slightly early, briefly macerated on the skins and fermentation stopped by cold, leaving some residual sugar; once bottled it starts fermenting again with the first spring warmth, following the ancestral method, with no added yeast. Amber, citrus and tart fruit notes, fine and elegant bubbles. About 2,000-3,000 bottles a year. Hilltop vineyards at 200-210 m facing north-east, on clay soil with sandy layers; short-pruned Guyot, 5,000 vines per hectare, yield 50-60 quintals per hectare, harvested by hand into crates from mid to late August. Organic farming: only mineral copper and sulphur in reduced doses, no synthetic products or herbicides, grass cut by hand.",
+            "de": "100% Chardonnay, etwas früher gelesen, kurz auf der Schale und Gärung durch Kälte mit Restzucker gestoppt; in der Flasche setzt die Gärung mit den ersten Frühlingstagen wieder ein, nach der Méthode ancestrale, ohne Reinzuchthefe. Bernsteinfarben, Noten von Zitrus und säuerlicher Frucht, feine, elegante Perlage. Etwa 2.000-3.000 Flaschen im Jahr. Lagen auf der Hügelkuppe auf 200-210 m mit Nordostausrichtung, auf Tonboden mit Sandeinlagerungen; Guyot mit kurzem Schnitt, 5.000 Reben je Hektar, Ertrag 50-60 Doppelzentner je Hektar, Handlese in Kisten von Mitte bis Ende August. Biologischer Anbau: nur mineralisches Kupfer und Schwefel in reduzierter Menge, keine synthetischen Mittel oder Herbizide, Gras von Hand gemäht."
+          },
+          "a": {
+            "it": "Dall'aperitivo alle cene informali, con piatti di pesce. Abbinamento originale: sushi e pizza gourmet.",
+            "en": "From aperitivo to informal dinners, with fish. Unusual pairing: sushi and gourmet pizza.",
+            "de": "Vom Aperitif bis zum zwanglosen Abendessen, zu Fisch. Ausgefallene Empfehlung: Sushi und Gourmet-Pizza."
+          }
+        },
+        "V-22-5": {
+          "c": [
+            "Bio"
+          ],
+          "pr": "18,00 € (al momento non disponibile)",
+          "d": {
+            "it": "Orange wine da Chardonnay 100%: dopo la pigiadiraspatura lunghe fermentazioni sulle bucce senza lieviti aggiunti, in vasche d'acciaio. Colore fortemente ambrato, sentori di frutta matura, piacevole struttura e lieve tannicità, tanto da poter essere confuso con un rosso. È il vino di chi va oltre regole e consuetudini. Circa 2.000-3.000 bottiglie l'anno. Vigneti in cima alla collina a 200-210 m esposti a nord-est, su terreno argilloso con intercalazioni sabbiose; Guyot a potatura corta, 5.000 viti per ettaro, resa 50-60 quintali per ettaro, vendemmia manuale in cassetta tra metà e fine agosto. Coltivazione biologica: solo rame e zolfo minerali in dosi ridotte, nessun prodotto di sintesi né diserbo, erba sfalciata a mano.",
+            "en": "An orange wine from 100% Chardonnay: after crushing and destemming, long skin-contact fermentations with no added yeast in steel tanks. Deep amber colour, ripe fruit notes, pleasant structure and light tannins, so much so it can pass for a red. The wine for those who go beyond rules and habits. About 2,000-3,000 bottles a year. Hilltop vineyards at 200-210 m facing north-east, on clay soil with sandy layers; short-pruned Guyot, 5,000 vines per hectare, yield 50-60 quintals per hectare, harvested by hand into crates from mid to late August. Organic farming: only mineral copper and sulphur in reduced doses, no synthetic products or herbicides, grass cut by hand.",
+            "de": "Orange Wine aus 100% Chardonnay: nach dem Abbeeren lange Gärung auf der Schale ohne Reinzuchthefe im Stahltank. Kräftig bernsteinfarben, Noten reifer Frucht, angenehme Struktur und leichte Tannine, fast wie ein Rotwein. Der Wein für alle, die Regeln und Gewohnheiten hinter sich lassen. Etwa 2.000-3.000 Flaschen im Jahr. Lagen auf der Hügelkuppe auf 200-210 m mit Nordostausrichtung, auf Tonboden mit Sandeinlagerungen; Guyot mit kurzem Schnitt, 5.000 Reben je Hektar, Ertrag 50-60 Doppelzentner je Hektar, Handlese in Kisten von Mitte bis Ende August. Biologischer Anbau: nur mineralisches Kupfer und Schwefel in reduzierter Menge, keine synthetischen Mittel oder Herbizide, Gras von Hand gemäht."
+          },
+          "a": {
+            "it": "Con primi piatti, carni bianche e pesce grasso. Abbinamento originale: bruschette con burrata e acciughe.",
+            "en": "With pasta dishes, white meat and oily fish. Unusual pairing: bruschetta with burrata and anchovies.",
+            "de": "Zu Pasta, hellem Fleisch und fettem Fisch. Ausgefallene Empfehlung: Bruschetta mit Burrata und Sardellen."
+          }
+        },
+        "V-22-6": {
+          "c": [
+            "Bio"
+          ],
+          "pr": "13,00 € (al momento non disponibile)",
+          "d": {
+            "it": "Chardonnay 100% frizzante, raccolto in leggero anticipo; breve sosta sulle bucce, fermentazione fermata con il freddo e rifermentazione naturale in bottiglia in primavera secondo il metodo ancestrale, senza lieviti aggiunti. Ambrato, sentori di agrumi e frutta acida, bollicina fine. Saltamartì in dialetto indica gli insetti che saltano, come la cavalletta in etichetta. Circa 2.000-3.000 bottiglie l'anno. Vigneti in cima alla collina a 200-210 m esposti a nord-est, su terreno argilloso con intercalazioni sabbiose; Guyot a potatura corta, 5.000 viti per ettaro, resa 50-60 quintali per ettaro, vendemmia manuale in cassetta tra metà e fine agosto. Coltivazione biologica: solo rame e zolfo minerali in dosi ridotte, nessun prodotto di sintesi né diserbo, erba sfalciata a mano.",
+            "en": "100% sparkling Chardonnay picked slightly early; brief skin contact, fermentation stopped by cold and natural refermentation in bottle in spring, following the ancestral method, with no added yeast. Amber, citrus and tart fruit notes, fine bubbles. In dialect Saltamartì means jumping insects, like the grasshopper on the label. About 2,000-3,000 bottles a year. Hilltop vineyards at 200-210 m facing north-east, on clay soil with sandy layers; short-pruned Guyot, 5,000 vines per hectare, yield 50-60 quintals per hectare, harvested by hand into crates from mid to late August. Organic farming: only mineral copper and sulphur in reduced doses, no synthetic products or herbicides, grass cut by hand.",
+            "de": "Perlender 100% Chardonnay, etwas früher gelesen; kurz auf der Schale, Gärung durch Kälte gestoppt und natürliche Flaschengärung im Frühling nach der Méthode ancestrale, ohne Reinzuchthefe. Bernsteinfarben, Noten von Zitrus und säuerlicher Frucht, feine Perlage. Saltamartì heißt im Dialekt hüpfendes Insekt, wie die Heuschrecke auf dem Etikett. Etwa 2.000-3.000 Flaschen im Jahr. Lagen auf der Hügelkuppe auf 200-210 m mit Nordostausrichtung, auf Tonboden mit Sandeinlagerungen; Guyot mit kurzem Schnitt, 5.000 Reben je Hektar, Ertrag 50-60 Doppelzentner je Hektar, Handlese in Kisten von Mitte bis Ende August. Biologischer Anbau: nur mineralisches Kupfer und Schwefel in reduzierter Menge, keine synthetischen Mittel oder Herbizide, Gras von Hand gemäht."
+          },
+          "a": {
+            "it": "Dall'aperitivo alle cene informali, con piatti di pesce. Abbinamento originale: sushi e pizza gourmet.",
+            "en": "From aperitivo to informal dinners, with fish. Unusual pairing: sushi and gourmet pizza.",
+            "de": "Vom Aperitif bis zum zwanglosen Abendessen, zu Fisch. Ausgefallene Empfehlung: Sushi und Gourmet-Pizza."
+          }
+        },
+        "V-22-7": {
+          "c": [
+            "Bio"
+          ],
+          "pr": "27,00 €",
+          "d": {
+            "it": "Vino dolce da Moscato Bianco 100%: le uve raccolte surmature vengono essiccate in fruttaio per altri 4-5 mesi, poi torchiate; lunghe fermentazioni, leggera filtrazione e almeno 6 mesi in bottiglia. Giallo intenso, sentori di fiori e frutta matura, dolcissimo ma sostenuto da buona acidità, ottima struttura. In piemontese Rus du Sul richiama la fatica del lavoro sotto la canicola estiva. Prodotto solo nelle annate migliori. Vigneti in cima alla collina a 200-210 m esposti a nord-est, su terreno argilloso con intercalazioni sabbiose; Guyot a potatura corta, 5.000 viti per ettaro, resa 50-60 quintali per ettaro, vendemmia manuale in cassetta tra metà e fine agosto. Coltivazione biologica: solo rame e zolfo minerali in dosi ridotte, nessun prodotto di sintesi né diserbo, erba sfalciata a mano.",
+            "en": "A sweet wine from 100% Moscato Bianco: grapes picked overripe are dried in a fruit loft for another 4-5 months, then pressed; long fermentations, light filtration and at least 6 months in bottle. Deep yellow, floral and ripe fruit notes, very sweet yet balanced by good acidity, great structure. In Piedmontese Rus du Sul recalls the toil of working under the summer heat. Made only in the best vintages. Hilltop vineyards at 200-210 m facing north-east, on clay soil with sandy layers; short-pruned Guyot, 5,000 vines per hectare, yield 50-60 quintals per hectare, harvested by hand into crates from mid to late August. Organic farming: only mineral copper and sulphur in reduced doses, no synthetic products or herbicides, grass cut by hand.",
+            "de": "Süßwein aus 100% Moscato Bianco: die überreif gelesenen Trauben trocknen weitere 4-5 Monate auf dem Dachboden und werden dann gepresst; lange Gärung, leichte Filtration und mindestens 6 Monate Flaschenreife. Intensives Gelb, Noten von Blüten und reifer Frucht, sehr süß, aber von guter Säure getragen, große Struktur. Rus du Sul erinnert auf Piemontesisch an die Mühe der Arbeit in der Sommerhitze. Nur in den besten Jahrgängen erzeugt. Lagen auf der Hügelkuppe auf 200-210 m mit Nordostausrichtung, auf Tonboden mit Sandeinlagerungen; Guyot mit kurzem Schnitt, 5.000 Reben je Hektar, Ertrag 50-60 Doppelzentner je Hektar, Handlese in Kisten von Mitte bis Ende August. Biologischer Anbau: nur mineralisches Kupfer und Schwefel in reduzierter Menge, keine synthetischen Mittel oder Herbizide, Gras von Hand gemäht."
+          },
+          "a": {
+            "it": "Con pasticceria secca e formaggi erborinati, o da solo come vino da meditazione. Abbinamento originale: croccante di frutta secca e paste di mandorla.",
+            "en": "With dry pastries and blue cheeses, or on its own as a meditation wine. Unusual pairing: nut brittle and almond pastries.",
+            "de": "Zu trockenem Gebäck und Blauschimmelkäse oder pur als Meditationswein. Ausgefallene Empfehlung: Nusskrokant und Mandelgebäck."
+          }
+        },
+        "V-22-8": {
+          "c": [
+            "Bio"
+          ],
+          "pr": "25,00 €",
+          "d": {
+            "it": "Spumante brut rosato metodo classico millesimato da Cabernet Sauvignon 100%, oltre 30 mesi sui lieviti, senza zuccheri aggiunti. Bollicine fini ed eleganti. Festina lente, dal latino affrettati lentamente: agire con prontezza ma con ponderazione. Prodotto solo nelle annate migliori. Vigneti in cima alla collina a 200-210 m esposti a nord-est, su terreno argilloso con intercalazioni sabbiose; Guyot a potatura corta, 5.000 viti per ettaro, resa 50-60 quintali per ettaro, vendemmia manuale in cassetta tra metà e fine agosto. Coltivazione biologica: solo rame e zolfo minerali in dosi ridotte, nessun prodotto di sintesi né diserbo, erba sfalciata a mano.",
+            "en": "A vintage brut rosé traditional-method sparkling wine from 100% Cabernet Sauvignon, over 30 months on the lees, with no added sugar. Fine, elegant bubbles. Festina lente, Latin for make haste slowly: act promptly but thoughtfully. Made only in the best vintages. Hilltop vineyards at 200-210 m facing north-east, on clay soil with sandy layers; short-pruned Guyot, 5,000 vines per hectare, yield 50-60 quintals per hectare, harvested by hand into crates from mid to late August. Organic farming: only mineral copper and sulphur in reduced doses, no synthetic products or herbicides, grass cut by hand.",
+            "de": "Jahrgangs-Brut-Rosé nach traditioneller Methode aus 100% Cabernet Sauvignon, über 30 Monate auf der Hefe, ohne Zuckerzusatz. Feine, elegante Perlage. Festina lente, lateinisch Eile mit Weile: zügig, aber besonnen handeln. Nur in den besten Jahrgängen erzeugt. Lagen auf der Hügelkuppe auf 200-210 m mit Nordostausrichtung, auf Tonboden mit Sandeinlagerungen; Guyot mit kurzem Schnitt, 5.000 Reben je Hektar, Ertrag 50-60 Doppelzentner je Hektar, Handlese in Kisten von Mitte bis Ende August. Biologischer Anbau: nur mineralisches Kupfer und Schwefel in reduzierter Menge, keine synthetischen Mittel oder Herbizide, Gras von Hand gemäht."
+          },
+          "a": {
+            "it": "Per le feste, con aperitivi e antipasti; Barbara e Corrado lo abbinano a cucina mediterranea, formaggi e piatti dai gusti decisi.",
+            "en": "For celebrations, with aperitivo and starters; Barbara and Corrado pair it with Mediterranean food, cheeses and bold-flavoured dishes.",
+            "de": "Für Feste, zu Aperitif und Vorspeisen; Barbara und Corrado kombinieren ihn mit mediterraner Küche, Käse und kräftigen Gerichten."
+          }
+        },
+        "V-22-9": {
+          "c": [
+            "Bio"
+          ],
+          "pr": "26,00 €",
+          "d": {
+            "it": "Spumante brut metodo classico millesimato da Chardonnay 100%, 30 mesi sui lieviti, senza zuccheri aggiunti. Bollicine fini ed eleganti. Sursum corda, dal latino in alto i cuori: un messaggio di speranza. Prodotto solo nelle annate migliori. Vigneti in cima alla collina a 200-210 m esposti a nord-est, su terreno argilloso con intercalazioni sabbiose; Guyot a potatura corta, 5.000 viti per ettaro, resa 50-60 quintali per ettaro, vendemmia manuale in cassetta tra metà e fine agosto. Coltivazione biologica: solo rame e zolfo minerali in dosi ridotte, nessun prodotto di sintesi né diserbo, erba sfalciata a mano.",
+            "en": "A vintage brut traditional-method sparkling wine from 100% Chardonnay, 30 months on the lees, with no added sugar. Fine, elegant bubbles. Sursum corda, Latin for lift up your hearts: a message of hope. Made only in the best vintages. Hilltop vineyards at 200-210 m facing north-east, on clay soil with sandy layers; short-pruned Guyot, 5,000 vines per hectare, yield 50-60 quintals per hectare, harvested by hand into crates from mid to late August. Organic farming: only mineral copper and sulphur in reduced doses, no synthetic products or herbicides, grass cut by hand.",
+            "de": "Jahrgangs-Brut nach traditioneller Methode aus 100% Chardonnay, 30 Monate auf der Hefe, ohne Zuckerzusatz. Feine, elegante Perlage. Sursum corda, lateinisch erhebet die Herzen: eine Botschaft der Hoffnung. Nur in den besten Jahrgängen erzeugt. Lagen auf der Hügelkuppe auf 200-210 m mit Nordostausrichtung, auf Tonboden mit Sandeinlagerungen; Guyot mit kurzem Schnitt, 5.000 Reben je Hektar, Ertrag 50-60 Doppelzentner je Hektar, Handlese in Kisten von Mitte bis Ende August. Biologischer Anbau: nur mineralisches Kupfer und Schwefel in reduzierter Menge, keine synthetischen Mittel oder Herbizide, Gras von Hand gemäht."
+          },
+          "a": {
+            "it": "Per le feste, con aperitivi e antipasti. Abbinamento originale: dolci al cucchiaio come crème caramel o crema catalana.",
+            "en": "For celebrations, with aperitivo and starters. Unusual pairing: spoon desserts such as crème caramel or crema catalana.",
+            "de": "Für Feste, zu Aperitif und Vorspeisen. Ausgefallene Empfehlung: Löffeldesserts wie Crème caramel oder Crema catalana."
+          }
+        },
+        "V-22-10": {
+          "c": [],
+          "pr": "26,00 €",
+          "d": {
+            "it": "Grappa piemontese distillata con alambicco a bagnomaria dalle vinacce del loro Cabernet Sauvignon; morbida ed elegante. Gava Sagrin in dialetto significa togli i problemi. Circa 500 bottiglie l'anno.",
+            "en": "Piedmontese grappa distilled in a bain-marie still from the pomace of their own Cabernet Sauvignon; smooth and elegant. In dialect Gava Sagrin means take away your worries. About 500 bottles a year.",
+            "de": "Piemontesischer Grappa, im Wasserbad-Brennkolben aus dem Trester des eigenen Cabernet Sauvignon destilliert; weich und elegant. Gava Sagrin heißt im Dialekt vertreib die Sorgen. Etwa 500 Flaschen im Jahr."
+          },
+          "a": {
+            "it": "Da meditazione, per un momento di relax: l'espressione dello slow living.",
+            "en": "For meditation and relaxing moments: the essence of slow living.",
+            "de": "Zum Genießen in Ruhe: Ausdruck des Slow Living."
+          }
+        },
+        "V-22-11": {
+          "c": [],
+          "pr": "26,00 €",
+          "d": {
+            "it": "Grappa piemontese distillata con alambicco a bagnomaria dalle vinacce del loro Moscato surmaturo; morbida, elegante e molto erbacea. Circa 300 bottiglie l'anno.",
+            "en": "Piedmontese grappa distilled in a bain-marie still from the pomace of their overripe Moscato; smooth, elegant and very herbaceous. About 300 bottles a year.",
+            "de": "Piemontesischer Grappa, im Wasserbad-Brennkolben aus dem Trester ihres überreifen Moscato destilliert; weich, elegant und sehr kräuterig. Etwa 300 Flaschen im Jahr."
+          },
+          "a": {
+            "it": "Da meditazione, per un momento di relax: l'espressione dello slow living.",
+            "en": "For meditation and relaxing moments: the essence of slow living.",
+            "de": "Zum Genießen in Ruhe: Ausdruck des Slow Living."
+          }
+        }
+      },
+      "fonti": [
+        "https://lamoscabiancabio.it/vini-biologici/",
+        "https://lamoscabiancabio.it/",
+        "https://lamoscabiancabio.it/b2b/",
+        "https://lamoscabiancabio.it/faq/",
+        "https://lamoscabiancabio.it/contatti/"
+      ]
     }
   ],
   "IMG": {
@@ -8390,6 +8713,19 @@ window.VETRINE = {
     "prod-V-21-7": "https://www.riblo.it/wp-content/uploads/2026/04/Bag-in-box-Toscana-I.G.T.-Rosso-azienda-Bonomonte.jpeg",
     "prod-V-21-8": "https://www.riblo.it/wp-content/uploads/2026/04/BonoMonte-Squillantino-Olio-Extravergine-di-Oliva-Toscano-bottiglia-500-ml.jpg",
     "prod-V-21-9": "https://www.riblo.it/wp-content/uploads/2026/11/Bonomonte-Olio-extra-vergine-di-oliva-squillantino-magnum-olio.jpeg",
-    "prod-V-21-10": "https://www.riblo.it/wp-content/uploads/2026/04/Lattina-Olio-Extravergine-di-Oliva-Toscano-3-Litri.jpeg"
+    "prod-V-21-10": "https://www.riblo.it/wp-content/uploads/2026/04/Lattina-Olio-Extravergine-di-Oliva-Toscano-3-Litri.jpeg",
+    "logo-V-22": "https://lamoscabiancabio.it/grafica/lamoscabianca-azienda-agricola-biologica-monferrato.png",
+    "prod-V-22-0": "https://lamoscabiancabio.it/wp-content/uploads/Barbera-3.jpeg",
+    "prod-V-22-1": "https://lamoscabiancabio.it/wp-content/uploads/20220918_141905-scaled.jpg",
+    "prod-V-22-2": "https://lamoscabiancabio.it/wp-content/uploads/superego-2017.jpeg",
+    "prod-V-22-3": "https://lamoscabiancabio.it/wp-content/uploads/IMG-20240426-WA0015.jpg",
+    "prod-V-22-4": "https://lamoscabiancabio.it/wp-content/uploads/amourusa-1.jpeg",
+    "prod-V-22-5": "https://lamoscabiancabio.it/wp-content/uploads/20220918_141819-scaled.jpg",
+    "prod-V-22-6": "https://lamoscabiancabio.it/wp-content/uploads/20220918_141852-scaled.jpg",
+    "prod-V-22-7": "https://lamoscabiancabio.it/wp-content/uploads/passito-moscato-piemonte-ros-du-sul-biologico.jpg",
+    "prod-V-22-8": "https://lamoscabiancabio.it/wp-content/uploads/FESTINA-LENTE-3.jpeg",
+    "prod-V-22-9": "https://lamoscabiancabio.it/wp-content/uploads/sursum-coda-2026-3.jpeg",
+    "prod-V-22-10": "https://lamoscabiancabio.it/wp-content/uploads/grappa-gava.jpg",
+    "prod-V-22-11": "https://lamoscabiancabio.it/wp-content/uploads/grappa-rus-du-sul-500.jpeg"
   }
 };
