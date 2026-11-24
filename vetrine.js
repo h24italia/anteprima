@@ -7764,6 +7764,297 @@ window.VETRINE = {
       "fonti": [
         "https://nocciolinolanghe.com/"
       ]
+    },
+    {
+      "id": "V-21",
+      "n": "BonoMonte, Famiglia Formichi",
+      "cat": "vino",
+      "reg": "Toscana",
+      "city": "Barberino Tavarnelle (FI)",
+      "lat": 43.553,
+      "lng": 11.197,
+      "y": 1982,
+      "certs": [
+        "DOCG",
+        "IGT"
+      ],
+      "exp": [],
+      "lg": [
+        "it",
+        "en"
+      ],
+      "moq": null,
+      "logoBg": "#000000",
+      "d": {
+        "it": "Azienda agricola di famiglia nel cuore del Chianti, fondata nel 1982 da Armando Formichi e Gina Guidotti, che intuirono il potenziale di queste colline e realizzarono il sogno di condurre un'azienda agricola. A circa 300 metri di altitudine, con escursioni termiche tra giorno e notte di oltre 10 °C che preservano gli aromi delle uve, l'azienda coltiva circa 10 ettari di vigneti a Sangiovese esposti a sud e circa 8 ettari di uliveti di Moraiolo, Leccino e Correggiolo. In cantina le uve sono vinificate con tecniche tradizionali: fermentazione in tini di cemento, malolattica e maturazione in acciaio o in barrique. Producono Chianti DOCG, Chianti Riserva, i Toscana IGT Camp'Albracco e Ros'Astro, vino in bag in box e l'olio extravergine Squillantino. L'azienda accoglie anche visitatori con degustazioni in cantina per piccoli gruppi, tour tra vigneto e cantina, esperienze di arte e vino e picnic tra i filari.",
+        "en": "A family farm in the heart of Chianti, founded in 1982 by Armando Formichi and Gina Guidotti, who saw the potential of these hills and fulfilled their dream of running a farm. At around 300 metres, with day-night temperature swings of over 10 °C that preserve the grapes' aromas, the estate farms about 10 hectares of south-facing Sangiovese vineyards and about 8 hectares of Moraiolo, Leccino and Correggiolo olive groves. In the cellar the grapes are made into wine with traditional methods: fermentation in concrete tanks, malolactic, and ageing in steel or barriques. The range includes Chianti DOCG, Chianti Riserva, the Toscana IGT wines Camp'Albracco and Ros'Astro, bag-in-box wine and Squillantino extra virgin olive oil. The estate also welcomes visitors with small-group cellar tastings, vineyard and cellar tours, art and wine sessions and picnics among the vines.",
+        "de": "Familienweingut im Herzen des Chianti, 1982 von Armando Formichi und Gina Guidotti gegründet, die das Potenzial dieser Hügel erkannten und sich den Traum eines eigenen Landguts erfüllten. Auf rund 300 Metern Höhe, mit Temperaturunterschieden zwischen Tag und Nacht von über 10 °C, die die Aromen der Trauben bewahren, bewirtschaftet der Betrieb etwa 10 Hektar nach Süden ausgerichtete Sangiovese-Reben und etwa 8 Hektar Olivenhaine mit Moraiolo, Leccino und Correggiolo. Im Keller werden die Trauben traditionell verarbeitet: Gärung in Betontanks, malolaktische Gärung und Ausbau in Stahl oder Barrique. Im Sortiment: Chianti DOCG, Chianti Riserva, die Toscana IGT Camp'Albracco und Ros'Astro, Wein im Bag-in-Box und das native Olivenöl extra Squillantino. Das Gut empfängt auch Besucher mit Kellerverkostungen in kleinen Gruppen, Touren durch Weinberg und Keller, Kunst-und-Wein-Erlebnissen und Picknicks zwischen den Reben."
+      },
+      "sub": [
+        {
+          "k": "chianti",
+          "cat": "vino",
+          "n": {
+            "it": "Chianti DOCG",
+            "en": "Chianti DOCG",
+            "de": "Chianti DOCG"
+          }
+        },
+        {
+          "k": "igt",
+          "cat": "vino",
+          "n": {
+            "it": "Toscana IGT",
+            "en": "Toscana IGT",
+            "de": "Toscana IGT"
+          }
+        },
+        {
+          "k": "olio",
+          "cat": "olio",
+          "n": {
+            "it": "Olio extravergine",
+            "en": "Extra virgin olive oil",
+            "de": "Natives Olivenöl extra"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Chianti DOCG",
+          "bottiglia da 750 ml",
+          "chianti"
+        ],
+        [
+          "Chianti DOCG in fiasco",
+          "fiasco da 750 ml",
+          "chianti"
+        ],
+        [
+          "Chianti DOCG Riserva",
+          "bottiglia da 750 ml",
+          "chianti"
+        ],
+        [
+          "Cofanetto calici degustazione e Chianti DOCG",
+          "bottiglia da 750 ml",
+          "chianti"
+        ],
+        [
+          "Camp'Albracco Toscana IGT Rosso",
+          "bottiglia da 750 ml",
+          "igt"
+        ],
+        [
+          "Camp'Albracco Toscana IGT Rosso Magnum",
+          "bottiglia da 1,5 litri",
+          "igt"
+        ],
+        [
+          "Ros'Astro Toscana IGT Rosato",
+          "bottiglia da 750 ml",
+          "igt"
+        ],
+        [
+          "Bag in box Toscana IGT Rosso Sangiovese",
+          "bag in box da 3 · 5 · 10 litri",
+          "igt"
+        ],
+        [
+          "Squillantino olio extravergine di oliva toscano",
+          "bottiglia da 0,5 litri · latta da 0,5 litri",
+          "olio"
+        ],
+        [
+          "Squillantino olio extravergine di oliva toscano Magnum",
+          "bottiglia da 1,5 litri",
+          "olio"
+        ],
+        [
+          "Olio extravergine di oliva toscano in latta",
+          "latta da 3 litri · latta da 5 litri",
+          "olio"
+        ]
+      ],
+      "pd": {
+        "V-21-0": {
+          "c": [
+            "DOCG"
+          ],
+          "pr": "9,00 €",
+          "d": {
+            "it": "Il Chianti dell'azienda, annata 2024. Sangiovese 100% da vigneti esposti a sud-sud ovest a 300 m s.l.m., su terreno di medio impasto tendente all'argilloso; allevamento a Guyot, resa 70 quintali per ettaro, vendemmia manuale dalla prima decade di ottobre. Diraspatura, macerazione a 28-30 °C per circa 10 giorni, pressatura soffice e fermentazione malolattica in tini di cemento; 6 mesi in acciaio e almeno 3 mesi in bottiglia. 13,5% vol, 85 kcal per 100 ml. Ingredienti: uve; conservante e antiossidante metabisolfito di potassio (contiene solfiti); stabilizzanti gomma arabica e mannoproteine di lieviti. Confezione: astuccio singolo e cartone da 2, 3 o 6 bottiglie.",
+            "en": "The estate Chianti, 2024 vintage. 100% Sangiovese from south-southwest facing vineyards at 300 m, on medium-textured clayey soil; Guyot training, yield 70 quintals per hectare, hand harvest from the first ten days of October. Destemming, maceration at 28-30 °C for about 10 days, soft pressing and malolactic fermentation in concrete tanks; 6 months in steel and at least 3 months in bottle. 13.5% ABV, 85 kcal per 100 ml. Ingredients: grapes; preservative and antioxidant potassium metabisulphite (contains sulphites); stabilisers gum arabic and yeast mannoproteins. Packaging: single gift box and cartons of 2, 3 or 6 bottles.",
+            "de": "Der Chianti des Weinguts, Jahrgang 2024. 100% Sangiovese aus nach Süd-Südwest ausgerichteten Lagen auf 300 m, auf mittelschwerem, tonhaltigem Boden; Guyot-Erziehung, Ertrag 70 Doppelzentner je Hektar, Handlese ab der ersten Oktoberdekade. Entrappen, Maischestandzeit bei 28-30 °C für etwa 10 Tage, sanftes Pressen und malolaktische Gärung in Betontanks; 6 Monate im Stahltank und mindestens 3 Monate auf der Flasche. 13,5% Vol., 85 kcal pro 100 ml. Zutaten: Trauben; Konservierungs- und Antioxidationsmittel Kaliummetabisulfit (enthält Sulfite); Stabilisatoren Gummi arabicum und Hefe-Mannoproteine. Verpackung: Einzelkarton und Kartons zu 2, 3 oder 6 Flaschen."
+          },
+          "a": {
+            "it": "Servire a 16-18 °C con salumi toscani, primi al ragù, carni alla griglia e formaggi di media stagionatura.",
+            "en": "Serve at 16-18 °C with Tuscan cured meats, pasta with ragù, grilled meat and medium-aged cheeses.",
+            "de": "Bei 16-18 °C zu toskanischer Wurst, Pasta mit Ragù, gegrilltem Fleisch und mittelalten Käsen servieren."
+          }
+        },
+        "V-21-1": {
+          "c": [
+            "DOCG"
+          ],
+          "pr": "10,30 €",
+          "d": {
+            "it": "Lo stesso Chianti 2024 nel tradizionale fiasco toscano impagliato. Sangiovese 100% da vigneti esposti a sud-sud ovest a 300 m s.l.m., su terreno di medio impasto tendente all'argilloso; allevamento a Guyot, resa 70 quintali per ettaro, vendemmia manuale dalla prima decade di ottobre. Diraspatura, macerazione a 28-30 °C per circa 10 giorni, pressatura soffice e fermentazione malolattica in tini di cemento; 6 mesi in acciaio e almeno 3 mesi in bottiglia. 13,5% vol, 85 kcal per 100 ml. Ingredienti: uve; conservante e antiossidante metabisolfito di potassio (contiene solfiti); stabilizzanti gomma arabica e mannoproteine di lieviti.",
+            "en": "The same 2024 Chianti in the traditional straw-covered Tuscan fiasco. 100% Sangiovese from south-southwest facing vineyards at 300 m, on medium-textured clayey soil; Guyot training, yield 70 quintals per hectare, hand harvest from the first ten days of October. Destemming, maceration at 28-30 °C for about 10 days, soft pressing and malolactic fermentation in concrete tanks; 6 months in steel and at least 3 months in bottle. 13.5% ABV, 85 kcal per 100 ml. Ingredients: grapes; preservative and antioxidant potassium metabisulphite (contains sulphites); stabilisers gum arabic and yeast mannoproteins.",
+            "de": "Derselbe Chianti 2024 im traditionellen, strohumflochtenen toskanischen Fiasco. 100% Sangiovese aus nach Süd-Südwest ausgerichteten Lagen auf 300 m, auf mittelschwerem, tonhaltigem Boden; Guyot-Erziehung, Ertrag 70 Doppelzentner je Hektar, Handlese ab der ersten Oktoberdekade. Entrappen, Maischestandzeit bei 28-30 °C für etwa 10 Tage, sanftes Pressen und malolaktische Gärung in Betontanks; 6 Monate im Stahltank und mindestens 3 Monate auf der Flasche. 13,5% Vol., 85 kcal pro 100 ml. Zutaten: Trauben; Konservierungs- und Antioxidationsmittel Kaliummetabisulfit (enthält Sulfite); Stabilisatoren Gummi arabicum und Hefe-Mannoproteine."
+          },
+          "a": {
+            "it": "Servire a 16-18 °C con salumi toscani, primi al ragù, carni alla griglia e formaggi di media stagionatura.",
+            "en": "Serve at 16-18 °C with Tuscan cured meats, pasta with ragù, grilled meat and medium-aged cheeses.",
+            "de": "Bei 16-18 °C zu toskanischer Wurst, Pasta mit Ragù, gegrilltem Fleisch und mittelalten Käsen servieren."
+          }
+        },
+        "V-21-2": {
+          "c": [
+            "DOCG"
+          ],
+          "pr": "12,00 €",
+          "d": {
+            "it": "Annata 2022. Sangiovese 100% da vigneti esposti a sud-sud ovest a 300 m s.l.m., allevati a cordone speronato, resa 70 quintali per ettaro, vendemmia manuale dalla prima decade di ottobre. Diraspatura, macerazione a 28-30 °C per circa 10 giorni, pressatura soffice e malolattica in tini di cemento; maturazione in barrique di rovere per circa 24-36 mesi e almeno 6 mesi in bottiglia. 13,5% vol. Ingredienti: uve; conservante e antiossidante metabisolfito di potassio (contiene solfiti); stabilizzanti gomma arabica e mannoproteine di lieviti. Confezione: astuccio singolo e cartone da 2, 3 o 6 bottiglie.",
+            "en": "2022 vintage. 100% Sangiovese from south-southwest facing vineyards at 300 m, spurred-cordon trained, yield 70 quintals per hectare, hand harvest from the first ten days of October. Destemming, maceration at 28-30 °C for about 10 days, soft pressing and malolactic in concrete tanks; aged in oak barriques for about 24-36 months and at least 6 months in bottle. 13.5% ABV. Ingredients: grapes; preservative and antioxidant potassium metabisulphite (contains sulphites); stabilisers gum arabic and yeast mannoproteins. Packaging: single gift box and cartons of 2, 3 or 6 bottles.",
+            "de": "Jahrgang 2022. 100% Sangiovese aus nach Süd-Südwest ausgerichteten Lagen auf 300 m, Zapfenschnitt-Kordon, Ertrag 70 Doppelzentner je Hektar, Handlese ab der ersten Oktoberdekade. Entrappen, Maischestandzeit bei 28-30 °C für etwa 10 Tage, sanftes Pressen und malolaktische Gärung in Betontanks; Ausbau im Eichenbarrique für etwa 24-36 Monate und mindestens 6 Monate Flaschenreife. 13,5% Vol. Zutaten: Trauben; Konservierungs- und Antioxidationsmittel Kaliummetabisulfit (enthält Sulfite); Stabilisatoren Gummi arabicum und Hefe-Mannoproteine. Verpackung: Einzelkarton und Kartons zu 2, 3 oder 6 Flaschen."
+          },
+          "a": {
+            "it": "Servire a 18 °C, aprendo la bottiglia qualche tempo prima, con arrosti, brasati, selvaggina e formaggi stagionati.",
+            "en": "Serve at 18 °C, opening the bottle a while beforehand, with roasts, braised meat, game and aged cheeses.",
+            "de": "Bei 18 °C servieren und etwas vorher öffnen; zu Braten, Schmorgerichten, Wild und gereiftem Käse."
+          }
+        },
+        "V-21-3": {
+          "c": [
+            "DOCG"
+          ],
+          "pr": "22,00 €",
+          "d": {
+            "it": "Confezione regalo con una bottiglia di Chianti DOCG 2024 e calici da degustazione. Sangiovese 100% da vigneti esposti a sud-sud ovest a 300 m s.l.m., su terreno di medio impasto tendente all'argilloso; allevamento a Guyot, resa 70 quintali per ettaro, vendemmia manuale dalla prima decade di ottobre. Diraspatura, macerazione a 28-30 °C per circa 10 giorni, pressatura soffice e fermentazione malolattica in tini di cemento; 6 mesi in acciaio e almeno 3 mesi in bottiglia. 13,5% vol, 85 kcal per 100 ml. Ingredienti: uve; conservante e antiossidante metabisolfito di potassio (contiene solfiti); stabilizzanti gomma arabica e mannoproteine di lieviti.",
+            "en": "Gift box with a bottle of 2024 Chianti DOCG and tasting glasses. 100% Sangiovese from south-southwest facing vineyards at 300 m, on medium-textured clayey soil; Guyot training, yield 70 quintals per hectare, hand harvest from the first ten days of October. Destemming, maceration at 28-30 °C for about 10 days, soft pressing and malolactic fermentation in concrete tanks; 6 months in steel and at least 3 months in bottle. 13.5% ABV, 85 kcal per 100 ml. Ingredients: grapes; preservative and antioxidant potassium metabisulphite (contains sulphites); stabilisers gum arabic and yeast mannoproteins.",
+            "de": "Geschenkbox mit einer Flasche Chianti DOCG 2024 und Degustationsgläsern. 100% Sangiovese aus nach Süd-Südwest ausgerichteten Lagen auf 300 m, auf mittelschwerem, tonhaltigem Boden; Guyot-Erziehung, Ertrag 70 Doppelzentner je Hektar, Handlese ab der ersten Oktoberdekade. Entrappen, Maischestandzeit bei 28-30 °C für etwa 10 Tage, sanftes Pressen und malolaktische Gärung in Betontanks; 6 Monate im Stahltank und mindestens 3 Monate auf der Flasche. 13,5% Vol., 85 kcal pro 100 ml. Zutaten: Trauben; Konservierungs- und Antioxidationsmittel Kaliummetabisulfit (enthält Sulfite); Stabilisatoren Gummi arabicum und Hefe-Mannoproteine."
+          },
+          "a": {
+            "it": "Idea regalo, anche aziendale. Servire il vino a 16-18 °C.",
+            "en": "A gift idea, also for corporate gifts. Serve the wine at 16-18 °C.",
+            "de": "Geschenkidee, auch für Firmen. Den Wein bei 16-18 °C servieren."
+          }
+        },
+        "V-21-4": {
+          "c": [
+            "IGT"
+          ],
+          "pr": "11,00 €",
+          "d": {
+            "it": "Il rosso di punta dell'azienda, annata 2023, con l'etichetta del bracco italiano. Sangiovese 70% e Merlot 30% da vigneti esposti a sud-sud ovest a 300 m s.l.m., su terreno di medio impasto tendente all'argilloso; allevamento a Guyot, resa 70 quintali per ettaro, vendemmia manuale dalla prima decade di ottobre. Diraspatura, macerazione a 28-30 °C per circa 10 giorni, pressatura soffice e malolattica in tini di cemento; 12 mesi in barrique da 2,25 hl e almeno 6 mesi in bottiglia. 14% vol, 77 kcal per 100 ml. Ingredienti: uve; conservante e antiossidante metabisolfito di potassio (contiene solfiti); stabilizzanti gomma arabica e mannoproteine di lieviti. Confezione: astuccio singolo e cartone da 2, 3 o 6 bottiglie.",
+            "en": "The estate's flagship red, 2023 vintage, with the Italian pointer on the label. 70% Sangiovese and 30% Merlot from south-southwest facing vineyards at 300 m, on medium-textured clayey soil; Guyot training, yield 70 quintals per hectare, hand harvest from the first ten days of October. Destemming, maceration at 28-30 °C for about 10 days, soft pressing and malolactic in concrete tanks; 12 months in 2.25 hl barriques and at least 6 months in bottle. 14% ABV, 77 kcal per 100 ml. Ingredients: grapes; preservative and antioxidant potassium metabisulphite (contains sulphites); stabilisers gum arabic and yeast mannoproteins. Packaging: single gift box and cartons of 2, 3 or 6 bottles.",
+            "de": "Der Spitzenrotwein des Weinguts, Jahrgang 2023, mit dem Bracco italiano auf dem Etikett. 70% Sangiovese und 30% Merlot aus nach Süd-Südwest ausgerichteten Lagen auf 300 m, auf mittelschwerem, tonhaltigem Boden; Guyot-Erziehung, Ertrag 70 Doppelzentner je Hektar, Handlese ab der ersten Oktoberdekade. Entrappen, Maischestandzeit bei 28-30 °C für etwa 10 Tage, sanftes Pressen und malolaktische Gärung in Betontanks; 12 Monate im 2,25-hl-Barrique und mindestens 6 Monate Flaschenreife. 14% Vol., 77 kcal pro 100 ml. Zutaten: Trauben; Konservierungs- und Antioxidationsmittel Kaliummetabisulfit (enthält Sulfite); Stabilisatoren Gummi arabicum und Hefe-Mannoproteine. Verpackung: Einzelkarton und Kartons zu 2, 3 oder 6 Flaschen."
+          },
+          "a": {
+            "it": "Servire a 18 °C con carni rosse alla brace, arrosti, pecorino stagionato.",
+            "en": "Serve at 18 °C with grilled red meat, roasts and aged pecorino.",
+            "de": "Bei 18 °C zu gegrilltem rotem Fleisch, Braten und gereiftem Pecorino servieren."
+          }
+        },
+        "V-21-5": {
+          "c": [
+            "IGT"
+          ],
+          "pr": "22,00 €",
+          "d": {
+            "it": "Il Camp'Albracco in formato Magnum, con chiusura in ceralacca e astuccio regalo. Sangiovese 70% e Merlot 30% da vigneti esposti a sud-sud ovest a 300 m s.l.m., su terreno di medio impasto tendente all'argilloso; allevamento a Guyot, resa 70 quintali per ettaro, vendemmia manuale dalla prima decade di ottobre. Diraspatura, macerazione a 28-30 °C per circa 10 giorni, pressatura soffice e malolattica in tini di cemento; 12 mesi in barrique da 2,25 hl e almeno 6 mesi in bottiglia. 14% vol, 77 kcal per 100 ml. Ingredienti: uve; conservante e antiossidante metabisolfito di potassio (contiene solfiti); stabilizzanti gomma arabica e mannoproteine di lieviti.",
+            "en": "Camp'Albracco in Magnum size, sealed with wax and presented in a gift box. 70% Sangiovese and 30% Merlot from south-southwest facing vineyards at 300 m, on medium-textured clayey soil; Guyot training, yield 70 quintals per hectare, hand harvest from the first ten days of October. Destemming, maceration at 28-30 °C for about 10 days, soft pressing and malolactic in concrete tanks; 12 months in 2.25 hl barriques and at least 6 months in bottle. 14% ABV, 77 kcal per 100 ml. Ingredients: grapes; preservative and antioxidant potassium metabisulphite (contains sulphites); stabilisers gum arabic and yeast mannoproteins.",
+            "de": "Camp'Albracco in der Magnumflasche, mit Siegellack verschlossen und im Geschenkkarton. 70% Sangiovese und 30% Merlot aus nach Süd-Südwest ausgerichteten Lagen auf 300 m, auf mittelschwerem, tonhaltigem Boden; Guyot-Erziehung, Ertrag 70 Doppelzentner je Hektar, Handlese ab der ersten Oktoberdekade. Entrappen, Maischestandzeit bei 28-30 °C für etwa 10 Tage, sanftes Pressen und malolaktische Gärung in Betontanks; 12 Monate im 2,25-hl-Barrique und mindestens 6 Monate Flaschenreife. 14% Vol., 77 kcal pro 100 ml. Zutaten: Trauben; Konservierungs- und Antioxidationsmittel Kaliummetabisulfit (enthält Sulfite); Stabilisatoren Gummi arabicum und Hefe-Mannoproteine."
+          },
+          "a": {
+            "it": "Servire a 18 °C con carni rosse alla brace, arrosti, pecorino stagionato.",
+            "en": "Serve at 18 °C with grilled red meat, roasts and aged pecorino.",
+            "de": "Bei 18 °C zu gegrilltem rotem Fleisch, Braten und gereiftem Pecorino servieren."
+          }
+        },
+        "V-21-6": {
+          "c": [
+            "IGT"
+          ],
+          "pr": "8,00 € (annata 2025 in arrivo)",
+          "d": {
+            "it": "Rosato di Sangiovese 100% da vigneti esposti a sud-est a 330 m s.l.m., allevati a Guyot, resa 70 quintali per ettaro, vendemmia manuale dalla terza decade di settembre. Pressatura soffice, decantazione del mosto e fermentazione controllata; maturazione in acciaio sulle fecce nobili per circa 6 mesi e almeno 3 mesi in bottiglia. 13% vol, 78 kcal per 100 ml. Ingredienti: uve; conservante e antiossidante metabisolfito di potassio (contiene solfiti); stabilizzanti gomma arabica e mannoproteine di lieviti. Confezione: astuccio singolo e cartone da 2, 3 o 6 bottiglie.",
+            "en": "A 100% Sangiovese rosé from south-east facing vineyards at 330 m, Guyot trained, yield 70 quintals per hectare, hand harvest from the last ten days of September. Soft pressing, must settling and temperature-controlled fermentation; matured in steel on the fine lees for about 6 months and at least 3 months in bottle. 13% ABV, 78 kcal per 100 ml. Ingredients: grapes; preservative and antioxidant potassium metabisulphite (contains sulphites); stabilisers gum arabic and yeast mannoproteins. Packaging: single gift box and cartons of 2, 3 or 6 bottles.",
+            "de": "Rosé aus 100% Sangiovese aus nach Südosten ausgerichteten Lagen auf 330 m, Guyot-Erziehung, Ertrag 70 Doppelzentner je Hektar, Handlese ab der letzten Septemberdekade. Sanftes Pressen, Mostklärung und temperaturkontrollierte Gärung; etwa 6 Monate Ausbau im Stahltank auf der Feinhefe und mindestens 3 Monate Flaschenreife. 13% Vol., 78 kcal pro 100 ml. Zutaten: Trauben; Konservierungs- und Antioxidationsmittel Kaliummetabisulfit (enthält Sulfite); Stabilisatoren Gummi arabicum und Hefe-Mannoproteine. Verpackung: Einzelkarton und Kartons zu 2, 3 oder 6 Flaschen."
+          },
+          "a": {
+            "it": "Servire fresco a 10-12 °C come aperitivo, con antipasti, pesce e piatti estivi.",
+            "en": "Serve chilled at 10-12 °C as an aperitif, with starters, fish and summer dishes.",
+            "de": "Gekühlt bei 10-12 °C als Aperitif, zu Vorspeisen, Fisch und Sommergerichten."
+          }
+        },
+        "V-21-7": {
+          "c": [
+            "IGT"
+          ],
+          "pr": "3 l 9,00 € · 5 l 15,00 € · 10 l 25,00 €",
+          "d": {
+            "it": "Rosso Toscana IGT da uve Sangiovese, annata 2025, in bag in box da 3, 5 o 10 litri: pratico per la ristorazione e il consumo quotidiano. 85 kcal per 100 ml. Ingredienti: uve; conservante e antiossidante metabisolfito di potassio (contiene solfiti); stabilizzanti gomma arabica e mannoproteine di lieviti.",
+            "en": "Toscana IGT red from Sangiovese grapes, 2025 vintage, in 3, 5 or 10 litre bag-in-box: practical for food service and everyday drinking. 85 kcal per 100 ml. Ingredients: grapes; preservative and antioxidant potassium metabisulphite (contains sulphites); stabilisers gum arabic and yeast mannoproteins.",
+            "de": "Toscana IGT Rotwein aus Sangiovese-Trauben, Jahrgang 2025, im Bag-in-Box zu 3, 5 oder 10 Litern: praktisch für Gastronomie und den Alltag. 85 kcal pro 100 ml. Zutaten: Trauben; Konservierungs- und Antioxidationsmittel Kaliummetabisulfit (enthält Sulfite); Stabilisatoren Gummi arabicum und Hefe-Mannoproteine."
+          },
+          "a": {
+            "it": "Vino da tutto pasto; il bag in box mantiene il vino a lungo dopo l'apertura. Servire a 16-18 °C.",
+            "en": "An everyday wine for any meal; the bag-in-box keeps the wine for a long time after opening. Serve at 16-18 °C.",
+            "de": "Ein Wein für jede Mahlzeit; im Bag-in-Box bleibt er nach dem Öffnen lange frisch. Bei 16-18 °C servieren."
+          }
+        },
+        "V-21-8": {
+          "c": [],
+          "pr": "11,00 €",
+          "d": {
+            "it": "Raccolta 2026. Blend di Moraiolo, Leccino e Correggiolo dagli uliveti aziendali a 320 m s.l.m.; olive raccolte a mano tra fine ottobre e novembre e spremute entro 24 ore con frangitura a ciclo continuo a freddo. Colore verde intenso tendente all'oro; gusto vivo, intenso, elegante ed equilibrato, con piccante gradevole; profumo di oliva verde, carciofo, mandorla, sedano ed erba appena tagliata. Disponibile in bottiglia o latta da 500 ml, tappo a vite; astuccio singolo e cartone da 2, 3 o 6 bottiglie.",
+            "en": "2026 harvest. A blend of Moraiolo, Leccino and Correggiolo from the estate's olive groves at 320 m; olives hand-picked between late October and November and pressed within 24 hours by continuous-cycle cold extraction. Deep green colour tending to gold; lively, intense, elegant and balanced taste with a pleasant peppery finish; aromas of green olive, artichoke, almond, celery and freshly cut grass. Available in a 500 ml bottle or tin, screw cap; single gift box and cartons of 2, 3 or 6 bottles.",
+            "de": "Ernte 2026. Cuvée aus Moraiolo, Leccino und Correggiolo aus den eigenen Olivenhainen auf 320 m; die Oliven werden zwischen Ende Oktober und November von Hand geerntet und innerhalb von 24 Stunden kalt im kontinuierlichen Verfahren gepresst. Tiefgrüne, ins Goldene gehende Farbe; lebendiger, intensiver, eleganter und ausgewogener Geschmack mit angenehmer Schärfe; Duft nach grüner Olive, Artischocke, Mandel, Sellerie und frisch gemähtem Gras. In der 500-ml-Flasche oder -Dose, Schraubverschluss; Einzelkarton und Kartons zu 2, 3 oder 6 Flaschen."
+          },
+          "a": {
+            "it": "A crudo su zuppe toscane, ribollita, bruschetta, carni alla brace, pinzimonio, fagioli cannellini e pesce arrosto.",
+            "en": "Drizzled raw over Tuscan soups, ribollita, bruschetta, grilled meat, crudités, cannellini beans and roast fish.",
+            "de": "Roh über toskanische Suppen, Ribollita, Bruschetta, gegrilltes Fleisch, Pinzimonio, Cannellini-Bohnen und gebratenen Fisch."
+          }
+        },
+        "V-21-9": {
+          "c": [],
+          "pr": "29,00 €",
+          "d": {
+            "it": "Raccolta 2026 in bottiglia Magnum da 1,5 litri con dosatore e astuccio, chiusa in ceralacca. Blend di Moraiolo, Leccino e Correggiolo dagli uliveti aziendali a 320 m s.l.m.; olive raccolte a mano tra fine ottobre e novembre e spremute entro 24 ore con frangitura a ciclo continuo a freddo. Colore verde intenso tendente all'oro; gusto vivo, intenso, elegante ed equilibrato, con piccante gradevole; profumo di oliva verde, carciofo, mandorla, sedano ed erba appena tagliata.",
+            "en": "2026 harvest in a 1.5 litre Magnum bottle with pourer and gift box, wax sealed. A blend of Moraiolo, Leccino and Correggiolo from the estate's olive groves at 320 m; olives hand-picked between late October and November and pressed within 24 hours by continuous-cycle cold extraction. Deep green colour tending to gold; lively, intense, elegant and balanced taste with a pleasant peppery finish; aromas of green olive, artichoke, almond, celery and freshly cut grass.",
+            "de": "Ernte 2026 in der 1,5-Liter-Magnumflasche mit Ausgießer und Geschenkkarton, mit Siegellack verschlossen. Cuvée aus Moraiolo, Leccino und Correggiolo aus den eigenen Olivenhainen auf 320 m; die Oliven werden zwischen Ende Oktober und November von Hand geerntet und innerhalb von 24 Stunden kalt im kontinuierlichen Verfahren gepresst. Tiefgrüne, ins Goldene gehende Farbe; lebendiger, intensiver, eleganter und ausgewogener Geschmack mit angenehmer Schärfe; Duft nach grüner Olive, Artischocke, Mandel, Sellerie und frisch gemähtem Gras."
+          },
+          "a": {
+            "it": "A crudo su zuppe toscane, ribollita, bruschetta, carni alla brace, pinzimonio, fagioli cannellini e pesce arrosto.",
+            "en": "Drizzled raw over Tuscan soups, ribollita, bruschetta, grilled meat, crudités, cannellini beans and roast fish.",
+            "de": "Roh über toskanische Suppen, Ribollita, Bruschetta, gegrilltes Fleisch, Pinzimonio, Cannellini-Bohnen und gebratenen Fisch."
+          }
+        },
+        "V-21-10": {
+          "c": [],
+          "pr": "3 l 54,00 € · 5 l 89,00 €",
+          "d": {
+            "it": "Lo Squillantino raccolta 2026 in latta da 3 o 5 litri con tappo a vite, per la dispensa e la ristorazione. Blend di Moraiolo, Leccino e Correggiolo dagli uliveti aziendali a 320 m s.l.m.; olive raccolte a mano tra fine ottobre e novembre e spremute entro 24 ore con frangitura a ciclo continuo a freddo. Colore verde intenso tendente all'oro; gusto vivo, intenso, elegante ed equilibrato, con piccante gradevole; profumo di oliva verde, carciofo, mandorla, sedano ed erba appena tagliata.",
+            "en": "Squillantino from the 2026 harvest in 3 or 5 litre tins with screw cap, for the pantry and food service. A blend of Moraiolo, Leccino and Correggiolo from the estate's olive groves at 320 m; olives hand-picked between late October and November and pressed within 24 hours by continuous-cycle cold extraction. Deep green colour tending to gold; lively, intense, elegant and balanced taste with a pleasant peppery finish; aromas of green olive, artichoke, almond, celery and freshly cut grass.",
+            "de": "Squillantino der Ernte 2026 in Kanistern zu 3 oder 5 Litern mit Schraubverschluss, für Vorrat und Gastronomie. Cuvée aus Moraiolo, Leccino und Correggiolo aus den eigenen Olivenhainen auf 320 m; die Oliven werden zwischen Ende Oktober und November von Hand geerntet und innerhalb von 24 Stunden kalt im kontinuierlichen Verfahren gepresst. Tiefgrüne, ins Goldene gehende Farbe; lebendiger, intensiver, eleganter und ausgewogener Geschmack mit angenehmer Schärfe; Duft nach grüner Olive, Artischocke, Mandel, Sellerie und frisch gemähtem Gras."
+          },
+          "a": {
+            "it": "A crudo su zuppe toscane, ribollita, bruschetta, carni alla brace, pinzimonio, fagioli cannellini e pesce arrosto.",
+            "en": "Drizzled raw over Tuscan soups, ribollita, bruschetta, grilled meat, crudités, cannellini beans and roast fish.",
+            "de": "Roh über toskanische Suppen, Ribollita, Bruschetta, gegrilltes Fleisch, Pinzimonio, Cannellini-Bohnen und gebratenen Fisch."
+          }
+        }
+      },
+      "fonti": [
+        "https://www.riblo.it/azienda-agricola-bonomonte-genuinita-della-nostra-terra/",
+        "https://www.bonomonte.com/bonomonte/azienda/",
+        "https://www.bonomonte.com/bonomonte/vigneti-e-oliveti/",
+        "https://www.bonomonte.com/bonomonte/cantina/",
+        "https://www.bonomonte.com/schedetecniche/"
+      ]
     }
   ],
   "IMG": {
@@ -8087,6 +8378,18 @@ window.VETRINE = {
     "prod-V-19-30": "https://cdn.shopify.com/s/files/1/0574/3732/3315/files/kit-gran-riserva-cilento-12-vasetti-minnelea.jpg?width=900",
     "prod-V-19-31": "https://cdn.shopify.com/s/files/1/0574/3732/3315/files/kit-regalo-premium-18-vasetti-natale-minnelea.jpg?width=900",
     "logo-V-20": "img/v20-logo.png",
-    "prod-V-20-0": "https://nocciolinolanghe.com/assets/nocciolino-bottle.jpg"
+    "prod-V-20-0": "https://nocciolinolanghe.com/assets/nocciolino-bottle.jpg",
+    "logo-V-21": "https://www.bonomonte.com/wp-content/themes/bonomonte/includes/img/logo.png",
+    "prod-V-21-0": "https://www.riblo.it/wp-content/uploads/2026/04/bonoMonte-Chianti-D.O.C.G.-bottiglia-750-ml.jpg",
+    "prod-V-21-1": "https://www.riblo.it/wp-content/uploads/2026/04/BonoMonte-Chianti-D.O.C.G.-fiasco-750-ml.jpg",
+    "prod-V-21-2": "https://www.riblo.it/wp-content/uploads/2026/04/bonoMonte_Chianti-D.O.C.G.-riserva-bottiglia.jpg",
+    "prod-V-21-3": "https://www.riblo.it/wp-content/uploads/2026/09/Cofanetto-calici-degustazione-Chianti-DOCG-2024-3.jpeg",
+    "prod-V-21-4": "https://www.riblo.it/wp-content/uploads/2026/04/bonomonte-CampAlbracco-Rosso-Toscano-IGT-Bottiglia.jpg",
+    "prod-V-21-5": "https://www.riblo.it/wp-content/uploads/2026/04/Magnum-CampAlbracco-Rosso-Toscano-IGT-5.jpeg",
+    "prod-V-21-6": "https://www.riblo.it/wp-content/uploads/2026/04/BonoMonte-RosAstro-Rosato-Toscano-IGT-bottiglia-750-ml.jpg",
+    "prod-V-21-7": "https://www.riblo.it/wp-content/uploads/2026/04/Bag-in-box-Toscana-I.G.T.-Rosso-azienda-Bonomonte.jpeg",
+    "prod-V-21-8": "https://www.riblo.it/wp-content/uploads/2026/04/BonoMonte-Squillantino-Olio-Extravergine-di-Oliva-Toscano-bottiglia-500-ml.jpg",
+    "prod-V-21-9": "https://www.riblo.it/wp-content/uploads/2026/11/Bonomonte-Olio-extra-vergine-di-oliva-squillantino-magnum-olio.jpeg",
+    "prod-V-21-10": "https://www.riblo.it/wp-content/uploads/2026/04/Lattina-Olio-Extravergine-di-Oliva-Toscano-3-Litri.jpeg"
   }
 };
