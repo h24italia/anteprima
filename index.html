@@ -38,6 +38,7 @@ body{padding-top:44px}
 .vcard{cursor:pointer}.vcard .vc-open{cursor:pointer}
 .vcard:not(.flipped) .vc-back{pointer-events:none}.vcard.flipped .vc-front{pointer-events:none}
 .m-photo.has-logo{background:#fff}.m-photo.has-logo img{object-fit:contain!important;padding:8px;background:#fff}
+.m-photo.has-logo[style] img{background:transparent}
 @media (max-width:640px){.demo-banner{height:52px;font-size:12.5px}body{padding-top:52px}.top{top:52px}}
 </style>
 <style>/* required styles */
@@ -1820,7 +1821,7 @@ window.FX = (function(){
     if(mq){ const one=Object.keys(CATS).map(k=>`<span>${icon(k,20)}${catName(k)}</span>`).join(""); mq.innerHTML=one+one+one+one; }
     // story demo card
     const e=EX[0];
-    $$("[data-demo-cover]").forEach(el=>{ el.innerHTML=IMG["logo-"+e.id]?`<span style="position:absolute;inset:0;background:#fff;display:flex;align-items:center;justify-content:center;padding:18px">${pic("logo-"+e.id,e.n,"").replace("<img ",'<img style="width:auto;height:auto;max-width:100%;max-height:100%;object-fit:contain" ')}</span>`:pic("stand-"+e.id,"",""); el.style.setProperty("--c",CATS[e.cat].c); });
+    $$("[data-demo-cover]").forEach(el=>{ el.innerHTML=IMG["logo-"+e.id]?`<span style="position:absolute;inset:0;background:${e.logoBg||"#fff"};display:flex;align-items:center;justify-content:center;padding:18px">${pic("logo-"+e.id,e.n,"").replace("<img ",'<img style="width:auto;height:auto;max-width:100%;max-height:100%;object-fit:contain" ')}</span>`:pic("stand-"+e.id,"",""); el.style.setProperty("--c",CATS[e.cat].c); });
     $$("[data-demo-name]").forEach(el=>el.textContent=e.n);
     $$("[data-demo-sub]").forEach(el=>el.textContent=catName(e.cat)+", "+regLabel(e.reg));
     $$("[data-demo-th]").forEach(el=>el.innerHTML=e.p.slice(0,3).map((p,j)=>`<span>${pic(`prod-${e.id}-${j}`,"","")}</span>`).join(""));
@@ -2454,8 +2455,8 @@ function renderList(list){
       <div class="vc-inner">
         <div class="vc-face vc-front">
           <button type="button" class="vc-open" data-cursor="${esc(t("cur.open"))}" aria-label="${esc(t("visit"))}: ${esc(e.n)}">
-            <span class="vc-cover${IMG["logo-"+e.id]?" has-logo":""}">
-              ${IMG["logo-"+e.id]?`<span class="vc-bg vc-logo">${pic("logo-"+e.id,e.n,"")}</span>`:`<span class="vc-bg">${pic("stand-"+e.id,"","")}</span>`}
+            <span class="vc-cover${IMG["logo-"+e.id]?" has-logo":""}"${e.logoBg?` style="background:${esc(e.logoBg)}"`:""}>
+              ${IMG["logo-"+e.id]?`<span class="vc-bg vc-logo"${e.logoBg?` style="background:${esc(e.logoBg)}"`:""}>${pic("logo-"+e.id,e.n,"")}</span>`:`<span class="vc-bg">${pic("stand-"+e.id,"","")}</span>`}
               <span class="vc-cat">${icon(catFor(e),15)}${catName(catFor(e))}</span>
               <span class="demo-tag">${t("demo.tag")}</span>
               <span class="vc-shelf">${prodIdx(e,state.cat).slice(0,3).map((pi,j)=>`<span class="vc-p" style="--j:${j}">${pic(`prod-${e.id}-${pi}`,"",icon(pcat(e,pi),24))}</span>`).join("")}</span>
@@ -2566,7 +2567,7 @@ function openStand(id,mode){
   modal.innerHTML = `
     <div class="m-head">
       <div class="m-bg" aria-hidden="true">${pic("stand-"+e.id,"","")}</div>
-      <div class="m-photo${IMG["logo-"+e.id]?" has-logo":""}" role="img" aria-label="${t("m.photo")}">${IMG["logo-"+e.id]?pic("logo-"+e.id,e.n,""):pic("stand-"+e.id,"",icon(e.cat,56))}</div>
+      <div class="m-photo${IMG["logo-"+e.id]?" has-logo":""}" role="img" aria-label="${t("m.photo")}"${e.logoBg?` style="background:${esc(e.logoBg)}"`:""}>${IMG["logo-"+e.id]?pic("logo-"+e.id,e.n,""):pic("stand-"+e.id,"",icon(e.cat,56))}</div>
       <div><h2 id="m-title">${esc(e.n)}</h2><p>${t(catsOf(e).length>1?"stand.codes":"stand.code",e.id,catsOf(e).map(k=>lang==="de"?catName(k):catName(k).toLowerCase()).join(lang==="de"?", ":"; "))}. ${esc(e.city)}, ${esc(regLabel(e.reg))}${e.y?", "+t("since",e.y):""}.</p></div>
       <button class="close" type="button" aria-label="${t("m.close")}" id="m-close"><svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg></button>
     </div>
