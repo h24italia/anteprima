@@ -7020,6 +7020,704 @@ window.VETRINE = {
         "https://labottegadiravacciano.it/prodotti-salati/",
         "https://labottegadiravacciano.it/chi-siamo/"
       ]
+    },
+    {
+      "id": "V-19",
+      "n": "Minnelea",
+      "cat": "conserve",
+      "reg": "Campania",
+      "city": "Moio della Civitella (SA)",
+      "lat": 40.247,
+      "lng": 15.27,
+      "y": 2023,
+      "certs": [],
+      "exp": [],
+      "lg": [
+        "it",
+        "en",
+        "de"
+      ],
+      "moq": null,
+      "d": {
+        "it": "Azienda agricola di famiglia nel Cilento, nata nel 2023 quando Carmine Rizzo ha lasciato Roma per tornare nella sua terra e trasformare i campi di famiglia in un laboratorio di confetture e conserve. Frutta e verdura del territorio, lavorate al picco della maturazione in piccoli lotti seguiti a mano; confetture e sughi sono cotti sottovuoto a bassa temperatura per preservare colore, profumo e dolcezza, senza conservanti, coloranti né aromi artificiali. In pochi anni i vasetti Minnelea sono arrivati a chef, gastronomie e clienti gourmet in Italia e in Europa, con 10 riconoscimenti: Great Taste 2025 (Londra) per la confettura di fichi e premi WineHunter Gold e Rosso del Merano WineFestival nel 2024 e nel 2026. Oltre ai formati retail producono formati professionali per ristoranti, hotel e pasticcerie, una linea di confetture da forno su richiesta e kit regalo, anche personalizzati.",
+        "en": "A family farm in Cilento, founded in 2023 when Carmine Rizzo left Rome to return home and turn the family land into a jam and preserves workshop. Local fruit and vegetables, processed at peak ripeness in small, hand-monitored batches; jams and sauces are vacuum-cooked at low temperature to keep their colour, aroma and sweetness, with no preservatives, colourings or artificial flavourings. Within a few years Minnelea jars have reached chefs, delicatessens and gourmet customers in Italy and Europe, with 10 awards: Great Taste 2025 (London) for the fig jam and WineHunter Gold and Rosso awards from the Merano WineFestival in 2024 and 2026. Besides retail sizes they make professional formats for restaurants, hotels and pastry shops, a baking jam line on request and gift kits, including custom ones.",
+        "de": "Familienbetrieb im Cilento, 2023 gegründet, als Carmine Rizzo Rom verließ, in seine Heimat zurückkehrte und das Familienland in eine Manufaktur für Konfitüren und Konserven verwandelte. Obst und Gemüse aus der Region, in voller Reife in kleinen, von Hand begleiteten Chargen verarbeitet; Konfitüren und Saucen werden bei niedriger Temperatur im Vakuum gekocht, damit Farbe, Duft und Süße erhalten bleiben, ohne Konservierungs-, Farb- oder künstliche Aromastoffe. In wenigen Jahren haben Minnelea-Gläser Köche, Feinkostläden und Gourmetkunden in Italien und Europa erreicht, mit 10 Auszeichnungen: Great Taste 2025 (London) für die Feigenkonfitüre sowie WineHunter Gold und Rosso des Merano WineFestival 2024 und 2026. Neben Einzelhandelsgrößen gibt es Profiformate für Restaurants, Hotels und Konditoreien, eine Backkonfitüren-Linie auf Anfrage sowie Geschenkkits, auch individuell zusammengestellt."
+      },
+      "sub": [
+        {
+          "k": "confetture",
+          "cat": "conserve",
+          "n": {
+            "it": "Confetture extra",
+            "en": "Extra jams",
+            "de": "Extra-Konfitüren"
+          }
+        },
+        {
+          "k": "marmellate",
+          "cat": "conserve",
+          "n": {
+            "it": "Marmellate extra",
+            "en": "Extra marmalades",
+            "de": "Extra-Marmeladen"
+          }
+        },
+        {
+          "k": "sottoli",
+          "cat": "conserve",
+          "n": {
+            "it": "Sott'oli",
+            "en": "Preserves in oil",
+            "de": "In Öl eingelegt"
+          }
+        },
+        {
+          "k": "creme",
+          "cat": "conserve",
+          "n": {
+            "it": "Creme e paté",
+            "en": "Creams and pâtés",
+            "de": "Cremes und Pasteten"
+          }
+        },
+        {
+          "k": "sughi",
+          "cat": "conserve",
+          "n": {
+            "it": "Sughi pronti",
+            "en": "Ready sauces",
+            "de": "Fertigsaucen"
+          }
+        },
+        {
+          "k": "kit",
+          "cat": "misti",
+          "n": {
+            "it": "Kit e confezioni regalo",
+            "en": "Kits and gift boxes",
+            "de": "Kits und Geschenkboxen"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Confettura extra di albicocche",
+          "vasetto da 212 g",
+          "confetture"
+        ],
+        [
+          "Confettura extra di fichi bianchi dottati",
+          "vasetto da 212 g",
+          "confetture"
+        ],
+        [
+          "Confettura extra di fragole",
+          "vasetto da 212 g",
+          "confetture"
+        ],
+        [
+          "Confettura extra di frutti di bosco",
+          "vasetto da 212 g",
+          "confetture"
+        ],
+        [
+          "Confettura extra di mele rosse",
+          "vasetto da 212 g",
+          "confetture"
+        ],
+        [
+          "Confettura extra di mirtillo nero",
+          "vasetto da 212 g",
+          "confetture"
+        ],
+        [
+          "Marmellata extra di arance",
+          "vasetto da 212 g",
+          "marmellate"
+        ],
+        [
+          "Marmellata extra di arance e limoni",
+          "vasetto da 212 g",
+          "marmellate"
+        ],
+        [
+          "Marmellata extra di limoni",
+          "vasetto da 212 g",
+          "marmellate"
+        ],
+        [
+          "Melanzane sott'olio EVO",
+          "vasetto da 200 g",
+          "sottoli"
+        ],
+        [
+          "Peperoni sott'olio EVO",
+          "vasetto da 200 g",
+          "sottoli"
+        ],
+        [
+          "Pomodori secchi sott'olio EVO",
+          "vasetto da 200 g",
+          "sottoli"
+        ],
+        [
+          "Paté di pomodori secchi",
+          "vasetto da 200 g",
+          "creme"
+        ],
+        [
+          "Crema di zucca con olio EVO",
+          "vasetto da 200 g",
+          "creme"
+        ],
+        [
+          "Sugo al basilico",
+          "vasetto da 270 g",
+          "sughi"
+        ],
+        [
+          "Sugo cilentano",
+          "vasetto da 270 g",
+          "sughi"
+        ],
+        [
+          "Sugo all'arrabbiata",
+          "vasetto da 270 g",
+          "sughi"
+        ],
+        [
+          "Sugo ai pomodori secchi",
+          "vasetto da 270 g",
+          "sughi"
+        ],
+        [
+          "Kit Benvenuto",
+          "6 vasetti",
+          "kit"
+        ],
+        [
+          "Kit Benvenuto salato",
+          "6 vasetti",
+          "kit"
+        ],
+        [
+          "Kit Confetture e marmellata",
+          "6 vasetti · 12 vasetti",
+          "kit"
+        ],
+        [
+          "Kit Misto dolce e salato",
+          "6 vasetti · 12 vasetti",
+          "kit"
+        ],
+        [
+          "Kit Salato",
+          "6 vasetti · 12 vasetti",
+          "kit"
+        ],
+        [
+          "Kit Sughi",
+          "6 vasetti · 12 vasetti",
+          "kit"
+        ],
+        [
+          "Kit Assaggio sughi",
+          "6 vasetti",
+          "kit"
+        ],
+        [
+          "Kit Pasta della tradizione",
+          "5 vasetti",
+          "kit"
+        ],
+        [
+          "Kit Aperitivo",
+          "4 vasetti",
+          "kit"
+        ],
+        [
+          "Kit Tagliere formaggi e confetture",
+          "4 vasetti",
+          "kit"
+        ],
+        [
+          "Kit Crostate e dolci",
+          "4 vasetti",
+          "kit"
+        ],
+        [
+          "Kit Coppia, cena per due",
+          "4 vasetti",
+          "kit"
+        ],
+        [
+          "Kit Gran Riserva",
+          "12 vasetti",
+          "kit"
+        ],
+        [
+          "Kit Regalo Premium",
+          "18 vasetti",
+          "kit"
+        ]
+      ],
+      "pd": {
+        "V-19-0": {
+          "c": [],
+          "pr": "7,90 €",
+          "d": {
+            "it": "Albicocche del Sud Italia raccolte a piena maturazione: 130 g di frutta per 100 g di confettura (70% albicocche, 29% zucchero di canna, 1% succo di limone). Cotta sottovuoto a bassa temperatura, senza pectine, addensanti, conservanti né coloranti. Colore arancio dorato, consistenza vellutata. Premio WineHunter Rosso 2026 (Merano WineFestival). Ingredienti: albicocche italiane, zucchero di canna, succo di limone. Disponibile anche nel formato professionale da 580 g.",
+            "en": "Southern Italian apricots picked fully ripe: 130 g of fruit per 100 g of jam (70% apricots, 29% cane sugar, 1% lemon juice). Cooked under vacuum at low temperature, with no pectin, thickeners, preservatives or colourings. Golden orange colour, velvety texture. WineHunter Rosso 2026 award (Merano WineFestival). Ingredients: Italian apricots, cane sugar, lemon juice. Also available in a 580 g professional format.",
+            "de": "Vollreif geerntete Aprikosen aus Süditalien: 130 g Frucht für 100 g Konfitüre (70% Aprikosen, 29% Rohrzucker, 1% Zitronensaft). Bei niedriger Temperatur im Vakuum gekocht, ohne Pektin, Verdickungsmittel, Konservierungs- oder Farbstoffe. Goldorange Farbe, samtige Konsistenz. Auszeichnung WineHunter Rosso 2026 (Merano WineFestival). Zutaten: italienische Aprikosen, Rohrzucker, Zitronensaft. Auch im 580-g-Profiformat erhältlich."
+          },
+          "a": {
+            "it": "Su pane integrale e nello yogurt greco, con ricotta fresca e formaggi morbidi, in crostate e biscotti farciti. Dopo l'apertura in frigorifero, da consumare entro 7 giorni.",
+            "en": "On wholemeal bread and in Greek yoghurt, with fresh ricotta and soft cheeses, in tarts and filled biscuits. Once opened keep refrigerated and eat within 7 days.",
+            "de": "Auf Vollkornbrot und in griechischem Joghurt, zu frischem Ricotta und Weichkäse, in Crostate und gefüllten Keksen. Nach dem Öffnen gekühlt lagern und innerhalb von 7 Tagen verzehren."
+          }
+        },
+        "V-19-1": {
+          "c": [],
+          "pr": "7,90 €",
+          "d": {
+            "it": "Fichi Bianchi dottati, varietà tradizionale dalla polpa dolce e profumata, raccolti tra fine luglio e agosto nelle prime ore del mattino: 88 g di frutta per 100 g di confettura. Solo fichi, zucchero di canna, succo di limone e un'infusione di vaniglia in cottura; la densità viene dalla cottura e dalle bucce. Cotta sottovuoto a bassa temperatura, senza pectine, addensanti, conservanti né coloranti. Premiata Great Taste 2025 (Londra) e WineHunter Award Gold 2024 (Merano WineFestival).",
+            "en": "Bianchi dottati figs, a traditional variety with sweet, fragrant flesh, picked from late July to August in the early morning: 88 g of fruit per 100 g of jam. Only figs, cane sugar, lemon juice and a vanilla infusion during cooking; the body comes from the cooking and the skins. Cooked under vacuum at low temperature, with no pectin, thickeners, preservatives or colourings. Awarded Great Taste 2025 (London) and WineHunter Award Gold 2024 (Merano WineFestival).",
+            "de": "Feigen der Sorte Bianco dottato mit süßem, duftendem Fruchtfleisch, Ende Juli bis August in den frühen Morgenstunden geerntet: 88 g Frucht für 100 g Konfitüre. Nur Feigen, Rohrzucker, Zitronensaft und ein Vanilleaufguss beim Kochen; die Festigkeit entsteht durch das Kochen und die Schalen. Bei niedriger Temperatur im Vakuum gekocht, ohne Pektin, Verdickungsmittel, Konservierungs- oder Farbstoffe. Ausgezeichnet mit Great Taste 2025 (London) und WineHunter Award Gold 2024 (Merano WineFestival)."
+          },
+          "a": {
+            "it": "Con pecorino stagionato o gorgonzola dolce, su fette biscottate e pane tostato, in crostate, biscotti farciti e dolci al cucchiaio. Dopo l'apertura in frigorifero, da consumare entro 7 giorni.",
+            "en": "With aged pecorino or mild gorgonzola, on rusks and toast, in tarts, filled biscuits and spoon desserts. Once opened keep refrigerated and eat within 7 days.",
+            "de": "Zu gereiftem Pecorino oder mildem Gorgonzola, auf Zwieback und Toast, in Crostate, gefüllten Keksen und Löffeldesserts. Nach dem Öffnen gekühlt lagern und innerhalb von 7 Tagen verzehren."
+          }
+        },
+        "V-19-2": {
+          "c": [],
+          "pr": "7,90 €",
+          "d": {
+            "it": "Fragole raccolte a mano da una piccola realtà agricola italiana: 130 g di frutta per 100 g di confettura. Ricetta: 74% fragole, 25% zucchero di canna, 0,99% succo di limone, 0,01% vaniglia. Cotta sottovuoto a bassa temperatura, senza pectine, addensanti, conservanti né coloranti. Rosso intenso, vellutata, dolce con acidità naturale.",
+            "en": "Strawberries hand-picked by a small Italian farm: 130 g of fruit per 100 g of jam. Recipe: 74% strawberries, 25% cane sugar, 0.99% lemon juice, 0.01% vanilla. Cooked under vacuum at low temperature, with no pectin, thickeners, preservatives or colourings. Deep red, velvety, sweet with natural acidity.",
+            "de": "Von Hand gepflückte Erdbeeren eines kleinen italienischen Betriebs: 130 g Frucht für 100 g Konfitüre. Rezept: 74% Erdbeeren, 25% Rohrzucker, 0,99% Zitronensaft, 0,01% Vanille. Bei niedriger Temperatur im Vakuum gekocht, ohne Pektin, Verdickungsmittel, Konservierungs- oder Farbstoffe. Tiefrot, samtig, süß mit natürlicher Säure."
+          },
+          "a": {
+            "it": "Su pane tostato, fette biscottate, pancake e crêpes; in crostate, cheesecake e dolci al cucchiaio; con yogurt bianco, gelato alla crema e panna cotta. Dopo l'apertura in frigorifero, da consumare entro 7 giorni.",
+            "en": "On toast, rusks, pancakes and crêpes; in tarts, cheesecakes and spoon desserts; with plain yoghurt, custard ice cream and panna cotta. Once opened keep refrigerated and eat within 7 days.",
+            "de": "Auf Toast, Zwieback, Pancakes und Crêpes; in Crostate, Cheesecake und Löffeldesserts; zu Naturjoghurt, Vanilleeis und Panna cotta. Nach dem Öffnen gekühlt lagern und innerhalb von 7 Tagen verzehren."
+          }
+        },
+        "V-19-3": {
+          "c": [],
+          "pr": "8,90 €",
+          "d": {
+            "it": "Mix di mirtilli, lamponi, more e ribes: il mirtillo dà profondità, il lampone freschezza, la mora corpo, il ribes una nota acidula. 130 g di frutta per 100 g di confettura (75% frutti di bosco, 25% zucchero di canna). Cotta sottovuoto a bassa temperatura, senza pectine, addensanti, conservanti né coloranti. Scura, ricca di pezzetti di frutta, dolce-acidula. Ingredienti: frutti di bosco (mirtilli, more, lamponi, ribes), zucchero di canna, succo di limone.",
+            "en": "A mix of blueberries, raspberries, blackberries and redcurrants: blueberry gives depth, raspberry freshness, blackberry body and redcurrant a tart note. 130 g of fruit per 100 g of jam (75% berries, 25% cane sugar). Cooked under vacuum at low temperature, with no pectin, thickeners, preservatives or colourings. Dark, full of fruit pieces, sweet and tart. Ingredients: berries (blueberries, blackberries, raspberries, redcurrants), cane sugar, lemon juice.",
+            "de": "Mischung aus Heidelbeeren, Himbeeren, Brombeeren und Johannisbeeren: Heidelbeere gibt Tiefe, Himbeere Frische, Brombeere Fülle, Johannisbeere eine säuerliche Note. 130 g Frucht für 100 g Konfitüre (75% Beeren, 25% Rohrzucker). Bei niedriger Temperatur im Vakuum gekocht, ohne Pektin, Verdickungsmittel, Konservierungs- oder Farbstoffe. Dunkel, mit vielen Fruchtstücken, süß-säuerlich. Zutaten: Waldbeeren (Heidelbeeren, Brombeeren, Himbeeren, Johannisbeeren), Rohrzucker, Zitronensaft."
+          },
+          "a": {
+            "it": "Su pane caldo, fette biscottate e pancake; in crostate, cheesecake e tiramisù; con yogurt greco e formaggi freschi. Dopo l'apertura in frigorifero, da consumare entro 7 giorni.",
+            "en": "On warm bread, rusks and pancakes; in tarts, cheesecakes and tiramisu; with Greek yoghurt and fresh cheeses. Once opened keep refrigerated and eat within 7 days.",
+            "de": "Auf warmem Brot, Zwieback und Pancakes; in Crostate, Cheesecake und Tiramisu; zu griechischem Joghurt und Frischkäse. Nach dem Öffnen gekühlt lagern und innerhalb von 7 Tagen verzehren."
+          }
+        },
+        "V-19-4": {
+          "c": [],
+          "pr": "7,90 €",
+          "d": {
+            "it": "Mele rosse italiane raccolte a mano al massimo della maturazione: 130 g di frutta per 100 g di confettura (75% mele, 25% zucchero di canna). La tenuta viene dalla pectina naturale della mela e dal tempo di cottura. Cotta sottovuoto a bassa temperatura, senza pectine, addensanti, conservanti né coloranti. Ambrata, vellutata, dolce e delicata. Ingredienti: mele rosse italiane, zucchero di canna, succo di limone.",
+            "en": "Italian red apples hand-picked at full ripeness: 130 g of fruit per 100 g of jam (75% apples, 25% cane sugar). The set comes from the apple's natural pectin and the cooking time. Cooked under vacuum at low temperature, with no pectin, thickeners, preservatives or colourings. Amber, velvety, sweet and delicate. Ingredients: Italian red apples, cane sugar, lemon juice.",
+            "de": "Von Hand vollreif geerntete italienische rote Äpfel: 130 g Frucht für 100 g Konfitüre (75% Äpfel, 25% Rohrzucker). Die Festigkeit entsteht durch das natürliche Pektin des Apfels und die Kochzeit. Bei niedriger Temperatur im Vakuum gekocht, ohne Pektin, Verdickungsmittel, Konservierungs- oder Farbstoffe. Bernsteinfarben, samtig, süß und zart. Zutaten: italienische rote Äpfel, Rohrzucker, Zitronensaft."
+          },
+          "a": {
+            "it": "Su pane tostato, fette biscottate e pancake; in crostate, strudel e dolci autunnali; con formaggi stagionati e arrosti. Dopo l'apertura in frigorifero, da consumare entro 7 giorni.",
+            "en": "On toast, rusks and pancakes; in tarts, strudel and autumn cakes; with aged cheeses and roasts. Once opened keep refrigerated and eat within 7 days.",
+            "de": "Auf Toast, Zwieback und Pancakes; in Crostate, Strudel und Herbstgebäck; zu gereiftem Käse und Braten. Nach dem Öffnen gekühlt lagern und innerhalb von 7 Tagen verzehren."
+          }
+        },
+        "V-19-5": {
+          "c": [],
+          "pr": "8,90 €",
+          "d": {
+            "it": "Mirtillo nero raccolto a giugno, quando colore e gusto sono pieni: una confettura centrata su un solo frutto, intensa e leggermente acidula. 130 g di frutta per 100 g di confettura. Cotta sottovuoto a bassa temperatura, senza pectine, addensanti, conservanti né coloranti. Scura e vellutata. Premio WineHunter Rosso 2024 (Merano WineFestival). Ingredienti: mirtilli neri, zucchero di canna, succo di limone.",
+            "en": "Black blueberries picked in June, when colour and flavour are at their fullest: a single-fruit jam, intense and slightly tart. 130 g of fruit per 100 g of jam. Cooked under vacuum at low temperature, with no pectin, thickeners, preservatives or colourings. Dark and velvety. WineHunter Rosso 2024 award (Merano WineFestival). Ingredients: black blueberries, cane sugar, lemon juice.",
+            "de": "Im Juni geerntete Heidelbeeren, wenn Farbe und Geschmack am vollsten sind: eine sortenreine, intensive und leicht säuerliche Konfitüre. 130 g Frucht für 100 g Konfitüre. Bei niedriger Temperatur im Vakuum gekocht, ohne Pektin, Verdickungsmittel, Konservierungs- oder Farbstoffe. Dunkel und samtig. Auszeichnung WineHunter Rosso 2024 (Merano WineFestival). Zutaten: Heidelbeeren, Rohrzucker, Zitronensaft."
+          },
+          "a": {
+            "it": "Su pane tostato con burro, nello yogurt bianco, sulla ricotta fresca, in crostate e cheesecake; nei taglieri con formaggi freschi e cremosi. Dopo l'apertura in frigorifero, da consumare entro 7 giorni.",
+            "en": "On buttered toast, in plain yoghurt, on fresh ricotta, in tarts and cheesecakes; on cheese boards with fresh, creamy cheeses. Once opened keep refrigerated and eat within 7 days.",
+            "de": "Auf Butterbrot, in Naturjoghurt, auf frischem Ricotta, in Crostate und Cheesecake; auf Käseplatten zu frischen, cremigen Käsen. Nach dem Öffnen gekühlt lagern und innerhalb von 7 Tagen verzehren."
+          }
+        },
+        "V-19-6": {
+          "c": [],
+          "pr": "7,90 €",
+          "d": {
+            "it": "Solo arance Washington, dolci, succose e senza semi, lavorate con succo e buccia: 66 g di frutta per 100 g di marmellata, con zucchero di canna e una punta di succo di limone. La struttura viene dalla pectina naturale degli agrumi; la cottura sottovuoto a bassa temperatura preserva gli oli essenziali della buccia. Arancio brillante, con pezzetti di buccia, gusto pieno ma mai amaro. Ingredienti: arance Washington (succo e buccia), zucchero di canna, succo di limone.",
+            "en": "Washington oranges only, sweet, juicy and seedless, used with juice and peel: 66 g of fruit per 100 g of marmalade, with cane sugar and a touch of lemon juice. The set comes from the citrus's natural pectin; low-temperature vacuum cooking preserves the essential oils of the peel. Bright orange with pieces of peel, full-flavoured but never bitter. Ingredients: Washington oranges (juice and peel), cane sugar, lemon juice.",
+            "de": "Nur Washington-Orangen, süß, saftig und kernlos, mit Saft und Schale verarbeitet: 66 g Frucht für 100 g Marmelade, mit Rohrzucker und etwas Zitronensaft. Die Festigkeit entsteht durch das natürliche Pektin der Zitrusfrüchte; das Vakuumkochen bei niedriger Temperatur bewahrt die ätherischen Öle der Schale. Leuchtend orange mit Schalenstückchen, vollmundig und nie bitter. Zutaten: Washington-Orangen (Saft und Schale), Rohrzucker, Zitronensaft."
+          },
+          "a": {
+            "it": "Su pane tostato, brioche e fette biscottate; in crostate, ciambelloni e biscotti; con formaggi stagionati a pasta dura. Dopo l'apertura in frigorifero, da consumare entro 7 giorni.",
+            "en": "On toast, brioche and rusks; in tarts, ring cakes and biscuits; with aged hard cheeses. Once opened keep refrigerated and eat within 7 days.",
+            "de": "Auf Toast, Brioche und Zwieback; in Crostate, Napfkuchen und Keksen; zu gereiftem Hartkäse. Nach dem Öffnen gekühlt lagern und innerhalb von 7 Tagen verzehren."
+          }
+        },
+        "V-19-7": {
+          "c": [],
+          "pr": "7,90 €",
+          "d": {
+            "it": "Arance Washington e limoni dei loro agrumeti, raccolti a piena maturazione: l'arancia porta dolcezza e corpo, il limone una nota viva e fresca. Succo e buccia di entrambi, solo zucchero di canna: 86 g di frutta per 100 g di marmellata, gusto dolce-acidulo. Cottura sottovuoto a bassa temperatura, senza pectine, addensanti, conservanti né coloranti. Premio WineHunter Award Gold 2026 (Merano WineFestival). Ingredienti: arance (succo e buccia), limoni (succo e buccia), zucchero di canna.",
+            "en": "Washington oranges and lemons from their own groves, picked fully ripe: orange brings sweetness and body, lemon a lively, fresh note. Juice and peel of both, cane sugar only: 86 g of fruit per 100 g of marmalade, sweet and tart. Low-temperature vacuum cooking, with no pectin, thickeners, preservatives or colourings. WineHunter Award Gold 2026 (Merano WineFestival). Ingredients: oranges (juice and peel), lemons (juice and peel), cane sugar.",
+            "de": "Washington-Orangen und Zitronen aus den eigenen Hainen, vollreif geerntet: die Orange bringt Süße und Fülle, die Zitrone eine lebendige, frische Note. Saft und Schale beider Früchte, nur Rohrzucker: 86 g Frucht für 100 g Marmelade, süß-säuerlich. Vakuumgekocht bei niedriger Temperatur, ohne Pektin, Verdickungs-, Konservierungs- oder Farbstoffe. WineHunter Award Gold 2026 (Merano WineFestival). Zutaten: Orangen (Saft und Schale), Zitronen (Saft und Schale), Rohrzucker."
+          },
+          "a": {
+            "it": "Su pane tostato, brioche e fette biscottate; in crostate e dolci della tradizione; con formaggi stagionati. Dopo l'apertura in frigorifero, da consumare entro 7 giorni.",
+            "en": "On toast, brioche and rusks; in tarts and traditional cakes; with aged cheeses. Once opened keep refrigerated and eat within 7 days.",
+            "de": "Auf Toast, Brioche und Zwieback; in Crostate und traditionellem Gebäck; zu gereiftem Käse. Nach dem Öffnen gekühlt lagern und innerhalb von 7 Tagen verzehren."
+          }
+        },
+        "V-19-8": {
+          "c": [],
+          "pr": "7,90 €",
+          "d": {
+            "it": "Limoni di una varietà locale coltivati nei loro agrumeti, scelti per gli oli essenziali della buccia: freschezza piena e vibrante, senza note amare dure. Limone intero (succo e buccia) e solo zucchero di canna: 86 g di frutta per 100 g di marmellata. La cottura lenta sottovuoto preserva gli oli essenziali. Premio WineHunter Award Gold 2024 (Merano WineFestival). Ingredienti: limoni (succo e buccia), zucchero di canna.",
+            "en": "Lemons of a local variety grown in their own groves, chosen for the essential oils in the peel: full, vibrant freshness with no harsh bitterness. Whole lemon (juice and peel) and cane sugar only: 86 g of fruit per 100 g of marmalade. Slow vacuum cooking preserves the essential oils. WineHunter Award Gold 2024 (Merano WineFestival). Ingredients: lemons (juice and peel), cane sugar.",
+            "de": "Zitronen einer lokalen Sorte aus den eigenen Hainen, ausgewählt wegen der ätherischen Öle der Schale: volle, lebendige Frische ohne harte Bitterkeit. Ganze Zitrone (Saft und Schale) und nur Rohrzucker: 86 g Frucht für 100 g Marmelade. Langsames Vakuumkochen bewahrt die ätherischen Öle. WineHunter Award Gold 2024 (Merano WineFestival). Zutaten: Zitronen (Saft und Schale), Rohrzucker."
+          },
+          "a": {
+            "it": "Su pane tostato e brioche, in crostate e biscotti farciti, con formaggi erborinati o ricotta fresca. Dopo l'apertura in frigorifero, da consumare entro 7 giorni.",
+            "en": "On toast and brioche, in tarts and filled biscuits, with blue cheeses or fresh ricotta. Once opened keep refrigerated and eat within 7 days.",
+            "de": "Auf Toast und Brioche, in Crostate und gefüllten Keksen, zu Blauschimmelkäse oder frischem Ricotta. Nach dem Öffnen gekühlt lagern und innerhalb von 7 Tagen verzehren."
+          }
+        },
+        "V-19-9": {
+          "c": [],
+          "pr": "7,90 €",
+          "d": {
+            "it": "Melanzane mature lavorate a mano e conservate in olio extravergine di oliva con aglio, aceto di vino bianco e, al posto del peperoncino, il peperone crusco essiccato, che dà una nota aromatica e dolce, meno pungente. Peso sgocciolato 190 g. Niente conservanti, coloranti né esaltatori di sapidità. Premio WineHunter Rosso 2026 (Merano WineFestival). Ingredienti: melanzane, olio extravergine di oliva, peperone crusco essiccato, aglio, aceto di vino bianco (contiene solfiti), sale. Per ristorazione e negozi c'è il formato professionale da 580 g.",
+            "en": "Ripe aubergines prepared by hand and preserved in extra virgin olive oil with garlic, white wine vinegar and, instead of chilli, dried crusco pepper, which gives a sweeter, more aromatic and less pungent note. Drained weight 190 g. No preservatives, colourings or flavour enhancers. WineHunter Rosso 2026 award (Merano WineFestival). Ingredients: aubergines, extra virgin olive oil, dried crusco pepper, garlic, white wine vinegar (contains sulphites), salt. A 580 g professional format is available for food service and shops.",
+            "de": "Reife Auberginen, von Hand verarbeitet und in nativem Olivenöl extra eingelegt, mit Knoblauch, Weißweinessig und statt Chili getrocknetem Peperone crusco, der eine süßere, aromatische und weniger scharfe Note gibt. Abtropfgewicht 190 g. Ohne Konservierungs-, Farbstoffe und Geschmacksverstärker. Auszeichnung WineHunter Rosso 2026 (Merano WineFestival). Zutaten: Auberginen, natives Olivenöl extra, getrockneter Peperone crusco, Knoblauch, Weißweinessig (enthält Sulfite), Salz. Für Gastronomie und Handel gibt es ein 580-g-Profiformat."
+          },
+          "a": {
+            "it": "Come antipasto con salumi e formaggi, sulle bruschette, con la mozzarella di bufala. Dopo l'apertura in frigorifero, sempre coperti dal loro olio, entro 7 giorni. L'olio del vasetto è un condimento da usare.",
+            "en": "As a starter with cured meats and cheeses, on bruschetta, with buffalo mozzarella. Once opened keep refrigerated, covered by their oil, and eat within 7 days. The oil in the jar makes a good dressing.",
+            "de": "Als Vorspeise zu Wurst und Käse, auf Bruschetta, zu Büffelmozzarella. Nach dem Öffnen gekühlt und mit Öl bedeckt lagern, innerhalb von 7 Tagen verzehren. Das Öl im Glas eignet sich als Würze."
+          }
+        },
+        "V-19-10": {
+          "c": [],
+          "pr": "7,90 €",
+          "d": {
+            "it": "Peperoni rossi maturi lavorati a mano e conservati in olio extravergine di oliva con aglio, pepe nero, origano e una nota di aceto di vino bianco. Sette ingredienti, niente conservanti, coloranti né esaltatori di sapidità. Ingredienti: peperoni, olio extravergine di oliva, aceto di vino bianco (contiene solfiti), aglio, pepe nero, origano, sale.",
+            "en": "Ripe red peppers prepared by hand and preserved in extra virgin olive oil with garlic, black pepper, oregano and a touch of white wine vinegar. Seven ingredients, no preservatives, colourings or flavour enhancers. Ingredients: peppers, extra virgin olive oil, white wine vinegar (contains sulphites), garlic, black pepper, oregano, salt.",
+            "de": "Reife rote Paprika, von Hand verarbeitet und in nativem Olivenöl extra eingelegt, mit Knoblauch, schwarzem Pfeffer, Oregano und etwas Weißweinessig. Sieben Zutaten, ohne Konservierungs-, Farbstoffe und Geschmacksverstärker. Zutaten: Paprika, natives Olivenöl extra, Weißweinessig (enthält Sulfite), Knoblauch, schwarzer Pfeffer, Oregano, Salz."
+          },
+          "a": {
+            "it": "Su crostini di pane casereccio, in insalate di riso, pasta fredda e friselle, con caciocavallo o carni bianche grigliate. Dopo l'apertura in frigorifero, sempre coperti dal loro olio, entro 7 giorni. L'olio del vasetto è un condimento da usare.",
+            "en": "On rustic bread crostini, in rice salads, cold pasta and friselle, with caciocavallo or grilled white meat. Once opened keep refrigerated, covered by their oil, and eat within 7 days. The oil in the jar makes a good dressing.",
+            "de": "Auf Crostini aus Landbrot, in Reissalat, kalter Pasta und Friselle, zu Caciocavallo oder gegrilltem hellem Fleisch. Nach dem Öffnen gekühlt und mit Öl bedeckt lagern, innerhalb von 7 Tagen verzehren. Das Öl im Glas eignet sich als Würze."
+          }
+        },
+        "V-19-11": {
+          "c": [],
+          "pr": "7,90 €",
+          "d": {
+            "it": "Pomodori raccolti maturi ed essiccati al sole su graticci di legno, senza forni né ventilatori, poi lasciati interi in olio extravergine di oliva con capperi, aglio, aceto di vino bianco e sale. Peso sgocciolato 150 g. Sei ingredienti, niente conservanti, coloranti né esaltatori di sapidità. Ingredienti: pomodori secchi, olio extravergine di oliva, aceto di vino bianco (contiene solfiti), capperi, aglio, sale. Per ristorazione e negozi c'è il formato professionale da 580 g.",
+            "en": "Tomatoes picked ripe and sun-dried on wooden racks, with no ovens or fans, then kept whole in extra virgin olive oil with capers, garlic, white wine vinegar and salt. Drained weight 150 g. Six ingredients, no preservatives, colourings or flavour enhancers. Ingredients: sun-dried tomatoes, extra virgin olive oil, white wine vinegar (contains sulphites), capers, garlic, salt. A 580 g professional format is available for food service and shops.",
+            "de": "Reif geerntete, auf Holzgestellen sonnengetrocknete Tomaten, ohne Ofen oder Gebläse, ganz in nativem Olivenöl extra eingelegt, mit Kapern, Knoblauch, Weißweinessig und Salz. Abtropfgewicht 150 g. Sechs Zutaten, ohne Konservierungs-, Farbstoffe und Geschmacksverstärker. Zutaten: getrocknete Tomaten, natives Olivenöl extra, Weißweinessig (enthält Sulfite), Kapern, Knoblauch, Salz. Für Gastronomie und Handel gibt es ein 580-g-Profiformat."
+          },
+          "a": {
+            "it": "Sul tagliere con salumi e formaggi stagionati, per condire pasta e risotti, con carni grigliate, su bruschette e focacce. Dopo l'apertura in frigorifero, sempre coperti dal loro olio, entro 7 giorni. L'olio del vasetto è un condimento da usare.",
+            "en": "On a board with cured meats and aged cheeses, to dress pasta and risotto, with grilled meat, on bruschetta and focaccia. Once opened keep refrigerated, covered by their oil, and eat within 7 days. The oil in the jar makes a good dressing.",
+            "de": "Auf der Platte zu Wurst und gereiftem Käse, für Pasta und Risotto, zu gegrilltem Fleisch, auf Bruschetta und Focaccia. Nach dem Öffnen gekühlt und mit Öl bedeckt lagern, innerhalb von 7 Tagen verzehren. Das Öl im Glas eignet sich als Würze."
+          }
+        },
+        "V-19-12": {
+          "c": [],
+          "pr": "8,69 €",
+          "d": {
+            "it": "Crema spalmabile di pomodori essiccati al sole su graticci di legno, reidratati e lavorati a freddo con olio extravergine di oliva, aceto di vino bianco, aglio fresco e capperi, in piccoli lotti. Consistenza morbida con pezzi di pomodoro visibili. Niente conservanti, coloranti né esaltatori di sapidità. Premio WineHunter Award Gold 2024 (Merano WineFestival). Ingredienti: pomodori secchi, olio extravergine di oliva, aceto di vino bianco (contiene solfiti), aglio, capperi, sale.",
+            "en": "A spread of tomatoes sun-dried on wooden racks, rehydrated and cold-processed with extra virgin olive oil, white wine vinegar, fresh garlic and capers, in small batches. Soft texture with visible tomato pieces. No preservatives, colourings or flavour enhancers. WineHunter Award Gold 2024 (Merano WineFestival). Ingredients: sun-dried tomatoes, extra virgin olive oil, white wine vinegar (contains sulphites), garlic, capers, salt.",
+            "de": "Aufstrich aus auf Holzgestellen sonnengetrockneten Tomaten, rehydriert und kalt verarbeitet mit nativem Olivenöl extra, Weißweinessig, frischem Knoblauch und Kapern, in kleinen Chargen. Weiche Konsistenz mit sichtbaren Tomatenstücken. Ohne Konservierungs-, Farbstoffe und Geschmacksverstärker. WineHunter Award Gold 2024 (Merano WineFestival). Zutaten: getrocknete Tomaten, natives Olivenöl extra, Weißweinessig (enthält Sulfite), Knoblauch, Kapern, Salz."
+          },
+          "a": {
+            "it": "Su crostini e bruschette, per condire pasta e risotti, con carni bianche e grigliate, sulla pizza bianca, con formaggi freschi e stagionati. Dopo l'apertura in frigorifero, da consumare entro 7 giorni.",
+            "en": "On crostini and bruschetta, to dress pasta and risotto, with white and grilled meat, on white pizza, with fresh and aged cheeses. Once opened keep refrigerated and eat within 7 days.",
+            "de": "Auf Crostini und Bruschetta, für Pasta und Risotto, zu hellem und gegrilltem Fleisch, auf Pizza bianca, zu frischem und gereiftem Käse. Nach dem Öffnen gekühlt lagern und innerhalb von 7 Tagen verzehren."
+          }
+        },
+        "V-19-13": {
+          "c": [],
+          "pr": "6,70 €",
+          "d": {
+            "it": "Zucca tonda napoletana, varietà tradizionale del Sud raccolta a fine estate, con il 16% di olio extravergine di oliva prodotto dai loro ulivi, cipolla dorata, una punta di succo di limone e sale. Cottura lenta in piccoli lotti, senza conservanti né addensanti: la densità viene dalla zucca stessa. Premio WineHunter Rosso 2024 (Merano WineFestival). Ingredienti: zucca tonda napoletana (75%), olio extravergine di oliva (16%), cipolla, succo di limone, sale.",
+            "en": "Neapolitan round pumpkin, a traditional southern variety harvested in late summer, with 16% extra virgin olive oil from their own olive trees, golden onion, a touch of lemon juice and salt. Slow-cooked in small batches, with no preservatives or thickeners: the body comes from the pumpkin itself. WineHunter Rosso 2024 award (Merano WineFestival). Ingredients: Neapolitan round pumpkin (75%), extra virgin olive oil (16%), onion, lemon juice, salt.",
+            "de": "Neapolitanischer Rundkürbis, eine traditionelle süditalienische Sorte aus der Spätsommerernte, mit 16% nativem Olivenöl extra aus den eigenen Olivenbäumen, Zwiebel, etwas Zitronensaft und Salz. Langsam in kleinen Chargen gekocht, ohne Konservierungs- und Verdickungsmittel: die Festigkeit kommt vom Kürbis selbst. Auszeichnung WineHunter Rosso 2024 (Merano WineFestival). Zutaten: neapolitanischer Rundkürbis (75%), natives Olivenöl extra (16%), Zwiebel, Zitronensaft, Salz."
+          },
+          "a": {
+            "it": "Su crostini di pane casereccio, per condire pasta corta e risotti, in vellutate e minestre, come base per la pizza bianca. Dopo l'apertura in frigorifero, da consumare entro 7 giorni.",
+            "en": "On rustic bread crostini, to dress short pasta and risotto, in soups and broths, as a base for white pizza. Once opened keep refrigerated and eat within 7 days.",
+            "de": "Auf Crostini aus Landbrot, für kurze Pasta und Risotto, in Cremesuppen und Eintöpfen, als Basis für Pizza bianca. Nach dem Öffnen gekühlt lagern und innerhalb von 7 Tagen verzehren."
+          }
+        },
+        "V-19-14": {
+          "c": [],
+          "pr": "4,00 €",
+          "d": {
+            "it": "Il classico della domenica: passata di pomodoro italiana, olio extravergine di oliva, basilico fresco, cipolla fresca e sale integrale. Cotto sottovuoto a bassa temperatura, senza il calore aggressivo della pastorizzazione tradizionale: il pomodoro non si scurisce e l'olio extravergine mantiene profumo. Niente conservanti, coloranti né esaltatori di sapidità. Gusto delicato e rotondo. Premio WineHunter Award Gold 2026 (Merano WineFestival). Ingredienti: passata di pomodoro (94%), olio extravergine di oliva (5%), basilico fresco (0,2%), cipolla fresca, sale integrale. Per 100 g: 91 kcal, grassi 6,8 g, carboidrati 5,3 g, sale 1,3 g.",
+            "en": "The Sunday classic: Italian tomato passata, extra virgin olive oil, fresh basil, fresh onion and wholegrain salt. Cooked under vacuum at low temperature, without the harsh heat of traditional pasteurisation: the tomato keeps its colour and the extra virgin olive oil its aroma. No preservatives, colourings or flavour enhancers. Delicate, rounded flavour. WineHunter Award Gold 2026 (Merano WineFestival). Ingredients: tomato passata (94%), extra virgin olive oil (5%), fresh basil (0.2%), fresh onion, wholegrain salt. Per 100 g: 91 kcal, fat 6.8 g, carbohydrates 5.3 g, salt 1.3 g.",
+            "de": "Der Sonntagsklassiker: italienische Tomatenpassata, natives Olivenöl extra, frisches Basilikum, frische Zwiebel und Vollsalz. Im Vakuum bei niedriger Temperatur gekocht, ohne die starke Hitze herkömmlicher Pasteurisierung: die Tomate bleibt hell und das Olivenöl behält sein Aroma. Ohne Konservierungs-, Farbstoffe und Geschmacksverstärker. Zarter, runder Geschmack. WineHunter Award Gold 2026 (Merano WineFestival). Zutaten: Tomatenpassata (94%), natives Olivenöl extra (5%), frisches Basilikum (0,2%), frische Zwiebel, Vollsalz. Pro 100 g: 91 kcal, Fett 6,8 g, Kohlenhydrate 5,3 g, Salz 1,3 g."
+          },
+          "a": {
+            "it": "Su spaghetti e pasta corta, per la pizza margherita fatta in casa; finire con basilico fresco e un filo d'olio a crudo. Dopo l'apertura in frigorifero, da consumare entro 4-5 giorni.",
+            "en": "On spaghetti and short pasta, for homemade pizza margherita; finish with fresh basil and a drizzle of raw oil. Once opened keep refrigerated and use within 4-5 days.",
+            "de": "Zu Spaghetti und kurzer Pasta, für hausgemachte Pizza Margherita; mit frischem Basilikum und einem Schuss Öl vollenden. Nach dem Öffnen gekühlt lagern und innerhalb von 4-5 Tagen verbrauchen."
+          }
+        },
+        "V-19-15": {
+          "c": [],
+          "pr": "4,00 €",
+          "d": {
+            "it": "La ricetta di casa del Cilento in cinque ingredienti: pomodori pelati in succo, olio extravergine di oliva, aglio, sale e origano. Cotto sottovuoto a bassa temperatura, senza il calore aggressivo della pastorizzazione tradizionale: il pomodoro non si scurisce e l'olio extravergine mantiene profumo. Niente conservanti, coloranti né esaltatori di sapidità. Gli oli essenziali dell'origano restano vivi; il sugo è denso e rotondo. Ingredienti: pomodori pelati italiani in succo (93%), olio extravergine di oliva, aglio, sale, origano.",
+            "en": "The Cilento home recipe in five ingredients: peeled tomatoes in juice, extra virgin olive oil, garlic, salt and oregano. Cooked under vacuum at low temperature, without the harsh heat of traditional pasteurisation: the tomato keeps its colour and the extra virgin olive oil its aroma. No preservatives, colourings or flavour enhancers. The oregano keeps its essential oils; the sauce is thick and rounded. Ingredients: Italian peeled tomatoes in juice (93%), extra virgin olive oil, garlic, salt, oregano.",
+            "de": "Das Hausrezept aus dem Cilento mit fünf Zutaten: geschälte Tomaten im Saft, natives Olivenöl extra, Knoblauch, Salz und Oregano. Im Vakuum bei niedriger Temperatur gekocht, ohne die starke Hitze herkömmlicher Pasteurisierung: die Tomate bleibt hell und das Olivenöl behält sein Aroma. Ohne Konservierungs-, Farbstoffe und Geschmacksverstärker. Die ätherischen Öle des Oreganos bleiben erhalten; die Sauce ist dick und rund. Zutaten: geschälte italienische Tomaten im Saft (93%), natives Olivenöl extra, Knoblauch, Salz, Oregano."
+          },
+          "a": {
+            "it": "Su spaghetti, penne e pasta corta, come base per la pizza tradizionale; con cacioricotta fresca grattugiata. Dopo l'apertura in frigorifero, da consumare entro 4-5 giorni.",
+            "en": "On spaghetti, penne and short pasta, as a base for traditional pizza; with freshly grated cacioricotta. Once opened keep refrigerated and use within 4-5 days.",
+            "de": "Zu Spaghetti, Penne und kurzer Pasta, als Basis für traditionelle Pizza; mit frisch geriebenem Cacioricotta. Nach dem Öffnen gekühlt lagern und innerhalb von 4-5 Tagen verbrauchen."
+          }
+        },
+        "V-19-16": {
+          "c": [],
+          "pr": "4,00 €",
+          "d": {
+            "it": "La versione piccante del sugo cilentano: stessi ingredienti e stessa lavorazione, con il peperoncino al posto dell'origano. Una piccantezza bilanciata che non copre la dolcezza del pomodoro. Cotto sottovuoto a bassa temperatura, senza il calore aggressivo della pastorizzazione tradizionale: il pomodoro non si scurisce e l'olio extravergine mantiene profumo. Niente conservanti, coloranti né esaltatori di sapidità. Ingredienti: pomodori pelati italiani in succo (93%), olio extravergine di oliva, aglio, sale, peperoncino.",
+            "en": "The spicy version of the Cilento sauce: same ingredients and same method, with chilli instead of oregano. A balanced heat that does not mask the sweetness of the tomato. Cooked under vacuum at low temperature, without the harsh heat of traditional pasteurisation: the tomato keeps its colour and the extra virgin olive oil its aroma. No preservatives, colourings or flavour enhancers. Ingredients: Italian peeled tomatoes in juice (93%), extra virgin olive oil, garlic, salt, chilli.",
+            "de": "Die scharfe Variante der Cilento-Sauce: dieselben Zutaten und dieselbe Verarbeitung, mit Chili statt Oregano. Eine ausgewogene Schärfe, die die Süße der Tomate nicht überdeckt. Im Vakuum bei niedriger Temperatur gekocht, ohne die starke Hitze herkömmlicher Pasteurisierung: die Tomate bleibt hell und das Olivenöl behält sein Aroma. Ohne Konservierungs-, Farbstoffe und Geschmacksverstärker. Zutaten: geschälte italienische Tomaten im Saft (93%), natives Olivenöl extra, Knoblauch, Salz, Chili."
+          },
+          "a": {
+            "it": "Per penne all'arrabbiata, spaghetti e rigatoni, come base per pizza piccante e focaccia, sulle bruschette. Dopo l'apertura in frigorifero, da consumare entro 4-5 giorni.",
+            "en": "For penne all'arrabbiata, spaghetti and rigatoni, as a base for spicy pizza and focaccia, on bruschetta. Once opened keep refrigerated and use within 4-5 days.",
+            "de": "Für Penne all'arrabbiata, Spaghetti und Rigatoni, als Basis für scharfe Pizza und Focaccia, auf Bruschetta. Nach dem Öffnen gekühlt lagern und innerhalb von 4-5 Tagen verbrauchen."
+          }
+        },
+        "V-19-17": {
+          "c": [],
+          "pr": "4,00 €",
+          "d": {
+            "it": "Passata di pomodoro e pomodori essiccati per un sugo pieno e deciso, con la nota dolce-sapida del pomodoro secco in primo piano. Cotto sottovuoto a bassa temperatura, senza il calore aggressivo della pastorizzazione tradizionale: il pomodoro non si scurisce e l'olio extravergine mantiene profumo. Niente conservanti, coloranti né esaltatori di sapidità. Ingredienti: passata di pomodoro (82%), pomodori essiccati (13%), olio extravergine di oliva (4%), aglio, sale integrale; pomodoro di origine italiana. Per 100 g: 94 kcal, grassi 4,6 g, carboidrati 11,1 g, fibre 2,6 g, sale 1,6 g.",
+            "en": "Tomato passata and sun-dried tomatoes for a full, bold sauce, with the sweet and savoury note of dried tomato to the fore. Cooked under vacuum at low temperature, without the harsh heat of traditional pasteurisation: the tomato keeps its colour and the extra virgin olive oil its aroma. No preservatives, colourings or flavour enhancers. Ingredients: tomato passata (82%), dried tomatoes (13%), extra virgin olive oil (4%), garlic, wholegrain salt; tomatoes of Italian origin. Per 100 g: 94 kcal, fat 4.6 g, carbohydrates 11.1 g, fibre 2.6 g, salt 1.6 g.",
+            "de": "Tomatenpassata und getrocknete Tomaten für eine volle, kräftige Sauce, mit der süß-würzigen Note der Trockentomate im Vordergrund. Im Vakuum bei niedriger Temperatur gekocht, ohne die starke Hitze herkömmlicher Pasteurisierung: die Tomate bleibt hell und das Olivenöl behält sein Aroma. Ohne Konservierungs-, Farbstoffe und Geschmacksverstärker. Zutaten: Tomatenpassata (82%), getrocknete Tomaten (13%), natives Olivenöl extra (4%), Knoblauch, Vollsalz; Tomaten italienischer Herkunft. Pro 100 g: 94 kcal, Fett 4,6 g, Kohlenhydrate 11,1 g, Ballaststoffe 2,6 g, Salz 1,6 g."
+          },
+          "a": {
+            "it": "Su spaghetti, penne e pasta corta, su bruschette e pizze gourmet, come base per piatti al forno; con ricotta salata o cacioricotta. Dopo l'apertura in frigorifero, da consumare entro 4-5 giorni.",
+            "en": "On spaghetti, penne and short pasta, on bruschetta and gourmet pizza, as a base for baked dishes; with ricotta salata or cacioricotta. Once opened keep refrigerated and use within 4-5 days.",
+            "de": "Zu Spaghetti, Penne und kurzer Pasta, auf Bruschetta und Gourmet-Pizza, als Basis für Ofengerichte; mit Ricotta salata oder Cacioricotta. Nach dem Öffnen gekühlt lagern und innerhalb von 4-5 Tagen verbrauchen."
+          }
+        },
+        "V-19-18": {
+          "c": [],
+          "pr": "34,90 €",
+          "d": {
+            "it": "Un primo assaggio di Minnelea, dolce e salato: 2 Sugo cilentano, 1 Paté di pomodori secchi, 1 Confettura di fichi, 1 Confettura di frutti di bosco, 1 Confettura di mirtillo nero. Tre confetture da 212 g, un paté da 200 g e due sughi da 270 g, confezione regalo inclusa.",
+            "en": "A first taste of Minnelea, sweet and savoury: 2 Cilento sauce, 1 sun-dried tomato pâté, 1 fig jam, 1 mixed berry jam, 1 black blueberry jam. Three 212 g jams, one 200 g pâté and two 270 g sauces, gift box included.",
+            "de": "Ein erster Eindruck von Minnelea, süß und herzhaft: 2 Sugo cilentano, 1 Pastete aus getrockneten Tomaten, 1 Feigenkonfitüre, 1 Waldbeerenkonfitüre, 1 Heidelbeerkonfitüre. Drei Konfitüren à 212 g, eine Pastete à 200 g und zwei Saucen à 270 g, mit Geschenkbox."
+          },
+          "a": {
+            "it": "Confezione regalo; adatto anche a regali aziendali e cesti natalizi. Ingredienti e conservazione sulle etichette dei singoli vasetti.",
+            "en": "Gift packaging; also suited to corporate gifts and Christmas hampers. Ingredients and storage on each jar's label.",
+            "de": "Geschenkverpackung; auch für Firmengeschenke und Weihnachtskörbe geeignet. Zutaten und Lagerung auf dem Etikett jedes Glases."
+          }
+        },
+        "V-19-19": {
+          "c": [],
+          "pr": "40,00 €",
+          "d": {
+            "it": "Cinque specialità salate e una confettura per bruschette, antipasti e taglieri di formaggi: Paté di pomodori secchi, Pomodori secchi sott'olio, Crema di zucca, Peperoni sott'olio, Melanzane sott'olio (200 g) e Confettura di fichi (212 g). Scatole regalo con paglia incluse.",
+            "en": "Five savoury specialities and one jam for bruschetta, starters and cheese boards: sun-dried tomato pâté, sun-dried tomatoes in oil, pumpkin cream, peppers in oil, aubergines in oil (200 g) and fig jam (212 g). Gift boxes with straw included.",
+            "de": "Fünf herzhafte Spezialitäten und eine Konfitüre für Bruschetta, Vorspeisen und Käseplatten: Pastete aus getrockneten Tomaten, getrocknete Tomaten in Öl, Kürbiscreme, Paprika in Öl, Auberginen in Öl (200 g) und Feigenkonfitüre (212 g). Geschenkschachteln mit Stroh inklusive."
+          },
+          "a": {
+            "it": "Confezione regalo; adatto anche a regali aziendali e cesti natalizi. Ingredienti e conservazione sulle etichette dei singoli vasetti.",
+            "en": "Gift packaging; also suited to corporate gifts and Christmas hampers. Ingredients and storage on each jar's label.",
+            "de": "Geschenkverpackung; auch für Firmengeschenke und Weihnachtskörbe geeignet. Zutaten und Lagerung auf dem Etikett jedes Glases."
+          }
+        },
+        "V-19-20": {
+          "c": [],
+          "pr": "6 vasetti 49,40 € · 12 vasetti 88,92 €",
+          "d": {
+            "it": "Un vasetto da 212 g per ognuno dei sei gusti dolci (due per gusto nel kit da 12): confettura di fichi (Great Taste 2025, WineHunter Gold 2024), albicocche (WineHunter Rosso 2026), fragole, mirtillo nero (WineHunter Rosso 2024), frutti di bosco e marmellata di arance. Frutta cotta sottovuoto sotto i 60 °C con zucchero di canna e succo di limone, senza pectine né addensanti.",
+            "en": "One 212 g jar of each of the six sweet flavours (two of each in the 12-jar kit): fig jam (Great Taste 2025, WineHunter Gold 2024), apricot (WineHunter Rosso 2026), strawberry, black blueberry (WineHunter Rosso 2024), mixed berry and orange marmalade. Fruit vacuum-cooked below 60 °C with cane sugar and lemon juice, with no pectin or thickeners.",
+            "de": "Je ein Glas à 212 g der sechs süßen Sorten (im 12er-Kit je zwei): Feigenkonfitüre (Great Taste 2025, WineHunter Gold 2024), Aprikose (WineHunter Rosso 2026), Erdbeere, Heidelbeere (WineHunter Rosso 2024), Waldbeeren und Orangenmarmelade. Früchte unter 60 °C im Vakuum mit Rohrzucker und Zitronensaft gekocht, ohne Pektin und Verdickungsmittel."
+          },
+          "a": {
+            "it": "Confezione regalo; adatto anche a regali aziendali e cesti natalizi. Ingredienti e conservazione sulle etichette dei singoli vasetti.",
+            "en": "Gift packaging; also suited to corporate gifts and Christmas hampers. Ingredients and storage on each jar's label.",
+            "de": "Geschenkverpackung; auch für Firmengeschenke und Weihnachtskörbe geeignet. Zutaten und Lagerung auf dem Etikett jedes Glases."
+          }
+        },
+        "V-19-21": {
+          "c": [],
+          "pr": "6 vasetti 39,40 € · 12 vasetti 70,02 €",
+          "d": {
+            "it": "Kit da 6: confettura di fichi, di albicocche e di mirtillo nero (212 g), crema di zucca (200 g), Sugo al basilico e Sugo cilentano (270 g). Kit da 12: 2 confetture di fichi, 2 di albicocche, 1 di fragole, 1 di mirtillo nero, 2 creme di zucca, 2 Sugo al basilico, 1 Sugo cilentano e 1 Sugo ai pomodori secchi. Contiene vasetti premiati Great Taste e WineHunter.",
+            "en": "6-jar kit: fig, apricot and black blueberry jam (212 g), pumpkin cream (200 g), basil sauce and Cilento sauce (270 g). 12-jar kit: 2 fig jams, 2 apricot, 1 strawberry, 1 black blueberry, 2 pumpkin creams, 2 basil sauces, 1 Cilento sauce and 1 sun-dried tomato sauce. Includes Great Taste and WineHunter award-winning jars.",
+            "de": "6er-Kit: Feigen-, Aprikosen- und Heidelbeerkonfitüre (212 g), Kürbiscreme (200 g), Basilikumsauce und Sugo cilentano (270 g). 12er-Kit: 2 Feigen-, 2 Aprikosen-, 1 Erdbeer-, 1 Heidelbeerkonfitüre, 2 Kürbiscremes, 2 Basilikumsaucen, 1 Sugo cilentano und 1 Sauce mit getrockneten Tomaten. Enthält mit Great Taste und WineHunter ausgezeichnete Gläser."
+          },
+          "a": {
+            "it": "Confezione regalo; adatto anche a regali aziendali e cesti natalizi. Ingredienti e conservazione sulle etichette dei singoli vasetti.",
+            "en": "Gift packaging; also suited to corporate gifts and Christmas hampers. Ingredients and storage on each jar's label.",
+            "de": "Geschenkverpackung; auch für Firmengeschenke und Weihnachtskörbe geeignet. Zutaten und Lagerung auf dem Etikett jedes Glases."
+          }
+        },
+        "V-19-22": {
+          "c": [],
+          "pr": "6 vasetti 42,30 € · 12 vasetti 76,14 €",
+          "d": {
+            "it": "Kit da 6: crema di zucca, pomodori secchi sott'olio, peperoni sott'olio (200 g), Sugo al basilico (270 g), confettura di fichi e confettura di albicocche (212 g). Kit da 12: 2 creme di zucca, 2 pomodori secchi sott'olio, 2 peperoni sott'olio, 2 paté di pomodori secchi, 1 Sugo al basilico, 1 Sugo ai pomodori secchi, 1 confettura di fichi e 1 di albicocche. I sott'oli sono in olio extravergine di oliva e contengono solfiti (dall'aceto).",
+            "en": "6-jar kit: pumpkin cream, sun-dried tomatoes in oil, peppers in oil (200 g), basil sauce (270 g), fig jam and apricot jam (212 g). 12-jar kit: 2 pumpkin creams, 2 sun-dried tomatoes in oil, 2 peppers in oil, 2 sun-dried tomato pâtés, 1 basil sauce, 1 sun-dried tomato sauce, 1 fig jam and 1 apricot jam. The preserves are in extra virgin olive oil and contain sulphites (from the vinegar).",
+            "de": "6er-Kit: Kürbiscreme, getrocknete Tomaten in Öl, Paprika in Öl (200 g), Basilikumsauce (270 g), Feigen- und Aprikosenkonfitüre (212 g). 12er-Kit: 2 Kürbiscremes, 2 getrocknete Tomaten in Öl, 2 Paprika in Öl, 2 Tomatenpasteten, 1 Basilikumsauce, 1 Sauce mit getrockneten Tomaten, 1 Feigen- und 1 Aprikosenkonfitüre. Das Eingelegte ist in nativem Olivenöl extra und enthält Sulfite (aus dem Essig)."
+          },
+          "a": {
+            "it": "Confezione regalo; adatto anche a regali aziendali e cesti natalizi. Ingredienti e conservazione sulle etichette dei singoli vasetti.",
+            "en": "Gift packaging; also suited to corporate gifts and Christmas hampers. Ingredients and storage on each jar's label.",
+            "de": "Geschenkverpackung; auch für Firmengeschenke und Weihnachtskörbe geeignet. Zutaten und Lagerung auf dem Etikett jedes Glases."
+          }
+        },
+        "V-19-23": {
+          "c": [],
+          "pr": "6 vasetti 27,90 € · 12 vasetti 46,71 €",
+          "d": {
+            "it": "Kit da 6: 2 Sugo al basilico, 1 Sugo cilentano, 1 Sugo all'arrabbiata, 1 Sugo ai pomodori secchi (270 g) e 1 Paté di pomodori secchi (200 g). Kit da 12: 4 Sugo al basilico, 4 Sugo cilentano, 2 Sugo ai pomodori secchi, 1 Sugo all'arrabbiata e 1 Paté di pomodori secchi. Sugo al basilico WineHunter Gold 2026, paté WineHunter Gold 2024.",
+            "en": "6-jar kit: 2 basil sauce, 1 Cilento sauce, 1 arrabbiata sauce, 1 sun-dried tomato sauce (270 g) and 1 sun-dried tomato pâté (200 g). 12-jar kit: 4 basil sauce, 4 Cilento sauce, 2 sun-dried tomato sauce, 1 arrabbiata sauce and 1 sun-dried tomato pâté. Basil sauce WineHunter Gold 2026, pâté WineHunter Gold 2024.",
+            "de": "6er-Kit: 2 Basilikumsauce, 1 Sugo cilentano, 1 Arrabbiata, 1 Sauce mit getrockneten Tomaten (270 g) und 1 Tomatenpastete (200 g). 12er-Kit: 4 Basilikumsauce, 4 Sugo cilentano, 2 Sauce mit getrockneten Tomaten, 1 Arrabbiata und 1 Tomatenpastete. Basilikumsauce WineHunter Gold 2026, Pastete WineHunter Gold 2024."
+          },
+          "a": {
+            "it": "Scaldare il sugo in padella e condire la pasta; il paté va su crostini o nella pasta.",
+            "en": "Warm the sauce in a pan and toss with pasta; spread the pâté on crostini or stir it into pasta.",
+            "de": "Sauce in der Pfanne erwärmen und mit Pasta vermengen; die Pastete auf Crostini streichen oder unter Pasta mischen."
+          }
+        },
+        "V-19-24": {
+          "c": [],
+          "pr": "24,00 €",
+          "d": {
+            "it": "Tre gusti, sei vasetti da 270 g per la pasta di tutti i giorni: 3 Sugo cilentano, 2 Sugo al basilico, 1 Sugo ai pomodori secchi. Peso netto totale 1,62 kg, assortimento fisso.",
+            "en": "Three flavours, six 270 g jars for everyday pasta: 3 Cilento sauce, 2 basil sauce, 1 sun-dried tomato sauce. Total net weight 1.62 kg, fixed assortment.",
+            "de": "Drei Sorten, sechs Gläser à 270 g für die Pasta im Alltag: 3 Sugo cilentano, 2 Basilikumsauce, 1 Sauce mit getrockneten Tomaten. Nettogewicht 1,62 kg, feste Zusammenstellung."
+          },
+          "a": {
+            "it": "Pasta pronta in dieci minuti: scaldare il sugo mentre cuoce la pasta. Conservazione sulle etichette dei singoli vasetti.",
+            "en": "Pasta ready in ten minutes: heat the sauce while the pasta cooks. Storage on each jar's label.",
+            "de": "Pasta in zehn Minuten: Sauce erwärmen, während die Pasta kocht. Lagerung auf dem Etikett jedes Glases."
+          }
+        },
+        "V-19-25": {
+          "c": [],
+          "pr": "29,90 €",
+          "d": {
+            "it": "Tutto per i primi della tradizione italiana: 2 Sugo cilentano, 2 Sugo all'arrabbiata e 1 vasetto di Pomodori secchi sott'olio EVO da mantecare.",
+            "en": "Everything for traditional Italian pasta dishes: 2 Cilento sauce, 2 arrabbiata sauce and 1 jar of sun-dried tomatoes in extra virgin olive oil to stir through.",
+            "de": "Alles für traditionelle italienische Pastagerichte: 2 Sugo cilentano, 2 Arrabbiata und 1 Glas getrocknete Tomaten in nativem Olivenöl extra zum Unterrühren."
+          },
+          "a": {
+            "it": "Confezione regalo; adatto anche a regali aziendali e cesti natalizi. Ingredienti e conservazione sulle etichette dei singoli vasetti.",
+            "en": "Gift packaging; also suited to corporate gifts and Christmas hampers. Ingredients and storage on each jar's label.",
+            "de": "Geschenkverpackung; auch für Firmengeschenke und Weihnachtskörbe geeignet. Zutaten und Lagerung auf dem Etikett jedes Glases."
+          }
+        },
+        "V-19-26": {
+          "c": [],
+          "pr": "27,90 €",
+          "d": {
+            "it": "L'aperitivo mediterraneo pronto in tavola, quattro antipasti in olio extravergine di oliva: Pomodori secchi sott'olio, Melanzane sott'olio, Peperoni sott'olio e Paté di pomodori secchi.",
+            "en": "A Mediterranean aperitivo ready to serve, four starters in extra virgin olive oil: sun-dried tomatoes in oil, aubergines in oil, peppers in oil and sun-dried tomato pâté.",
+            "de": "Mediterraner Aperitivo, fertig zum Servieren, vier Vorspeisen in nativem Olivenöl extra: getrocknete Tomaten in Öl, Auberginen in Öl, Paprika in Öl und Tomatenpastete."
+          },
+          "a": {
+            "it": "Confezione regalo; adatto anche a regali aziendali e cesti natalizi. Ingredienti e conservazione sulle etichette dei singoli vasetti.",
+            "en": "Gift packaging; also suited to corporate gifts and Christmas hampers. Ingredients and storage on each jar's label.",
+            "de": "Geschenkverpackung; auch für Firmengeschenke und Weihnachtskörbe geeignet. Zutaten und Lagerung auf dem Etikett jedes Glases."
+          }
+        },
+        "V-19-27": {
+          "c": [],
+          "pr": "28,90 €",
+          "d": {
+            "it": "Tre confetture per formaggi e un tocco salato: confettura di fichi bianchi dottati, di mirtillo nero e di albicocche, più peperoni sott'olio EVO.",
+            "en": "Three jams for cheese and a savoury touch: Bianchi dottati fig, black blueberry and apricot jam, plus peppers in extra virgin olive oil.",
+            "de": "Drei Konfitüren zu Käse und eine herzhafte Note: Feige Bianco dottato, Heidelbeere und Aprikose, dazu Paprika in nativem Olivenöl extra."
+          },
+          "a": {
+            "it": "Con formaggi freschi e stagionati, pane e focaccia.",
+            "en": "With fresh and aged cheeses, bread and focaccia.",
+            "de": "Zu frischem und gereiftem Käse, Brot und Focaccia."
+          }
+        },
+        "V-19-28": {
+          "c": [],
+          "pr": "28,90 €",
+          "d": {
+            "it": "Quattro confetture extra per crostate e dolci fatti in casa: fichi bianchi dottati, fragole, albicocche e frutti di bosco.",
+            "en": "Four extra jams for tarts and homemade cakes: Bianchi dottati fig, strawberry, apricot and mixed berry.",
+            "de": "Vier Extra-Konfitüren für Crostate und hausgemachtes Gebäck: Feige Bianco dottato, Erdbeere, Aprikose und Waldbeeren."
+          },
+          "a": {
+            "it": "Confezione regalo; adatto anche a regali aziendali e cesti natalizi. Ingredienti e conservazione sulle etichette dei singoli vasetti.",
+            "en": "Gift packaging; also suited to corporate gifts and Christmas hampers. Ingredients and storage on each jar's label.",
+            "de": "Geschenkverpackung; auch für Firmengeschenke und Weihnachtskörbe geeignet. Zutaten und Lagerung auf dem Etikett jedes Glases."
+          }
+        },
+        "V-19-29": {
+          "c": [],
+          "pr": "27,90 €",
+          "d": {
+            "it": "Una cena per due in quattro vasetti: Paté di pomodori secchi (200 g) per l'antipasto, Sugo cilentano (270 g) e Crema di zucca (200 g) per la pasta, Confettura di fichi bianchi dottati (212 g) per i formaggi. Peso netto totale 882 g; tre vasetti premiati (Great Taste, WineHunter Gold e Rosso).",
+            "en": "Dinner for two in four jars: sun-dried tomato pâté (200 g) for the starter, Cilento sauce (270 g) and pumpkin cream (200 g) for the pasta, Bianchi dottati fig jam (212 g) for the cheese. Total net weight 882 g; three award-winning jars (Great Taste, WineHunter Gold and Rosso).",
+            "de": "Ein Abendessen für zwei in vier Gläsern: Tomatenpastete (200 g) als Vorspeise, Sugo cilentano (270 g) und Kürbiscreme (200 g) für die Pasta, Feigenkonfitüre Bianco dottato (212 g) zum Käse. Nettogewicht 882 g; drei ausgezeichnete Gläser (Great Taste, WineHunter Gold und Rosso)."
+          },
+          "a": {
+            "it": "Paté sul pane tostato, sugo e crema di zucca sulla pasta, confettura con pecorino o formaggi stagionati. Per anniversari e San Valentino.",
+            "en": "Pâté on toast, sauce and pumpkin cream on pasta, jam with pecorino or aged cheeses. For anniversaries and Valentine's Day.",
+            "de": "Pastete auf Toast, Sauce und Kürbiscreme zur Pasta, Konfitüre zu Pecorino oder gereiftem Käse. Für Jahrestage und Valentinstag."
+          }
+        },
+        "V-19-30": {
+          "c": [],
+          "pr": "80,00 €",
+          "d": {
+            "it": "Dodici vasetti per una dispensa intera, dieci salati e due dolci: 2 Sugo cilentano, 2 Sugo ai pomodori secchi, 2 Paté di pomodori secchi, 1 Pomodori secchi sott'olio, 1 Peperoni sott'olio, 2 Crema di zucca, 1 Confettura di fichi e 1 Confettura di fragole. Confezione elegante, pensata per regali aziendali di prestigio e cesti natalizi.",
+            "en": "Twelve jars for a whole pantry, ten savoury and two sweet: 2 Cilento sauce, 2 sun-dried tomato sauce, 2 sun-dried tomato pâté, 1 sun-dried tomatoes in oil, 1 peppers in oil, 2 pumpkin cream, 1 fig jam and 1 strawberry jam. Elegant packaging, designed for premium corporate gifts and Christmas hampers.",
+            "de": "Zwölf Gläser für eine ganze Vorratskammer, zehn herzhafte und zwei süße: 2 Sugo cilentano, 2 Sauce mit getrockneten Tomaten, 2 Tomatenpastete, 1 getrocknete Tomaten in Öl, 1 Paprika in Öl, 2 Kürbiscreme, 1 Feigen- und 1 Erdbeerkonfitüre. Elegante Verpackung für hochwertige Firmengeschenke und Weihnachtskörbe."
+          },
+          "a": {
+            "it": "Confezione regalo; adatto anche a regali aziendali e cesti natalizi. Ingredienti e conservazione sulle etichette dei singoli vasetti.",
+            "en": "Gift packaging; also suited to corporate gifts and Christmas hampers. Ingredients and storage on each jar's label.",
+            "de": "Geschenkverpackung; auch für Firmengeschenke und Weihnachtskörbe geeignet. Zutaten und Lagerung auf dem Etikett jedes Glases."
+          }
+        },
+        "V-19-31": {
+          "c": [],
+          "pr": "99,00 €",
+          "d": {
+            "it": "Il kit più grande del catalogo, nove vasetti dolci e nove salati: 3 Confettura di fichi, 3 di fragole, 1 di albicocche, 2 di frutti di bosco (212 g); 1 Pomodori secchi sott'olio, 2 Paté di pomodori secchi, 2 Melanzane sott'olio, 2 Peperoni sott'olio, 2 Crema di zucca (200 g). Confezione regalo inclusa, per grandi clienti, matrimoni e Natale aziendale.",
+            "en": "The largest kit in the range, nine sweet and nine savoury jars: 3 fig jam, 3 strawberry, 1 apricot, 2 mixed berry (212 g); 1 sun-dried tomatoes in oil, 2 sun-dried tomato pâté, 2 aubergines in oil, 2 peppers in oil, 2 pumpkin cream (200 g). Gift box included, for key clients, weddings and corporate Christmas.",
+            "de": "Das größte Kit des Sortiments, neun süße und neun herzhafte Gläser: 3 Feigen-, 3 Erdbeer-, 1 Aprikosen-, 2 Waldbeerenkonfitüre (212 g); 1 getrocknete Tomaten in Öl, 2 Tomatenpastete, 2 Auberginen in Öl, 2 Paprika in Öl, 2 Kürbiscreme (200 g). Mit Geschenkbox, für wichtige Kunden, Hochzeiten und Firmen-Weihnachten."
+          },
+          "a": {
+            "it": "Confezione regalo; adatto anche a regali aziendali e cesti natalizi. Ingredienti e conservazione sulle etichette dei singoli vasetti.",
+            "en": "Gift packaging; also suited to corporate gifts and Christmas hampers. Ingredients and storage on each jar's label.",
+            "de": "Geschenkverpackung; auch für Firmengeschenke und Weihnachtskörbe geeignet. Zutaten und Lagerung auf dem Etikett jedes Glases."
+          }
+        }
+      },
+      "fonti": [
+        "https://minnelea.com/collections/all",
+        "https://minnelea.com/collections/kit-regalo",
+        "https://minnelea.com/pages/chi-siamo",
+        "https://minnelea.com/pages/premi",
+        "https://minnelea.com/pages/contatti"
+      ]
     }
   ],
   "IMG": {
@@ -7308,6 +8006,39 @@ window.VETRINE = {
     "prod-V-18-7": "https://labottegadiravacciano.it/wp-content/uploads/2025/03/Neri-1.png",
     "prod-V-18-8": "https://labottegadiravacciano.it/wp-content/uploads/2025/03/Pescarelli-1.png",
     "prod-V-18-9": "https://labottegadiravacciano.it/wp-content/uploads/2021/02/PANFORTE.png",
-    "prod-V-18-10": "https://labottegadiravacciano.it/wp-content/uploads/2021/02/PANPEPATO.png"
+    "prod-V-18-10": "https://labottegadiravacciano.it/wp-content/uploads/2021/02/PANPEPATO.png",
+    "logo-V-19": "https://minnelea.com/cdn/shop/files/logodefinitivo-removebg-preview_a4cd08ad-d91c-43ee-aa50-a6759807b314.png",
+    "prod-V-19-0": "https://cdn.shopify.com/s/files/1/0574/3732/3315/files/albicocche-minnelea-vasetto.jpg?width=900",
+    "prod-V-19-1": "https://cdn.shopify.com/s/files/1/0574/3732/3315/files/fichi-minnelea-vasetto.jpg?width=900",
+    "prod-V-19-2": "https://cdn.shopify.com/s/files/1/0574/3732/3315/files/fragole-minnelea-vasetto.jpg?width=900",
+    "prod-V-19-3": "https://cdn.shopify.com/s/files/1/0574/3732/3315/files/frutti-di-bosco-minnelea-vasetto.jpg?width=900",
+    "prod-V-19-4": "https://cdn.shopify.com/s/files/1/0574/3732/3315/files/mele-rosse-minnelea-vasetto.jpg?width=900",
+    "prod-V-19-5": "https://cdn.shopify.com/s/files/1/0574/3732/3315/files/mirtillo-nero-minnelea-vasetto.jpg?width=900",
+    "prod-V-19-6": "https://cdn.shopify.com/s/files/1/0574/3732/3315/files/arance-minnelea-vasetto.jpg?width=900",
+    "prod-V-19-7": "https://cdn.shopify.com/s/files/1/0574/3732/3315/files/arance-limoni-minnelea-vasetto.jpg?width=900",
+    "prod-V-19-8": "https://cdn.shopify.com/s/files/1/0574/3732/3315/files/limoni-minnelea-vasetto.jpg?width=900",
+    "prod-V-19-9": "https://cdn.shopify.com/s/files/1/0574/3732/3315/files/melanzane-sottolio-minnelea-vasetto.jpg?width=900",
+    "prod-V-19-10": "https://cdn.shopify.com/s/files/1/0574/3732/3315/files/peperoni-sottolio-minnelea-tappo-nero.jpg?width=900",
+    "prod-V-19-11": "https://cdn.shopify.com/s/files/1/0574/3732/3315/files/pomodori-secchi-sottolio-minnelea-tappo-nero.jpg?width=900",
+    "prod-V-19-12": "https://cdn.shopify.com/s/files/1/0574/3732/3315/files/pate-pomodori-secchi-minnelea-tappo-nero.jpg?width=900",
+    "prod-V-19-13": "https://cdn.shopify.com/s/files/1/0574/3732/3315/files/crema-zucca-minnelea-vasetto.jpg?width=900",
+    "prod-V-19-14": "https://cdn.shopify.com/s/files/1/0574/3732/3315/files/sugo-basilico-minnelea-vasetto-winehunter.jpg?width=900",
+    "prod-V-19-15": "https://cdn.shopify.com/s/files/1/0574/3732/3315/files/sugo-cilentano-minnelea-vasetto.jpg?width=900",
+    "prod-V-19-16": "https://cdn.shopify.com/s/files/1/0574/3732/3315/files/sugo-piccante-minnelea-vasetto-v2.jpg?width=900",
+    "prod-V-19-17": "https://cdn.shopify.com/s/files/1/0574/3732/3315/files/sugo-pomodori-secchi-minnelea-vasetto-v2.jpg?width=900",
+    "prod-V-19-18": "https://cdn.shopify.com/s/files/1/0574/3732/3315/files/kit-confetture-sugo-crema-pomodori-secchi_2ef279cc-e513-4fe8-9bfc-072b3cb9e2e2.jpg?width=900",
+    "prod-V-19-19": "https://cdn.shopify.com/s/files/1/0574/3732/3315/files/kit-benvenuto-salato-pomodori-secchi-minnelea.jpg?width=900",
+    "prod-V-19-20": "https://cdn.shopify.com/s/files/1/0574/3732/3315/files/confetture-minnelea-scatole-regalo-natale-albicocche.jpg?width=900",
+    "prod-V-19-21": "https://cdn.shopify.com/s/files/1/0574/3732/3315/files/kit-regalo-gourmet-12-vasetti-minnelea.png?width=900",
+    "prod-V-19-22": "https://cdn.shopify.com/s/files/1/0574/3732/3315/files/pomodori-secchi-sottolio-minnelea-tappo-nero_fd19221e-1fcc-4d71-a904-7bf1fa025731.jpg?width=900",
+    "prod-V-19-23": "https://cdn.shopify.com/s/files/1/0574/3732/3315/files/hf_20260722_113000_f5372938-ec75-4257-adf3-ee6575cf7a17.png?width=900",
+    "prod-V-19-24": "https://cdn.shopify.com/s/files/1/0574/3732/3315/files/sugo-cilentano-olio-evo-minnelea_02694cba-3d64-4e0a-b80b-6f2c74d9caaa.jpg?width=900",
+    "prod-V-19-25": "https://cdn.shopify.com/s/files/1/0574/3732/3315/files/kit-pasta-tradizione-sughi-minnelea.jpg?width=900",
+    "prod-V-19-26": "https://cdn.shopify.com/s/files/1/0574/3732/3315/files/kit-aperitivo-cilentano-4-vasetti-sottolio-minnelea.jpg?width=900",
+    "prod-V-19-27": "https://cdn.shopify.com/s/files/1/0574/3732/3315/files/confettura-fichi-bianchi-dottati-minnelea_3d095b6e-449e-4d48-acc8-6728ff9481b7.jpg?width=900",
+    "prod-V-19-28": "https://cdn.shopify.com/s/files/1/0574/3732/3315/files/kit-crostate-dolci-4-confetture-minnelea.jpg?width=900",
+    "prod-V-19-29": "https://cdn.shopify.com/s/files/1/0574/3732/3315/files/pate-pomodori-secchi-olio-evo-minnelea_0ff9b345-ced6-4ca3-a41d-cfbf235809b2.jpg?width=900",
+    "prod-V-19-30": "https://cdn.shopify.com/s/files/1/0574/3732/3315/files/kit-gran-riserva-cilento-12-vasetti-minnelea.jpg?width=900",
+    "prod-V-19-31": "https://cdn.shopify.com/s/files/1/0574/3732/3315/files/kit-regalo-premium-18-vasetti-natale-minnelea.jpg?width=900"
   }
 };
