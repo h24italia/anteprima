@@ -28264,9 +28264,9 @@ window.VETRINE = {
       "moq": null,
       "logoBg": "#ffffff",
       "d": {
-        "it": "La Sicilia è un continente del gusto: Nero d'Avola e vini dell'Etna, Grillo e Marsala, pistacchi e mandorle, conserve di pesce, capperi e una pasticceria unica. Questa vetrina raccoglie la selezione della Sicilia di OIP, Only Italian Products: 43 prodotti di 35 produttori, scelti dal catalogo di soloprodottiitaliani.it e divisi per tipologia: vini (11), grappe, liquori e distillati (1), birre (2), formaggi (4), salumi (3), oli e aceti (4), salse e sughi (4), prodotti tipici (4), specialità di mare (3), frutta e verdura (3), prodotti da forno, dolci e caffè (4). OIP è una boutique online del cibo e del vino italiano di qualità, con sede e magazzino a Rezzato, in provincia di Brescia, dove si trova anche l'enoteca Winearchy, con oltre 5.000 etichette in negozio. Seleziona fornitori artigianali, ha una sezione dedicata all'Ho.Re.Ca. e un sito disponibile nelle versioni nazionali di 15 Paesi. Il produttore di ogni referenza è indicato nella scheda del prodotto.",
-        "en": "Sicily is a continent of flavour: Nero d'Avola and the wines of Etna, Grillo and Marsala, pistachios and almonds, preserved fish, capers and a unique pastry tradition. This stand brings together OIP's selection from Sicily: 43 products from 35 producers, chosen from the soloprodottiitaliani.it catalogue and grouped by type: wines (11), grappa, liqueurs and spirits (1), beers (2), cheese (4), cured meats (3), oils and vinegars (4), sauces (4), regional specialities (4), seafood specialities (3), fruit and vegetables (3), bakery, sweets and coffee (4). OIP, Only Italian Products, is an online boutique for quality Italian food and wine, with headquarters and warehouse in Rezzato, near Brescia, where it also runs the Winearchy wine shop, with over 5,000 labels in store. It selects artisan suppliers, has a dedicated Ho.Re.Ca. section and a website available in national versions for 15 countries. The producer of each item is shown on its product sheet.",
-        "de": "Sizilien ist ein Kontinent des Geschmacks: Nero d'Avola und die Weine vom Ätna, Grillo und Marsala, Pistazien und Mandeln, Fischkonserven, Kapern und eine einzigartige Konditorei. Dieser Stand zeigt die Auswahl von OIP aus Sizilien: 43 Produkte von 35 Herstellern, ausgewählt aus dem Katalog von soloprodottiitaliani.it und nach Produktart gegliedert: Weine (11), Grappa, Liköre und Spirituosen (1), Biere (2), Käse (4), Wurst und Schinken (3), Öle und Essige (4), Saucen und Sughi (4), Regionale Spezialitäten (4), Meeresspezialitäten (3), Obst und Gemüse (3), Backwaren, Süßes und Kaffee (4). OIP, Only Italian Products, ist eine Online-Boutique für hochwertige italienische Lebensmittel und Weine mit Sitz und Lager in Rezzato bei Brescia, wo sich auch die Vinothek Winearchy mit über 5.000 Etiketten im Geschäft befindet. OIP wählt handwerkliche Lieferanten aus, hat einen eigenen Ho.Re.Ca.-Bereich und eine Website in Länderversionen für 15 Länder. Der Hersteller jedes Artikels ist im Produktblatt angegeben."
+        "it": "La Sicilia è un continente del gusto: Nero d'Avola e vini dell'Etna, Grillo e Marsala, pistacchi e mandorle, conserve di pesce, capperi e una pasticceria unica. Questa vetrina raccoglie la selezione della Sicilia di OIP, Only Italian Products: 42 prodotti di 34 produttori, scelti dal catalogo di soloprodottiitaliani.it e divisi per tipologia: vini (11), grappe, liquori e distillati (1), birre (2), formaggi (4), salumi (3), oli e aceti (4), salse e sughi (4), prodotti tipici (4), specialità di mare (3), frutta e verdura (2), prodotti da forno, dolci e caffè (4). OIP è una boutique online del cibo e del vino italiano di qualità, con sede e magazzino a Rezzato, in provincia di Brescia, dove si trova anche l'enoteca Winearchy, con oltre 5.000 etichette in negozio. Seleziona fornitori artigianali, ha una sezione dedicata all'Ho.Re.Ca. e un sito disponibile nelle versioni nazionali di 15 Paesi. Il produttore di ogni referenza è indicato nella scheda del prodotto.",
+        "en": "Sicily is a continent of flavour: Nero d'Avola and the wines of Etna, Grillo and Marsala, pistachios and almonds, preserved fish, capers and a unique pastry tradition. This stand brings together OIP's selection from Sicily: 42 products from 34 producers, chosen from the soloprodottiitaliani.it catalogue and grouped by type: wines (11), grappa, liqueurs and spirits (1), beers (2), cheese (4), cured meats (3), oils and vinegars (4), sauces (4), regional specialities (4), seafood specialities (3), fruit and vegetables (2), bakery, sweets and coffee (4). OIP, Only Italian Products, is an online boutique for quality Italian food and wine, with headquarters and warehouse in Rezzato, near Brescia, where it also runs the Winearchy wine shop, with over 5,000 labels in store. It selects artisan suppliers, has a dedicated Ho.Re.Ca. section and a website available in national versions for 15 countries. The producer of each item is shown on its product sheet.",
+        "de": "Sizilien ist ein Kontinent des Geschmacks: Nero d'Avola und die Weine vom Ätna, Grillo und Marsala, Pistazien und Mandeln, Fischkonserven, Kapern und eine einzigartige Konditorei. Dieser Stand zeigt die Auswahl von OIP aus Sizilien: 42 Produkte von 34 Herstellern, ausgewählt aus dem Katalog von soloprodottiitaliani.it und nach Produktart gegliedert: Weine (11), Grappa, Liköre und Spirituosen (1), Biere (2), Käse (4), Wurst und Schinken (3), Öle und Essige (4), Saucen und Sughi (4), Regionale Spezialitäten (4), Meeresspezialitäten (3), Obst und Gemüse (2), Backwaren, Süßes und Kaffee (4). OIP, Only Italian Products, ist eine Online-Boutique für hochwertige italienische Lebensmittel und Weine mit Sitz und Lager in Rezzato bei Brescia, wo sich auch die Vinothek Winearchy mit über 5.000 Etiketten im Geschäft befindet. OIP wählt handwerkliche Lieferanten aus, hat einen eigenen Ho.Re.Ca.-Bereich und eine Website in Länderversionen für 15 Länder. Der Hersteller jedes Artikels ist im Produktblatt angegeben."
       },
       "sub": [
         {
@@ -28558,11 +28558,6 @@ window.VETRINE = {
         [
           "Mandorle Sgusciate Siciliane calibro 34/36, Nama Mandorle",
           "confezione da 250 g",
-          "frutta"
-        ],
-        [
-          "Aglio Rosso di Nubia (qualità Fiorone), Az. Agr. Balducco Fulgatore",
-          "",
           "frutta"
         ],
         [
@@ -29217,22 +29212,6 @@ window.VETRINE = {
           "mk": "Nama Mandorle"
         },
         "V-70-38": {
-          "c": [],
-          "d": {
-            "it": "Nubia piccola frazione di Paceco fondata nel 1500 da sempre la sua economia si è basata sulle saline e sulla coltivazione dell'aglio rosso. I nubioti, prevalentemente popolo di contadini, si sono tradizionalmente dedicati alla coltivazione dell'aglio rosso di Nubia, tanto da far acquisire a Nubia la denominazione dialettale di “u paisi di l'agghi” cioè il paese dell'aglio."
-          },
-          "a": {
-            "it": ""
-          },
-          "pr": "1,60 €",
-          "prl": {
-            "it": "Prezzo online OIP",
-            "en": "OIP online price",
-            "de": "OIP-Onlinepreis"
-          },
-          "mk": "Az. Agr. Balducco Fulgatore"
-        },
-        "V-70-39": {
           "c": [
             "IGP",
             "Bio"
@@ -29251,7 +29230,7 @@ window.VETRINE = {
           },
           "mk": "Sabadì"
         },
-        "V-70-40": {
+        "V-70-39": {
           "c": [],
           "d": {
             "it": "La frutta di Martorana è il dolce di pasta di mandorle tipico della Sicilia, modellato e dipinto a mano a forma di frutta."
@@ -29267,7 +29246,7 @@ window.VETRINE = {
           },
           "mk": "Furco Biscotti"
         },
-        "V-70-41": {
+        "V-70-40": {
           "c": [
             "Bio"
           ],
@@ -29285,7 +29264,7 @@ window.VETRINE = {
           },
           "mk": "Mulino Angelica"
         },
-        "V-70-42": {
+        "V-70-41": {
           "c": [],
           "d": {
             "it": "Croccanti e gustose cialde, preparate artigianalmente, da riempire con crema alla ricotta, con crema bianca o con crema al cioccolato, come vuole la tradizione."
@@ -29328,9 +29307,9 @@ window.VETRINE = {
       "moq": null,
       "logoBg": "#ffffff",
       "d": {
-        "it": "La Sardegna è un'isola di Cannonau e Vermentino, di pecorini, pane carasau, bottarga e mirto. Questa vetrina raccoglie la selezione della Sardegna di OIP, Only Italian Products: 29 prodotti di 22 produttori, scelti dal catalogo di soloprodottiitaliani.it e divisi per tipologia: vini (8), grappe, liquori e distillati (2), birre (1), formaggi (5), salumi (1), pasta e riso (2), oli e aceti (1), prodotti tipici (2), specialità di mare (2), prodotti da forno, dolci e caffè (5). OIP è una boutique online del cibo e del vino italiano di qualità, con sede e magazzino a Rezzato, in provincia di Brescia, dove si trova anche l'enoteca Winearchy, con oltre 5.000 etichette in negozio. Seleziona fornitori artigianali, ha una sezione dedicata all'Ho.Re.Ca. e un sito disponibile nelle versioni nazionali di 15 Paesi. Il produttore di ogni referenza è indicato nella scheda del prodotto.",
-        "en": "Sardinia is an island of Cannonau and Vermentino, of pecorino cheeses, carasau bread, bottarga and myrtle liqueur. This stand brings together OIP's selection from Sardinia: 29 products from 22 producers, chosen from the soloprodottiitaliani.it catalogue and grouped by type: wines (8), grappa, liqueurs and spirits (2), beers (1), cheese (5), cured meats (1), pasta and rice (2), oils and vinegars (1), regional specialities (2), seafood specialities (2), bakery, sweets and coffee (5). OIP, Only Italian Products, is an online boutique for quality Italian food and wine, with headquarters and warehouse in Rezzato, near Brescia, where it also runs the Winearchy wine shop, with over 5,000 labels in store. It selects artisan suppliers, has a dedicated Ho.Re.Ca. section and a website available in national versions for 15 countries. The producer of each item is shown on its product sheet.",
-        "de": "Sardinien ist eine Insel des Cannonau und des Vermentino, der Pecorino-Käse, des Carasau-Brots, der Bottarga und des Myrtenlikörs. Dieser Stand zeigt die Auswahl von OIP aus Sardinien: 29 Produkte von 22 Herstellern, ausgewählt aus dem Katalog von soloprodottiitaliani.it und nach Produktart gegliedert: Weine (8), Grappa, Liköre und Spirituosen (2), Biere (1), Käse (5), Wurst und Schinken (1), Pasta und Reis (2), Öle und Essige (1), Regionale Spezialitäten (2), Meeresspezialitäten (2), Backwaren, Süßes und Kaffee (5). OIP, Only Italian Products, ist eine Online-Boutique für hochwertige italienische Lebensmittel und Weine mit Sitz und Lager in Rezzato bei Brescia, wo sich auch die Vinothek Winearchy mit über 5.000 Etiketten im Geschäft befindet. OIP wählt handwerkliche Lieferanten aus, hat einen eigenen Ho.Re.Ca.-Bereich und eine Website in Länderversionen für 15 Länder. Der Hersteller jedes Artikels ist im Produktblatt angegeben."
+        "it": "La Sardegna è un'isola di Cannonau e Vermentino, di pecorini, pane carasau, bottarga e mirto. Questa vetrina raccoglie la selezione della Sardegna di OIP, Only Italian Products: 28 prodotti di 22 produttori, scelti dal catalogo di soloprodottiitaliani.it e divisi per tipologia: vini (8), grappe, liquori e distillati (2), birre (1), formaggi (4), salumi (1), pasta e riso (2), oli e aceti (1), prodotti tipici (2), specialità di mare (2), prodotti da forno, dolci e caffè (5). OIP è una boutique online del cibo e del vino italiano di qualità, con sede e magazzino a Rezzato, in provincia di Brescia, dove si trova anche l'enoteca Winearchy, con oltre 5.000 etichette in negozio. Seleziona fornitori artigianali, ha una sezione dedicata all'Ho.Re.Ca. e un sito disponibile nelle versioni nazionali di 15 Paesi. Il produttore di ogni referenza è indicato nella scheda del prodotto.",
+        "en": "Sardinia is an island of Cannonau and Vermentino, of pecorino cheeses, carasau bread, bottarga and myrtle liqueur. This stand brings together OIP's selection from Sardinia: 28 products from 22 producers, chosen from the soloprodottiitaliani.it catalogue and grouped by type: wines (8), grappa, liqueurs and spirits (2), beers (1), cheese (4), cured meats (1), pasta and rice (2), oils and vinegars (1), regional specialities (2), seafood specialities (2), bakery, sweets and coffee (5). OIP, Only Italian Products, is an online boutique for quality Italian food and wine, with headquarters and warehouse in Rezzato, near Brescia, where it also runs the Winearchy wine shop, with over 5,000 labels in store. It selects artisan suppliers, has a dedicated Ho.Re.Ca. section and a website available in national versions for 15 countries. The producer of each item is shown on its product sheet.",
+        "de": "Sardinien ist eine Insel des Cannonau und des Vermentino, der Pecorino-Käse, des Carasau-Brots, der Bottarga und des Myrtenlikörs. Dieser Stand zeigt die Auswahl von OIP aus Sardinien: 28 Produkte von 22 Herstellern, ausgewählt aus dem Katalog von soloprodottiitaliani.it und nach Produktart gegliedert: Weine (8), Grappa, Liköre und Spirituosen (2), Biere (1), Käse (4), Wurst und Schinken (1), Pasta und Reis (2), Öle und Essige (1), Regionale Spezialitäten (2), Meeresspezialitäten (2), Backwaren, Süßes und Kaffee (5). OIP, Only Italian Products, ist eine Online-Boutique für hochwertige italienische Lebensmittel und Weine mit Sitz und Lager in Rezzato bei Brescia, wo sich auch die Vinothek Winearchy mit über 5.000 Etiketten im Geschäft befindet. OIP wählt handwerkliche Lieferanten aus, hat einen eigenen Ho.Re.Ca.-Bereich und eine Website in Länderversionen für 15 Länder. Der Hersteller jedes Artikels ist im Produktblatt angegeben."
       },
       "sub": [
         {
@@ -29488,11 +29467,6 @@ window.VETRINE = {
         [
           "Pecorino dell'Alta Baronia (Slow Food) Semistagionato, Casu 'e Babbu",
           "pezzo da 500 g",
-          "formaggi"
-        ],
-        [
-          "Arenosu, pecorino stagionato, Selezione Luigi Bacciu",
-          "forma da 500 g",
           "formaggi"
         ],
         [
@@ -29785,22 +29759,6 @@ window.VETRINE = {
         "V-71-13": {
           "c": [],
           "d": {
-            "it": "Arenosu, pecorino stagionato, Selezione Luigi Bacciu. Un pecorino intenso, dalla consistenza regolare ma leggermente granulosa, alle note di latte di pecora si aggiunge una leggerissima piccantezza."
-          },
-          "a": {
-            "it": ""
-          },
-          "pr": "17,00 €",
-          "prl": {
-            "it": "Prezzo online OIP",
-            "en": "OIP online price",
-            "de": "OIP-Onlinepreis"
-          },
-          "mk": "Selezione Luigi Bacciu"
-        },
-        "V-71-14": {
-          "c": [],
-          "d": {
             "it": "Con il pecorino tradizionale di Lodè, formaggio con il latte crudo, ad ogni assaggio si riescono a sentire i profumi del terreno, gli aromi delle erbe e dei fiori del pascolo, ma anche le peculiarità della razza ovina."
           },
           "a": {
@@ -29814,7 +29772,7 @@ window.VETRINE = {
           },
           "mk": "Casu 'e Babbu"
         },
-        "V-71-15": {
+        "V-71-14": {
           "c": [],
           "d": {
             "it": "Pecorino dalla Sardegna dalla lunga stagionatura, che mantiene però una consistenza liscia e rotonda. Il sapore del latte di pecora è concentrato, con note anche di frutta secca e erbacee."
@@ -29830,7 +29788,7 @@ window.VETRINE = {
           },
           "mk": "Selezione Luigi Bacciu"
         },
-        "V-71-16": {
+        "V-71-15": {
           "c": [],
           "d": {
             "it": "Prima di arrivare sulla tavola stagiona per almeno 12 mesi in ventilazione naturale a Fonni, a 1000 metri di quota sul Gennargentu. L'aria della montagna e il profumo dei suoi boschi rappresentano una caratteristica unica e inimitabile. Il crudo di Fonni, con o senza osso, deve anche alle sue condizioni ambientali la gradevole consistenza al taglio e il suo perfetto equilibrio di sapori."
@@ -29846,7 +29804,7 @@ window.VETRINE = {
           },
           "mk": "fATTORIE Gennargentu"
         },
-        "V-71-17": {
+        "V-71-16": {
           "c": [],
           "d": {
             "it": "Gnocchetti sardi, o malloreddus: la pasta di semola di grano duro tipica della Sardegna, piccola e rigata."
@@ -29862,7 +29820,7 @@ window.VETRINE = {
           },
           "mk": "Sunalle"
         },
-        "V-71-18": {
+        "V-71-17": {
           "c": [],
           "d": {
             "it": "Malloreddus, gli gnocchetti di semola di grano duro tipici della Sardegna, qui nel formato lungo."
@@ -29878,7 +29836,7 @@ window.VETRINE = {
           },
           "mk": "Sini"
         },
-        "V-71-19": {
+        "V-71-18": {
           "c": [
             "DOP"
           ],
@@ -29896,7 +29854,7 @@ window.VETRINE = {
           },
           "mk": "Primoli"
         },
-        "V-71-20": {
+        "V-71-19": {
           "c": [],
           "d": {
             "it": "Friggere in olio caldo fino alla doratura. Servire le Sebadas calde con miele o zucchero. Ingredienti Sfoglia: farina di grano tenero, semola di grano duro, acqua, strutto, sale. Ingredienti Ripieno: Formaggio fresco vaccino, scorza di limone, semola di grano duro."
@@ -29912,7 +29870,7 @@ window.VETRINE = {
           },
           "mk": "I Sapori d'Ogliastra"
         },
-        "V-71-21": {
+        "V-71-20": {
           "c": [],
           "d": {
             "it": "Filetto di tonno rosso di corsa sott'olio, dalla tradizione delle tonnare di Carloforte, sull'isola di San Pietro."
@@ -29928,7 +29886,7 @@ window.VETRINE = {
           },
           "mk": "Tonnare di Carloforte"
         },
-        "V-71-22": {
+        "V-71-21": {
           "c": [],
           "d": {
             "it": "Estratta dai ricci di mare, col suo intenso profumo, la sua colorazione calda e il gusto dolce è uno dei prodotti più apprezzati. La polpa di ricci fa da antipasto su crostini o da condimento insieme alla bottarga per dei primi gustosi."
@@ -29944,7 +29902,7 @@ window.VETRINE = {
           },
           "mk": "Smeralda"
         },
-        "V-71-23": {
+        "V-71-22": {
           "c": [],
           "d": {
             "it": "La bottarga di muggine Smeralda è un prodotto semplice ma allo stesso tempo delicato, disponibile in diversi formati, o pezzature, proponendo l'eccellenza della tradizione gastronomica sarda. La bottarga di muggine intera Smeralda è ricavata dalla salatura delle uova del mugil cephalus esclusivamente con sale marino di Sardegna, essiccata e poi posta in confezioni sottovuoto."
@@ -29960,7 +29918,7 @@ window.VETRINE = {
           },
           "mk": "Smeralda"
         },
-        "V-71-24": {
+        "V-71-23": {
           "c": [],
           "d": {
             "it": "Il pane carasau, carasatu, carasadu o anche pane 'e fresa, è un tipico pane sardo, originario della Barbagia e diffuso in tutta la Sardegna, conosciuto con il nome italiano di carta musica per la sua caratteristica croccantezza, che ne rende rumorosa la masticazione."
@@ -29976,7 +29934,7 @@ window.VETRINE = {
           },
           "mk": "Panificio Puddu Raffaele"
         },
-        "V-71-25": {
+        "V-71-24": {
           "c": [],
           "d": {
             "it": "Il pane carasau è il pane tipico della Sardegna: sfoglie sottilissime e croccanti di semola di grano duro, cotte due volte."
@@ -29992,7 +29950,7 @@ window.VETRINE = {
           },
           "mk": "Sunalle"
         },
-        "V-71-26": {
+        "V-71-25": {
           "c": [],
           "d": {
             "it": "Da tantissimi anni facciamo il torrone sardo, non un semplice torrone sardo, ma il torrone sardo."
@@ -30008,7 +29966,7 @@ window.VETRINE = {
           },
           "mk": "Pruneddu"
         },
-        "V-71-27": {
+        "V-71-26": {
           "c": [],
           "d": {
             "it": "Il pane guttiau è pane carasau condito con olio e sale e ripassato in forno; qui in sfoglie, nella versione alla cipolla."
@@ -30024,7 +29982,7 @@ window.VETRINE = {
           },
           "mk": "Sunalle"
         },
-        "V-71-28": {
+        "V-71-27": {
           "c": [],
           "d": {
             "it": "Pane guttiau in piccole sfoglie croccanti: pane carasau condito con olio e sale e ripassato in forno."
@@ -31377,11 +31335,10 @@ window.VETRINE = {
     "prod-V-70-35": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/2309_immagine_0.JPG",
     "prod-V-70-36": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1979_immagine_0.jpg",
     "prod-V-70-37": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/2203_immagine_0.jpg",
-    "prod-V-70-38": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/2327_immagine_0.PNG",
-    "prod-V-70-39": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/57894_immagine_0.jpg",
-    "prod-V-70-40": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1112_immagine_0.png",
-    "prod-V-70-41": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/34694_immagine_0.jpeg",
-    "prod-V-70-42": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/7479_immagine_0.jpg",
+    "prod-V-70-38": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/57894_immagine_0.jpg",
+    "prod-V-70-39": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1112_immagine_0.png",
+    "prod-V-70-40": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/34694_immagine_0.jpeg",
+    "prod-V-70-41": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/7479_immagine_0.jpg",
     "logo-V-71": "https://www.soloprodottiitaliani.it/immagini/logo.webp",
     "prod-V-71-0": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/29751_immagine_0.png",
     "prod-V-71-1": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/33135_immagine_0.jpg",
@@ -31396,21 +31353,20 @@ window.VETRINE = {
     "prod-V-71-10": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/42799_immagine_0.JPG",
     "prod-V-71-11": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/70161_immagine_0.jpeg",
     "prod-V-71-12": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/37952_immagine_0.jpg",
-    "prod-V-71-13": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/63408_immagine_0.png",
-    "prod-V-71-14": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/37953_immagine_0.jpg",
-    "prod-V-71-15": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/63410_immagine_0.png",
-    "prod-V-71-16": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/10969_immagine_0.jpg",
-    "prod-V-71-17": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/61928_immagine_0.jpg",
-    "prod-V-71-18": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/26029_immagine_0.jpg",
-    "prod-V-71-19": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/8698_immagine_0.jpg",
-    "prod-V-71-20": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/10930_immagine_0.JPG",
-    "prod-V-71-21": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/9360_immagine_0.jpg",
-    "prod-V-71-22": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/8677_immagine_0.jpg",
-    "prod-V-71-23": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/8678_immagine_0.jpg",
-    "prod-V-71-24": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1674_immagine_0.jpg",
-    "prod-V-71-25": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/61918_immagine_0.png",
-    "prod-V-71-26": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/2661_immagine_0.jpg",
-    "prod-V-71-27": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/61922_immagine_0.png",
-    "prod-V-71-28": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/61924_immagine_0.jpg"
+    "prod-V-71-13": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/37953_immagine_0.jpg",
+    "prod-V-71-14": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/63410_immagine_0.png",
+    "prod-V-71-15": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/10969_immagine_0.jpg",
+    "prod-V-71-16": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/61928_immagine_0.jpg",
+    "prod-V-71-17": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/26029_immagine_0.jpg",
+    "prod-V-71-18": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/8698_immagine_0.jpg",
+    "prod-V-71-19": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/10930_immagine_0.JPG",
+    "prod-V-71-20": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/9360_immagine_0.jpg",
+    "prod-V-71-21": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/8677_immagine_0.jpg",
+    "prod-V-71-22": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/8678_immagine_0.jpg",
+    "prod-V-71-23": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1674_immagine_0.jpg",
+    "prod-V-71-24": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/61918_immagine_0.png",
+    "prod-V-71-25": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/2661_immagine_0.jpg",
+    "prod-V-71-26": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/61922_immagine_0.png",
+    "prod-V-71-27": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/61924_immagine_0.jpg"
   }
 };
