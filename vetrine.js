@@ -9086,7 +9086,7 @@ window.VETRINE = {
       "id": "V-27",
       "n": "Extraemo",
       "cat": "olio",
-      "reg": "Trentino-Alto Adige",
+      "reg": "Trentino-Alto Adige/Südtirol",
       "city": "Arco (TN)",
       "lat": 45.92,
       "lng": 10.886,
@@ -15636,6 +15636,14417 @@ window.VETRINE = {
         "https://cantinagiacomocosta.it/pages/degustazione",
         "https://www.winedering.com/it/winery-azienda-agricola-giacomo-costa_d6796"
       ]
+    },
+    {
+      "id": "V-51",
+      "n": "OIP · Only Italian Products",
+      "cat": "misti",
+      "reg": "Lombardia",
+      "city": "Rezzato (BS)",
+      "lat": 45.513,
+      "lng": 10.317,
+      "y": null,
+      "certs": [
+        "DOP",
+        "IGP",
+        "Bio"
+      ],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "logoBg": "#ffffff",
+      "d": {
+        "it": "OIP, Only Italian Products, è una boutique online del cibo e del vino italiano di qualità: il sito soloprodottiitaliani.it riunisce migliaia di referenze, dai vini alla dispensa, dai salumi ai formaggi. La sede e il magazzino sono a Rezzato, in provincia di Brescia, dove si trova anche l'enoteca Winearchy, con oltre 5.000 etichette in negozio, una bottega di prodotti di nicchia e un wine bar. OIP seleziona fornitori artigianali con criteri dichiarati di qualità gastronomica, ambientale e sociale, ha una sezione dedicata all'Ho.Re.Ca. e un sito disponibile nelle versioni nazionali di 15 Paesi. Questa vetrina raccoglie 46 prodotti italiani della dispensa generale di OIP, di 36 produttori, divisi per tipologia: grappe, liquori e distillati (2), birre (1), formaggi (6), salumi (7), pasta e riso (2), oli e aceti (3), salse e sughi (5), prodotti tipici (7), specialità di mare (2), frutta e verdura (2), prodotti da forno, dolci e caffè (5), bevande (4). I prodotti legati a un territorio preciso, a partire dai vini, sono nelle venti vetrine regionali di OIP, una per ogni regione italiana. Il produttore di ogni referenza è indicato nella scheda del prodotto.",
+        "en": "OIP, Only Italian Products, is an online boutique for quality Italian food and wine: the soloprodottiitaliani.it website brings together thousands of items, from wines to pantry staples, from cured meats to cheeses. Its headquarters and warehouse are in Rezzato, near Brescia, where it also runs the Winearchy wine shop, with over 5,000 labels in store, a delicatessen of niche products and a wine bar. OIP selects artisan suppliers on stated criteria of gastronomic, environmental and social quality, has a dedicated Ho.Re.Ca. section and a website available in national versions for 15 countries. This stand brings together 46 Italian products from OIP's general pantry, from 36 producers, grouped by type: grappa, liqueurs and spirits (2), beers (1), cheese (6), cured meats (7), pasta and rice (2), oils and vinegars (3), sauces (5), regional specialities (7), seafood specialities (2), fruit and vegetables (2), bakery, sweets and coffee (5), soft drinks (4). Products tied to a specific area, starting with wines, are in OIP's twenty regional stands, one for each Italian region. The producer of each item is shown on its product sheet.",
+        "de": "OIP, Only Italian Products, ist eine Online-Boutique für hochwertige italienische Lebensmittel und Weine: Die Website soloprodottiitaliani.it vereint Tausende Artikel, von Weinen bis zur Vorratskammer, von Wurstwaren bis zu Käse. Sitz und Lager befinden sich in Rezzato bei Brescia, wo OIP auch die Vinothek Winearchy betreibt, mit über 5.000 Etiketten im Geschäft, einem Feinkostladen für Nischenprodukte und einer Weinbar. OIP wählt handwerkliche Lieferanten nach erklärten Kriterien gastronomischer, ökologischer und sozialer Qualität aus, hat einen eigenen Ho.Re.Ca.-Bereich und eine Website in Länderversionen für 15 Länder. Dieser Stand zeigt 46 italienische Produkte aus dem allgemeinen Sortiment von OIP, von 36 Herstellern, nach Produktart gegliedert: Grappa, Liköre und Spirituosen (2), Biere (1), Käse (6), Wurst und Schinken (7), Pasta und Reis (2), Öle und Essige (3), Saucen und Sughi (5), Regionale Spezialitäten (7), Meeresspezialitäten (2), Obst und Gemüse (2), Backwaren, Süßes und Kaffee (5), Getränke (4). Produkte, die an ein bestimmtes Gebiet gebunden sind, allen voran die Weine, finden sich in den zwanzig Regionalständen von OIP, einem für jede italienische Region. Der Hersteller jedes Artikels ist im Produktblatt angegeben."
+      },
+      "sub": [
+        {
+          "k": "spirits",
+          "cat": "liquori",
+          "n": {
+            "it": "Grappe, liquori e distillati",
+            "en": "Grappa, liqueurs and spirits",
+            "de": "Grappa, Liköre und Spirituosen"
+          }
+        },
+        {
+          "k": "birre",
+          "cat": "misti",
+          "n": {
+            "it": "Birre",
+            "en": "Beers",
+            "de": "Biere"
+          }
+        },
+        {
+          "k": "formaggi",
+          "cat": "formaggi",
+          "n": {
+            "it": "Formaggi",
+            "en": "Cheese",
+            "de": "Käse"
+          }
+        },
+        {
+          "k": "salumi",
+          "cat": "salumi",
+          "n": {
+            "it": "Salumi",
+            "en": "Cured meats",
+            "de": "Wurst und Schinken"
+          }
+        },
+        {
+          "k": "pasta",
+          "cat": "pasta",
+          "n": {
+            "it": "Pasta e riso",
+            "en": "Pasta and rice",
+            "de": "Pasta und Reis"
+          }
+        },
+        {
+          "k": "olio",
+          "cat": "olio",
+          "n": {
+            "it": "Oli e aceti",
+            "en": "Oils and vinegars",
+            "de": "Öle und Essige"
+          }
+        },
+        {
+          "k": "salse",
+          "cat": "conserve",
+          "n": {
+            "it": "Salse e sughi",
+            "en": "Sauces",
+            "de": "Saucen und Sughi"
+          }
+        },
+        {
+          "k": "tipici",
+          "cat": "misti",
+          "n": {
+            "it": "Prodotti tipici",
+            "en": "Regional specialities",
+            "de": "Regionale Spezialitäten"
+          }
+        },
+        {
+          "k": "mare",
+          "cat": "conserve",
+          "n": {
+            "it": "Specialità di mare",
+            "en": "Seafood specialities",
+            "de": "Meeresspezialitäten"
+          }
+        },
+        {
+          "k": "frutta",
+          "cat": "conserve",
+          "n": {
+            "it": "Frutta e verdura",
+            "en": "Fruit and vegetables",
+            "de": "Obst und Gemüse"
+          }
+        },
+        {
+          "k": "forno",
+          "cat": "dolci",
+          "n": {
+            "it": "Prodotti da forno, dolci e caffè",
+            "en": "Bakery, sweets and coffee",
+            "de": "Backwaren, Süßes und Kaffee"
+          }
+        },
+        {
+          "k": "bevande",
+          "cat": "misti",
+          "n": {
+            "it": "Bevande",
+            "en": "Soft drinks",
+            "de": "Getränke"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Fernet, Fred Jerbis",
+          "bottiglia da 0,7 l",
+          "spirits"
+        ],
+        [
+          "Gin Camomilla, Fred Jerbis",
+          "bottiglia da 0,7 l",
+          "spirits"
+        ],
+        [
+          "Nazionale, Baladin",
+          "bottiglia da 33 cl",
+          "birre"
+        ],
+        [
+          "Parmigiano \"Bio\" Reggiano, ParmaReggio",
+          "pezzo da 1,1 kg",
+          "formaggi"
+        ],
+        [
+          "Grana Padano Biologico, 20/24 mesi Tomasoni F.lli",
+          "pezzo da 2 kg",
+          "formaggi"
+        ],
+        [
+          "Gorgonzola DOP Dolce, CasArrigoni",
+          "forma da 6 kg",
+          "formaggi"
+        ],
+        [
+          "Taleggio DOP, CasArrigoni",
+          "pezzo da 500 g",
+          "formaggi"
+        ],
+        [
+          "Piave DOP Mezzano",
+          "forma da 6-6,2 kg circa",
+          "formaggi"
+        ],
+        [
+          "Mozzarella di Bufala Campana DOP, Fattorie Garofalo",
+          "confezione da 250 g",
+          "formaggi"
+        ],
+        [
+          "Culatello di Zibello DOP, Gualerzi",
+          "pezzo da 4 kg",
+          "salumi"
+        ],
+        [
+          "Prosciutto Crudo di Parma Bedogni 24 mesi disossato/pressato, Bedogni Egidio",
+          "pezzo da 7,5-7,8 kg",
+          "salumi"
+        ],
+        [
+          "Prosciutto Toscano DOP classico con osso, Salumificio Viani",
+          "pezzo da 10 kg",
+          "salumi"
+        ],
+        [
+          "Prosciutto Crudo di Sauris IGP Con Osso, Prosciuttificio Wolf",
+          "pezzo da 11 kg",
+          "salumi"
+        ],
+        [
+          "Lardo di Colonnata IGP, Larderia LA Repubblica",
+          "pezzo da 1 kg",
+          "salumi"
+        ],
+        [
+          "Salame Felino IGP Re Giulio, Arco",
+          "pezzo da 900 g",
+          "salumi"
+        ],
+        [
+          "Mortadella IGP con Pistacchi",
+          "pezzo da 7-7,2 kg",
+          "salumi"
+        ],
+        [
+          "Tagliolini pasta extrasottile all'uovo, Cipriani",
+          "confezione da 250 g",
+          "pasta"
+        ],
+        [
+          "Pappardelle pasta extrasottile all'uovo, Cipriani",
+          "confezione da 250 g",
+          "pasta"
+        ],
+        [
+          "Olio extravergine di oliva Sabina DOP Colle dei Frati, F.lli Rosati",
+          "bottiglia da 0,75 l",
+          "olio"
+        ],
+        [
+          "Olio Extravergine di Oliva Biologico DOP Dauno Gargano, Olearia Clemente",
+          "bottiglia da 0,5 l",
+          "olio"
+        ],
+        [
+          "Aceto Balsamico di Modena IGP BIO, Acetificio M. DE Nigris",
+          "bottiglia da 250 ml",
+          "olio"
+        ],
+        [
+          "Pomodorini del Piennolo DOP a Pacchetelle, Le Conserve di Donna Lucia",
+          "confezione da 960 g",
+          "salse"
+        ],
+        [
+          "Il Pesto di Pra' (Pesto Genovese Fresco), Bruzzone  & Ferrari",
+          "confezione da 150 g",
+          "salse"
+        ],
+        [
+          "Datterino Giallo in Succo, GranGusto",
+          "confezione da 800 g",
+          "salse"
+        ],
+        [
+          "Ragù di Chianina, L'Antico Casale",
+          "confezione da 180 g",
+          "salse"
+        ],
+        [
+          "Pomodorini Corbara schiacciati, Inserbo",
+          "confezione da 1,062 g",
+          "salse"
+        ],
+        [
+          "Zafferano in Stimmi, Filirossi",
+          "confezione da 1 g",
+          "tipici"
+        ],
+        [
+          "La Giardiniera di Morgan in agrodolce",
+          "confezione da 1100 g",
+          "tipici"
+        ],
+        [
+          "Lenticchie dei Monti Sibillini, I Tipici Italiani",
+          "confezione da 500 g",
+          "tipici"
+        ],
+        [
+          "Lenticchia dell'Altopiano di Colfiorito",
+          "confezione da 400 g",
+          "tipici"
+        ],
+        [
+          "Carpaccio di Tartufo Estivo, Fungo e Tartufo Mario Ferrari",
+          "confezione da 180 g",
+          "tipici"
+        ],
+        [
+          "Funghi Porcini secchi confezionati a mano, Aricifunghi",
+          "confezione da 100 g",
+          "tipici"
+        ],
+        [
+          "Mostarda Senapata Pere Williams, Cavazza",
+          "confezione da 120 g",
+          "tipici"
+        ],
+        [
+          "Pesce Spada Affumicato, Arcooro",
+          "pezzo da 1,5 kg",
+          "mare"
+        ],
+        [
+          "Tonno Affumicato, Arcooro",
+          "pezzo da 1,6 kg",
+          "mare"
+        ],
+        [
+          "Capperi di Pantelleria IGP, Inpa",
+          "confezione da 100 g",
+          "frutta"
+        ],
+        [
+          "Succo di Bergamotto Puro al 100%, Azienda Agricola Patea",
+          "bottiglia da 0,75 l",
+          "frutta"
+        ],
+        [
+          "Cremino al Pistacchio, Gardini",
+          "confezione da 115 g",
+          "forno"
+        ],
+        [
+          "Tavoletta Blend Cioccolato Fondente 70% con Sale dolce di Cervia, Gardini",
+          "confezione da 50 g",
+          "forno"
+        ],
+        [
+          "Cremini assortiti, Gardini",
+          "confezione da 18 pezzi",
+          "forno"
+        ],
+        [
+          "Farina di Mais Antica Polenta Bresciana, Azienda Agricola Giulia",
+          "confezione da 1 kg",
+          "forno"
+        ],
+        [
+          "Farina di Grano Tenero Nuvola Super Tipo 0, Caputo",
+          "confezione da 5 kg",
+          "forno"
+        ],
+        [
+          "Limonata Biologica, Galvanina",
+          "12 bottiglie da 355 ml",
+          "bevande"
+        ],
+        [
+          "Tonica Classica Biologica, Galvanina",
+          "24 bottiglie da 200 ml",
+          "bevande"
+        ],
+        [
+          "Acqua Lurisia Stille, Naturale",
+          "12 bottiglie da 0,75 l",
+          "bevande"
+        ],
+        [
+          "Cedrata Baladin",
+          "12 bottiglie da 0,33 l",
+          "bevande"
+        ]
+      ],
+      "pd": {
+        "V-51-0": {
+          "c": [],
+          "d": {
+            "it": "Fernet di Fred Jerbis, laboratorio artigianale di liquori e distillati di Polcenigo, in Friuli."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "30,50 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Fred Jerbis"
+        },
+        "V-51-1": {
+          "c": [],
+          "d": {
+            "it": "Gin alla camomilla di Fred Jerbis, laboratorio artigianale di liquori e distillati di Polcenigo, in Friuli."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "59,20 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Fred Jerbis"
+        },
+        "V-51-2": {
+          "c": [],
+          "d": {
+            "it": "Nazionale è la birra chiara di Baladin, birrificio artigianale di Piozzo, in Piemonte: è prodotta con ingredienti interamente italiani."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "3,20 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Baladin"
+        },
+        "V-51-3": {
+          "c": [
+            "Bio"
+          ],
+          "d": {
+            "it": "Parmareggio Bio è Parmigiano Reggiano delicatamente saporito e dal gusto equilibrato, proveniente da Agricoltura Biologica, realizzato nel pieno rispetto delle normative vigenti, con la garanzia del Consorzio per il Controllo dei Prodotti Biologici."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "39,96 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "ParmaReggio"
+        },
+        "V-51-4": {
+          "c": [
+            "Bio"
+          ],
+          "d": {
+            "it": "F.lli Tomasoni Il caseificio Tomasoni di Gottolengo è l'unico produttore di Grana Padano biologico del Lombardo-Veneto (in Italia ne esiste solo un altro). La produzione artigianale di sole quattro forme di formaggio al giorno permette di ottenere un prodotto unico nel suo genere."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "58,96 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "20/24 mesi Tomasoni F.lli"
+        },
+        "V-51-5": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "Formaggio tipico e fondante della tradizione casearia lombarda. Senza dubbio uno dei formaggi più famosi nel mondo. Il Dolce è tra le due tipologie quello più compreso ed apprezzato. Estremamente cremoso e scioglievole, il Gorgonzola viene prodotto ancora in una struttura dalle dimensioni contenute dove il contributo umano fa la differenza."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "108,96 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "CasArrigoni"
+        },
+        "V-51-6": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "Il Taleggio è un formaggio di origini antichissime, forse anteriori al X secolo. Documenti risalenti al 1200 fanno riferimento ai commerci e agli scambi di cui era oggetto il Taleggio, insieme ad altri formaggi."
+          },
+          "a": {
+            "it": "I valligiani avendo l'esigenza di conservare il latte eccedente il consumo diretto, iniziarono a produrre del formaggio che, una volta stagionato in \"grotte\" o casere di vallata, poteva essere scambiato con altri prodotti o commercializzato."
+          },
+          "pr": "10,96 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "CasArrigoni"
+        },
+        "V-51-7": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "Piave DOP Mezzano. Formaggio duro a pasta cotta compatta senza occhiatura; il sapore è deciso e gradevole, poco salato; il profumo richiama molto il latte ma anche lo yogurt; al palato risulta un formaggio ad elevata solubilità."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "100,96 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          }
+        },
+        "V-51-8": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "Mozzarella di Bufala Campana DOP, prodotta con solo latte di bufala nell'area tutelata dal disciplinare, tra Campania e basso Lazio. Pasta filata fresca, dal sapore dolce e lattico."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "4,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Fattorie Garofalo"
+        },
+        "V-51-9": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "Culatello di Zibello DOP, Gualerzi. La parte più nobile derivata dalla lavorazione del maiale, un'arte antica che ancora oggi tiene conto dei ritmi e delle cadenze di una terra ricca di tradizioni. Il clima unico ed irripetibile di questo lembo di terra lungo la sponda destra del Po, la perizia l'esperienza di maestri norcini, il volgere delle stagioni con i mutamenti che ne conseguono, il caldo torrido in estate le nebbie autunnali formate dal grande fiume."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "352,44 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Gualerzi"
+        },
+        "V-51-10": {
+          "c": [],
+          "d": {
+            "it": "Un vero principe della tavola, un piacere assoluto per gli estimatori del buono. Il Prosciutto di Parma Bedogni nasce a Langhirano, nome sacro per i cultori del gusto, dove il microclima e una tradizione secolare creano le condizioni irripetibili per questo capolavoro del gusto italiano."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "283,98 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Bedogni Egidio"
+        },
+        "V-51-11": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "La produzione del Prosciutto Toscano con Denominazione di Origine Protetta è resa possibile dall'impegno e dal rispetto per la tradizione alimentare toscana di tutti i Consorziati, che hanno deciso di aderire con orgoglio alle precise regole stabilite dal Disciplinare di Produzione."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "217,29 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Salumificio Viani"
+        },
+        "V-51-12": {
+          "c": [
+            "IGP"
+          ],
+          "d": {
+            "it": "Colore rosato, gusto delicato con un lieve e inconfondibile sentore di affumicatura: è il prosciutto di Sauris, Indicazione Geografica Protetta dal 2010. La leggera affumicatura che lo caratterizza è eredità di una tecnica di lavorazione che si tramanda da secoli tra gli abitanti di queste montagne, e si ottiene per combustione naturale esclusivamente con legna di faggio, di cui la zona abbonda."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "262,83 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Prosciuttificio Wolf"
+        },
+        "V-51-13": {
+          "c": [
+            "IGP"
+          ],
+          "d": {
+            "it": "Lardo di Colonnata IGP, stagionato nelle conche di marmo di Carrara con sale marino, pepe, aglio, rosmarino ed erbe aromatiche, secondo la tradizione del borgo apuano."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "28,50 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Larderia LA Repubblica"
+        },
+        "V-51-14": {
+          "c": [
+            "IGP"
+          ],
+          "d": {
+            "it": "Salame Felino IGP, il salame tipico della provincia di Parma: macinatura a grana medio-grossa, pasta morbida e sapore dolce e delicato."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "35,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Arco"
+        },
+        "V-51-15": {
+          "c": [
+            "IGP"
+          ],
+          "d": {
+            "it": "Come tutte le mortadelle che possono fregiarsi del marchio Bologna IGP anche questa IGP è prodotta nel rigoroso rispetto del disciplinare per ottenere la caratteristica mortadella dal colore rosa vivo, dal profumo intenso, armonioso e ampio."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "115,86 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          }
+        },
+        "V-51-16": {
+          "c": [],
+          "d": {
+            "it": "Cipriani Food nasce nella metà degli anni. ottanta. In origine era il laboratorio per la. produzione del pane, della pasta, dei dolci. e degli altri prodotti di pasticceria serviti nei. ristoranti Cipriani. Cura di ogni minimo dettaglio, processo. ininterrotto di ricerca dell'essenza delle cose, caratterizzano la pasta. I prodotti. di Cipriani Food sono venduti in oltre trenta paesi. nel mondo."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "6,81 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Cipriani"
+        },
+        "V-51-17": {
+          "c": [],
+          "d": {
+            "it": "Cipriani Food nasce nella metà degli anni. ottanta. In origine era il laboratorio per la. produzione del pane, della pasta, dei dolci. e degli altri prodotti di pasticceria serviti nei. ristoranti Cipriani. Cura di ogni minimo dettaglio, processo. ininterrotto di ricerca dell'essenza delle cose, caratterizzano la pasta. I prodotti. di Cipriani Food sono venduti in oltre trenta paesi. nel mondo."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "6,81 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Cipriani"
+        },
+        "V-51-18": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "Olio extravergine di oliva Sabina DOP Colle dei Frati, F.lli Rosati. Con circa 50 ettari di oliveto e 6.500 piante, l'azienda raggiunge una produzione di circa 250 ettolitri. La raccolta avviene a mano e a macchina e la spremitura entro le 24 ore successive. L'olio ha profumo e gusto inconfondibile di carciofo e di mandorle dolci, con fruttato medio armonico."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "16,84 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Az. Agr. F.lli Rosati"
+        },
+        "V-51-19": {
+          "c": [
+            "DOP",
+            "Bio"
+          ],
+          "d": {
+            "it": "Di ottima qualità, dal profumo intenso e fruttato, denso e di colore oro caldo limpido. Olio dalle incomparabili caratteristiche organolettiche, ha ottenuto la certificazione di origine protetta per la zona del Gargano."
+          },
+          "a": {
+            "it": "Ideale per l'alimentazione cruda ad alto potere nutritivo e vitaminico."
+          },
+          "pr": "14,98 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Olearia Clemente"
+        },
+        "V-51-20": {
+          "c": [
+            "IGP",
+            "Bio"
+          ],
+          "d": {
+            "it": "L'Aceto Balsamico di Modena I.G.P. “De Nigris” è prodotto con uve e mosti provenienti da coltivazioni biologiche certificate, senza conservanti nè coloranti aggiunti. Inoltre l'affinamento in barrique di legno rovere conferisce al prodotto un profumo intenso di nobile finezza con equilibrato sentore di legno ed un sapore piacevole agro-dolce ed avvolgente."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "12,67 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Acetificio M. DE Nigris"
+        },
+        "V-51-21": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "Pomodorino del Piennolo del Vesuvio DOP a pacchetelle, cioè tagliato a spicchi e conservato in vasetto: un pomodorino dalla buccia spessa e dal gusto intenso, coltivato sulle pendici del vulcano."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "13,44 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Le Conserve di Donna Lucia"
+        },
+        "V-51-22": {
+          "c": [],
+          "d": {
+            "it": "Il pesto genovese è una salsa nata dalla fusione dei freschi sapori della terra ligure; per questo motivo e per la sua prelibatezza è diventato il condimento più famoso della cucina ligure, e non solo, dal momento che è la seconda salsa più usata al mondo."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "8,84 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Bruzzone  & Ferrari"
+        },
+        "V-51-23": {
+          "c": [],
+          "d": {
+            "it": "Pomodoro datterino giallo conservato nel suo succo: dolce e poco acido, adatto a sughi veloci, piatti di pesce e pizze."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "9,74 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "GranGusto"
+        },
+        "V-51-24": {
+          "c": [],
+          "d": {
+            "it": "Ragù pronto di carne Chianina, la razza bovina tipica della Valdichiana, da usare con pasta all'uovo e pappardelle."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "4,84 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "L'Antico Casale"
+        },
+        "V-51-25": {
+          "c": [],
+          "d": {
+            "it": "I pomodorini di corbara sono l'essenza dei sapori di corbara, questi vengono coltivati prevalentemente nei vigneti, sui fianchi delle dolci colline del paese. La particolare sapidità del corbarino ed il suo gusto leggermente acre ne fanno un ottimo prodotto da consumare fresco, condito in gustose insalate o da lavorare per la realizzazione di sughi."
+          },
+          "a": {
+            "it": "Durata di Conservazione. 3 Anni. L'ideale condimento della pasta italiana."
+          },
+          "pr": "12,76 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Inserbo"
+        },
+        "V-51-26": {
+          "c": [],
+          "d": {
+            "it": "Zafferano italiano in stimmi interi: i pistilli vengono raccolti e mondati a mano e lasciati interi, per conservare aroma e colore."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "20,94 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Filirossi"
+        },
+        "V-51-27": {
+          "c": [],
+          "d": {
+            "it": "Peperoni, finocchi, cavolfiori e carote conditi soltanto con aceto, zucchero, sale e spezie. Senza acido citrico, conservanti e solforosa, la Giardiniera di Morgan conserva intatto tutto il gusto delle verdure appena colte dall'orto."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "21,86 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "La Giardiniera di Morgan"
+        },
+        "V-51-28": {
+          "c": [],
+          "d": {
+            "it": "Lenticchie dei Monti Sibillini, piccole e a buccia sottile: tengono la cottura e non richiedono ammollo."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "5,04 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "I Tipici Italiani"
+        },
+        "V-51-29": {
+          "c": [],
+          "d": {
+            "it": "Lenticchia dell'altopiano di Colfiorito, al confine tra Umbria e Marche: seme piccolo, buccia sottile e cottura rapida."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "9,25 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Colfiorito"
+        },
+        "V-51-30": {
+          "c": [],
+          "d": {
+            "it": "Carpaccio di tartufo estivo a lamelle, conservato in olio: pronto per condire pasta, uova, carni e crostini."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "45,84 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Fungo e Tartufo Mario Ferrari"
+        },
+        "V-51-31": {
+          "c": [],
+          "d": {
+            "it": "Funghi appartenenti alla famiglia Boletus che comprende le specie Aereus, Edulis, Estivalis Pinophilus e Reticolatus. La materia prima fresca è sana, ben formata, al giusto punto di maturazione, esente da malattie, da difetti chimico fisici e da danni causati dall'azione di insetti e parassiti."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "12,36 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Aricifunghi"
+        },
+        "V-51-32": {
+          "c": [],
+          "d": {
+            "it": "Mostarda senapata di pere Williams, nella tradizione delle mostarde del Nord Italia: frutta candita in sciroppo con senape, da abbinare a bolliti e formaggi."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "8,22 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Cavazza"
+        },
+        "V-51-33": {
+          "c": [],
+          "d": {
+            "it": "Si impiegano i migliori legni affinché il sapore di affumicato non sovrasti quello naturale del pesce."
+          },
+          "a": {
+            "it": "L'affumicamento è un'antica tecnica di conservazione considerata l'evoluzione dell'ancora più remoto processo di essiccazione."
+          },
+          "pr": "69,28 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Arcooro"
+        },
+        "V-51-34": {
+          "c": [],
+          "d": {
+            "it": "Si impiegano i migliori legni affinché il sapore di affumicato non sovrasti quello naturale del pesce."
+          },
+          "a": {
+            "it": "Il Tonno affumicato a filetti è accuratamente selezionato, lavorato, e confezionato sottovuoto per garantire una conservazione ottimale."
+          },
+          "pr": "59,83 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Arcooro"
+        },
+        "V-51-35": {
+          "c": [
+            "IGP"
+          ],
+          "d": {
+            "it": "Capperi di Pantelleria IGP, Inpa. Si fanno apprezzare oltre che per il sapore anche per la loro consistenza. Si utilizzano prevalentemente nei piatti a crudo come: insalate e antipasti e per guarnire le pietanze."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "5,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Inpa"
+        },
+        "V-51-36": {
+          "c": [],
+          "d": {
+            "it": "La spremuta di bergamotto qui proposta in bottiglia da ml.200 è una bevanda dalle mille proprietà benefiche: concentrato di antiossidanti, minerali e vitamine che producono un'azione benefica sull' organismo riducendo il colesterolo e abbassando i livelli di glucosio nel sangue."
+          },
+          "a": {
+            "it": "Ottima come dissetante e per creare nuovi aperitivi."
+          },
+          "pr": "8,22 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Azienda Agricola Patea"
+        },
+        "V-51-37": {
+          "c": [],
+          "d": {
+            "it": "In casa Gardini il cremino è un'arte. Il cremino bigusto latte e bianco viene arricchito dalla pasta di pistacchio, dando vita a un lingottino che ricorda la Sicilia a ogni morso. Vincitore della Medaglia d'Oro agli International Chocolate Awards, World Competition 2023."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "15,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Gardini"
+        },
+        "V-51-38": {
+          "c": [],
+          "d": {
+            "it": "Tavoletta di cioccolato fondente al 70% di cacao con sale dolce di Cervia, della cioccolateria romagnola Gardini."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "4,80 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Gardini"
+        },
+        "V-51-39": {
+          "c": [],
+          "d": {
+            "it": "Assortimento di 18 cremini della cioccolateria romagnola Gardini, in confezione da 200 g."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "25,20 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Gardini"
+        },
+        "V-51-40": {
+          "c": [],
+          "d": {
+            "it": "Insieme hanno individuato una tipologia di granoturco che salvaguardia la tradizione locale della polenta, fatta di gusto, qualità e profumi inconfondibili. Il granoturco viene macinato esclusivamente in un molino a pietra e confezionato in atmosfera controllata. Come Si Prepara Una Buona Polenta per 4 Persone."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "4,44 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Azienda Agricola Giulia"
+        },
+        "V-51-41": {
+          "c": [],
+          "d": {
+            "it": "Farina di grano tenero tipo 0 Nuvola Super del Mulino Caputo di Napoli, pensata per impasti da pizza ad alta idratazione e lunghe lievitazioni."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "16,20 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Caputo"
+        },
+        "V-51-42": {
+          "c": [
+            "Bio"
+          ],
+          "d": {
+            "it": "Limonata biologica Galvanina, bibita gassata con succo di limone, preparata con l'acqua minerale della fonte Galvanina di Rimini."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "32,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Galvanina"
+        },
+        "V-51-43": {
+          "c": [
+            "Bio"
+          ],
+          "d": {
+            "it": "Tonica classica biologica Galvanina, preparata con l'acqua minerale della fonte Galvanina di Rimini: da miscelare o da bere liscia."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "26,40 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Galvanina"
+        },
+        "V-51-44": {
+          "c": [],
+          "d": {
+            "it": "Acqua minerale naturale Lurisia, dalle Alpi Marittime piemontesi, in bottiglia di vetro."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "22,71 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Lurisia"
+        },
+        "V-51-45": {
+          "c": [],
+          "d": {
+            "it": "Un viaggio alla ricerca di un gusto d'altri tempi, di un sapore che la memoria ha già definito ma che da tempo rimaneva nascosto tra le papille gustative, ecco la Cedrata Baladin. Pochi ingredienti ma di grande qualità: acqua, zucchero di canna, succo di limone, anidride carbonica e l'infuso di cedro calabro che le conferisce tutto il profumo e il sapore autentico dei limoni mediterranei."
+          },
+          "a": {
+            "it": "Prodotta con ingredienti semplici e selezionati, non contiene nessun colorante né conservante: perfetta per tutte le età!"
+          },
+          "pr": "20,94 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Baladin"
+        }
+      },
+      "fonti": [
+        "https://www.soloprodottiitaliani.it/",
+        "https://www.soloprodottiitaliani.it/pages/progetto.html",
+        "https://www.soloprodottiitaliani.it/pages/winearchy-il-regno-del-vino.html"
+      ]
+    },
+    {
+      "id": "V-52",
+      "n": "OIP · Piemonte",
+      "cat": "vino",
+      "reg": "Piemonte",
+      "city": "Selezione regionale OIP",
+      "lat": 45.07,
+      "lng": 7.687,
+      "y": null,
+      "certs": [
+        "DOP",
+        "DOCG",
+        "IGP"
+      ],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "logoBg": "#ffffff",
+      "d": {
+        "it": "Il Piemonte è la terra del Nebbiolo, che diventa Barolo e Barbaresco, delle colline di Langhe, Roero e Monferrato, del vermouth e di una grande tradizione di dolci e formaggi. Questa vetrina raccoglie la selezione del Piemonte di OIP, Only Italian Products: 37 prodotti di 26 produttori, scelti dal catalogo di soloprodottiitaliani.it e divisi per tipologia: vini (12), grappe, liquori e distillati (1), birre (1), formaggi (8), prodotti tipici (7), prodotti da forno, dolci e caffè (7), bevande (1). OIP è una boutique online del cibo e del vino italiano di qualità, con sede e magazzino a Rezzato, in provincia di Brescia, dove si trova anche l'enoteca Winearchy, con oltre 5.000 etichette in negozio. Seleziona fornitori artigianali, ha una sezione dedicata all'Ho.Re.Ca. e un sito disponibile nelle versioni nazionali di 15 Paesi. Il produttore di ogni referenza è indicato nella scheda del prodotto.",
+        "en": "Piedmont is the home of Nebbiolo, which becomes Barolo and Barbaresco, of the Langhe, Roero and Monferrato hills, of vermouth and of a great tradition of sweets and cheeses. This stand brings together OIP's selection from Piedmont: 37 products from 26 producers, chosen from the soloprodottiitaliani.it catalogue and grouped by type: wines (12), grappa, liqueurs and spirits (1), beers (1), cheese (8), regional specialities (7), bakery, sweets and coffee (7), soft drinks (1). OIP, Only Italian Products, is an online boutique for quality Italian food and wine, with headquarters and warehouse in Rezzato, near Brescia, where it also runs the Winearchy wine shop, with over 5,000 labels in store. It selects artisan suppliers, has a dedicated Ho.Re.Ca. section and a website available in national versions for 15 countries. The producer of each item is shown on its product sheet.",
+        "de": "Das Piemont ist die Heimat des Nebbiolo, aus dem Barolo und Barbaresco entstehen, der Hügel von Langhe, Roero und Monferrato, des Wermuts und einer großen Tradition von Süßwaren und Käse. Dieser Stand zeigt die Auswahl von OIP aus dem Piemont: 37 Produkte von 26 Herstellern, ausgewählt aus dem Katalog von soloprodottiitaliani.it und nach Produktart gegliedert: Weine (12), Grappa, Liköre und Spirituosen (1), Biere (1), Käse (8), Regionale Spezialitäten (7), Backwaren, Süßes und Kaffee (7), Getränke (1). OIP, Only Italian Products, ist eine Online-Boutique für hochwertige italienische Lebensmittel und Weine mit Sitz und Lager in Rezzato bei Brescia, wo sich auch die Vinothek Winearchy mit über 5.000 Etiketten im Geschäft befindet. OIP wählt handwerkliche Lieferanten aus, hat einen eigenen Ho.Re.Ca.-Bereich und eine Website in Länderversionen für 15 Länder. Der Hersteller jedes Artikels ist im Produktblatt angegeben."
+      },
+      "sub": [
+        {
+          "k": "vini",
+          "cat": "vino",
+          "n": {
+            "it": "Vini",
+            "en": "Wines",
+            "de": "Weine"
+          }
+        },
+        {
+          "k": "spirits",
+          "cat": "liquori",
+          "n": {
+            "it": "Grappe, liquori e distillati",
+            "en": "Grappa, liqueurs and spirits",
+            "de": "Grappa, Liköre und Spirituosen"
+          }
+        },
+        {
+          "k": "birre",
+          "cat": "misti",
+          "n": {
+            "it": "Birre",
+            "en": "Beers",
+            "de": "Biere"
+          }
+        },
+        {
+          "k": "formaggi",
+          "cat": "formaggi",
+          "n": {
+            "it": "Formaggi",
+            "en": "Cheese",
+            "de": "Käse"
+          }
+        },
+        {
+          "k": "tipici",
+          "cat": "misti",
+          "n": {
+            "it": "Prodotti tipici",
+            "en": "Regional specialities",
+            "de": "Regionale Spezialitäten"
+          }
+        },
+        {
+          "k": "forno",
+          "cat": "dolci",
+          "n": {
+            "it": "Prodotti da forno, dolci e caffè",
+            "en": "Bakery, sweets and coffee",
+            "de": "Backwaren, Süßes und Kaffee"
+          }
+        },
+        {
+          "k": "bevande",
+          "cat": "misti",
+          "n": {
+            "it": "Bevande",
+            "en": "Soft drinks",
+            "de": "Getränke"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Gattera Barolo, Bovio",
+          "bottiglia da 0,75 l, annata 2020",
+          "vini"
+        ],
+        [
+          "Barbaresco Riserva Pajé, Produttori del Barbaresco",
+          "bottiglia da 0,75 l, annata 2021",
+          "vini"
+        ],
+        [
+          "Langhe Nebbiolo Bric Du Nota, Antica Casa Vinicola Scarpa",
+          "bottiglia da 0,75 l, annata 2023",
+          "vini"
+        ],
+        [
+          "Dolcetto d'Alba, Nervi-Conterno",
+          "bottiglia da 0,75 l, annata 2025",
+          "vini"
+        ],
+        [
+          "Altius Gavi, La Ghibellina",
+          "bottiglia da 0,75 l",
+          "vini"
+        ],
+        [
+          "Villata Roero Arneis, Vite Colte",
+          "bottiglia da 0,75 l, annata 2025",
+          "vini"
+        ],
+        [
+          "Alta Langa Rosé, Colombo",
+          "bottiglia da 0,75 l, annata 2022",
+          "vini"
+        ],
+        [
+          "Gattinara, Vallana",
+          "bottiglia da 0,75 l, annata 2021",
+          "vini"
+        ],
+        [
+          "Bel Roseto Piemonte Brachetto, Cascina Fonda",
+          "bottiglia da 0,75 l",
+          "vini"
+        ],
+        [
+          "Le Chiusure Erbaluce di Caluso, Favaro",
+          "bottiglia da 0,75 l, annata 2024",
+          "vini"
+        ],
+        [
+          "Ruché di Castagnole Monferrato, Gianni Doglia",
+          "bottiglia da 0,75 l, annata 2023",
+          "vini"
+        ],
+        [
+          "Extra Dry Vermouth di Torino, Bordiga",
+          "bottiglia da 0,75 l",
+          "vini"
+        ],
+        [
+          "Grappa di Castellengo, Centovigne",
+          "bottiglia da 0,5 l",
+          "spirits"
+        ],
+        [
+          "Menabrea 150° Anniversario Ambrata",
+          "bottiglia da 0,33 l",
+          "birre"
+        ],
+        [
+          "Castelmagno di Montagna DOP, Beppino Occelli",
+          "pezzo da 500 g",
+          "formaggi"
+        ],
+        [
+          "Toma Piemontese DOP, Cons. Toma Piemontese DOP",
+          "pezzo da 500 g",
+          "formaggi"
+        ],
+        [
+          "Formaggio Raschera DOP, Caseificio La Bruna",
+          "forma da 1 kg",
+          "formaggi"
+        ],
+        [
+          "Formaggio Bra DOP Duro d'Alpeggio",
+          "forma da 500 g",
+          "formaggi"
+        ],
+        [
+          "Castelmagno d'Alpeggio DOP, Beppino Occelli",
+          "confezione da 350 g",
+          "formaggi"
+        ],
+        [
+          "Occelli al Pepe Nero e Bacche Rosa, Beppino Occelli",
+          "confezione da 200 g",
+          "formaggi"
+        ],
+        [
+          "Valcasotto 48 mesi, Beppino Occelli",
+          "pezzo da 500 g circa",
+          "formaggi"
+        ],
+        [
+          "Formaggio Valcasotto, Beppino Occelli",
+          "forma da 800 g circa",
+          "formaggi"
+        ],
+        [
+          "Nocciole Piemonte IGP Tostate, Corilanga",
+          "confezione da 100 g",
+          "tipici"
+        ],
+        [
+          "Fagioli Cannellini, Principato di Lucedio",
+          "confezione da 500 g",
+          "tipici"
+        ],
+        [
+          "Farina di Ceci, Mulino Marino",
+          "confezione da 500 g",
+          "tipici"
+        ],
+        [
+          "Uovo Cremino Extra Noir doppio strato, Baratti & Milano",
+          "confezione da 250 g",
+          "tipici"
+        ],
+        [
+          "Fagioli Borlotti di Saluggia, Principato di Lucedio",
+          "confezione da 500 g",
+          "tipici"
+        ],
+        [
+          "Ceci Principato di Lucedio",
+          "confezione da 500 g",
+          "tipici"
+        ],
+        [
+          "Zafferano in pistilli, Principato di Lucedio",
+          "confezione da 1 g",
+          "tipici"
+        ],
+        [
+          "Lingotto Cioccolato Gianduia al Latte con Nocciola Piemonte IGP intera, Audere",
+          "confezione da 200 g",
+          "forno"
+        ],
+        [
+          "Grissini al Burro, Panificio Patti",
+          "confezione da 200 g",
+          "forno"
+        ],
+        [
+          "Baciotti Fondenti, Reverse",
+          "confezione da 120 g",
+          "forno"
+        ],
+        [
+          "Lingotto Cioccolato Fondente Dominicano 75% con Nocciola Piemonte IGP intera, Audere",
+          "confezione da 200 g",
+          "forno"
+        ],
+        [
+          "Tavoletta Cioccolato Fondente 72% con Cipolla Bionda di Curreggio e Fontaneto, Audere",
+          "confezione da 100 g",
+          "forno"
+        ],
+        [
+          "Farina di Riso, Mulino Marino",
+          "confezione da 1 kg",
+          "forno"
+        ],
+        [
+          "Torcetti al Burro, Panificio Patti",
+          "confezione da 200 g",
+          "forno"
+        ],
+        [
+          "Vermouth del Professore Rosso, Antica Distilleria Quaglia",
+          "bottiglia da 0,75 l",
+          "bevande"
+        ]
+      ],
+      "pd": {
+        "V-52-0": {
+          "c": [
+            "DOCG"
+          ],
+          "d": {
+            "it": "Gattera Barolo, Bovio. Vitigno: 100% Nebbiolo. Vinificazione ed Affinamento: Fermentazione per circa 10 giorni a T° controllata con lieviti indigeni; macerazione a contatto con le bucce (tecnica a cappello sommerso) per circa 3-4 settimane. Segue affinamento in grandi botti di legno. Caratteristiche organolettiche: Colore rosso rubino con riflessi mattonati. Al naso si presenta tradizionale, con sentori di frutta matura e cioccolato."
+          },
+          "a": {
+            "it": "Temperatura di servizio: 16 - 17 gradi."
+          },
+          "pr": "54,98 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Bovio"
+        },
+        "V-52-1": {
+          "c": [],
+          "d": {
+            "it": "Il Barbaresco è un rosso DOCG delle Langhe, da uve Nebbiolo in purezza, elegante e adatto all'invecchiamento. Etichetta di Produttori del Barbaresco, annata 2021."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "61,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Produttori del Barbaresco"
+        },
+        "V-52-2": {
+          "c": [],
+          "d": {
+            "it": "Il Langhe Nebbiolo è un rosso DOC da uve Nebbiolo coltivate nelle Langhe, più immediato di Barolo e Barbaresco. Etichetta di Antica Casa Vinicola Scarpa, annata 2023."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "24,47 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Antica Casa Vinicola Scarpa"
+        },
+        "V-52-3": {
+          "c": [],
+          "d": {
+            "it": "Il Dolcetto è un vitigno a bacca rossa tipico del Piemonte: dà rossi asciutti e fruttati, da bere giovani. Etichetta di Nervi-Conterno, annata 2025."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "20,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Nervi-Conterno"
+        },
+        "V-52-4": {
+          "c": [],
+          "d": {
+            "it": "Gradazione: 13,5%. Gavi DOCG del Comune di Gavi. vino biologico. Zona di produzione: Gavi. Vigneto: guyot, alta densità. Terreno: sedimentario argilloso. Esposizione: Sud, Sud-Est. Superficie Vigneto: 0,9 HA. Produzione Media: 7000 bottiglie. Vinificazione: fermentazione in acciaio a temperatura controllata, 10 giorni a 16°C. Maturazione: acciaio con sospensione delle fecce nobili per 8 mesi."
+          },
+          "a": {
+            "it": "Temperatura di servizio: 12°."
+          },
+          "pr": "15,74 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "La Ghibellina"
+        },
+        "V-52-5": {
+          "c": [],
+          "d": {
+            "it": "L'Arneis è il vitigno bianco del Roero: dà vini freschi e profumati, con la denominazione Roero Arneis DOCG. Etichetta di Vite Colte, annata 2025."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "12,32 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Vite Colte"
+        },
+        "V-52-6": {
+          "c": [],
+          "d": {
+            "it": "L'Alta Langa è uno spumante DOCG Metodo Classico del Piemonte, da uve Pinot Nero e Chardonnay, sempre millesimato. Etichetta di Colombo, annata 2022."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "29,56 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Colombo"
+        },
+        "V-52-7": {
+          "c": [],
+          "d": {
+            "it": "Il Gattinara è un rosso DOCG dell'Alto Piemonte, da uve Nebbiolo, qui chiamato Spanna. Etichetta di Vallana, annata 2021."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "55,50 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Vallana"
+        },
+        "V-52-8": {
+          "c": [],
+          "d": {
+            "it": "Il Brachetto è un vitigno aromatico a bacca rossa del Piemonte: dà vini dolci e profumati, spesso frizzanti o spumanti. Etichetta di Cascina Fonda."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "12,23 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Cascina Fonda"
+        },
+        "V-52-9": {
+          "c": [],
+          "d": {
+            "it": "L'Erbaluce è il vitigno bianco del Canavese, alla base della denominazione Erbaluce di Caluso DOCG. Etichetta di Favaro, annata 2024."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "29,50 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Favaro"
+        },
+        "V-52-10": {
+          "c": [
+            "DOCG"
+          ],
+          "d": {
+            "it": "Gradazione: 14,0%. Denominazione: Ruchè di Castagnole Monferrato d.o.c.g. Raccolta: metà settembre. Vinificazione: L'uva viene raccolta manualmente in vigneto e depositata con cura in cassette per il trasporto alla cantina, pigiata e messa a fermentare a temperatura controllata con una macerazione di circa 10-12 giorni."
+          },
+          "a": {
+            "it": "Temperatura di Servizio: 16° C."
+          },
+          "pr": "15,36 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Gianni Doglia"
+        },
+        "V-52-11": {
+          "c": [],
+          "d": {
+            "it": "Il vermouth è un vino aromatizzato nato a Torino, a base di vino, erbe e spezie, tra cui l'artemisia. Etichetta di Bordiga."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "20,70 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Bordiga"
+        },
+        "V-52-12": {
+          "c": [],
+          "d": {
+            "it": "Grappa di Castellengo, Centovigne. Gradazione: 43%. Si ottiene dalla distillazione delle vinacce di Nebbiolo, cioè dalle bucce dell'uva una volta pigiate, mediante alambicco di rame a bagnomaria, come vuole la tradizione piemontese, e dal suo invecchiamento in botti di rovere."
+          },
+          "a": {
+            "it": "Temperatura di servizio 12°-14°."
+          },
+          "pr": "42,16 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Centovigne"
+        },
+        "V-52-13": {
+          "c": [],
+          "d": {
+            "it": "Birra ambrata di Menabrea, lo storico birrificio di Biella fondato nel 1846, nata per celebrare i 150 anni della casa."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "2,20 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Menabrea"
+        },
+        "V-52-14": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "Castelmagno formaggio di Montagna. Formaggio nobile e fiore all'occhiello de La Bruna, il Castelmagno DOP viene prodotto seguendo fedelmente la tradizione della Valle Grana; grazie al personale controllo di tutta la filiera ed al selezionatissimo bestiame di razza Bruna Alpina l'azienda garantisce un latte vaccino di qualità superiore che trasmette al formaggio i veri sapori dei pascoli montani."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "20,88 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Beppino Occelli"
+        },
+        "V-52-15": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "Le origini della Toma piemontese risalgono all'epoca romana, ma solo in documenti dell'XI secolo si trovano citazioni che la identificano con precisione. Incerta è l'etimologia della parola toma, che viene usata in Piemonte, in Valle d'Aosta, in Francia e in Sicilia; potrebbe forse riferirsi alla fase di caduta della caseina durante la coagulazione, che in dialetto è appunto detta 'tomè'."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "10,96 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Cons. Toma Piemontese DOP"
+        },
+        "V-52-16": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "Il Raschera DOP è un formaggio con almeno un mese di stagionatura e quello dell'azienda La Bruna è di pasta cruda semigrassa e pressata. Nelle forme più fresche il sapore è fine e delicato, profumato, mentre è intenso, persistente e sapido se stagionato. La pasta, di colore bianco o avorio è piuttosto consistente, elastica, con piccolissime occhiature sparse e irregolari."
+          },
+          "a": {
+            "it": "Si abbina con vini bianchi più strutturati e con i rossi di medio corpo, non invecchiati e di pronta beva."
+          },
+          "pr": "26,96 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Caseificio La Bruna"
+        },
+        "V-52-17": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "Formaggio a latte vaccino crudo con pasta bianca ed elastica che presenta piccole occhiature. Il suo aroma è delicato e sa di latte e burro. Di secolare tradizione, prende il nome dalla città di Bra, suo antico mercato."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "13,96 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Bra DOP"
+        },
+        "V-52-18": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "Formaggio Castelmagno di Alpeggio. Castelmagno di alpeggio dop. Viene prodotto esclusivamente nel periodo estivo, da maggio a ottobre. Formaggio pressato, a pasta cruda, ottenuta da latte vaccino. La pasta è poco friabile e compatta se ben stagionato ed il carotene, presente nell'erba degli alpeggi, le conferisce un colore giallo ambrato."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "18,88 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Beppino Occelli"
+        },
+        "V-52-19": {
+          "c": [],
+          "d": {
+            "it": "Prodotto con latte ovino e vaccino, l' Occelli al Pepe Nero e Bacche Rosa stagiona per almeno quattro mesi nelle cantine di Valcasotto dove viene maturato su assi di legno della vallata.Presenta in pasta grani di pepe nero e rosa che arricchiscono la gamma dei suoi sapori ed aromi."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "12,96 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Beppino Occelli"
+        },
+        "V-52-20": {
+          "c": [],
+          "d": {
+            "it": "Gusto pieno ed invitante, profumo intenso e persistente come quello che ricordava al re il sole e le profumate erbe dei pascoli della loro cascina più amata: la \"Grangia Reale\" di Valcasotto."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "19,96 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Beppino Occelli"
+        },
+        "V-52-21": {
+          "c": [],
+          "d": {
+            "it": "Gusto pieno ed invitante, profumo intenso e persistente come quello che ricordava ai re il sole e le profumate erbe dei pascoli della loro cascina più amata: la \"Grangia Reale\" di Valcasotto."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "28,96 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Beppino Occelli"
+        },
+        "V-52-22": {
+          "c": [
+            "IGP"
+          ],
+          "d": {
+            "it": "Nocciola Piemonte IGP sgusciata e calibrata. Versione sottoposta a tostatura, che ne esalta la fragranza, il profumo e l'aroma."
+          },
+          "a": {
+            "it": "Perfetta come snack salutare ed energetico, ma anche come ingredienti per le tue ricette, ad esempio l'Arrosto alle Nocciole oppure la Torta di Nocciole Piemonte IGP fatta in casa."
+          },
+          "pr": "4,90 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Corilanga"
+        },
+        "V-52-23": {
+          "c": [],
+          "d": {
+            "it": "I Fagioli Cannellini e Borlotti, il Farro, i Ceci e le Lenticchie: una selezione di cereali e legumi, tipici e di alta qualità, ingredienti ideali per la preparazione di minestre, zuppe, vellutate e insalate. Cannellini al prosciutto."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "5,14 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Principato di Lucedio"
+        },
+        "V-52-24": {
+          "c": [],
+          "d": {
+            "it": "La farina di ceci è particolarmente ricca di proteine vegetali ed importanti sostanze quali ferro, calcio e fosforo, poichè mantiene intatte le proprietà nutritive dei legumi da cui si ottiene."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "4,40 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Mulino Marino"
+        },
+        "V-52-25": {
+          "c": [],
+          "d": {
+            "it": "Uovo Cremino Extra Noir doppio strato, Baratti & Milano. Cioccolato al latte ed alle nocciole gianduja (zucchero, nocciole (24%), pasta di cacao, burro di cacao, latte intero in polvere, cacao magro, emulsionante: lecitina di soia."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "32,94 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Baratti & Milano"
+        },
+        "V-52-26": {
+          "c": [],
+          "d": {
+            "it": "I Fagioli Cannellini e Borlotti, il Farro, i Ceci e le Lenticchie: una selezione di cereali e legumi, tipici e di alta qualità, ingredienti ideali per la preparazione di minestre, zuppe, vellutate e insalate."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "4,84 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Principato di Lucedio"
+        },
+        "V-52-27": {
+          "c": [],
+          "d": {
+            "it": "I Fagioli Cannellini e Borlotti, il Farro, i Ceci e le Lenticchie: una selezione di cereali e legumi, tipici e di alta qualità, ingredienti ideali per la preparazione di minestre, zuppe, vellutate e insalate."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "4,24 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Principato di Lucedio"
+        },
+        "V-52-28": {
+          "c": [],
+          "d": {
+            "it": "Zafferano italiano in pistilli interi: gli stimmi vengono raccolti e mondati a mano e lasciati interi, per conservare aroma e colore."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "11,32 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Principato di Lucedio"
+        },
+        "V-52-29": {
+          "c": [
+            "IGP"
+          ],
+          "d": {
+            "it": "Un'esperienza di gusto che unisce la cremosità del Gianduia al Latte al crunch inconfondibile di una Nocciola Intera posizionata con cura. Il Lingotto Audere è un omaggio alla tradizione piemontese, arricchito dalla qualità superiore delle materie prime selezionate dall'azienda."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "16,20 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Audere"
+        },
+        "V-52-30": {
+          "c": [],
+          "d": {
+            "it": "Bastoncini stirati a mano caratterizzati da un gradevole aroma burroso. Lievitati tre ore prima di essere infornati, i grissini del Panificio Patti uniscono naturalezza e gusto. Qui nella loro variante al burro."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "4,50 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Panificio Patti"
+        },
+        "V-52-31": {
+          "c": [],
+          "d": {
+            "it": "L'incontro perfetto tra audacia e tradizione piemontese. Questo Baciotto d'autore celebra l'intensità del cioccolato extra fondente, un blend studiato per liberare le note aromatiche delle migliori paste di cacao e la dolcezza rotonda della vaniglia naturale. La scelta di inserire la regina delle nocciole in pezzi, anziché in pasta, dona alla pralina una consistenza rustica e raffinata al tempo stesso."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "8,50 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Reverse"
+        },
+        "V-52-32": {
+          "c": [
+            "IGP"
+          ],
+          "d": {
+            "it": "Gusto forte, inebriante, rotondo. Lunga persistenza al palato con note tipiche del cacao Dominicano (spezie, frutta secca), mentre il retrogusto minerale della nocciola arricchisce l'esperienza."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "16,20 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Audere"
+        },
+        "V-52-33": {
+          "c": [],
+          "d": {
+            "it": "Blend centro e sud America, Madagascar con cipolla bionda di Cureggio e Fontaneto Presidio Slow Food. Cioccolato dal grande carattere, gusto intenso e morbido, leggermente acidulo con profumi di frutta e spezie, sublime ne è il connubio con la cipolla bionda di Cureggio e Fontaneto."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "8,30 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Audere"
+        },
+        "V-52-34": {
+          "c": [],
+          "d": {
+            "it": "Farina di Riso, Mulino Marino. Ideale per fritture tipo tempura giapponese, spolvero della pasta fresca ed addensante nei dolciumi."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "5,68 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Mulino Marino"
+        },
+        "V-52-35": {
+          "c": [],
+          "d": {
+            "it": "Biscotti tradizionali ricurvi, chiusi con una sorta di abbraccio. Rappresentano una variante dolce dei grissini. Antica ricetta della Valle di Gressoney che Francesco. Patti ha portato nel suo bagaglio in viaggio verso il biellese. Gustosi, o meglio “burrosi”, con una glassa quasi caramellata, sono semplicemente irresistibili."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "6,40 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Panificio Patti"
+        },
+        "V-52-36": {
+          "c": [],
+          "d": {
+            "it": "Gradazione: 18%. È l'unico vermouth al mondo che viene creato a partire da vini bianchi e rossi 100 % italiani, con aromatizzanti. dati al 100 % da vegetali e prodotti internamente all'azienda che matura per sei mesi in piccole botti di rovere. Profumo caldo e avvolgente dei legni, balsamico e mentolato che ricorda miscele farmaceutiche del passato, equilibrato dall'assenzio, l'arancio amaro e dalla vaniglia."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "29,80 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Antica Distilleria Quaglia"
+        }
+      },
+      "fonti": [
+        "https://www.soloprodottiitaliani.it/",
+        "https://www.soloprodottiitaliani.it/pages/progetto.html",
+        "https://www.soloprodottiitaliani.it/pages/winearchy-il-regno-del-vino.html",
+        "https://www.soloprodottiitaliani.it/catalogo.php?IdRegioni=50"
+      ]
+    },
+    {
+      "id": "V-53",
+      "n": "OIP · Valle d'Aosta",
+      "cat": "vino",
+      "reg": "Valle d'Aosta/Vallée d'Aoste",
+      "city": "Selezione regionale OIP",
+      "lat": 45.737,
+      "lng": 7.32,
+      "y": null,
+      "certs": [
+        "DOP"
+      ],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "logoBg": "#ffffff",
+      "d": {
+        "it": "La Valle d'Aosta è la regione più piccola d'Italia e la sua viticoltura è di montagna: vigne in quota, vitigni autoctoni come Petit Rouge e Fumin e piccole produzioni. Questa vetrina raccoglie la selezione della Valle d'Aosta di OIP, Only Italian Products: 15 prodotti di 11 produttori, scelti dal catalogo di soloprodottiitaliani.it e divisi per tipologia: vini (6), grappe, liquori e distillati (3), birre (1), formaggi (3), salumi (2). OIP è una boutique online del cibo e del vino italiano di qualità, con sede e magazzino a Rezzato, in provincia di Brescia, dove si trova anche l'enoteca Winearchy, con oltre 5.000 etichette in negozio. Seleziona fornitori artigianali, ha una sezione dedicata all'Ho.Re.Ca. e un sito disponibile nelle versioni nazionali di 15 Paesi. Il produttore di ogni referenza è indicato nella scheda del prodotto.",
+        "en": "The Aosta Valley is Italy's smallest region and its viticulture is mountain viticulture: high-altitude vineyards, native grapes such as Petit Rouge and Fumin, and small productions. This stand brings together OIP's selection from Aosta Valley: 15 products from 11 producers, chosen from the soloprodottiitaliani.it catalogue and grouped by type: wines (6), grappa, liqueurs and spirits (3), beers (1), cheese (3), cured meats (2). OIP, Only Italian Products, is an online boutique for quality Italian food and wine, with headquarters and warehouse in Rezzato, near Brescia, where it also runs the Winearchy wine shop, with over 5,000 labels in store. It selects artisan suppliers, has a dedicated Ho.Re.Ca. section and a website available in national versions for 15 countries. The producer of each item is shown on its product sheet.",
+        "de": "Das Aostatal ist die kleinste Region Italiens, und sein Weinbau ist Bergweinbau: hoch gelegene Weinberge, autochthone Rebsorten wie Petit Rouge und Fumin und kleine Produktionen. Dieser Stand zeigt die Auswahl von OIP aus dem Aostatal: 15 Produkte von 11 Herstellern, ausgewählt aus dem Katalog von soloprodottiitaliani.it und nach Produktart gegliedert: Weine (6), Grappa, Liköre und Spirituosen (3), Biere (1), Käse (3), Wurst und Schinken (2). OIP, Only Italian Products, ist eine Online-Boutique für hochwertige italienische Lebensmittel und Weine mit Sitz und Lager in Rezzato bei Brescia, wo sich auch die Vinothek Winearchy mit über 5.000 Etiketten im Geschäft befindet. OIP wählt handwerkliche Lieferanten aus, hat einen eigenen Ho.Re.Ca.-Bereich und eine Website in Länderversionen für 15 Länder. Der Hersteller jedes Artikels ist im Produktblatt angegeben."
+      },
+      "sub": [
+        {
+          "k": "vini",
+          "cat": "vino",
+          "n": {
+            "it": "Vini",
+            "en": "Wines",
+            "de": "Weine"
+          }
+        },
+        {
+          "k": "spirits",
+          "cat": "liquori",
+          "n": {
+            "it": "Grappe, liquori e distillati",
+            "en": "Grappa, liqueurs and spirits",
+            "de": "Grappa, Liköre und Spirituosen"
+          }
+        },
+        {
+          "k": "birre",
+          "cat": "misti",
+          "n": {
+            "it": "Birre",
+            "en": "Beers",
+            "de": "Biere"
+          }
+        },
+        {
+          "k": "formaggi",
+          "cat": "formaggi",
+          "n": {
+            "it": "Formaggi",
+            "en": "Cheese",
+            "de": "Käse"
+          }
+        },
+        {
+          "k": "salumi",
+          "cat": "salumi",
+          "n": {
+            "it": "Salumi",
+            "en": "Cured meats",
+            "de": "Wurst und Schinken"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Petite Arvine, Château Feuillet",
+          "bottiglia da 0,75 l, annata 2023",
+          "vini"
+        ],
+        [
+          "Torrette Superiore, Les Crêtes",
+          "bottiglia da 0,75 l, annata 2022",
+          "vini"
+        ],
+        [
+          "Nathan Blanc de Morgex et de la Salle, Pavese Ermes",
+          "bottiglia da 0,75 l, annata 2023",
+          "vini"
+        ],
+        [
+          "Chambave Muscat, La Crotta di Vegneron",
+          "bottiglia da 0,75 l, annata 2023",
+          "vini"
+        ],
+        [
+          "Chardonnay, Château Feuillet",
+          "bottiglia da 0,75 l, annata 2020",
+          "vini"
+        ],
+        [
+          "Attente Chambave Muscat, La Crotta di Vegneron",
+          "bottiglia da 0,75 l, annata 2019",
+          "vini"
+        ],
+        [
+          "Genepy Elixer, Ottoz",
+          "bottiglia da 0,7 l",
+          "spirits"
+        ],
+        [
+          "Cidre du Saint Bernard Amabile Methode Ancestrale, Maley",
+          "bottiglia da 0,75 l",
+          "spirits"
+        ],
+        [
+          "Acquavite Sidro di Mele Whymper, Maley",
+          "bottiglia da 0,5 l",
+          "spirits"
+        ],
+        [
+          "Cidre Jorasses Extra Brut Metodo Classico, Maley",
+          "bottiglia da 0,75 l",
+          "birre"
+        ],
+        [
+          "Fontina DOP, Consorzio Fontina DOP",
+          "pezzo da 500 g",
+          "formaggi"
+        ],
+        [
+          "Formaggio Toma di Valle Gressoney, Toma di Gressoney",
+          "forma da 1,25 kg",
+          "formaggi"
+        ],
+        [
+          "Formaggio Blue d'Aoste, Valle Gran Paradiso",
+          "forma da 2,5 kg",
+          "formaggi"
+        ],
+        [
+          "Lardo d'Arnad DOP",
+          "pezzo da 1,2 kg circa",
+          "salumi"
+        ],
+        [
+          "Mocetta di Bovino, De Bosses",
+          "pezzo da 1,3 kg",
+          "salumi"
+        ]
+      ],
+      "pd": {
+        "V-53-0": {
+          "c": [],
+          "d": {
+            "it": "Uva: Petite Arvine. Note di degustazione: Giallo chiaro, fruttato, aromatico, gradevole acidità, persistente."
+          },
+          "a": {
+            "it": "Temperatura di servizio: 10-12°C. Abbinamenti: Perfetto come aperitivo, per accompagnare antipasti, pesce, formaggi, carni bianche."
+          },
+          "pr": "22,94 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Château Feuillet"
+        },
+        "V-53-1": {
+          "c": [],
+          "d": {
+            "it": "Il Torrette è un rosso della Valle d'Aosta DOC a base di Petit Rouge. Etichetta di Les Crêtes, annata 2022."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "22,20 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Les Crêtes"
+        },
+        "V-53-2": {
+          "c": [],
+          "d": {
+            "it": "Il Blanc de Morgex et de La Salle nasce da uve Prié Blanc coltivate ai piedi del Monte Bianco, tra i vigneti più alti d'Europa. Etichetta di Pavese Ermes, annata 2023."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "28,90 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Pavese Ermes"
+        },
+        "V-53-3": {
+          "c": [],
+          "d": {
+            "it": "Chambave Muscat, La Crotta di Vegneron. Uva: 100% Moscato bianco. 13% vol. Dal colore giallo paglierino con riflessi verdognoli. Unione di note di pesca e albicocca, salvia e timo, è un vino bianco consistente e secco, fresco ed elegante, gustoso e di grande persistenza aromatica. Un vino dal profondo carattere territoriale, ricco e di grande personalità."
+          },
+          "a": {
+            "it": "Temperatura di servizio: 08º ​​​​- 10º C. Abbinamenti: Abbinamento a frutti di mare, formaggi stagionati, primi di mare, primi di terra, secondi di mare, secondi di terra."
+          },
+          "pr": "19,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "La Crotta di Vegneron"
+        },
+        "V-53-4": {
+          "c": [],
+          "d": {
+            "it": "Lo Chardonnay in Valle d'Aosta è coltivato in quota e dà bianchi freschi. Etichetta di Château Feuillet, annata 2020."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "17,27 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Château Feuillet"
+        },
+        "V-53-5": {
+          "c": [],
+          "d": {
+            "it": "Attente Chambave Muscat, La Crotta di Vegneron. Uve: Moscato Bianco 100% o Moscatel Petit Grains. 13,5% vol. Giallo dorato brillante. Profumo intenso e persistente. In bocca, l'equilibrio tra le sensazioni: alcolico e acido minerale, ci regala un vino dalla struttura importante ma allo stesso tempo delicato ed elegante. Sentori di agrumi e fiori d'acacia chiudono le sensazioni gustative."
+          },
+          "a": {
+            "it": "Temperatura di servizio: 12º - 14º C. Abbinamenti: Abbinare ad affumicati anche crostacei e pesce."
+          },
+          "pr": "18,84 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "La Crotta di Vegneron"
+        },
+        "V-53-6": {
+          "c": [],
+          "d": {
+            "it": "Il Genepy Ottoz è prodotto da circa cento anni ed è un liquore a base di piantine di Génépy (Artemisia glacialis), un'erba alpina che cresce in altitudine sulle montagne. Il gusto è intenso ed il profumo aromatico."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "34,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Ottoz"
+        },
+        "V-53-7": {
+          "c": [],
+          "d": {
+            "it": "Nome Maley Cidre du Saint Bernard. Tipologia distillato Sidro di mele. Formato 0,75 l Standard. Prodotto da Mele varietà Raventze, Reinetta, Madelaine, Pomma d'Arezaz, Flamboyante (Valle d'Aosta), Croison de Boussy, Groin de Veau (Valle di Chamonix in Alta Savoia). Ubicazione Brissogne (AO). Tecnica di produzione Nell'arco di 36 ore dalla raccolta, i cassoni di mele vengono assemblati e spediti in frigo in Savoia."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "14,20 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Maley"
+        },
+        "V-53-8": {
+          "c": [],
+          "d": {
+            "it": "Gradazione: 40%. Viene utilizzato un taglio di mele che ha una gradazione alcolica superiore rispetto alle basi del metodo ancestrale, classico e martinotti. Il sidro base destinato alla distillazione da fine fermentazione non subisce alcun travaso, dai tini passa all'alambicco sottovuoto, dove la temperatura di distillazione non supera i 65°C. Nota di degustazione: Colore giallo ambrato."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "74,74 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Maley"
+        },
+        "V-53-9": {
+          "c": [],
+          "d": {
+            "it": "Cidre Jorasses Extra Brut Metodo Classico, Maley. Il Sidro Maley si presenta di colore giallo paglierino leggermente torbido, e il suo quadro olfattivo ricorda i profumi dei fiori, della frutta e soprattutto della mela matura. Al palato è un sidro secco, asciutto, e fresco, dalla bollicina effervescente, fine e persistente, dal retro gusto minerale."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "18,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Maley"
+        },
+        "V-53-10": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "La Fontina è un formaggio DOP: a Denominazione d'Origine Protetta in tutta l'Unione Europea."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "13,96 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Consorzio Fontina DOP"
+        },
+        "V-53-11": {
+          "c": [],
+          "d": {
+            "it": "La toma di Gressoney, \"de chésch\" nel tradizionale dialetto Walser, ha antiche origini ed è ora un prodotto di nicchia, al punto da essere difesa da uno dei Presidi Slow Food. È prodotta nella Valle del Lys, con latte vaccino crudo di bovine di razze autoctone, alimentate prevalentemente da foraggio locale."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "37,96 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Toma di Gressoney"
+        },
+        "V-53-12": {
+          "c": [],
+          "d": {
+            "it": "Famoso e premiato per la sua bontà, la sua pasta è compatta, di colore avorio con una caratteristica erborinatura. La forma è cilindrica a facce piane con scalzo dritto; il diametro delle facce è di circa 18 cm e l'altezza copmpresa tra i 9 e i 15 cm. È formaggio dalla forte personalità, un sapore pronunciato che si fa apprezzare."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "78,96 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Valle Gran Paradiso"
+        },
+        "V-53-13": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "Dopo aver effettuato tutta la lavorazione di toelettatura e di squadratura con tecniche rimaste rigorosamente artigianali e nel rispetto di una antica tradizione, si procede a riempire i “doil”. Sono costruiti con legno di castagno, a forma di parallelepipedo e al loro interno viene messo a stagionare il lardo."
+          },
+          "a": {
+            "it": "La parola “doils” appartiene al dialetto patois e sta ad indicare dei contenitori utilizzati per far maturare e conservare il lardo."
+          },
+          "pr": "29,50 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Valle d'Aosta Lard d'Arnad DOP"
+        },
+        "V-53-14": {
+          "c": [],
+          "d": {
+            "it": "La mocetta è il salume tipico della Valle d'Aosta: carne bovina magra salata, aromatizzata con erbe di montagna e stagionata. Si serve affettata sottile."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "88,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "De Bosses"
+        }
+      },
+      "fonti": [
+        "https://www.soloprodottiitaliani.it/",
+        "https://www.soloprodottiitaliani.it/pages/progetto.html",
+        "https://www.soloprodottiitaliani.it/pages/winearchy-il-regno-del-vino.html",
+        "https://www.soloprodottiitaliani.it/catalogo.php?IdRegioni=51"
+      ]
+    },
+    {
+      "id": "V-54",
+      "n": "OIP · Lombardia",
+      "cat": "vino",
+      "reg": "Lombardia",
+      "city": "Selezione regionale OIP",
+      "lat": 45.464,
+      "lng": 9.19,
+      "y": null,
+      "certs": [
+        "DOP",
+        "DOCG",
+        "IGP"
+      ],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "logoBg": "#ffffff",
+      "d": {
+        "it": "La Lombardia va dalle bollicine della Franciacorta ai Nebbiolo di montagna della Valtellina, dal Lugana del Garda ai grandi formaggi della pianura e delle valli. Questa vetrina raccoglie la selezione della Lombardia di OIP, Only Italian Products: 37 prodotti di 34 produttori, scelti dal catalogo di soloprodottiitaliani.it e divisi per tipologia: vini (12), grappe, liquori e distillati (1), formaggi (5), salumi (5), carni (2), pasta e riso (3), oli e aceti (3), prodotti tipici (1), specialità di mare (1), frutta e verdura (1), prodotti da forno, dolci e caffè (1), bevande (2). OIP è una boutique online del cibo e del vino italiano di qualità, con sede e magazzino a Rezzato, in provincia di Brescia, dove si trova anche l'enoteca Winearchy, con oltre 5.000 etichette in negozio. Seleziona fornitori artigianali, ha una sezione dedicata all'Ho.Re.Ca. e un sito disponibile nelle versioni nazionali di 15 Paesi. Il produttore di ogni referenza è indicato nella scheda del prodotto.",
+        "en": "Lombardy ranges from the sparkling wines of Franciacorta to the mountain Nebbiolo of Valtellina, from Lake Garda's Lugana to the great cheeses of the plain and the valleys. This stand brings together OIP's selection from Lombardy: 37 products from 34 producers, chosen from the soloprodottiitaliani.it catalogue and grouped by type: wines (12), grappa, liqueurs and spirits (1), cheese (5), cured meats (5), meat (2), pasta and rice (3), oils and vinegars (3), regional specialities (1), seafood specialities (1), fruit and vegetables (1), bakery, sweets and coffee (1), soft drinks (2). OIP, Only Italian Products, is an online boutique for quality Italian food and wine, with headquarters and warehouse in Rezzato, near Brescia, where it also runs the Winearchy wine shop, with over 5,000 labels in store. It selects artisan suppliers, has a dedicated Ho.Re.Ca. section and a website available in national versions for 15 countries. The producer of each item is shown on its product sheet.",
+        "de": "Die Lombardei reicht von den Schaumweinen der Franciacorta bis zum Berg-Nebbiolo des Veltlins, vom Lugana des Gardasees bis zu den großen Käsesorten der Ebene und der Täler. Dieser Stand zeigt die Auswahl von OIP aus der Lombardei: 37 Produkte von 34 Herstellern, ausgewählt aus dem Katalog von soloprodottiitaliani.it und nach Produktart gegliedert: Weine (12), Grappa, Liköre und Spirituosen (1), Käse (5), Wurst und Schinken (5), Fleisch (2), Pasta und Reis (3), Öle und Essige (3), Regionale Spezialitäten (1), Meeresspezialitäten (1), Obst und Gemüse (1), Backwaren, Süßes und Kaffee (1), Getränke (2). OIP, Only Italian Products, ist eine Online-Boutique für hochwertige italienische Lebensmittel und Weine mit Sitz und Lager in Rezzato bei Brescia, wo sich auch die Vinothek Winearchy mit über 5.000 Etiketten im Geschäft befindet. OIP wählt handwerkliche Lieferanten aus, hat einen eigenen Ho.Re.Ca.-Bereich und eine Website in Länderversionen für 15 Länder. Der Hersteller jedes Artikels ist im Produktblatt angegeben."
+      },
+      "sub": [
+        {
+          "k": "vini",
+          "cat": "vino",
+          "n": {
+            "it": "Vini",
+            "en": "Wines",
+            "de": "Weine"
+          }
+        },
+        {
+          "k": "spirits",
+          "cat": "liquori",
+          "n": {
+            "it": "Grappe, liquori e distillati",
+            "en": "Grappa, liqueurs and spirits",
+            "de": "Grappa, Liköre und Spirituosen"
+          }
+        },
+        {
+          "k": "formaggi",
+          "cat": "formaggi",
+          "n": {
+            "it": "Formaggi",
+            "en": "Cheese",
+            "de": "Käse"
+          }
+        },
+        {
+          "k": "salumi",
+          "cat": "salumi",
+          "n": {
+            "it": "Salumi",
+            "en": "Cured meats",
+            "de": "Wurst und Schinken"
+          }
+        },
+        {
+          "k": "carni",
+          "cat": "salumi",
+          "n": {
+            "it": "Carni",
+            "en": "Meat",
+            "de": "Fleisch"
+          }
+        },
+        {
+          "k": "pasta",
+          "cat": "pasta",
+          "n": {
+            "it": "Pasta e riso",
+            "en": "Pasta and rice",
+            "de": "Pasta und Reis"
+          }
+        },
+        {
+          "k": "olio",
+          "cat": "olio",
+          "n": {
+            "it": "Oli e aceti",
+            "en": "Oils and vinegars",
+            "de": "Öle und Essige"
+          }
+        },
+        {
+          "k": "tipici",
+          "cat": "misti",
+          "n": {
+            "it": "Prodotti tipici",
+            "en": "Regional specialities",
+            "de": "Regionale Spezialitäten"
+          }
+        },
+        {
+          "k": "mare",
+          "cat": "conserve",
+          "n": {
+            "it": "Specialità di mare",
+            "en": "Seafood specialities",
+            "de": "Meeresspezialitäten"
+          }
+        },
+        {
+          "k": "frutta",
+          "cat": "conserve",
+          "n": {
+            "it": "Frutta e verdura",
+            "en": "Fruit and vegetables",
+            "de": "Obst und Gemüse"
+          }
+        },
+        {
+          "k": "forno",
+          "cat": "dolci",
+          "n": {
+            "it": "Prodotti da forno, dolci e caffè",
+            "en": "Bakery, sweets and coffee",
+            "de": "Backwaren, Süßes und Kaffee"
+          }
+        },
+        {
+          "k": "bevande",
+          "cat": "misti",
+          "n": {
+            "it": "Bevande",
+            "en": "Soft drinks",
+            "de": "Getränke"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Franciacorta Edizione Cuvée Prestige, Ca' del Bosco",
+          "bottiglia da 0,75 l",
+          "vini"
+        ],
+        [
+          "Della Lupa Lugana, La Via Dell'ambra, Ca' Lojera",
+          "bottiglia da 0,75 l, annata 2024",
+          "vini"
+        ],
+        [
+          "Tell Grumello Valtellina Superiore, Luca Faccinelli",
+          "bottiglia da 0,75 l, annata 2021",
+          "vini"
+        ],
+        [
+          "Sandro Fay Ronco del Picchio Sforzato di Valtellina",
+          "bottiglia da 0,75 l, annata 2021",
+          "vini"
+        ],
+        [
+          "Bricco Riva Bianca Buttafuoco dell'Oltrepo Pavese, Picchioni Andrea",
+          "bottiglia da 0,75 l, annata 2021",
+          "vini"
+        ],
+        [
+          "Curtefranca Rosso, Uberti",
+          "bottiglia da 0,75 l, annata 2021",
+          "vini"
+        ],
+        [
+          "Roveglia Chiaretto Garda Classico Miti",
+          "bottiglia da 0,75 l, annata 2024",
+          "vini"
+        ],
+        [
+          "Valcalepio Rosso Riserva, Medolago Albani",
+          "bottiglia da 0,75 l, annata 2020",
+          "vini"
+        ],
+        [
+          "Colle San Pietro Botticino, Francesco Maccaboni",
+          "bottiglia da 0,75 l, annata 2021",
+          "vini"
+        ],
+        [
+          "Sassella Valtellina Superiore, Terrazzi Alti",
+          "bottiglia da 0,75 l, annata 2022",
+          "vini"
+        ],
+        [
+          "Groppello Riviera del Garda Classico, Conti Thun",
+          "bottiglia da 0,75 l, annata 2022",
+          "vini"
+        ],
+        [
+          "Serafino Moscato di Scanzo, Azienda Agricola Il Cipresso",
+          "bottiglia da 0,75 l, annata 2021",
+          "vini"
+        ],
+        [
+          "Grappa di Lugana, Cà dei Frati",
+          "bottiglia da 0,5 l",
+          "spirits"
+        ],
+        [
+          "Nostrano Valtrompia DOP, Azienda Agricola Beltrami Mauro",
+          "pezzo da 500 g",
+          "formaggi"
+        ],
+        [
+          "Valtellina Casera DOP, Consorzio Ctcb",
+          "pezzo da 500 g",
+          "formaggi"
+        ],
+        [
+          "Grana Padano DOP grattugiato",
+          "confezione da 100 g",
+          "formaggi"
+        ],
+        [
+          "Quartirolo Lombardo DOP",
+          "pezzo da 500 g",
+          "formaggi"
+        ],
+        [
+          "Provolone Valpadana DOP",
+          "pezzo da 500 g",
+          "formaggi"
+        ],
+        [
+          "Salame di Varzi DOP",
+          "pezzo da 0,9-1 kg",
+          "salumi"
+        ],
+        [
+          "Bresaola della Valtellina IGP Punta d'Anca, Pedranzini",
+          "pezzo da 1,8-2 kg",
+          "salumi"
+        ],
+        [
+          "Bresaola della Valchiavenna Sottofesa, Brisaola Fazari",
+          "pezzo da 1 kg",
+          "salumi"
+        ],
+        [
+          "Tintoretto, Carpaccio di Picanha, Brisval",
+          "pezzo da 1,2 kg",
+          "salumi"
+        ],
+        [
+          "Salame nostrano, Macelleria Mastra Alebardi, Liberini Carni",
+          "confezione da 400-500 g",
+          "salumi"
+        ],
+        [
+          "Fiorentina di Fassona Piemontese, Liberini Carni",
+          "pezzo da 1,3 kg",
+          "carni"
+        ],
+        [
+          "Bresaola della Valtellina Panzieri a metà, Salumificio Panzeri",
+          "pezzo da 1,5 kg",
+          "carni"
+        ],
+        [
+          "Gnocchi Ripieni alla Rosa Camuna, La Formaggeria Ariasi e Reggia",
+          "confezione da 400 g",
+          "pasta"
+        ],
+        [
+          "Tortelli ripieni con Zucca a fazzoletto piccolo fatti a mano, Tradizioni Padane",
+          "confezione da 250 g",
+          "pasta"
+        ],
+        [
+          "Tortelloni di Zucca Mantovani, Pastificio Menini",
+          "confezione da 1 kg",
+          "pasta"
+        ],
+        [
+          "Olio Extravergine di Oliva Garda Bresciano DOP, Paolo Vezzola",
+          "bottiglia da 0,5 l",
+          "olio"
+        ],
+        [
+          "Olio Monovarietale di Casaliva, Azienda Agricola Leali",
+          "bottiglia da 0,5 l",
+          "olio"
+        ],
+        [
+          "100 Limited Edition, olio extravergine d'oliva, La Meridiana",
+          "",
+          "olio"
+        ],
+        [
+          "Confettura di Fichi Extra, Andrini Marmellate",
+          "confezione da 360 g",
+          "tipici"
+        ],
+        [
+          "Caviale Calvisius Siberian Royal",
+          "confezione da 30 g",
+          "mare"
+        ],
+        [
+          "Melone Mantovano IGP, Verdure e frutta di Stagione",
+          "confezione da 1,5 kg",
+          "frutta"
+        ],
+        [
+          "Torrone Friabile alla Mandorla Artigianale, Rivoltini",
+          "confezione da 200 g",
+          "forno"
+        ],
+        [
+          "Bitter Campari",
+          "bottiglia da 1 l",
+          "bevande"
+        ],
+        [
+          "Aperitivo Ramazzotti",
+          "bottiglia da 1 l",
+          "bevande"
+        ]
+      ],
+      "pd": {
+        "V-54-0": {
+          "c": [
+            "DOCG"
+          ],
+          "d": {
+            "it": "Gradazione: 12,5% Vol. Assemblaggio: 69% vini vendemmia 2017. 22% vini riserva 2016. 6% vini riserva 2015. 3% vini riserva 2014. Virtù scritta nell'etimologia di un termine antico: idem, ovvero essere se stessi. Cuvée Prestige, essenza della Franciacorta in stile Ca' del Bosco. Un gioiello nato nel 2007 da un sapere lungo trent'anni."
+          },
+          "a": {
+            "it": "Perfetto per ogni occasione."
+          },
+          "pr": "36,90 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Ca' del Bosco"
+        },
+        "V-54-1": {
+          "c": [],
+          "d": {
+            "it": "Il Lugana è un bianco DOC della sponda meridionale del lago di Garda, da uve Turbiana. Etichetta di Ca' Lojera, annata 2024."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "16,90 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Ca' Lojera"
+        },
+        "V-54-2": {
+          "c": [],
+          "d": {
+            "it": "Tell Grumello Valtellina Superiore, Luca Faccinelli. Uve: Nebbiolo. Note di degustazione: Nel bicchiere appare un colore rubino tenue, attraversato da bagliori più violacei. Al naso si apre su toni vinosi, che poi si trasformano in note fruttate e mentolate e balsamiche. In degustazione si percepisce subito una spiccata freschezza, dalla quale emerge un gusto sapido e balsamico, condito da una tessitura tannica media; chiude con un finale leggermente amarognolo."
+          },
+          "a": {
+            "it": "Abbinamenti: da abbinare ad una buona bistecca di manzo alla griglia."
+          },
+          "pr": "31,40 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Luca Faccinelli"
+        },
+        "V-54-3": {
+          "c": [],
+          "d": {
+            "it": "Lo Sforzato di Valtellina è un rosso DOCG ottenuto da uve Nebbiolo appassite."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "75,59 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          }
+        },
+        "V-54-4": {
+          "c": [],
+          "d": {
+            "it": "Buttafuoco dell'Oltrepò Pavese DOC. Zona di produzione: valle Solinga, Canneto Pavese. Terreno: sabbioso-ciottoloso. Vigneto: in forte pendenza, esposto a sud-ovest. Vitigni: croatina, barbera e ughetta di Solinga in percentuali variabili a seconda dell'annata. Vinificazione: vino prodotto solo nelle annate favorevoli. Le uve sono raccolte a mano in cassetta con accurata scelta dei soli grappoli perfettamente maturi."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "41,30 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Picchioni Andrea"
+        },
+        "V-54-5": {
+          "c": [],
+          "d": {
+            "it": "Curtefranca è la denominazione DOC dei vini fermi prodotti nella zona della Franciacorta. Etichetta di Uberti, annata 2021."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "12,54 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Uberti"
+        },
+        "V-54-6": {
+          "c": [],
+          "d": {
+            "it": "Il Chiaretto è il rosato della sponda bresciana del lago di Garda, ottenuto soprattutto da uve Groppello."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "11,96 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          }
+        },
+        "V-54-7": {
+          "c": [],
+          "d": {
+            "it": "Valcalepio Rosso Riserva, Medolago Albani. Gradazione: 14,0%. Colore: Rosso rubino intenso. Profumo: Elegante, ampio con sentori di piccoli frutti rossi. Gusto: Gusto di grande personalità e struttura, con lunga persistenza aromatica. Carni rosse, Casoncelli alla Bergamasca, Formaggi di media e lunga stagionatura. Gradazione. 14%. Uvaggio. 60% Merlot 40 % Cabernet Sauvignon."
+          },
+          "a": {
+            "it": "Abbinamenti."
+          },
+          "pr": "24,88 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Medolago Albani"
+        },
+        "V-54-8": {
+          "c": [],
+          "d": {
+            "it": "Il Botticino è un rosso DOC prodotto sulle colline a est di Brescia. Etichetta di Francesco Maccaboni, annata 2021."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "15,20 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Francesco Maccaboni"
+        },
+        "V-54-9": {
+          "c": [
+            "DOCG"
+          ],
+          "d": {
+            "it": "Il Sassella è una sottozona del Valtellina Superiore DOCG, da uve Nebbiolo. Etichetta di Terrazzi Alti, annata 2022."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "37,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Terrazzi Alti"
+        },
+        "V-54-10": {
+          "c": [],
+          "d": {
+            "it": "Il Groppello è il vitigno rosso autoctono della Valtènesi, sulla sponda bresciana del lago di Garda. Etichetta di Conti Thun, annata 2022."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "16,46 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Conti Thun"
+        },
+        "V-54-11": {
+          "c": [],
+          "d": {
+            "it": "Il Moscato di Scanzo è un passito rosso DOCG prodotto a Scanzorosciate, in provincia di Bergamo. Etichetta di Azienda Agricola Il Cipresso, annata 2021."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "50,50 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Azienda Agricola Il Cipresso"
+        },
+        "V-54-12": {
+          "c": [],
+          "d": {
+            "it": "Vitigni utilizzati: Lugana 100%. Provenienti dai vigneti: I Frati - Sirmione. Ronchedone - Desenzano del Garda. La Tür - Desenzano del Garda. Rovizza Alta - Peschiera del Garda. Metodo di distillazione: discontinuo, con separazione di testa e coda. Tipo di distillatore: piccole caldaiette di rame. Temperatura di distillazione: 110° in vapore acqueo. Affinamento: in acciaio inox."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "28,99 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Cà dei Frati"
+        },
+        "V-54-13": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "Il “Nostrano di Valle Trompia D.O.P. è un formaggio semigrasso a pasta extra dura, prodotto tutto l'anno, a partire da latte crudo e con l'aggiunta di zafferano."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "17,96 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Azienda Agricola Beltrami Mauro"
+        },
+        "V-54-14": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "Gusto e tradizione. nelle latterie turnarie e sociali. Il Valtellina Casera si ottiene dal latte prodotto negli allevamenti della provincia di Sondrio che viene lavorato nei caseifici dislocati sul territorio. La stagionatura avviene nelle tradizionali 'casere' o in adeguate strutture. Viene prodotto per l'intero arco dell'anno. con latte vaccino parzialmente scremato."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "11,96 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Consorzio Ctcb"
+        },
+        "V-54-15": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "Tutta la fragranza e il sapore del Grana Padano DOP sono racchiusi nelle confezioni di grattugiato."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "2,96 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Grana Padano"
+        },
+        "V-54-16": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "Il Quartirolo Lombardo, formaggio italiano a denominazione di origine protetta (DOP), è difeso e tutelato da un apposito Consorzio di tutela, il Consorzio per la Tutela del Quartirolo Lombardo, che ne assicura il rispetto del nome e del sistema produttivo utilizzato, così come avviene per altri prodotti agroalimentari italiani di valore, anch'essi espressi da un ambiente economico e culturale preciso e ottenuti tuttora nei luoghi in cui sono stati concepiti e con metodi riconosciuti tradizionali."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "8,96 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Quartirolo Lombardo DOP"
+        },
+        "V-54-17": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "Provolone Valpadana DOP. La sua lavorazione si estese comunque ben presto in molte altre regioni italiane, anche nell'Italia del Nord, dove sembra che la nascita delle prime fabbriche risalga alla fine del Settecento. Attualmente l'area di maggior produzione si concentra nel Veneto, in Lombardia e in particolare nella provincia di Cremona."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "14,96 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Provolone Valpadana DOP"
+        },
+        "V-54-18": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "Oggi la produzione del Salame di Varzi segue le stesse ricette e procedimenti di un tempo. A seconda del periodo e del luogo di stagionatura il prodotto presenta profumi speziati più o meno marcati, lievi sentori di muffa e fragranza di crosta di pane, aromi erbacei di legno verde e di mimosa."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "43,94 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Salame di Varzi"
+        },
+        "V-54-19": {
+          "c": [
+            "IGP"
+          ],
+          "d": {
+            "it": "La Bresaola Della Valtellina IGP Punta D'anca, vero fiore all'occhiello dell'Azienda, è il frutto di una delicata e accurata lavorazione."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "69,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Pedranzini"
+        },
+        "V-54-20": {
+          "c": [],
+          "d": {
+            "it": "Ottenuto dalle carni bovine di alta qualità, questo taglio si contraddistingue dagli altri per la sua dolcezza derivante dalle sottili venature di grasso. Il risultato è un prodotto tradizionale e da un caratteristico colore naturale, dall'aspetto rustico e mantenuto dai bassi additivi aggiunti. Il sapore è morbido così come la consistenza, così da rendere la bresaola saporita ma mai secca."
+          },
+          "a": {
+            "it": "Abbinamenti: utilizzata nelle paste, nei risotti e nelle torte salate. Un piatto ricco di sapore e nutriente, inserito in molte diete e ideale per la quotidiana alimentazione."
+          },
+          "pr": "57,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Brisaola Fazari"
+        },
+        "V-54-21": {
+          "c": [],
+          "d": {
+            "it": "Tintoretto, Carpaccio di Picanha, Brisval. Il Carpaccio di Picanha è un'eccellente delizia culinaria per gli amanti della buona carne, specialmente per chi ama la carne cruda.Realizzato con carne di alta qualità, questo prodotto è una vera festa per il palato."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "59,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Brisval"
+        },
+        "V-54-22": {
+          "c": [],
+          "d": {
+            "it": "Il Salame Nostrano prodotto con suini esclusivamente allevati in italia e macellati dalla macelleria Alebardi. I suini destinati alla produzione di insaccati vengono lavorati singolarmente in modo da non alterare i nutrimenti delle carni."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "13,56 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Liberini Carni"
+        },
+        "V-54-23": {
+          "c": [],
+          "d": {
+            "it": "La macelleria Mastra Alebardi alleva le fassone di razza piemontese secondo una ricetta che si tramanda da 5 generazioni, macellata con metodi dolci dalla stessa macelleria nel proprio laboratorio, Questo permette di ottenere un prodotto, in questo caso la \"mitica \"Fiorentina di Fassona Piemontese tenerissimo e dal gusto delicato. Assolutamente da cucinare sulla griglia con fuoco e braci."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "63,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Liberini Carni"
+        },
+        "V-54-24": {
+          "c": [],
+          "d": {
+            "it": "Una delle ragioni del successo della Bresaola Panzeri sta nella scelta di materia prima di altissima qualità. Le carni utilizzate, infatti, provengono da capi bovini di razze selezionate in età compresa tra i 18 mesi e i 4 anni, allevati allo stato brado in Europa e in Sudamerica, a garanzia della giusta consistenza e di un ridotto contenuto di materia grassa."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "61,94 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Salumificio Panzeri"
+        },
+        "V-54-25": {
+          "c": [],
+          "d": {
+            "it": "Gnocchi di Patata Ripieni al Formaggi. Ingredienti pasta: Purea di patate (acqua e fi occhi di patata corrispondenti al 95% di. patate), farina di patata, fecola di patata, farina di frumento tenero tipo 00, sale, aromi, spolvero farina di riso. Conservante: acido sorbico."
+          },
+          "a": {
+            "it": "Conservare a max + 4/6 °C."
+          },
+          "pr": "6,05 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "La Formaggeria Ariasi e Reggia"
+        },
+        "V-54-26": {
+          "c": [],
+          "d": {
+            "it": "Prodotto con zucche del tipo violina con filiera completa dal coltivatore alla produzione del tortello. ripieno con aggiunta di amamaretti, come da tradizione locale."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "5,94 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Tradizioni Padane"
+        },
+        "V-54-27": {
+          "c": [],
+          "d": {
+            "it": "I tortelli di zucca mantovani sono uno dei piatti più rappresentativi e sontuosi della cucina italiana, , Sembrerebbero un accostamento azzardato, che vede il dolce con il salato, in questo caso la mostarda, gli amaretti e la zucca uniti al formaggio Parmigiano."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "25,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Pastificio Menini"
+        },
+        "V-54-28": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "Tre generazioni impegnate nel solo obiettivo della esasperata qualità, nel totale rispetto della natura e dei suoi frutti. L'azienda si trova in San Felice del Benaco, sulla sponda occidentale del lago di Garda, comune appartenente all'associazione “Città dell'olio”, in quanto storicamente vocato alla coltura olivicola."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "25,74 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Az. Agricola Paolo Vezzola"
+        },
+        "V-54-29": {
+          "c": [],
+          "d": {
+            "it": "Olio Monovarietale di Casaliva, Azienda Agricola Leali. Caratteristiche: Colore: Verde con riflessi gialli. Profumo: Speziato, fruttato, di buona intensità. Sapore: Equilibrato nelle sensazioni gustative, con leggera prevalenza dell'amaro; retrogusto di mandorla e carciofo."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "33,44 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Azienda Agricola Leali"
+        },
+        "V-54-30": {
+          "c": [],
+          "d": {
+            "it": "100 Limited Edition, olio extravergine d'oliva, La Meridiana. Puegnago d/Garda Valtenesi. Da olive freschissime e perfette si ottiene un olio dall'acidità molto bassa. (0,1% 0,2%). Sottili fragranze verdi di erba di prato e di mandorla."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "28,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "La Meridiana"
+        },
+        "V-54-31": {
+          "c": [],
+          "d": {
+            "it": "Confettura extra al 80% di Fichi, ottenuta dalla lavorazione della frutta a maturazione ideale con l'aggiunta di zucchero e di succo di limone. Ideale per la prima colazione e per la creazione di dolci."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "8,10 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Andrini Marmellate"
+        },
+        "V-54-32": {
+          "c": [],
+          "d": {
+            "it": "Il caviale Siberian Royal si ottiene dallo storione siberiano, una specie di modeste dimensioni che raggiunge un peso compreso tra gli 8 e 40 kg. Originario dei bacini fluviali della Siberia (dal fiume Ob al fiume Kolyma) e del bacino del Lago Baikal. Per ottenere il caviale di questa qualità si scelgono le uova migliori e più grandi (oltre 2,7 mm)."
+          },
+          "a": {
+            "it": "Estremamente versatile in cucina, dal gusto piuttosto marcato, si accompagna bene a piatti con amidi leggeri, panna moderatamente acida, pane morbido o blini secondo la tradizione russa, ma può essere gustato anche in purezza per apprezzarne totalmente le sue qualità."
+          },
+          "pr": "71,94 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Calvisius Caviar"
+        },
+        "V-54-33": {
+          "c": [
+            "IGP"
+          ],
+          "d": {
+            "it": "Il Melone di Mantova IGP nella sua tipologia liscia ha una forma sferica o sub-sferica; con un colore della crema-paglierino e un colore della polpa giallo-arancio. La zona di produzione interessa il territorio ricadente nelle province di Mantova e Cremona in Lombardia, Modena, Bologna e Ferrara in Emilia-Romagna."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "6,44 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Verdure e frutta di Stagione"
+        },
+        "V-54-34": {
+          "c": [],
+          "d": {
+            "it": "Rivoltini è un'azienda produttrice di torrone artigianale a Cremona dal 1928, la ricetta usata è quella tradizionale tipica che risale al 1441, ad oggi mai cambiata. Torrone artigianale friabile da 200g, stirato a mano con il 50 % di mandorle e il 40 % di miele."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "8,90 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Rivoltini"
+        },
+        "V-54-35": {
+          "c": [],
+          "d": {
+            "it": "Campari è un classico che fa moda. La ricetta originale nasce a Novara nel 1860, ed è ancora oggi inalterato il segreto per una delle bevande più note al mondo. Campari è un aperitivo alcolico ottenuto dall'infusione di erbe amaricanti, piante aromatiche, frutta in alcool e acqua. Con il suo colore, il suo aroma ed il suo gusto, Campari è da sempre simbolo di passione."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "19,40 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Campari"
+        },
+        "V-54-36": {
+          "c": [],
+          "d": {
+            "it": "Amaro Ramazzotti, legato alla tradizione a garanzia della sua qualità e affidabilità, è l'Amaro per persone “al passo con i tempi” che riescono ad interpretare in modo positivo tutti i momenti della giornata. E' l'Amaro italiano, moderno e dinamico, per persone che credono nei valori positivi della vita."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "19,09 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Ramazzotti"
+        }
+      },
+      "fonti": [
+        "https://www.soloprodottiitaliani.it/",
+        "https://www.soloprodottiitaliani.it/pages/progetto.html",
+        "https://www.soloprodottiitaliani.it/pages/winearchy-il-regno-del-vino.html",
+        "https://www.soloprodottiitaliani.it/catalogo.php?IdRegioni=52"
+      ]
+    },
+    {
+      "id": "V-55",
+      "n": "OIP · Trentino-Alto Adige",
+      "cat": "vino",
+      "reg": "Trentino-Alto Adige/Südtirol",
+      "city": "Selezione regionale OIP",
+      "lat": 46.07,
+      "lng": 11.121,
+      "y": null,
+      "certs": [
+        "DOC"
+      ],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "logoBg": "#ffffff",
+      "d": {
+        "it": "Il Trentino-Alto Adige è una regione di montagna: Trentodoc e Teroldego da una parte, Gewürztraminer e Lagrein dall'altra, e una lunga tradizione di grappe e distillati. Questa vetrina raccoglie la selezione del Trentino-Alto Adige di OIP, Only Italian Products: 38 prodotti di 33 produttori, scelti dal catalogo di soloprodottiitaliani.it e divisi per tipologia: vini (21), grappe, liquori e distillati (5), birre (1), formaggi (5), salumi (2), pasta e riso (1), salse e sughi (1), bevande (2). OIP è una boutique online del cibo e del vino italiano di qualità, con sede e magazzino a Rezzato, in provincia di Brescia, dove si trova anche l'enoteca Winearchy, con oltre 5.000 etichette in negozio. Seleziona fornitori artigianali, ha una sezione dedicata all'Ho.Re.Ca. e un sito disponibile nelle versioni nazionali di 15 Paesi. Il produttore di ogni referenza è indicato nella scheda del prodotto.",
+        "en": "Trentino-Alto Adige is a mountain region: Trentodoc and Teroldego on one side, Gewürztraminer and Lagrein on the other, and a long tradition of grappa and spirits. This stand brings together OIP's selection from Trentino-Alto Adige: 38 products from 33 producers, chosen from the soloprodottiitaliani.it catalogue and grouped by type: wines (21), grappa, liqueurs and spirits (5), beers (1), cheese (5), cured meats (2), pasta and rice (1), sauces (1), soft drinks (2). OIP, Only Italian Products, is an online boutique for quality Italian food and wine, with headquarters and warehouse in Rezzato, near Brescia, where it also runs the Winearchy wine shop, with over 5,000 labels in store. It selects artisan suppliers, has a dedicated Ho.Re.Ca. section and a website available in national versions for 15 countries. The producer of each item is shown on its product sheet.",
+        "de": "Trentino-Südtirol ist eine Bergregion: Trentodoc und Teroldego auf der einen Seite, Gewürztraminer und Lagrein auf der anderen, dazu eine lange Tradition von Grappa und Destillaten. Dieser Stand zeigt die Auswahl von OIP aus Trentino-Südtirol: 38 Produkte von 33 Herstellern, ausgewählt aus dem Katalog von soloprodottiitaliani.it und nach Produktart gegliedert: Weine (21), Grappa, Liköre und Spirituosen (5), Biere (1), Käse (5), Wurst und Schinken (2), Pasta und Reis (1), Saucen und Sughi (1), Getränke (2). OIP, Only Italian Products, ist eine Online-Boutique für hochwertige italienische Lebensmittel und Weine mit Sitz und Lager in Rezzato bei Brescia, wo sich auch die Vinothek Winearchy mit über 5.000 Etiketten im Geschäft befindet. OIP wählt handwerkliche Lieferanten aus, hat einen eigenen Ho.Re.Ca.-Bereich und eine Website in Länderversionen für 15 Länder. Der Hersteller jedes Artikels ist im Produktblatt angegeben."
+      },
+      "sub": [
+        {
+          "k": "vini",
+          "cat": "vino",
+          "n": {
+            "it": "Vini",
+            "en": "Wines",
+            "de": "Weine"
+          }
+        },
+        {
+          "k": "spirits",
+          "cat": "liquori",
+          "n": {
+            "it": "Grappe, liquori e distillati",
+            "en": "Grappa, liqueurs and spirits",
+            "de": "Grappa, Liköre und Spirituosen"
+          }
+        },
+        {
+          "k": "birre",
+          "cat": "misti",
+          "n": {
+            "it": "Birre",
+            "en": "Beers",
+            "de": "Biere"
+          }
+        },
+        {
+          "k": "formaggi",
+          "cat": "formaggi",
+          "n": {
+            "it": "Formaggi",
+            "en": "Cheese",
+            "de": "Käse"
+          }
+        },
+        {
+          "k": "salumi",
+          "cat": "salumi",
+          "n": {
+            "it": "Salumi",
+            "en": "Cured meats",
+            "de": "Wurst und Schinken"
+          }
+        },
+        {
+          "k": "pasta",
+          "cat": "pasta",
+          "n": {
+            "it": "Pasta e riso",
+            "en": "Pasta and rice",
+            "de": "Pasta und Reis"
+          }
+        },
+        {
+          "k": "salse",
+          "cat": "conserve",
+          "n": {
+            "it": "Salse e sughi",
+            "en": "Sauces",
+            "de": "Saucen und Sughi"
+          }
+        },
+        {
+          "k": "bevande",
+          "cat": "misti",
+          "n": {
+            "it": "Bevande",
+            "en": "Soft drinks",
+            "de": "Getränke"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Zell Brut Nature, Cantina Sociale Trento",
+          "bottiglia da 0,75 l",
+          "vini"
+        ],
+        [
+          "Teroldego Rotaliano Tonalite Riserva, De Vigili",
+          "bottiglia da 0,75 l, annata 2023",
+          "vini"
+        ],
+        [
+          "Gewürztraminer, Winzerberg",
+          "bottiglia da 0,75 l, annata 2020",
+          "vini"
+        ],
+        [
+          "Lagrein Riserva, Salizzoni",
+          "bottiglia da 0,75 l, annata 2023",
+          "vini"
+        ],
+        [
+          "Palai Müller Thurgau Dolomiti, Pojer e Sandri",
+          "bottiglia da 0,75 l, annata 2024",
+          "vini"
+        ],
+        [
+          "Ziresi Marzemino Superiore, Salizzoni",
+          "bottiglia da 0,75 l, annata 2023",
+          "vini"
+        ],
+        [
+          "Pinot Bianco, Weingut Ebner",
+          "bottiglia da 0,75 l, annata 2023",
+          "vini"
+        ],
+        [
+          "Vette Sauvignon, Guerrieri Gonzaga Tenuta San Leonardo",
+          "bottiglia da 0,75 l, annata 2025",
+          "vini"
+        ],
+        [
+          "Vigna Haselhof Edelvernatsch Schiava, Josef Brigl",
+          "bottiglia da 0,75 l, annata 2021",
+          "vini"
+        ],
+        [
+          "Nosiola Le Frate, Distilleria Pravis",
+          "bottiglia da 0,75 l, annata 2025",
+          "vini"
+        ],
+        [
+          "Pinot Grigio Ruländer, Laimburg",
+          "bottiglia da 0,75 l, annata 2024",
+          "vini"
+        ],
+        [
+          "Fels Kerner, Nals Margreid",
+          "bottiglia da 0,75 l, annata 2025",
+          "vini"
+        ],
+        [
+          "Lagrein, Bellutti",
+          "bottiglia da 0,75 l, annata 2023",
+          "vini"
+        ],
+        [
+          "Lafóa Gewürztraminer, Colterenzio (Schreckbichl)",
+          "bottiglia da 0,75 l, annata 2023",
+          "vini"
+        ],
+        [
+          "Cuvée Blanche, Letrari",
+          "bottiglia da 0,75 l",
+          "vini"
+        ],
+        [
+          "Gewürztraminer, Steinhaus",
+          "bottiglia da 0,75 l, annata 2018",
+          "vini"
+        ],
+        [
+          "St. Magdalener, Kössler",
+          "bottiglia da 0,75 l, annata 2020",
+          "vini"
+        ],
+        [
+          "Von Blumen 514 Blauburgunder",
+          "bottiglia da 0,75 l, annata 2023",
+          "vini"
+        ],
+        [
+          "Sylvaner Alto Adige Valle Isarco, Bessererhof",
+          "bottiglia da 0,75 l",
+          "vini"
+        ],
+        [
+          "Methius Brut Riserva, Dorigati",
+          "bottiglia da 0,75 l, annata 2020",
+          "vini"
+        ],
+        [
+          "Pinot Nero Exclusive Riserva, Weingut Plonerhof",
+          "bottiglia da 0,75 l, annata 2021",
+          "vini"
+        ],
+        [
+          "Grappa Classica Oro, Distilleria Francesco",
+          "bottiglia da 70 cl",
+          "spirits"
+        ],
+        [
+          "Grappa Bianca Tradizione, Distilleria Pravis",
+          "bottiglia da 1 l",
+          "spirits"
+        ],
+        [
+          "Amaro Diesus",
+          "bottiglia da 0,75 l",
+          "spirits"
+        ],
+        [
+          "Grappa Gewurztraminer Invecchiata, ZU Plun",
+          "bottiglia da 70 cl",
+          "spirits"
+        ],
+        [
+          "Liquore Tartuffetto, Distilleria Alfons Walcher",
+          "bottiglia da 100 cl",
+          "spirits"
+        ],
+        [
+          "Birra Forst 1857",
+          "bottiglia da 33 cl",
+          "birre"
+        ],
+        [
+          "Caprea, Formaggio di Capra Stagionato, Capriz",
+          "forma da 500 g",
+          "formaggi"
+        ],
+        [
+          "Latemar Formaggio di Montagna, Degust Affineur",
+          "forma da 500 g",
+          "formaggi"
+        ],
+        [
+          "Burro Zero Lattosio, Dalla Torre",
+          "confezione da 200 g",
+          "formaggi"
+        ],
+        [
+          "Puzzone di Moena, Caseificio Sociale di Predazzo e Moena",
+          "pezzo da 500 g",
+          "formaggi"
+        ],
+        [
+          "Ziegiz Caverna, Formaggio di Capra Stagionato in Grotta, Capriz",
+          "forma da 500 g",
+          "formaggi"
+        ],
+        [
+          "Speck Magro (Prosciutto dell'Imperatore), Pretzhof",
+          "pezzo da 500 g",
+          "salumi"
+        ],
+        [
+          "Speck di Coscia, Pretzhof",
+          "pezzo da 1 kg",
+          "salumi"
+        ],
+        [
+          "Paccheri Rigati Monograno Senatore Cappelli, Pastificio Felicetti",
+          "confezione da 500 g",
+          "pasta"
+        ],
+        [
+          "Senape alla Contadina, Pretzhof",
+          "confezione da 130 g",
+          "salse"
+        ],
+        [
+          "Acqua Minerale Naturale Surgiva, Naturale",
+          "bottiglia da 50 cl",
+          "bevande"
+        ],
+        [
+          "Acqua Tonica in Confezione da 24, Maso Alto Marzadro",
+          "bottiglia da 0,2 l",
+          "bevande"
+        ]
+      ],
+      "pd": {
+        "V-55-0": {
+          "c": [],
+          "d": {
+            "it": "Il Trento DOC è lo spumante Metodo Classico di montagna del Trentino, a base di Chardonnay e Pinot Nero. Etichetta di Cantina Sociale Trento."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "24,54 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Cantina Sociale Trento"
+        },
+        "V-55-1": {
+          "c": [],
+          "d": {
+            "it": "Il Teroldego è il vitigno rosso simbolo del Trentino, legato alla Piana Rotaliana. Etichetta di De Vigili, annata 2023."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "21,43 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "De Vigili"
+        },
+        "V-55-2": {
+          "c": [],
+          "d": {
+            "it": "Uva: Gewürztraminerr. 15% vol. Note di degustazione: Il colore è giallo paglierino intenso con riflessi dorati. Al naso è aromatico, con note di rosa, litchi, pompelmo, lime, leggere note di scorza d'arancia, chiodi di garofano e cannella. Al palato è pieno, complesso, morbido, di buona freschezza."
+          },
+          "a": {
+            "it": "Temperatura di servizio: 10-12°C. Abbinamenti: Eccezionale durante l'aperitivo, si sposa perfettamente con gamberi di fiume con insalata di arance e finocchi."
+          },
+          "pr": "19,34 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Winzerberg"
+        },
+        "V-55-3": {
+          "c": [],
+          "d": {
+            "it": "Il Lagrein è un vitigno rosso autoctono dell'Alto Adige: dà vini scuri, morbidi e fruttati. Etichetta di Salizzoni, annata 2023."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "18,69 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Salizzoni"
+        },
+        "V-55-4": {
+          "c": [],
+          "d": {
+            "it": "Il Müller Thurgau è un vitigno bianco aromatico che in Trentino-Alto Adige si coltiva in quota. Etichetta di Pojer e Sandri, annata 2024."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "13,90 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Pojer e Sandri"
+        },
+        "V-55-5": {
+          "c": [],
+          "d": {
+            "it": "Il Marzemino è un vitigno rosso tipico della Vallagarina, in Trentino. Etichetta di Salizzoni, annata 2023."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "18,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Salizzoni"
+        },
+        "V-55-6": {
+          "c": [],
+          "d": {
+            "it": "Il Pinot Bianco è uno dei bianchi più diffusi dell'Alto Adige: fresco, delicato e fine. Etichetta di Weingut Ebner, annata 2023."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "20,34 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Weingut Ebner"
+        },
+        "V-55-7": {
+          "c": [],
+          "d": {
+            "it": "Il Sauvignon in Alto Adige dà bianchi aromatici, freschi e sapidi. Etichetta di Guerrieri Gonzaga Tenuta San Leonardo, annata 2025."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "20,90 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Guerrieri Gonzaga Tenuta San Leonardo"
+        },
+        "V-55-8": {
+          "c": [],
+          "d": {
+            "it": "La Schiava, o Vernatsch, è il vitigno rosso tradizionale dell'Alto Adige: dà vini leggeri e di facile beva. Etichetta di Josef Brigl, annata 2021."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "14,36 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Josef Brigl"
+        },
+        "V-55-9": {
+          "c": [],
+          "d": {
+            "it": "La Nosiola è il vitigno bianco autoctono del Trentino. Etichetta di Distilleria Pravis, annata 2025."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "13,54 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Distilleria Pravis"
+        },
+        "V-55-10": {
+          "c": [],
+          "d": {
+            "it": "Il Pinot Grigio in Trentino-Alto Adige dà bianchi freschi e fruttati. Etichetta di Laimburg, annata 2024."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "16,60 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Laimburg"
+        },
+        "V-55-11": {
+          "c": [],
+          "d": {
+            "it": "Il Kerner è un vitigno bianco aromatico coltivato soprattutto in Valle Isarco, in Alto Adige. Etichetta di Nals Margreid, annata 2025."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "14,90 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Nals Margreid"
+        },
+        "V-55-12": {
+          "c": [],
+          "d": {
+            "it": "Il Lagrein è un vitigno rosso autoctono dell'Alto Adige: dà vini scuri, morbidi e fruttati. Etichetta di Bellutti, annata 2023."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "19,28 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Bellutti"
+        },
+        "V-55-13": {
+          "c": [
+            "DOC"
+          ],
+          "d": {
+            "it": "Gradazione: 14,5%. Denominazione: Alto Adige DOC. Vitigni: Gewurztraminer. Temp. di servizio: 10-12°C. Grado alcolico: 14,5%. 0,75 L."
+          },
+          "a": {
+            "it": "Il Gewürztraminer Lafoa è un vino bianco aromatico perfetto per accompagnare piacevoli aperitivi e piatti a base di pesce e crostacei. Un vino bianco altoatesino ideale in abbinamento a formaggi erborinati e da provare con piatti tipici della cucina asiatica."
+          },
+          "pr": "27,50 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Colterenzio (Schreckbichl)"
+        },
+        "V-55-14": {
+          "c": [],
+          "d": {
+            "it": "Cuvée Blanche, Letrari. Uve: Chardonnay. 12,5% vol. Colore giallo paglierino chiaro con riflessi dorati. Al naso una delicata trama floreale di verbena e spicchi di mela verde, con sentori aromatici di cedro e un curioso tocco di alloro. In bocca richiamano toni gustativi di fresca sapidità. Sorprende per l'eleganza di un sorso diretto, preciso, ben integrato nella consueta cremosità."
+          },
+          "a": {
+            "it": "Temperatura di servizio: 6-8 °C. Abbinamenti: Come aperitivo, preparazioni a base di pesce fresco, crostacei e molluschi. Interessante anche in abbinamento ad un buon prosciutto crudo."
+          },
+          "pr": "25,84 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Letrari"
+        },
+        "V-55-15": {
+          "c": [],
+          "d": {
+            "it": "Uva: Gewurztraminer. 14,5% vol. Giallo paglierino intenso, caratterizzato da riflessi dorati. Profumo elegante di petali di rosa, chiodi di garofano e moscato. Il vino è ricco ed equilibrato, dalla trama setosa e minerale."
+          },
+          "a": {
+            "it": "Temperatura di servizio: 10-12°C. Abbinamenti: Come aperitivo e accompagnato con antipasti a base di pesce, in particolare frutti di mare; Abbinamento ideale con piatti speziati creativi e quelli della cucina asiatica."
+          },
+          "pr": "23,22 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Steinhaus"
+        },
+        "V-55-16": {
+          "c": [],
+          "d": {
+            "it": "St. Magdalener, Kössler. Possiede una vasta gamma di aromi di frutta e spicca per la sua pienezza e rotondità al palato. Forma di Allevamento: Pergola. Vinificazione: a temperatura controllata in Inox, dopo la fermentazione malolattica prosegue la sua maturazione in botti grandi di rovere."
+          },
+          "a": {
+            "it": "Abbinamenti Consigliati: in generale tutti i primi piatti, ma ancora di più per speck, salumi, formaggi, piatti tradizionali altoatesini, carne di vitello. Temperatura di Servizio: 12° - 14°c."
+          },
+          "pr": "13,98 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Kössler"
+        },
+        "V-55-17": {
+          "c": [],
+          "d": {
+            "it": "Von Blumen 514 Blauburgunder. Gradazione: 13%. Il Pinot Nero Alto Adige è un vino rosso rubino scarico dal sapore intenso con sentori di sottobosco. Ideale se presentato con piatti a base di carne rossa e formaggi stagionati. Denominazione: Alto Adige DOC. Vitigni: Pinot Nero. Temp. di servizio: 16-18°C. Grado alcolico: 13%. 0,75 L."
+          },
+          "a": {
+            "it": "Abbinamenti: Carni rosse, Formaggi stagionati, Pasta e zuppe."
+          },
+          "pr": "21,36 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Von Blumen"
+        },
+        "V-55-18": {
+          "c": [],
+          "d": {
+            "it": "Alto Adige Valle Isarco Sylvaner. Giacitura: 810 m s.l.m.; pendio esposto a sud, situato sotto il paese di Fiè allo Sciliar, terreno sabbioso ghiaioso con una buona permeabilità all'acqua e forti variazioni di temperatura tra giorno e notte. Sistema di allevamento: Guyot 7.300 viti/ha. Vinificazione: La vendemmia manuale delle uve sylvaner si svolge a fine settembre, inizio ottobre."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "19,26 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Bessererhof"
+        },
+        "V-55-19": {
+          "c": [],
+          "d": {
+            "it": "Gradazione: 12,5%. Trento DOC Brut Riserva. Zona di origine: fascia collinare di Faedo e Pressano a 350 - 500 m di altitudine. Vigneto: il sistema di allevamento è la tradizionale pergola trentina. Ma una potatura corta e povera ed un dirado dei grappoli dimezzano la produzione altrimenti abilitata. Vitigno: 60 % Chardonnay, 40 % Pinot Nero. Vinificazione: in bianco con fermentazione in barrique di parte dello Chardonnay."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "46,66 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Dorigati"
+        },
+        "V-55-20": {
+          "c": [],
+          "d": {
+            "it": "Il Pinot Nero trova in Alto Adige e in Trentino una delle sue zone più vocate in Italia. Etichetta di Weingut Plonerhof, annata 2021."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "43,46 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Weingut Plonerhof"
+        },
+        "V-55-21": {
+          "c": [],
+          "d": {
+            "it": "Grappa Classica Oro, Distilleria Francesco. Ampio e corposo, regala un sorso di grande piacere. Tra le colline che circondano i laghi di Santa Massenza e Toblino, in un'oasi di pace dove il tempo sembra essersi fermato, troviamo l'azienda agricola e distilleria Francesco e Alessandro Poli."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "31,84 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Distilleria Francesco"
+        },
+        "V-55-22": {
+          "c": [],
+          "d": {
+            "it": "Grappa Bianca Tradizione, Distilleria Pravis. Uve: Vinacce da una selezione di diversi vitigni coltivati ​​nella Valle dei Laghi. Gradazione alcolica: 43%. Note di degustazione: Profumo intenso, semplice con notevoli sensazioni di freschezza."
+          },
+          "a": {
+            "it": "Temperatura di servizio: 10ºC."
+          },
+          "pr": "20,94 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Distilleria Pravis"
+        },
+        "V-55-23": {
+          "c": [],
+          "d": {
+            "it": "Gradazione: 18% Vol. Prodotto tipico delle Dolomiti. Diesus è l'amaro del frate. Sia per l'inconfondibile forma della sua bottiglia, che per il tradizionale gusto dell'amaro, tipico dei liquori storicamente prodotti nei conventi. Un amaro tradizionale, frutto dell'infusione in vini pregiati ed erbe aromatiche quali china, genziana e timo."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "109,94 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Amaro Diesus 0.75 Lt."
+        },
+        "V-55-24": {
+          "c": [],
+          "d": {
+            "it": "Gewürztraminer delle Dolomiti: il Gewürztraminer, originario nel sud dell'Alto Adige, è veramente speciale: per alcuni questo vino bianco e corposo è squisito ed entusiasmante, per altri è semplicemente troppo \"floreale\". Come distillato questa varietà di vite aromatica e speziata sfoggia un ricco e complesso bouquet di aromi."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "59,94 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "ZU Plun"
+        },
+        "V-55-25": {
+          "c": [],
+          "d": {
+            "it": "Descrizione: Pregiato cacao e finissimo rum delle Caraibi formano il cuore di questo nobile, cremoso liquore con spiccate note di cioccolato. Per la Germania il Tartuffetto è aquistablie esclusivamente attraverso la ditta Eggers & Franke SRL di Bremen. D'estate forma una raffinata combinazione con il gelato alla vaniglia o cioccolato. Bicchiere consigliato: da Punch, Bombardino."
+          },
+          "a": {
+            "it": "Temperatura di servizio: D'inverno il Tartuffetto si beve caldo con un ciuffetto di panna montata ed un po'di polvere di cacao."
+          },
+          "pr": "210,04 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Distilleria Alfons Walcher"
+        },
+        "V-55-26": {
+          "c": [],
+          "d": {
+            "it": "Forst 1857 è una lager chiara dello storico birrificio altoatesino Forst di Lagundo, che porta nel nome l'anno di fondazione."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "1,80 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Forst"
+        },
+        "V-55-27": {
+          "c": [],
+          "d": {
+            "it": "II Caprea di Capriz è un formaggio da taglio prodotto 100% di Iatte caprino dei masi dell' Alto Adige. Durante Ia sua stagionatura di tre mesi su tavole diabete rosse, viene spazzolato ogni secondo giorno con una soluzione di sale e fermenti. Leggermente aromatico con note di capra, consistenza. burrosa."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "21,60 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Capriz"
+        },
+        "V-55-28": {
+          "c": [],
+          "d": {
+            "it": "Formaggio con crosta arancione, pasta giallo paglierino prodotto dal giovane casaro Stefan Learner nel maso di famiglia a 1.360 m. di altitudine nella località di Nova Ponente, nel cuore delle Dolomiti. Nonostante sia un formaggio a pasta da taglio la cagliata viene rotta a chicchi di riso, procedura che si attua nella produzione di formaggi a pasta dura. Particolarmente intesi gli aromi dei pascoli."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "20,40 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Degust Affineur"
+        },
+        "V-55-29": {
+          "c": [],
+          "d": {
+            "it": "Gusto intatto, senza problemi. Decretato Sapore dell'Anno 2013 da una giuria di consumatori. Da sempre ogni burro Dalla Torre è amato dai consumatori per il colore uniforme, il tipico profumo burroso, il sapore delicato, gradevole e rotondo al palato e la consistenza cremosa e spalmabile. Il Burro Senza Lattosio Dalla Torre hanno in più la certificazione di Sapore dell'Anno per il 2013."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "4,96 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Dalla Torre"
+        },
+        "V-55-30": {
+          "c": [],
+          "d": {
+            "it": "Puzzone di Moena o Spretz Tzaorì. E' un formaggio molto caratteristico, riconoscibile per la crosta umida, ricoperta da una patina untuosa, per il particolare odore acuto e per il sapore inconfondibile. Al taglio si presenta con una pasta piena di colore bianco o paglierino con un'occhiatura sparsa. Si ottiene da latte crudo e viene stagionato minimo 90 giorni fino ad un massimo di 8-10 mesi."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "15,96 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Caseificio Sociale di Predazzo e Moena"
+        },
+        "V-55-31": {
+          "c": [],
+          "d": {
+            "it": "II ZiegiZ Caverna di Capriz e un formaggio da taglio prodotto 100% di Iatte caprino dei masi dell'. Durante Ia sua stagionatura su tavole diabete rosse, viene girato ogni secondo giorno. Al minimo 6 mesi vera stagionato in una grotta naturale e da al formaggio il suo aspetto e il suo. gusto."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "23,90 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Capriz"
+        },
+        "V-55-32": {
+          "c": [],
+          "d": {
+            "it": "Segue una leggera affumicatura a freddo, utilizzando legno di olmo proveniente da foreste locali. Dopo una stagionatura di mesi nella profonda cantina in pietra dell'azienda, il prosciutto è pronto per essere consumato. Il gusto migliore è a fette sottili e servito su pane di segale."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "17,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Pretzhof"
+        },
+        "V-55-33": {
+          "c": [],
+          "d": {
+            "it": "Lo Speck Pretzhof viene stagionato nelle profonde cantine del maso per tanti mesi, senza conservanti ed altre sostanze chimiche. Gli unici ingredienti sono carne di suino, sale marino, spezie ed erbe di montagne, in affumicatura soffice a freddo con legno d'ontano. Tutto inizia dal Maso di Val di Vizze, in Alto Adige a 1300 metri."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "38,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Pretzhof"
+        },
+        "V-55-34": {
+          "c": [],
+          "d": {
+            "it": "Paccheri Rigati Monograno Senatore Cappelli, Pastificio Felicetti. Formato che prende ispirazione dalle classiche Pache Matt, conservandone le caratteristiche distintive."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "3,20 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Pastificio Felicetti"
+        },
+        "V-55-35": {
+          "c": [],
+          "d": {
+            "it": "Senape alla Contadina, Pretzhof. Prodotta secondo l'antica tradizione, si sposa perfettamente con salsicce e prosciutti, come condimento per insalate ed affumicati."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "7,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Pretzhof"
+        },
+        "V-55-36": {
+          "c": [],
+          "d": {
+            "it": "L'acqua scelta dai sommelier. Acqua Minerale Naturale Naturale. È indicata per le diete povere di sodio e per l'alimentazione dell'infanzia."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "8,76 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Surgiva"
+        },
+        "V-55-37": {
+          "c": [],
+          "d": {
+            "it": "Mountain Tonic Water è la bevanda analcolica biologica. Viene prodotto con luppoli, genziana e ginepro. L'idea di questo prodotto è quella di immergersi nei profumi dei boschi, di respirare l'aria delle montagne che ci circondano. Senza coloranti e senza conservanti, una scelta coerente con l'impegno per una produzione più sana e giusta."
+          },
+          "a": {
+            "it": "Da provare con ghiaccio, una scorza di limone del Garda e un rametto di rosmarino selvatico."
+          },
+          "pr": "45,74 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Maso Alto Marzadro"
+        }
+      },
+      "fonti": [
+        "https://www.soloprodottiitaliani.it/",
+        "https://www.soloprodottiitaliani.it/pages/progetto.html",
+        "https://www.soloprodottiitaliani.it/pages/winearchy-il-regno-del-vino.html",
+        "https://www.soloprodottiitaliani.it/catalogo.php?IdRegioni=53"
+      ]
+    },
+    {
+      "id": "V-56",
+      "n": "OIP · Veneto",
+      "cat": "vino",
+      "reg": "Veneto",
+      "city": "Selezione regionale OIP",
+      "lat": 45.44,
+      "lng": 12.316,
+      "y": null,
+      "certs": [
+        "DOP",
+        "DOC",
+        "Bio"
+      ],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "logoBg": "#ffffff",
+      "d": {
+        "it": "Il Veneto è la prima regione vinicola d'Italia per volumi: Amarone e Valpolicella, Soave, Prosecco di Conegliano e Valdobbiadene, accanto a una ricca produzione dolciaria e da forno. Questa vetrina raccoglie la selezione del Veneto di OIP, Only Italian Products: 41 prodotti di 26 produttori, scelti dal catalogo di soloprodottiitaliani.it e divisi per tipologia: vini (14), grappe, liquori e distillati (3), birre (3), formaggi (6), pasta e riso (1), prodotti tipici (6), prodotti da forno, dolci e caffè (5), bevande (3). OIP è una boutique online del cibo e del vino italiano di qualità, con sede e magazzino a Rezzato, in provincia di Brescia, dove si trova anche l'enoteca Winearchy, con oltre 5.000 etichette in negozio. Seleziona fornitori artigianali, ha una sezione dedicata all'Ho.Re.Ca. e un sito disponibile nelle versioni nazionali di 15 Paesi. Il produttore di ogni referenza è indicato nella scheda del prodotto.",
+        "en": "Veneto is Italy's leading wine region by volume: Amarone and Valpolicella, Soave, Prosecco from Conegliano and Valdobbiadene, alongside a rich production of sweets and baked goods. This stand brings together OIP's selection from Veneto: 41 products from 26 producers, chosen from the soloprodottiitaliani.it catalogue and grouped by type: wines (14), grappa, liqueurs and spirits (3), beers (3), cheese (6), pasta and rice (1), regional specialities (6), bakery, sweets and coffee (5), soft drinks (3). OIP, Only Italian Products, is an online boutique for quality Italian food and wine, with headquarters and warehouse in Rezzato, near Brescia, where it also runs the Winearchy wine shop, with over 5,000 labels in store. It selects artisan suppliers, has a dedicated Ho.Re.Ca. section and a website available in national versions for 15 countries. The producer of each item is shown on its product sheet.",
+        "de": "Venetien ist nach Menge die erste Weinregion Italiens: Amarone und Valpolicella, Soave, Prosecco aus Conegliano und Valdobbiadene, dazu eine reiche Produktion von Süß- und Backwaren. Dieser Stand zeigt die Auswahl von OIP aus Venetien: 41 Produkte von 26 Herstellern, ausgewählt aus dem Katalog von soloprodottiitaliani.it und nach Produktart gegliedert: Weine (14), Grappa, Liköre und Spirituosen (3), Biere (3), Käse (6), Pasta und Reis (1), Regionale Spezialitäten (6), Backwaren, Süßes und Kaffee (5), Getränke (3). OIP, Only Italian Products, ist eine Online-Boutique für hochwertige italienische Lebensmittel und Weine mit Sitz und Lager in Rezzato bei Brescia, wo sich auch die Vinothek Winearchy mit über 5.000 Etiketten im Geschäft befindet. OIP wählt handwerkliche Lieferanten aus, hat einen eigenen Ho.Re.Ca.-Bereich und eine Website in Länderversionen für 15 Länder. Der Hersteller jedes Artikels ist im Produktblatt angegeben."
+      },
+      "sub": [
+        {
+          "k": "vini",
+          "cat": "vino",
+          "n": {
+            "it": "Vini",
+            "en": "Wines",
+            "de": "Weine"
+          }
+        },
+        {
+          "k": "spirits",
+          "cat": "liquori",
+          "n": {
+            "it": "Grappe, liquori e distillati",
+            "en": "Grappa, liqueurs and spirits",
+            "de": "Grappa, Liköre und Spirituosen"
+          }
+        },
+        {
+          "k": "birre",
+          "cat": "misti",
+          "n": {
+            "it": "Birre",
+            "en": "Beers",
+            "de": "Biere"
+          }
+        },
+        {
+          "k": "formaggi",
+          "cat": "formaggi",
+          "n": {
+            "it": "Formaggi",
+            "en": "Cheese",
+            "de": "Käse"
+          }
+        },
+        {
+          "k": "pasta",
+          "cat": "pasta",
+          "n": {
+            "it": "Pasta e riso",
+            "en": "Pasta and rice",
+            "de": "Pasta und Reis"
+          }
+        },
+        {
+          "k": "tipici",
+          "cat": "misti",
+          "n": {
+            "it": "Prodotti tipici",
+            "en": "Regional specialities",
+            "de": "Regionale Spezialitäten"
+          }
+        },
+        {
+          "k": "forno",
+          "cat": "dolci",
+          "n": {
+            "it": "Prodotti da forno, dolci e caffè",
+            "en": "Bakery, sweets and coffee",
+            "de": "Backwaren, Süßes und Kaffee"
+          }
+        },
+        {
+          "k": "bevande",
+          "cat": "misti",
+          "n": {
+            "it": "Bevande",
+            "en": "Soft drinks",
+            "de": "Getränke"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Amarone della Valpolicella Riserva, Musella",
+          "bottiglia da 0,75 l, annata 2018",
+          "vini"
+        ],
+        [
+          "Marchesa MariaBella Valpolicella Ripasso, Massimago",
+          "bottiglia da 0,75 l, annata 2023",
+          "vini"
+        ],
+        [
+          "Tenuta Sant'Antonio Vecchie Vigne Soave",
+          "bottiglia da 0,75 l, annata 2019",
+          "vini"
+        ],
+        [
+          "Prosecco di Treviso Extra Dry, De Faveri",
+          "bottiglia da 0,75 l",
+          "vini"
+        ],
+        [
+          "La Primavera di Barbara Valdobbiadene Prosecco Superiore, Merotto",
+          "bottiglia da 0,75 l, annata 2023",
+          "vini"
+        ],
+        [
+          "Recioto della Valpolicella Classico, Vigneti di Ettore",
+          "bottiglia da 0,75 l, annata 2020",
+          "vini"
+        ],
+        [
+          "Chiaretto Bardolino Rosato, Tommasi",
+          "bottiglia da 0,75 l, annata 2024",
+          "vini"
+        ],
+        [
+          "Custoza, Albino Piona",
+          "bottiglia da 0,75 l, annata 2024",
+          "vini"
+        ],
+        [
+          "Prà Morandina Valpolicella",
+          "bottiglia da 0,75 l, annata 2024",
+          "vini"
+        ],
+        [
+          "Raboso, Serenissima",
+          "bottiglia da 0,75 l, annata 2022",
+          "vini"
+        ],
+        [
+          "Lessini Durello Riserva Amedeo Pas Dosé, Ca' Rugate",
+          "bottiglia da 0,75 l, annata 2018",
+          "vini"
+        ],
+        [
+          "Cartizze Dry, Ruggeri",
+          "bottiglia da 0,75 l",
+          "vini"
+        ],
+        [
+          "Brol Grande Bardolino Classico, LE Fraghe",
+          "bottiglia da 0,75 l, annata 2021",
+          "vini"
+        ],
+        [
+          "Bianco di Custoza, Recchia",
+          "bottiglia da 0,75 l, annata 2020",
+          "vini"
+        ],
+        [
+          "Grappa 903 Barrique Maschio, Bonaventura Maschio",
+          "bottiglia da 0,7 l",
+          "spirits"
+        ],
+        [
+          "Grappa da Ponte Vecchia",
+          "bottiglia da 0,7 l",
+          "spirits"
+        ],
+        [
+          "Cynar",
+          "bottiglia da 1 l",
+          "spirits"
+        ],
+        [
+          "Curmi, 32 Via dei Birrai",
+          "",
+          "birre"
+        ],
+        [
+          "Audace, 32 Via dei Birrai",
+          "",
+          "birre"
+        ],
+        [
+          "Oppale, 32 Via dei Birrai",
+          "",
+          "birre"
+        ],
+        [
+          "Asiago Fresco DOP",
+          "pezzo da 500 g",
+          "formaggi"
+        ],
+        [
+          "Latte Intero, Consorzio Monte Veronese",
+          "pezzo da 500 g",
+          "formaggi"
+        ],
+        [
+          "Piave DOP Vecchio Selezione Oro, Lattebusche",
+          "pezzo da 500 g",
+          "formaggi"
+        ],
+        [
+          "Asiago Stagionato DOP",
+          "pezzo da 500 g",
+          "formaggi"
+        ],
+        [
+          "Monte Veronese, Consorzio Monte Veronese",
+          "pezzo da 500 g",
+          "formaggi"
+        ],
+        [
+          "Monte Veronese formaggio di Malga, Consorzio Monte Veronese",
+          "forma da 1 kg",
+          "formaggi"
+        ],
+        [
+          "Strozzapreti di Kamut Biologico, Dalla Costa Alimentare srl",
+          "confezione da 500 g",
+          "pasta"
+        ],
+        [
+          "Brodo granulare vegetale bio senza glutammato",
+          "confezione da 150 g",
+          "tipici"
+        ],
+        [
+          "Giardiniera, Corradi Azienda Agricola",
+          "confezione da 540 g",
+          "tipici"
+        ],
+        [
+          "Cipolle in Agrodolce, Corradi Azienda Agricola",
+          "confezione da 280 g",
+          "tipici"
+        ],
+        [
+          "Puntarelle Sott'Olio, Corradi Azienda Agricola",
+          "confezione da 265 g",
+          "tipici"
+        ],
+        [
+          "Confettura di Fichi Extra, Corradi Azienda Agricola",
+          "confezione da 240 g",
+          "tipici"
+        ],
+        [
+          "Confettura Mela e Cannella, Corradi Azienda Agricola",
+          "confezione da 240 g",
+          "tipici"
+        ],
+        [
+          "Bauletto Albicocca e Caramello, Gustificio",
+          "confezione da 350 g",
+          "forno"
+        ],
+        [
+          "Torta di Rose, Infermentum",
+          "confezione da 650 g",
+          "forno"
+        ],
+        [
+          "Bauletto Classico, Infermentum",
+          "confezione da 350 g",
+          "forno"
+        ],
+        [
+          "Biscotto Gocciolato, Infermentum",
+          "",
+          "forno"
+        ],
+        [
+          "Bauletto Cookies ai 3 cioccolati Valrhonas, Gustificio",
+          "confezione da 350 g",
+          "forno"
+        ],
+        [
+          "Maraschino Luxardo Originale 32°",
+          "bottiglia da 0,7 l",
+          "bevande"
+        ],
+        [
+          "Bellini Canella Classico",
+          "",
+          "bevande"
+        ],
+        [
+          "Rossini Canella",
+          "",
+          "bevande"
+        ]
+      ],
+      "pd": {
+        "V-56-0": {
+          "c": [],
+          "d": {
+            "it": "Amarone della Valpolicella Riserva, Musella. Primo anno di produzione: 1993. - Vitigno: Corvina e Corvinone 70%, Rondinella 20%, Oseleta 10%. - Collocazione geografica: Nord-est di Verona, nella collina che divide Montorio dalla Valle d'Illasi. - Estensione: 27 ettari vitati di nuovo impianto a spalliera. - Data di impianto: Dal 1960 al 2001. - Composizione del terreno: Calcareo con prevalenza di argilla rossa ferrosa nei vigneti Il Perlar e Palazzina."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "55,85 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Musella"
+        },
+        "V-56-1": {
+          "c": [],
+          "d": {
+            "it": "Il Valpolicella Ripasso è un rosso DOC rifermentato sulle vinacce dell'Amarone o del Recioto. Etichetta di Massimago, annata 2023."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "20,60 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Massimago"
+        },
+        "V-56-2": {
+          "c": [],
+          "d": {
+            "it": "Il Soave è un bianco DOC della provincia di Verona, a base di uve Garganega."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "18,44 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          }
+        },
+        "V-56-3": {
+          "c": [
+            "DOC"
+          ],
+          "d": {
+            "it": "Il Prosecco è uno spumante da uve Glera prodotto tra Veneto e Friuli-Venezia Giulia. Etichetta di De Faveri."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "11,80 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "De Faveri"
+        },
+        "V-56-4": {
+          "c": [],
+          "d": {
+            "it": "Gradazione: 11,5%. La Primavera di Barbara. Valdobbiadene Prosecco Superiore DOCG. In un piccolo e selezionato vigneto di Col San Martino si vendemmiano le uve per questo apprezzato spumante. Caratteristiche Tecnico-identificative. Zona di produzione: vigneti di Col San Martino. Vitigni: 90% Glera, 10% Perera. Vinificazione: vinificazione in bianco, spremitura soffice e fermentazione in purezza a temperatura controllata."
+          },
+          "a": {
+            "it": "Temperatura di servizio: 5 - 7°C."
+          },
+          "pr": "16,38 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Merotto"
+        },
+        "V-56-5": {
+          "c": [],
+          "d": {
+            "it": "Il Recioto è un vino dolce veneto ottenuto da uve appassite. Etichetta di Vigneti di Ettore, annata 2020."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "37,70 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Vigneti di Ettore"
+        },
+        "V-56-6": {
+          "c": [],
+          "d": {
+            "it": "Il Bardolino è un rosso DOC leggero della sponda veronese del lago di Garda, a base di Corvina e Rondinella. Etichetta di Tommasi, annata 2024."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "8,88 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Tommasi"
+        },
+        "V-56-7": {
+          "c": [],
+          "d": {
+            "it": "Il Custoza è un bianco DOC delle colline a sud del lago di Garda, in provincia di Verona. Etichetta di Albino Piona, annata 2024."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "9,35 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Albino Piona"
+        },
+        "V-56-8": {
+          "c": [
+            "DOC"
+          ],
+          "d": {
+            "it": "Il Valpolicella è un rosso DOC della provincia di Verona, a base di Corvina, Corvinone e Rondinella."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "15,80 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          }
+        },
+        "V-56-9": {
+          "c": [],
+          "d": {
+            "it": "Il Raboso è un vitigno rosso autoctono della pianura del Piave, ricco di acidità e tannini. Etichetta di Serenissima, annata 2022."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "7,38 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Serenissima"
+        },
+        "V-56-10": {
+          "c": [],
+          "d": {
+            "it": "La Durella è un vitigno bianco dei Monti Lessini, usato soprattutto per spumanti. Etichetta di Ca' Rugate, annata 2018."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "34,56 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Ca' Rugate"
+        },
+        "V-56-11": {
+          "c": [],
+          "d": {
+            "it": "Il Cartizze è la sottozona più pregiata del Valdobbiadene Prosecco Superiore DOCG. Etichetta di Ruggeri."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "23,98 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Ruggeri"
+        },
+        "V-56-12": {
+          "c": [
+            "DOC"
+          ],
+          "d": {
+            "it": "Gradazione: gradazione 12%. Veneto, Comune di Affi, vigneto Brol Grande. ETÀ dei Vigneti. 15 anni. Esposizione E Altimetria. Resa per Ettaro. 90 q.li/Ha. Densità D'impianto. 5000 ceppi/Ha. Riedel serie Overture: Red Wine 408/00. Le due uve, Corvina e Rondinella, vengono vinificate separatamente. La macerazione dura in media 7-8 giorni, ovvero non viene protratta oltre la fine della fermentazione alcolica."
+          },
+          "a": {
+            "it": "Temperatura di Servizio. 15 °C."
+          },
+          "pr": "22,35 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "LE Fraghe"
+        },
+        "V-56-13": {
+          "c": [],
+          "d": {
+            "it": "Gradazione: 12%. Giovane e fresco, sapido, con note floreali e fruttate, il Custoza è il bianco secco della linea gardesana di Recchia Vini: vini semplici, piacevoli e di grado alcolico moderato. Molto apprezzato su antipasti e primi di pesce, ama l'accostamento con le verdure e le frittate leggere. Un interessante e affidabile compagno di viaggio. Giallo paglierino con riflessi verdolini."
+          },
+          "a": {
+            "it": "Ottimo come aperitivo, ideale per antipasti a base di pesce, crostacei e molluschi, minestre saporite, risotti, piatti di pesce della grande cucina. 12%vol. 750ml."
+          },
+          "pr": "7,96 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Recchia"
+        },
+        "V-56-14": {
+          "c": [],
+          "d": {
+            "it": "Gradazione: 40%. Dedicata a Bonaventura Maschio, fondatore dell'Azienda di Gaiarine, nato nel 1903, le cui ricerche e il cui lavoro hanno costituito una pietra miliare nel campo dell'attività distillatoria. Il suo metodo viene qui riproposto, secondo un perfetto equilibrio tra acquaviti di vinacce diverse, distillate separatamente in esclusivi alambicchi di rame e poi riunite in proporzione ideale."
+          },
+          "a": {
+            "it": "La Grappa 903 barrique è ideale per chi predilige la grappa affinata in legno, intensa e raffinata.."
+          },
+          "pr": "23,86 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Bonaventura Maschio"
+        },
+        "V-56-15": {
+          "c": [],
+          "d": {
+            "it": "Dalle nobili colline di Conegliano e di Valdobbiadene nascono i più selezionati vitigni di prosecco. Dalle vinacce di questi prestigiosi vitigni nasce la Vecchia Grappa di Prosecco."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "32,03 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Da Ponte"
+        },
+        "V-56-16": {
+          "c": [],
+          "d": {
+            "it": "Cynar è un amaro a base di carciofo. Il suo gusto inconfondibile viene arricchito da un infuso di 13 erbe e piante, che lo rendono un prodotto naturale, ricco di profumi e capace di conservare inalterate tutte le proprietà salutari degli ingredienti utilizzati nella."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "18,94 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Cynar"
+        },
+        "V-56-17": {
+          "c": [],
+          "d": {
+            "it": "Curmi, 32 Via dei Birrai. Birra speziata ottenuta con farro e malto d'orzo, di alta fermentazione e rifermentata in bottiglia. Aspetto: schiuma bianca, compatta, sottile e persistente. Colore giallo paglierino con riflessi ramati, libero da solidi in sospensione ma velato da lievito; perlage fine. Bouquet: sentori floreali e di frutta esotica, con una lieve acidità citrica e note di paglia, fieno e mollica."
+          },
+          "a": {
+            "it": "Abbinamento suggerito: pinzimonio, cibi delicati senza salse grasse come pesce o carne bianca, formaggi freschi a pasta molle, torta margherita."
+          },
+          "pr": "12,15 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "32 Via dei Birrai"
+        },
+        "V-56-18": {
+          "c": [],
+          "d": {
+            "it": "Audace, 32 Via dei Birrai. Birra bionda forte doppio malto speziata, di alta fermentazione e rifermentata in bottiglia. Aspetto: schiuma bianca, compatta, sottile e persistente; colore giallo paglierino, libero da solidi in sospensione ma talvolta velato da lievito; perlage fine. Bouquet: note agrumate, fiori gialli caldi (tarassaco, camomilla), mandorla e pesca sciroppata."
+          },
+          "a": {
+            "it": "Abbinamento suggerito: cibi senza salse grasse ma sostanziosi, affumicati come gli sfilacci di cavallo, o salati come montasio stravecchio e ostriche, in quanto birra poco luppolata."
+          },
+          "pr": "12,26 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "32 Via dei Birrai"
+        },
+        "V-56-19": {
+          "c": [],
+          "d": {
+            "it": "Oppale, 32 Via dei Birrai. Birra chiara molto luppolata, di alta fermentazione e rifermentata in bottiglia. Aspetto: schiuma bianca, compatta, sottile e persistente; colore chiaro con riflessi ramati, libero da solidi in sospensione, ma talvolta velato da lievito; perlage fine. Bouquet: note di caramello e toffee con sentori erbacei e fruttati di ananas maturo."
+          },
+          "a": {
+            "it": "Abbinamento suggerito: cibi grassi e sostanziosi."
+          },
+          "pr": "12,15 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "32 Via dei Birrai"
+        },
+        "V-56-20": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "L'Asiago Fresco, delicato e dolce, è prodotto con latte intero. È commercializzabile dal ventesimo giorno della produzione e la freschezza è una sua caratteristica fondamentale. lo Riconosci Alla Vista. Il colore è bianco o paglierino. L'occhiatura è marcata ed irregolare. Tra le dita è morbido come pan di Spagna. Non è adesivo né untuoso ma morbido ed elastico. lo Riconosci All'olfatto."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "10,58 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Asiago"
+        },
+        "V-56-21": {
+          "c": [],
+          "d": {
+            "it": "Formaggio a pasta semicotta, prodotto esclusivamente con latte vaccino, crudo o pastorizzato. La stagionatura varia da 25 a 60 giorni. Ha forma cilindrica, pesa da 7 a 10 kg; lo scalzo varia da 7 a 11 cm e il diametro delle facce da 25 a 35 cm. La crosta è elastica, la pasta di colore bianco o leggermente paglierino in inverno e paglierino-giallo d'estate, con occhiatura irregolare più o meno diffusa."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "14,96 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Consorzio Monte Veronese"
+        },
+        "V-56-22": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "Piave DOP Vecchio Selezione Oro, Lattebusche. Stagionatura garantiti almeno12 mesi. Consistenza pasta dura compatta e granulosa. Sapore robusto, ma allo stesso tempo amabile e dolce. Suggerimenti ottimo formaggio da grattugia grazie alle sue caratteristiche che permettono di esaltare il sapore di ogni portata. Valori nutrizionali medi su 100 grammi di prodotto."
+          },
+          "a": {
+            "it": "Eccellente da gustare in abbinamento con noci e pere, accompagnato con un vino Malvasia passito."
+          },
+          "pr": "14,96 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Lattebusche"
+        },
+        "V-56-23": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "L'Asiago Stagionato si ottiene con latte parzialmente scremato. A gusto deciso e variamente saporito a seconda dell'invecchiamento (da 3 a 12 mesi e oltre). lo Riconosci Alla Vista. Il colore è paglierino o leggermente paglierino. L'occhiatura è di piccola o media grandezza (inferiore a 1 cm). Tra le dita è compatto, ma morbido nella struttura. Proseguendo nella stagionatura diventa duro come un formaggio da grattugia."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "10,96 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Asiago"
+        },
+        "V-56-24": {
+          "c": [],
+          "d": {
+            "it": "Monte Veronese, Consorzio Monte Veronese. Formaggio a pasta semicotta, prodotto esclusivamente con latte vaccino, parzialmente scremato. La stagionatura varia da 3 a 6 mesi. Ha forma cilindrica, pesa da 6 a 9 kg; con scalzo leggermente convesso, da 6 a 10 cm, e facce quasi piane; il diametro delle facce varia da 25 a 35 cm."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "16,96 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Consorzio Monte Veronese"
+        },
+        "V-56-25": {
+          "c": [],
+          "d": {
+            "it": "Il Monte Veronese è un formaggio italiano a denominazione di origine protetta, tipico della regione del Veneto. La zona di provenienza del latte, della sua trasformazione e della stagionatura del formaggio è situata nella parte settentrionale della provincia di Verona."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "31,96 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Consorzio Monte Veronese"
+        },
+        "V-56-26": {
+          "c": [
+            "Bio"
+          ],
+          "d": {
+            "it": "Dalla Costa - Strozzapreti di Kamut Biologico. Biologica, la pasta che rispetta l'uomo e l'ambiente. Una linea di paste biologiche tradizionali, trafilate al bronzo, prodotte con grani antichi come il Senatore Cappelli ed il Kamut®, coltivati secondo i principi dell'agricoltura biologica per soddisfare chi è attento al valore della natura."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "5,44 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Dalla Costa Alimentare srl"
+        },
+        "V-56-27": {
+          "c": [
+            "Bio"
+          ],
+          "d": {
+            "it": "Brodo Granulare - gusto Vegetale - da Agricoltura Biologica. Brodo speciale di alta qualità, ricco di verdure, dal sapore pieno e gradevole. 100% vegetale. Non contiene grassi animali ed idrogenati. Senza glutammato monosodico. Privo di ingredienti contenenti glutine e OGM."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "6,39 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Well"
+        },
+        "V-56-28": {
+          "c": [],
+          "d": {
+            "it": "Giardiniera, Corradi Azienda Agricola. Un delizioso mix di verdure garantite dalla filiera e lavorate in modo artigianale e attento alla qualità: tutte le verdure vengono tagliate, lavorate e invasate a mano."
+          },
+          "a": {
+            "it": "La giardiniera in agrodolce è croccante e delicata: ideale per accompagnare affettati e salumi, carni in umido, arrosto o grigliate ma anche per semplici aperitivi all'insegna della naturalezza."
+          },
+          "pr": "13,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Corradi Azienda Agricola"
+        },
+        "V-56-29": {
+          "c": [],
+          "d": {
+            "it": "Le cipolle fresche vengono lavorate in modo artigianale a poche ore dalla raccolta per darvi un prodotto genuino e sano, completamente privo di conservanti. Le cipolle viola in agrodolce sono ideali per farcire hamburger, accompagnare bolliti o per sfiziosi aperitivi."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "9,50 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Corradi Azienda Agricola"
+        },
+        "V-56-30": {
+          "c": [],
+          "d": {
+            "it": "Le puntarelle vengono defogliate manualmente per ottenere i germogli di questo ortaggio: vengono poi lavorati e invasati esclusivamente a mano, per ottenere questo meraviglioso sott'olio, fatto con pochi semplici ingredienti senza l'aggiunta di spezie o aromi artificiali."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "11,50 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Corradi Azienda Agricola"
+        },
+        "V-56-31": {
+          "c": [],
+          "d": {
+            "it": "Solo tanti fichi freschi e un po' di zucchero canna: il segreto della bontà della confettura di fichi è nella genuinità della materia prima e nella lavorazione artigianale."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "6,90 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Corradi Azienda Agricola"
+        },
+        "V-56-32": {
+          "c": [],
+          "d": {
+            "it": "Tutta la freschezza delle mele da noi coltivate, unite alla nota speziata della cannella, per una confettura che sa di tradizione e conquista al primo assaggio."
+          },
+          "a": {
+            "it": "Perfetta sul pane caldo, è anche l'ingrediente perfetto per dolci dal sapore invernale o freschi brunch in tutte le stagioni dell'anno."
+          },
+          "pr": "5,50 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Corradi Azienda Agricola"
+        },
+        "V-56-33": {
+          "c": [],
+          "d": {
+            "it": "Dolce, Caldo, Impossibile da Ignorare. L'abbinamento dell'albicocca Pellecchiella del Vesuvio e il caramello Dulcey è un'intuizione che capisci solo dopo il primo assaggio."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "15,21 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Gustificio"
+        },
+        "V-56-34": {
+          "c": [],
+          "d": {
+            "it": "Infermentum interpreta la Torta di Rose, dolce tipico mantovano, amato anche nella Verona. L'incontro del lievito madre con la morbidezza del burro e la granulosità dello zucchero dona leggerezza ad un impasto profumato di arancia e vaniglia. La Torta di Rose trova la sua massima espressione di bontà nell' essere servita calda, come appena sfornata, con una crosticina croccante e un cuore soffice e delicato."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "29,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Infermentum"
+        },
+        "V-56-35": {
+          "c": [],
+          "d": {
+            "it": "Per valorizzare la bontà del soffice impasto abbiamo sfornato un Bauletto con pochi."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "13,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Infermentum"
+        },
+        "V-56-36": {
+          "c": [],
+          "d": {
+            "it": "Può mancare in casa un sacchettino di biscotti al cioccolato? Croccanti e friabili, con il piacere morbido e vellutato delle gocce di cioccolato fondente che arricchiscono l'impasto. Perfetti per la merenda dei bambini e il caffè o il tè degli adulti, saranno di certo un regalo apprezzato per i propri ospiti."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "7,30 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Infermentum"
+        },
+        "V-56-37": {
+          "c": [],
+          "d": {
+            "it": "Tre Cioccolati, Un Impasto. Il Bauletto Che Non Smetti Mai di Affettare. Latte equatoriale, noir Guanaja, Dulcey caramello: tre anime Valrhona in un impasto solo."
+          },
+          "a": {
+            "it": "Perfetto per la colazione, onestamente anche per le undici di sera."
+          },
+          "mk": "Gustificio"
+        },
+        "V-56-38": {
+          "c": [],
+          "d": {
+            "it": "È ancor oggi prodotto secondo la speciale formula creata da Girolamo Luxardo nel 1821. Distillato dalle marasche delle piantagioni Luxardo, invecchiato a lungo in speciali tini di frassino finlandese, ed imbottigliato con le più moderne tecniche, il Maraschino Luxardo è una specialità italiana che da oltre 185 anni è presente in tutti i principali paesi del mondo."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "22,71 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Luxardo"
+        },
+        "V-56-39": {
+          "c": [],
+          "d": {
+            "it": "Il Bellini è un cocktail composto da due parti di spumante, una parte di succo e polpa di pesche bianche selezionate e raccolte a perfetta maturazione, ed alcune gocce di lampone di bosco."
+          },
+          "a": {
+            "it": "Si consiglia di berlo ben freddo (conservare in frigorifero e passare in freezer 15 minuti prima di servirlo) e di non conservarlo a lungo per cogliere al meglio il profumo della pesca."
+          },
+          "pr": "9,55 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Bellini Canella"
+        },
+        "V-56-40": {
+          "c": [],
+          "d": {
+            "it": "Il Rossini è un cocktail classico italiano, nato negli anni 60 dalla unione di buon spumante italiano con succo e polpa di fragole frullate. è un aperitivo che sorprende per il profumo di fragola fresca e per la sua iniziale morbidezza al palato ben bilanciata dalla giusta aciditïà finale. Il suo contenuto alcolico è modesto."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "9,43 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Bellini Canella"
+        }
+      },
+      "fonti": [
+        "https://www.soloprodottiitaliani.it/",
+        "https://www.soloprodottiitaliani.it/pages/progetto.html",
+        "https://www.soloprodottiitaliani.it/pages/winearchy-il-regno-del-vino.html",
+        "https://www.soloprodottiitaliani.it/catalogo.php?IdRegioni=54"
+      ]
+    },
+    {
+      "id": "V-57",
+      "n": "OIP · Friuli-Venezia Giulia",
+      "cat": "vino",
+      "reg": "Friuli-Venezia Giulia",
+      "city": "Selezione regionale OIP",
+      "lat": 45.65,
+      "lng": 13.777,
+      "y": null,
+      "certs": [
+        "DOP"
+      ],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "logoBg": "#ffffff",
+      "d": {
+        "it": "Il Friuli-Venezia Giulia è una delle grandi regioni italiane dei vini bianchi, dal Collio ai Colli Orientali, con vitigni come Friulano, Ribolla Gialla e Malvasia e rossi autoctoni come Refosco e Schioppettino. Questa vetrina raccoglie la selezione del Friuli-Venezia Giulia di OIP, Only Italian Products: 31 prodotti di 22 produttori, scelti dal catalogo di soloprodottiitaliani.it e divisi per tipologia: vini (10), grappe, liquori e distillati (6), birre (2), formaggi (1), salumi (7), prodotti da forno, dolci e caffè (2), bevande (3). OIP è una boutique online del cibo e del vino italiano di qualità, con sede e magazzino a Rezzato, in provincia di Brescia, dove si trova anche l'enoteca Winearchy, con oltre 5.000 etichette in negozio. Seleziona fornitori artigianali, ha una sezione dedicata all'Ho.Re.Ca. e un sito disponibile nelle versioni nazionali di 15 Paesi. Il produttore di ogni referenza è indicato nella scheda del prodotto.",
+        "en": "Friuli-Venezia Giulia is one of Italy's great white wine regions, from Collio to the Colli Orientali, with grapes such as Friulano, Ribolla Gialla and Malvasia and native reds such as Refosco and Schioppettino. This stand brings together OIP's selection from Friuli-Venezia Giulia: 31 products from 22 producers, chosen from the soloprodottiitaliani.it catalogue and grouped by type: wines (10), grappa, liqueurs and spirits (6), beers (2), cheese (1), cured meats (7), bakery, sweets and coffee (2), soft drinks (3). OIP, Only Italian Products, is an online boutique for quality Italian food and wine, with headquarters and warehouse in Rezzato, near Brescia, where it also runs the Winearchy wine shop, with over 5,000 labels in store. It selects artisan suppliers, has a dedicated Ho.Re.Ca. section and a website available in national versions for 15 countries. The producer of each item is shown on its product sheet.",
+        "de": "Friaul-Julisch Venetien ist eine der großen Weißweinregionen Italiens, vom Collio bis zu den Colli Orientali, mit Rebsorten wie Friulano, Ribolla Gialla und Malvasia und autochthonen Rotweinen wie Refosco und Schioppettino. Dieser Stand zeigt die Auswahl von OIP aus Friaul-Julisch Venetien: 31 Produkte von 22 Herstellern, ausgewählt aus dem Katalog von soloprodottiitaliani.it und nach Produktart gegliedert: Weine (10), Grappa, Liköre und Spirituosen (6), Biere (2), Käse (1), Wurst und Schinken (7), Backwaren, Süßes und Kaffee (2), Getränke (3). OIP, Only Italian Products, ist eine Online-Boutique für hochwertige italienische Lebensmittel und Weine mit Sitz und Lager in Rezzato bei Brescia, wo sich auch die Vinothek Winearchy mit über 5.000 Etiketten im Geschäft befindet. OIP wählt handwerkliche Lieferanten aus, hat einen eigenen Ho.Re.Ca.-Bereich und eine Website in Länderversionen für 15 Länder. Der Hersteller jedes Artikels ist im Produktblatt angegeben."
+      },
+      "sub": [
+        {
+          "k": "vini",
+          "cat": "vino",
+          "n": {
+            "it": "Vini",
+            "en": "Wines",
+            "de": "Weine"
+          }
+        },
+        {
+          "k": "spirits",
+          "cat": "liquori",
+          "n": {
+            "it": "Grappe, liquori e distillati",
+            "en": "Grappa, liqueurs and spirits",
+            "de": "Grappa, Liköre und Spirituosen"
+          }
+        },
+        {
+          "k": "birre",
+          "cat": "misti",
+          "n": {
+            "it": "Birre",
+            "en": "Beers",
+            "de": "Biere"
+          }
+        },
+        {
+          "k": "formaggi",
+          "cat": "formaggi",
+          "n": {
+            "it": "Formaggi",
+            "en": "Cheese",
+            "de": "Käse"
+          }
+        },
+        {
+          "k": "salumi",
+          "cat": "salumi",
+          "n": {
+            "it": "Salumi",
+            "en": "Cured meats",
+            "de": "Wurst und Schinken"
+          }
+        },
+        {
+          "k": "forno",
+          "cat": "dolci",
+          "n": {
+            "it": "Prodotti da forno, dolci e caffè",
+            "en": "Bakery, sweets and coffee",
+            "de": "Backwaren, Süßes und Kaffee"
+          }
+        },
+        {
+          "k": "bevande",
+          "cat": "misti",
+          "n": {
+            "it": "Bevande",
+            "en": "Soft drinks",
+            "de": "Getränke"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Col Livius Friulano, La Tunella",
+          "bottiglia da 0,75 l, annata 2017",
+          "vini"
+        ],
+        [
+          "Ribolla Gialla 8250, Alturis",
+          "bottiglia da 0,75 l",
+          "vini"
+        ],
+        [
+          "Pinot Grigio Metodo Tradizionale, Simon di Brazzan",
+          "bottiglia da 0,75 l, annata 2023",
+          "vini"
+        ],
+        [
+          "Rosé Refosco dal Peduncolo Rosso Dodon, Denis Montanar",
+          "bottiglia da 0,75 l, annata 2023",
+          "vini"
+        ],
+        [
+          "Fco Schioppettino, Le Due Terre",
+          "bottiglia da 0,75 l, annata 2021",
+          "vini"
+        ],
+        [
+          "Picolit, Rocca Bernarda",
+          "bottiglia da 0,5 l, annata 2020",
+          "vini"
+        ],
+        [
+          "Rosazzo Bianco (Friulano, Sauvignon, Chardonnay), Ronco delle Betulle",
+          "bottiglia da 0,75 l, annata 2019",
+          "vini"
+        ],
+        [
+          "Merlot Borgo Tesis, Fantinel",
+          "bottiglia da 0,75 l, annata 2022",
+          "vini"
+        ],
+        [
+          "Isonzo del Friuli Sauvignon, Mandi",
+          "bottiglia da 0,75 l, annata 2024",
+          "vini"
+        ],
+        [
+          "Malvasia, Pascolo",
+          "bottiglia da 0,75 l, annata 2022",
+          "vini"
+        ],
+        [
+          "Amaro Tosolini, Bepi Tosolini",
+          "bottiglia da 0,7 l",
+          "spirits"
+        ],
+        [
+          "Grappa Domenis Secolo, Domenis 1898",
+          "bottiglia da 0,5 l",
+          "spirits"
+        ],
+        [
+          "Frut Acquavite Il Pirus Williams, Nonino",
+          "bottiglia da 0,5 l",
+          "spirits"
+        ],
+        [
+          "Grappa Riserva 5 Anni 43°, Nonino",
+          "",
+          "spirits"
+        ],
+        [
+          "Grappa 43° Friulana, Nonino",
+          "bottiglia da 0,7 l",
+          "spirits"
+        ],
+        [
+          "Grappa Friulana alla Ruta, Nonino",
+          "bottiglia da 0,7 l",
+          "spirits"
+        ],
+        [
+          "Birra Premium senza Glutine, Fabbrica di Pedevana",
+          "bottiglia da 33 cl",
+          "birre"
+        ],
+        [
+          "Birra Ioi bionda di malto d'Orzo senza glutine, Birrificio Gjulia",
+          "",
+          "birre"
+        ],
+        [
+          "Montasio DOP, Consorzio tutela Montasio",
+          "pezzo da 500 g",
+          "formaggi"
+        ],
+        [
+          "Prosciutto San Daniele DOP Disossato Intero, Prosciuttificio Bagatto",
+          "pezzo da 8 kg",
+          "salumi"
+        ],
+        [
+          "Prosciutto di San Daniele 18 mesi disossato, Prosciuttificio Il Camarin",
+          "pezzo da 7,8-8 kg",
+          "salumi"
+        ],
+        [
+          "Musetto, Salumificio Lovison",
+          "pezzo da 500 g",
+          "salumi"
+        ],
+        [
+          "Prosciutto Artigianale a Tranci, Prosciuttificio Il Camarin",
+          "pezzo da 1,6-1,7 kg",
+          "salumi"
+        ],
+        [
+          "Prosciutto Crudo San Daniele 32 Mesi Disossato, Prosciuttificio Il Camarin",
+          "pezzo da 8,2-8,4 kg",
+          "salumi"
+        ],
+        [
+          "Salame, Salumificio Lovison",
+          "pezzo da 750 g",
+          "salumi"
+        ],
+        [
+          "Soppressa 8 mesi stagionatura, Salumificio Lovison",
+          "pezzo da 750 g",
+          "salumi"
+        ],
+        [
+          "Caffè in Cialde E.s.e Intenso 100% Arabica, Illy",
+          "confezione da 18 pezzi",
+          "forno"
+        ],
+        [
+          "Caffè Espresso, Illy",
+          "confezione da 250 g",
+          "forno"
+        ],
+        [
+          "The Great Americano Cocktail, Poli",
+          "bottiglia da 3 l",
+          "bevande"
+        ],
+        [
+          "Kombucha Foglie di fico, Analcolico, Aka",
+          "bottiglia da 0,75 l",
+          "bevande"
+        ],
+        [
+          "Kombucha Genmaicha, Analcolico, Aka",
+          "bottiglia da 0,75 l",
+          "bevande"
+        ]
+      ],
+      "pd": {
+        "V-57-0": {
+          "c": [],
+          "d": {
+            "it": "Il Friulano è il vitigno bianco simbolo del Friuli: dà vini asciutti, con una tipica nota di mandorla. Etichetta di La Tunella, annata 2017."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "19,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "La Tunella"
+        },
+        "V-57-1": {
+          "c": [],
+          "d": {
+            "it": "La Ribolla Gialla è un vitigno bianco autoctono del Friuli, fresco e di buona acidità. Etichetta di Alturis."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "32,12 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Alturis"
+        },
+        "V-57-2": {
+          "c": [],
+          "d": {
+            "it": "Il Pinot Grigio è tra i bianchi più diffusi del Friuli. Etichetta di Simon di Brazzan, annata 2023."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "27,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Simon di Brazzan"
+        },
+        "V-57-3": {
+          "c": [],
+          "d": {
+            "it": "Il Refosco dal Peduncolo Rosso è il vitigno rosso autoctono più noto del Friuli. Etichetta di Denis Montanar, annata 2023."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "26,10 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Denis Montanar"
+        },
+        "V-57-4": {
+          "c": [],
+          "d": {
+            "it": "Lo Schioppettino è un vitigno rosso autoctono dei Colli Orientali del Friuli, speziato e fine. Etichetta di Le Due Terre, annata 2021."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "61,21 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Le Due Terre"
+        },
+        "V-57-5": {
+          "c": [],
+          "d": {
+            "it": "Il Picolit è un raro vino dolce DOCG dei Colli Orientali del Friuli. Etichetta di Rocca Bernarda, annata 2020."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "56,70 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Rocca Bernarda"
+        },
+        "V-57-6": {
+          "c": [],
+          "d": {
+            "it": "Lo Chardonnay è coltivato in tutto il Friuli e dà bianchi freschi o strutturati, a seconda dell'affinamento. Etichetta di Ronco delle Betulle, annata 2019."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "29,94 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Ronco delle Betulle"
+        },
+        "V-57-7": {
+          "c": [],
+          "d": {
+            "it": "Il Merlot è il vitigno rosso più diffuso in Friuli. Etichetta di Fantinel, annata 2022."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "12,40 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Fantinel"
+        },
+        "V-57-8": {
+          "c": [],
+          "d": {
+            "it": "Il Sauvignon trova in Friuli una delle sue zone più vocate in Italia. Etichetta di Mandi, annata 2024."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "9,38 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Mandi"
+        },
+        "V-57-9": {
+          "c": [],
+          "d": {
+            "it": "La Malvasia Istriana è un vitigno bianco coltivato in Friuli, soprattutto sul Carso e nel Collio. Etichetta di Pascolo, annata 2022."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "19,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Pascolo"
+        },
+        "V-57-10": {
+          "c": [],
+          "d": {
+            "it": "Amaro Tosolini, Bepi Tosolini. Gradazione: 30% Vol. Un raffinato liquore dai sapori mediterranei preparato secondo la ricetta del fondatore. Una sapiente miscela di spezie ed erbe in purissimo distillato d'uva. Colore: Bruno intenso con caldi riflessi aranciati. Corpo: Ricco, aromatico e molto intenso. Profilo sensoriale: Equilibrato e complesso, sapore ricco e aromatico. Retrogusto di arancia amara ed un finale con note di spezie mediterranee dolci."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "36,06 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Bepi Tosolini"
+        },
+        "V-57-11": {
+          "c": [],
+          "d": {
+            "it": "Gradazione: 60,0%. Per festeggiare il centenario dell'azienda, una grappa dal carattere importante, fine e equilibrata. Fortemente aromatica eppure rotonda, stupisce per le infinite sensazioni che offre alla degustazione. Certamente da meditazione, lentamente, per lasciarsi pervadere dai mille bouquet al naso e sensazioni in bocca. Grappa giovane: 60% vol. Grappa da vinacce miste."
+          },
+          "a": {
+            "it": "Temperatura di servizio. 18° C."
+          },
+          "pr": "34,94 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Domenis 1898"
+        },
+        "V-57-12": {
+          "c": [],
+          "d": {
+            "it": "Pere Williams della Val Venosta - Alto Adige selezionate, raccolte fresche a giusta maturazione. Gradi. 43% vol. Sottovuoto in tini in acciaio inossidabile a temperatura controllata, seguita immediatamente dalla distillazione per evitare fermentazioni secondarie dannose. Distillazione Artigianale."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "41,94 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Nonino"
+        },
+        "V-57-13": {
+          "c": [],
+          "d": {
+            "it": "Gradazione: 43% Vol. Armoniosa unione di Acquaviti d'Uva Monovitigno® Ribolla, Moscato, Merlot e Malvasia, distilllate separatamente con metodo artigianale e invecchiate oltre 5 anni in barriques e piccole botti. Discontinua con il taglio delle teste e delle code, in particolari esclusivi alambicchi a vapore in rame, creati da Benito Nonino per la distillazione dell'uva, frutto di innovazione e continue ricerche."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "70,44 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Nonino"
+        },
+        "V-57-14": {
+          "c": [],
+          "d": {
+            "it": "Vinacce selezionate delle vigne Friulane. Da sei mesi a un anno in acciaio inossidabile. Tipica, giustamente alcolica, profumo di pane e liquirizia."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "19,74 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Nonino"
+        },
+        "V-57-15": {
+          "c": [],
+          "d": {
+            "it": "Vinacce selezionate delle vigne Friulane, erba ruta - Ruta Graveoleons L. - coltivata biologicamente nell'orto della famiglia Nonino. Da sei mesi a un anno in acciaio inossidabile."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "22,54 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Nonino"
+        },
+        "V-57-16": {
+          "c": [],
+          "d": {
+            "it": "Gradazione: 4,8. Birra Premium senza Glutine. Dal 1897 la tradizione, la passione per la ricerca della qualità e l'esperienza della tradizione birraria sono state tramandate “birra dopo birra” grazie alla sapiente abilità dei mastri birrai."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "3,04 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Fabbrica di Pedevana"
+        },
+        "V-57-17": {
+          "c": [],
+          "d": {
+            "it": "Birra bionda di malto d'orzo senza glutine che deve il suo nome ad un'esclamazione di gioia in lingua friulana. IOI è una birra prodotta esclusivamente con malto d'orzo, che subisce una lavorazione particolare che permette l'estrazione completa del glutine, senza variare il sapore della vera birra artigianale. Birra prodotta con malto di produzione propria."
+          },
+          "a": {
+            "it": "Bionda dal colore giallo carico con riflessi aranciati, al naso giunge con profumo di agrumi, al palato trasmette freschezza e facilità di beva, un abbinamento perfetto per qualsiasi occasione."
+          },
+          "pr": "6,05 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Birrificio Gjulia"
+        },
+        "V-57-18": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "Il Montasio DOP è un formaggio tipico friulano, che deve subire delle procedure rigide, indicate e fatte rispettare dal Consorzio, che ha sede a Codroipo (UD)."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "11,96 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Consorzio tutela Montasio"
+        },
+        "V-57-19": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "La storia del prosciuttificio Bagatto è fatta di tradizione, passione e amore per quel sapore unico che solo il vero prosciutto di San Daniele sa dare. Fondato nel 1957 da Rino Bagatto, uno dei soci fondatori del Consorzio del Prosciutto di San Daniele, l'azienda è oggi gestita dalla terza generazione della famiglia, con il nipote Lorenzo alla guida."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "290,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Prosciuttificio Bagatto"
+        },
+        "V-57-20": {
+          "c": [],
+          "d": {
+            "it": "Il Prosciutto crudo San Daniele il Camarin è frutto di un'attenta selezione, Il Camarin è in grado di offrire una qualità artiginale superiore solo le migliori l prosciuttificio il Camarin è nato con l'ambizione di poter offrire alla clientela più esigente, un prodotto fuori dal comune, un prosciutto di San Daniele DOP di qualità superiore."
+          },
+          "a": {
+            "it": "Conservazione: Il prosciutto disossato una volta aperto si conserva in luogo fresco, in frigorifero (da +4° a + 7°), con un panno umido o pellicola sottile sul taglio."
+          },
+          "pr": "270,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Prosciuttificio Il Camarin"
+        },
+        "V-57-21": {
+          "c": [],
+          "d": {
+            "it": "Musetto Lovison - Il vero gusto della tradizione friulana. Il Musetto Lovison è un simbolo autentico della tradizione friulana. Il Salumificio Lovison è stato il primo a utilizzare il termine Musetto (o Musèt in friulano), portando avanti una lavorazione artigianale tramandata da generazioni. Le carni vengono lavorate a caldo, poche ore dopo la macellazione, per garantire freschezza, aroma e struttura superiore."
+          },
+          "a": {
+            "it": "Perfetto con la polenta, con crauti, puree o come protagonista dei piatti della tradizione invernale."
+          },
+          "pr": "9,84 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Salumificio Lovison"
+        },
+        "V-57-22": {
+          "c": [],
+          "d": {
+            "it": "Il Prosciutto crudo il Camarin è frutto di un'attenta selezione, Il Camarin è in grado di offrire una qualità artigianale superiore solo le migliori l prosciuttificio il Camarin è nato con l'ambizione di poter offrire alla clientela più esigente, un prodotto fuori dal comune, un prosciutto di qualità superiore."
+          },
+          "a": {
+            "it": "Conservazione: Il prosciutto disossato una volta aperto si conserva in luogo fresco, in frigorifero (da +4° a + 7°), con un panno umido o pellicola sottile sul taglio."
+          },
+          "pr": "66,84 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Prosciuttificio Il Camarin"
+        },
+        "V-57-23": {
+          "c": [],
+          "d": {
+            "it": "Il Prosciutto crudo San Daniele il Camarin è frutto di un'attenta selezione, Il Camarin è in grado di offrire una qualità artiginale superiore solo le migliori l prosciuttificio il Camarin è nato con l'ambizione di poter offrire alla clientela più esigente, un prodotto fuori dal comune, un prosciutto di San Daniele DOP di qualità superiore."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "360,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Prosciuttificio Il Camarin"
+        },
+        "V-57-24": {
+          "c": [],
+          "d": {
+            "it": "Salame, Salumificio Lovison. Il salumificio Lovison lavora con passione carni fresche di suino di altissima qualità, provenienti da allevamenti selezionati nel Friuli Venezia Giulia. L'esperienza di quattro generazione e l'amore per le cose ben fatte, sono ingredienti unici che fanno del salumificio Lovison il riferimento dei salumi friuliani."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "17,50 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Salumificio Lovison"
+        },
+        "V-57-25": {
+          "c": [],
+          "d": {
+            "it": "Soppressa 8 mesi stagionatura, Salumificio Lovison. Il salumificio Lovison lavora con passione carni fresche di suino di altissima qualità, provenienti da allevamenti selezionati nel Friuli Venezia Giulia. L'esperienza di quattro generazione e l'amore per le cose ben fatte, sono ingredienti unici che fanno del salumificio Lovison il riferimento dei salumi friulani."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "17,36 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Salumificio Lovison"
+        },
+        "V-57-26": {
+          "c": [],
+          "d": {
+            "it": "L'unico blend illy 100% Arabica tostato Intenso ha un'elevata aromaticità, con avvolgenti note di cacao, frutta secca e un retrogusto pieno e corposo."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "6,50 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Illy"
+        },
+        "V-57-27": {
+          "c": [],
+          "d": {
+            "it": "Espresso - Tostatura Media. In equilibrio tra forza e gentilezza. Lascia spazio agli aromi di cioccolato, pan tostato, caramello e leggeri fiori. La forza della sensibilità."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "9,10 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Illy"
+        },
+        "V-57-28": {
+          "c": [],
+          "d": {
+            "it": "L'aperitivo italiano per antonomasia, anche se il nome potrebbe trarre in inganno! Dal caratteristico sapore amaricante, The Great Americano Cocktail è preparato calibrando con maestria il Vermouth Gran Bassano Rosso e il nuovo Bitter Super Taurus delle Poli Distillerie. In un bicchiere colmo di ghiaccio, aggiungi una spruzzata di acqua frizzante e una fettina di arancia: buono come al bar!"
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "78,94 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Poli"
+        },
+        "V-57-29": {
+          "c": [],
+          "d": {
+            "it": "Si percepiscono sentori di mandorla e malto accompagnati da delicate note ossidative tipiche del Tè, il tutto elegantemente armonizzato dalla dolcezza vegetale caratteristica delle foglie di Fico. Infuso di tè nero (38%), Kombucha (acqua, zucchero di canna grezzo, tè nero, tè verde, coltura di Kom- bucha) (26%), infuso di foglie di fico (24%), Tibicos (acqua, zucchero, coltura di tibicos) (12%), lievito."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "22,88 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Aka"
+        },
+        "V-57-30": {
+          "c": [],
+          "d": {
+            "it": "Mentre le foglie di tè verde e il kefir d'acqua donano una setosità unica al palato. Infuso di tè Genmaicha (43%), Kombucha (acqua, zucchero di canna grezzo, tè nero, tè verde, coltura di Kombucha) (26%), infuso di tè nero (19%), Tibicos (acqua, zucchero, coltura di tibicos) (12%), lievito."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "19,88 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Aka"
+        }
+      },
+      "fonti": [
+        "https://www.soloprodottiitaliani.it/",
+        "https://www.soloprodottiitaliani.it/pages/progetto.html",
+        "https://www.soloprodottiitaliani.it/pages/winearchy-il-regno-del-vino.html",
+        "https://www.soloprodottiitaliani.it/catalogo.php?IdRegioni=55"
+      ]
+    },
+    {
+      "id": "V-58",
+      "n": "OIP · Liguria",
+      "cat": "vino",
+      "reg": "Liguria",
+      "city": "Selezione regionale OIP",
+      "lat": 44.407,
+      "lng": 8.934,
+      "y": null,
+      "certs": [
+        "DOC",
+        "Bio"
+      ],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "logoBg": "#ffffff",
+      "d": {
+        "it": "La Liguria è una striscia di terra tra mare e montagna: vigne a terrazze, Vermentino e Pigato, Rossese di Dolceacqua, pesto, olio delicato e focacce. Questa vetrina raccoglie la selezione della Liguria di OIP, Only Italian Products: 22 prodotti di 13 produttori, scelti dal catalogo di soloprodottiitaliani.it e divisi per tipologia: vini (8), grappe, liquori e distillati (1), pasta e riso (3), oli e aceti (1), salse e sughi (5), prodotti tipici (1), bevande (3). OIP è una boutique online del cibo e del vino italiano di qualità, con sede e magazzino a Rezzato, in provincia di Brescia, dove si trova anche l'enoteca Winearchy, con oltre 5.000 etichette in negozio. Seleziona fornitori artigianali, ha una sezione dedicata all'Ho.Re.Ca. e un sito disponibile nelle versioni nazionali di 15 Paesi. Il produttore di ogni referenza è indicato nella scheda del prodotto.",
+        "en": "Liguria is a strip of land between sea and mountains: terraced vineyards, Vermentino and Pigato, Rossese di Dolceacqua, pesto, delicate olive oil and focaccia. This stand brings together OIP's selection from Liguria: 22 products from 13 producers, chosen from the soloprodottiitaliani.it catalogue and grouped by type: wines (8), grappa, liqueurs and spirits (1), pasta and rice (3), oils and vinegars (1), sauces (5), regional specialities (1), soft drinks (3). OIP, Only Italian Products, is an online boutique for quality Italian food and wine, with headquarters and warehouse in Rezzato, near Brescia, where it also runs the Winearchy wine shop, with over 5,000 labels in store. It selects artisan suppliers, has a dedicated Ho.Re.Ca. section and a website available in national versions for 15 countries. The producer of each item is shown on its product sheet.",
+        "de": "Ligurien ist ein Landstreifen zwischen Meer und Bergen: Terrassenweinberge, Vermentino und Pigato, Rossese di Dolceacqua, Pesto, mildes Olivenöl und Focaccia. Dieser Stand zeigt die Auswahl von OIP aus Ligurien: 22 Produkte von 13 Herstellern, ausgewählt aus dem Katalog von soloprodottiitaliani.it und nach Produktart gegliedert: Weine (8), Grappa, Liköre und Spirituosen (1), Pasta und Reis (3), Öle und Essige (1), Saucen und Sughi (5), Regionale Spezialitäten (1), Getränke (3). OIP, Only Italian Products, ist eine Online-Boutique für hochwertige italienische Lebensmittel und Weine mit Sitz und Lager in Rezzato bei Brescia, wo sich auch die Vinothek Winearchy mit über 5.000 Etiketten im Geschäft befindet. OIP wählt handwerkliche Lieferanten aus, hat einen eigenen Ho.Re.Ca.-Bereich und eine Website in Länderversionen für 15 Länder. Der Hersteller jedes Artikels ist im Produktblatt angegeben."
+      },
+      "sub": [
+        {
+          "k": "vini",
+          "cat": "vino",
+          "n": {
+            "it": "Vini",
+            "en": "Wines",
+            "de": "Weine"
+          }
+        },
+        {
+          "k": "spirits",
+          "cat": "liquori",
+          "n": {
+            "it": "Grappe, liquori e distillati",
+            "en": "Grappa, liqueurs and spirits",
+            "de": "Grappa, Liköre und Spirituosen"
+          }
+        },
+        {
+          "k": "pasta",
+          "cat": "pasta",
+          "n": {
+            "it": "Pasta e riso",
+            "en": "Pasta and rice",
+            "de": "Pasta und Reis"
+          }
+        },
+        {
+          "k": "olio",
+          "cat": "olio",
+          "n": {
+            "it": "Oli e aceti",
+            "en": "Oils and vinegars",
+            "de": "Öle und Essige"
+          }
+        },
+        {
+          "k": "salse",
+          "cat": "conserve",
+          "n": {
+            "it": "Salse e sughi",
+            "en": "Sauces",
+            "de": "Saucen und Sughi"
+          }
+        },
+        {
+          "k": "tipici",
+          "cat": "misti",
+          "n": {
+            "it": "Prodotti tipici",
+            "en": "Regional specialities",
+            "de": "Regionale Spezialitäten"
+          }
+        },
+        {
+          "k": "bevande",
+          "cat": "misti",
+          "n": {
+            "it": "Bevande",
+            "en": "Soft drinks",
+            "de": "Getränke"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Luvaira Rossese di Dolceacqua, Maccario Dringenberg",
+          "bottiglia da 0,75 l, annata 2024",
+          "vini"
+        ],
+        [
+          "Cinque Terre Bianco, Possa",
+          "bottiglia da 0,75 l, annata 2024",
+          "vini"
+        ],
+        [
+          "Sciacchetrà, LA Polenza",
+          "bottiglia da 0,375 l",
+          "vini"
+        ],
+        [
+          "Ormeasco di Pornassio, Calleri",
+          "bottiglia da 0,75 l, annata 2021",
+          "vini"
+        ],
+        [
+          "Shalok Granaccia Riviera Ligure di Ponente, Gorleri",
+          "bottiglia da 0,75 l, annata 2018",
+          "vini"
+        ],
+        [
+          "Luccicante, Cà du Ferrà",
+          "bottiglia da 0,75 l, annata 2024",
+          "vini"
+        ],
+        [
+          "Parmaea, Possa",
+          "bottiglia da 0,75 l, annata 2024",
+          "vini"
+        ],
+        [
+          "Principe Jacopo Bianco Frizzante, Possa",
+          "bottiglia da 0,75 l, annata 2025",
+          "vini"
+        ],
+        [
+          "Gin Dry Portofino, Portofino Gin",
+          "bottiglia da 0,5 l",
+          "spirits"
+        ],
+        [
+          "Foglie d'ulivo con spinaci bio, Pasta di Liguria",
+          "confezione da 500 g",
+          "pasta"
+        ],
+        [
+          "Croxetti Pasta di semola di grano duro BIO, Pasta di Liguria",
+          "confezione da 500 g",
+          "pasta"
+        ],
+        [
+          "Taglierini Verdi, Pasta di Liguria",
+          "",
+          "pasta"
+        ],
+        [
+          "Olio Extravergine di Oliva Tumaì Monocultivar Taggiasca, Olio Anfosso",
+          "bottiglia da 0,75 l",
+          "olio"
+        ],
+        [
+          "Pesto Alla Genovese di Rossi, Rossi 1947",
+          "confezione da 180 g",
+          "salse"
+        ],
+        [
+          "Pesto fresco alla genovese senz'aglio con Parmigiano Reggiano 25 mesi, Pexto",
+          "confezione da 130 g",
+          "salse"
+        ],
+        [
+          "Pesto alla genovese, Pexto",
+          "confezione da 180 g",
+          "salse"
+        ],
+        [
+          "Pesto alla genovese delicato (no aglio), Pexto",
+          "confezione da 180 g",
+          "salse"
+        ],
+        [
+          "Pesto fresco alla genovese con parmigiano reggiano 25 mesi, Pexto per Amore",
+          "confezione da 130 g",
+          "salse"
+        ],
+        [
+          "Olive taggiasche denocciolate, Pexto",
+          "confezione da 180 g",
+          "tipici"
+        ],
+        [
+          "Chinotto, Niasca Portofino",
+          "12 bottiglie da 0,25 l",
+          "bevande"
+        ],
+        [
+          "Niasca Limonata del Tigullio, Niasca Portofino",
+          "12 bottiglie da 0,25 l",
+          "bevande"
+        ],
+        [
+          "Niasca Mandarinata, Niasca Portofino",
+          "12 bottiglie da 0,25 l",
+          "bevande"
+        ]
+      ],
+      "pd": {
+        "V-58-0": {
+          "c": [],
+          "d": {
+            "it": "Il Rossese è il vitigno rosso del Ponente ligure, alla base del Rossese di Dolceacqua DOC. Etichetta di Maccario Dringenberg, annata 2024."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "34,80 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Maccario Dringenberg"
+        },
+        "V-58-1": {
+          "c": [],
+          "d": {
+            "it": "Il Cinque Terre è un bianco DOC da uve Bosco, Albarola e Vermentino coltivate sui terrazzamenti a picco sul mare. Etichetta di Possa, annata 2024."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "30,10 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Possa"
+        },
+        "V-58-2": {
+          "c": [
+            "DOC"
+          ],
+          "d": {
+            "it": "Lo Sciacchetrà è il passito delle Cinque Terre, da uve appassite. Etichetta di LA Polenza."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "41,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "LA Polenza"
+        },
+        "V-58-3": {
+          "c": [],
+          "d": {
+            "it": "Uva: Ormeasco. 12,5% vol. Note di degustazione: Colore rubino con riflessi violacei. Al naso emergono note floreali di viola e note fruttate di piccoli frutti rossi come lamponi e more. Al palato è caldo e asciutto, con un finale persistente."
+          },
+          "a": {
+            "it": "Temperatura di servizio: 16-18°C. Abbinamenti: Perfetto con carni strutturate come arrosti, stufati e stufati."
+          },
+          "pr": "20,94 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Calleri"
+        },
+        "V-58-4": {
+          "c": [],
+          "d": {
+            "it": "La Granaccia è un vitigno rosso coltivato nel Ponente ligure, della famiglia della Grenache. Etichetta di Gorleri, annata 2018."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "38,24 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Gorleri"
+        },
+        "V-58-5": {
+          "c": [],
+          "d": {
+            "it": "Luccicante, Cà du Ferrà. Uve: Vermentino. Note di degustazione: giallo paglierino. Il naso è molto fine; Sono presenti note di pesca e mela golden, note di fiori di campo, camomilla ed erbe aromatiche, e note di mandorla non tostata. In bocca è sapido, vivace e armonico. Gradazione alcolica: 13%."
+          },
+          "a": {
+            "it": "Abbinamenti: Ottimo in abbinamento a preparazioni a base di pesce, è ideale per accompagnare sia primi che secondi piatti."
+          },
+          "pr": "34,10 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Cà du Ferrà"
+        },
+        "V-58-6": {
+          "c": [],
+          "d": {
+            "it": "Parmaea, Possa. Uve: Albarola, Trebbiano, Vermentino. 12,5% vol. Colore giallo paglierino. Morbido, pienezza elastica, succosità fruttata gialla, appostamento, speziato, leggermente resinoso, abbastanza leggermente acido, con un tocco di spezie sul finale."
+          },
+          "a": {
+            "it": "Abbinamenti: Si sposa perfettamente con risotti, pasta con pesce, crostacei e crostacei, antipasti con pesce freddo e affumicato, crostacei, ostriche, formaggi."
+          },
+          "pr": "28,34 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Possa"
+        },
+        "V-58-7": {
+          "c": [],
+          "d": {
+            "it": "Uve: Liguria. 12,5% vol. Vino bianco frizzante fresco, profumato e gustoso. Un vino aggraziato e fruttato che si muove agile in bocca tra bollicine fini, sfumature mediterranee e un finale totalmente marino."
+          },
+          "a": {
+            "it": "Abbinamenti: Ottimo come aperitivo con ostriche e crostacei."
+          },
+          "pr": "31,70 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Possa"
+        },
+        "V-58-8": {
+          "c": [],
+          "d": {
+            "it": "Portofino Dry Gin, distillato con botaniche raccolte sul promontorio di Portofino, tra cui ginepro, limone e rosmarino."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "48,94 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Portofino Gin"
+        },
+        "V-58-9": {
+          "c": [
+            "Bio"
+          ],
+          "d": {
+            "it": "Pasta di Semola di Grano Duro con Spinaci da Agricoltura Biologica. Il verde degli uliveti, che fa da cornice al blu del mare, è uno dei colori più vivi e suggestivi della costa ligure. Le Foglie d'Ulivo, nate dall'idea di portare in tavola il profumo e l'atmosfera della Riviera, sono deliziose con un pesto leggero di pinoli e maggiorana. Tutti le materie prime sono biologiche e italiane."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "4,20 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Pasta di Liguria"
+        },
+        "V-58-10": {
+          "c": [
+            "Bio"
+          ],
+          "d": {
+            "it": "Pasta di Semola di Grano Duro da Agricoltura Biologica. Originari delle valli dell'entroterra Ligure, i Croxetti venivano anticamente lavorati pressando il fondo di un bicchiere su una sfoglia, per poi arricchirsi, con il passare del tempo, di particolari decori e stampigliature. Ottimi con il tradizionale sugo di noci, rappresentano un'istituzione nella storia della cucina Ligure."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "3,90 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Pasta di Liguria"
+        },
+        "V-58-11": {
+          "c": [],
+          "d": {
+            "it": "I Taglierini Verdi sono tra i più caratteristici piatti dell'entroterra Ligure. Con la buonissima consistenza della pasta fatta in casa, sono ideali per condimenti dalla tradizione come il Toccu Genovese, oltre ad essere ideali per preparazioni raffinate con pesce o frutti di mare."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "3,51 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Pasta di Liguria"
+        },
+        "V-58-12": {
+          "c": [],
+          "d": {
+            "it": "Olio ottenuto direttamente da olive taggiasche, prodotto nel frantoio a ciclo continuo mediante processo di trasformazione a freddo. Colore: Giallo dorato con leggere sfumature verdi. Fine e armonico, dolce con una punta di piccante Morbido e complesso, ricco di delicati toni fruttati. L'amaro e il piccante sono presenti e equilibrati."
+          },
+          "a": {
+            "it": "Conservare in un luogo fresco e asciutto, lontano da fonti di calore e luce."
+          },
+          "pr": "24,24 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Olio Anfosso"
+        },
+        "V-58-13": {
+          "c": [],
+          "d": {
+            "it": "Il basilico Dop e l'olio ligure sono i primi ingredienti del pesto di Rossi. Il basilico Genovese Dop è il più pregiato, famoso per il profumo delicato e il sapore intenso: viene prodotto sulle classiche terrazze liguri."
+          },
+          "a": {
+            "it": "Il pesto è ideale per condire primi piatti: trenette, testaroli, tagliatelle, trofie, linguine, tagliolini e lasagne."
+          },
+          "pr": "11,88 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Rossi 1947"
+        },
+        "V-58-14": {
+          "c": [],
+          "d": {
+            "it": "Pesto fresco alla genovese senz'aglio con Parmigiano Reggiano 25 mesi, Pexto. Caratteristiche Organolettiche. Colore: verde chiaro. Prodotto utilizzato per condimento per pasta (dose consigliata 35 gr."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "6,86 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Pexto"
+        },
+        "V-58-15": {
+          "c": [],
+          "d": {
+            "it": "Pesto alla genovese, Pexto. Prodotto utilizzato per condimento per pasta (si consiglia di diluire nel piatto da portata la dose desiderata di prodotto con alcuni cucchiai d'acqua di cottura), preparazione di stuzzichini, accompagnamento di piatti a base di carne. Può essere utilizzato sia crudo che cotto. Caratteristiche Organolettiche. Odore: caratteristico del basilico. Colore: verde brillante."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "6,36 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Pexto"
+        },
+        "V-58-16": {
+          "c": [],
+          "d": {
+            "it": "Pesto alla genovese delicato (no aglio), Pexto. Prodotto utilizzato per condimento per pasta (diluire nel piatto da portata la dose desiderata di prodotto con alcuni cucchiai di acqua di cottura), preparazione di stuzzichini, accompagnamento di piatti a base di carne. Può essere utilizzato sia crudo che cotto. Caratteristiche Organolettiche. Odore: caratteristico del basilico. Colore: caratteristico del basilico. Sapore: caratteristico del basilico."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "6,36 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Pexto"
+        },
+        "V-58-17": {
+          "c": [],
+          "d": {
+            "it": "Pesto fresco alla genovese con parmigiano reggiano 25 mesi, Pexto per Amore. Caratteristiche Organolettiche. Colore: verde chiaro. Prodotto utilizzato per condimento per pasta (dose consigliata 35 gr."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "6,86 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Pexto per Amore"
+        },
+        "V-58-18": {
+          "c": [],
+          "d": {
+            "it": "Olive taggiasche denocciolate, Pexto. Prodotto utilizzato per la preparazione di pizze, focacce, stuzzichini, primi e secondi piatti. Può essere utilizzato sia crudo che cotto. Caratteristiche Organolettiche. Colore: verde - verde e marrone - marroncino. Correttore di acidità: acido citrico."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "6,77 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Pexto"
+        },
+        "V-58-19": {
+          "c": [],
+          "d": {
+            "it": "Solo chinotti liguri per un sapore d'altri tempi. Poco zucchero, impatto amaro e morbido finale dato dal geranio."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "22,94 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Niasca Portofino"
+        },
+        "V-58-20": {
+          "c": [],
+          "d": {
+            "it": "D'intrigante freschezza, la Limonata del Tigullio, si presenta bianca perlacea, richiamando già alla vista un gusto morbido e rotondo. Al naso svela un bouquet dominato dall'intensità del limone del Tigullio, insieme alle fini note dei fiori bianchi di sambuco. L'attacco in bocca conferma lo scenario olfattivo, qui la forza aspra del limone, accompagnata dalle bollicine, si congiunge a sfumature di dolcezza."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "22,44 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Niasca Portofino"
+        },
+        "V-58-21": {
+          "c": [],
+          "d": {
+            "it": "Una bibita fresca e naturale dal gusto rinfrescante e deciso al mandarino. Appena versata si percepisce subito un gradevolissimo profumo di mandarino e un retrogusto leggermente amaro."
+          },
+          "a": {
+            "it": "Il succo di mandarino accompagnato dalle note delicate dei fiori di iris la rende una bevanda ideale in ogni stagione."
+          },
+          "pr": "22,44 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Niasca Portofino"
+        }
+      },
+      "fonti": [
+        "https://www.soloprodottiitaliani.it/",
+        "https://www.soloprodottiitaliani.it/pages/progetto.html",
+        "https://www.soloprodottiitaliani.it/pages/winearchy-il-regno-del-vino.html",
+        "https://www.soloprodottiitaliani.it/catalogo.php?IdRegioni=56"
+      ]
+    },
+    {
+      "id": "V-59",
+      "n": "OIP · Emilia-Romagna",
+      "cat": "vino",
+      "reg": "Emilia-Romagna",
+      "city": "Selezione regionale OIP",
+      "lat": 44.494,
+      "lng": 11.343,
+      "y": null,
+      "certs": [
+        "DOP",
+        "IGP",
+        "Bio"
+      ],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "logoBg": "#ffffff",
+      "d": {
+        "it": "L'Emilia-Romagna è la regione del Parmigiano Reggiano, dei prosciutti e dei salumi, dell'aceto balsamico e della pasta all'uovo, con il Lambrusco in Emilia e il Sangiovese in Romagna. Questa vetrina raccoglie la selezione dell'Emilia-Romagna di OIP, Only Italian Products: 31 prodotti di 26 produttori, scelti dal catalogo di soloprodottiitaliani.it e divisi per tipologia: vini (6), grappe, liquori e distillati (5), birre (1), formaggi (5), salumi (6), pasta e riso (1), oli e aceti (4), prodotti tipici (1), bevande (2). OIP è una boutique online del cibo e del vino italiano di qualità, con sede e magazzino a Rezzato, in provincia di Brescia, dove si trova anche l'enoteca Winearchy, con oltre 5.000 etichette in negozio. Seleziona fornitori artigianali, ha una sezione dedicata all'Ho.Re.Ca. e un sito disponibile nelle versioni nazionali di 15 Paesi. Il produttore di ogni referenza è indicato nella scheda del prodotto.",
+        "en": "Emilia-Romagna is the region of Parmigiano Reggiano, of hams and cured meats, of balsamic vinegar and egg pasta, with Lambrusco in Emilia and Sangiovese in Romagna. This stand brings together OIP's selection from Emilia-Romagna: 31 products from 26 producers, chosen from the soloprodottiitaliani.it catalogue and grouped by type: wines (6), grappa, liqueurs and spirits (5), beers (1), cheese (5), cured meats (6), pasta and rice (1), oils and vinegars (4), regional specialities (1), soft drinks (2). OIP, Only Italian Products, is an online boutique for quality Italian food and wine, with headquarters and warehouse in Rezzato, near Brescia, where it also runs the Winearchy wine shop, with over 5,000 labels in store. It selects artisan suppliers, has a dedicated Ho.Re.Ca. section and a website available in national versions for 15 countries. The producer of each item is shown on its product sheet.",
+        "de": "Die Emilia-Romagna ist die Region des Parmigiano Reggiano, der Schinken und Wurstwaren, des Balsamessigs und der Eierpasta, mit Lambrusco in der Emilia und Sangiovese in der Romagna. Dieser Stand zeigt die Auswahl von OIP aus der Emilia-Romagna: 31 Produkte von 26 Herstellern, ausgewählt aus dem Katalog von soloprodottiitaliani.it und nach Produktart gegliedert: Weine (6), Grappa, Liköre und Spirituosen (5), Biere (1), Käse (5), Wurst und Schinken (6), Pasta und Reis (1), Öle und Essige (4), Regionale Spezialitäten (1), Getränke (2). OIP, Only Italian Products, ist eine Online-Boutique für hochwertige italienische Lebensmittel und Weine mit Sitz und Lager in Rezzato bei Brescia, wo sich auch die Vinothek Winearchy mit über 5.000 Etiketten im Geschäft befindet. OIP wählt handwerkliche Lieferanten aus, hat einen eigenen Ho.Re.Ca.-Bereich und eine Website in Länderversionen für 15 Länder. Der Hersteller jedes Artikels ist im Produktblatt angegeben."
+      },
+      "sub": [
+        {
+          "k": "vini",
+          "cat": "vino",
+          "n": {
+            "it": "Vini",
+            "en": "Wines",
+            "de": "Weine"
+          }
+        },
+        {
+          "k": "spirits",
+          "cat": "liquori",
+          "n": {
+            "it": "Grappe, liquori e distillati",
+            "en": "Grappa, liqueurs and spirits",
+            "de": "Grappa, Liköre und Spirituosen"
+          }
+        },
+        {
+          "k": "birre",
+          "cat": "misti",
+          "n": {
+            "it": "Birre",
+            "en": "Beers",
+            "de": "Biere"
+          }
+        },
+        {
+          "k": "formaggi",
+          "cat": "formaggi",
+          "n": {
+            "it": "Formaggi",
+            "en": "Cheese",
+            "de": "Käse"
+          }
+        },
+        {
+          "k": "salumi",
+          "cat": "salumi",
+          "n": {
+            "it": "Salumi",
+            "en": "Cured meats",
+            "de": "Wurst und Schinken"
+          }
+        },
+        {
+          "k": "pasta",
+          "cat": "pasta",
+          "n": {
+            "it": "Pasta e riso",
+            "en": "Pasta and rice",
+            "de": "Pasta und Reis"
+          }
+        },
+        {
+          "k": "olio",
+          "cat": "olio",
+          "n": {
+            "it": "Oli e aceti",
+            "en": "Oils and vinegars",
+            "de": "Öle und Essige"
+          }
+        },
+        {
+          "k": "tipici",
+          "cat": "misti",
+          "n": {
+            "it": "Prodotti tipici",
+            "en": "Regional specialities",
+            "de": "Regionale Spezialitäten"
+          }
+        },
+        {
+          "k": "bevande",
+          "cat": "misti",
+          "n": {
+            "it": "Bevande",
+            "en": "Soft drinks",
+            "de": "Getränke"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Leclisse Lambrusco di Sorbara, Cantine Paltrinieri",
+          "bottiglia da 0,75 l, annata 2025",
+          "vini"
+        ],
+        [
+          "Villa Cialdini Lambrusco Grasparossa di Castelvetro, Cleto Chiarli",
+          "bottiglia da 0,75 l",
+          "vini"
+        ],
+        [
+          "Lambrusco Mantovano Secco, Cantina Gonzaga",
+          "bottiglia da 0,75 l",
+          "vini"
+        ],
+        [
+          "Sangiovese Tramazzo, Mutiliana",
+          "bottiglia da 0,75 l, annata 2021",
+          "vini"
+        ],
+        [
+          "Albana Romagna Secco, Zavalloni",
+          "bottiglia da 0,75 l, annata 2025",
+          "vini"
+        ],
+        [
+          "Gutturnio, Torre Fornello",
+          "bottiglia da 0,75 l, annata 2024",
+          "vini"
+        ],
+        [
+          "Amaro Montenegro",
+          "bottiglia da 0,7 l",
+          "spirits"
+        ],
+        [
+          "Vecchia Romagna Riserva 3 Botti",
+          "bottiglia da 70 cl",
+          "spirits"
+        ],
+        [
+          "Zabov Moccia",
+          "bottiglia da 0,7 l",
+          "spirits"
+        ],
+        [
+          "Vecchia Romagna Etichetta Nera",
+          "bottiglia da 70 cl",
+          "spirits"
+        ],
+        [
+          "Vecchia Romagna Classica",
+          "bottiglia da 70 cl",
+          "spirits"
+        ],
+        [
+          "Birra Weiss, Ex Fabrica",
+          "bottiglia da 75 cl",
+          "birre"
+        ],
+        [
+          "Parmigiano Reggiano DOP di Montagna 26 Mesi, Malandrone 1477",
+          "pezzo da 1 kg",
+          "formaggi"
+        ],
+        [
+          "Parmigiano Reggiano DOP",
+          "confezione da 300-350 g",
+          "formaggi"
+        ],
+        [
+          "Parmigiano Reggiano Vacche Rosse 24 Mesi, Consorzio Vacche Rosse",
+          "pezzo da 0,5-0,55 kg",
+          "formaggi"
+        ],
+        [
+          "Parmigiano Reggiano Disolabruna 36 Mesi, Caseificio Gennari",
+          "pezzo da 1 kg",
+          "formaggi"
+        ],
+        [
+          "Parmigiano Reggiano Vacche Rosse stagionato 48 mesi, Consorzio Vacche Rosse",
+          "pezzo da 500 g",
+          "formaggi"
+        ],
+        [
+          "Prosciutto di Parma DOP, Dolceparma",
+          "confezione da 100-110 g",
+          "salumi"
+        ],
+        [
+          "Prosciutto di Parma 30 Mesi Affettato, S.Ilario Prosciutti",
+          "confezione da 100 g",
+          "salumi"
+        ],
+        [
+          "Guanciale di Mora Romagnola (Slow Food), Azienda Agricola Zavoli",
+          "pezzo da 500 g",
+          "salumi"
+        ],
+        [
+          "Prosciutto Crudo Zero e Lode, Cavalier Umberto Boschi",
+          "pezzo da 6,5 kg",
+          "salumi"
+        ],
+        [
+          "Culatello Oro Spigaroli, stagionato oltre 24 mesi, Antica Corte Pallavicina",
+          "pezzo da 1,5-1,6 kg",
+          "salumi"
+        ],
+        [
+          "Prosciutto di Parma 24 Mesi Intero Disossato, S.Ilario Prosciutti",
+          "pezzo da 7,5 kg",
+          "salumi"
+        ],
+        [
+          "Tortellini Bolognesi, Soverini",
+          "confezione da 250 g",
+          "pasta"
+        ],
+        [
+          "Aceto Balsamico Tradizionale di Modena DOP Extra Vecchio Diamante Nero, 50 anni, Acetaia del Cristo",
+          "",
+          "olio"
+        ],
+        [
+          "Aceto Balsamico Tradizionale di Modena DOP \"Affinato\", Aceto Balsamico Giusti",
+          "bottiglia da 100 ml",
+          "olio"
+        ],
+        [
+          "Aceto Balsamico Tradizionale di Modena DOP 25 Extravecchio, Don Giovanni Acetaia Leonardi",
+          "bottiglia da 100 ml",
+          "olio"
+        ],
+        [
+          "Aceto Balsamico di Modena IGP (Argento), Acetaia Bellei",
+          "bottiglia da 250 ml",
+          "olio"
+        ],
+        [
+          "Farina biologica di grano tenero tipo “0”, Molino Spadoni",
+          "confezione da 1 kg",
+          "tipici"
+        ],
+        [
+          "Succo di Frutta Alla Pera Biologico, FrullaBio, Azienda Agricola Punto Verde",
+          "bottiglia da 200 ml",
+          "bevande"
+        ],
+        [
+          "Succo di Frutta Alla Pesca Biologico, FrullaBio, Azienda Agricola Punto Verde",
+          "bottiglia da 200 ml",
+          "bevande"
+        ]
+      ],
+      "pd": {
+        "V-59-0": {
+          "c": [],
+          "d": {
+            "it": "Il Lambrusco di Sorbara è un rosso frizzante DOC della provincia di Modena, chiaro di colore e molto fresco. Etichetta di Cantine Paltrinieri, annata 2025."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "15,50 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Cantine Paltrinieri"
+        },
+        "V-59-1": {
+          "c": [],
+          "d": {
+            "it": "Il Lambrusco Grasparossa di Castelvetro è un rosso frizzante DOC modenese, scuro e fruttato. Etichetta di Cleto Chiarli."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "8,98 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Cleto Chiarli"
+        },
+        "V-59-2": {
+          "c": [],
+          "d": {
+            "it": "Il Lambrusco è il rosso frizzante dell'Emilia, prodotto da una famiglia di vitigni autoctoni. Etichetta di Cantina Gonzaga."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "7,88 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Cantina Gonzaga"
+        },
+        "V-59-3": {
+          "c": [],
+          "d": {
+            "it": "Il Romagna Sangiovese è il rosso DOC della Romagna, da uve Sangiovese. Etichetta di Mutiliana, annata 2021."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "22,88 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Mutiliana"
+        },
+        "V-59-4": {
+          "c": [],
+          "d": {
+            "it": "La Romagna Albana è un bianco DOCG, prodotto secco, dolce o passito. Etichetta di Zavalloni, annata 2025."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "9,50 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Zavalloni"
+        },
+        "V-59-5": {
+          "c": [],
+          "d": {
+            "it": "Il Gutturnio è un rosso DOC dei Colli Piacentini, da uve Barbera e Croatina. Etichetta di Torre Fornello, annata 2024."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "15,07 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Torre Fornello"
+        },
+        "V-59-6": {
+          "c": [],
+          "d": {
+            "it": "Amaro Montenegro, il liquore delle virtudi, nasce nel 1885 per merito delle lunghe appassionate sperimentazioni di un famoso distillatore ed erborista bolognese, Stanislao Cobianchi."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "16,84 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Montenegro"
+        },
+        "V-59-7": {
+          "c": [],
+          "d": {
+            "it": "Il Brandy Vecchia Romagna Riserva 10 Anni, è il risultato di un'accurata selezione di vini e di una sapiente distillazione secondo il metodo \"charentais\". Il paziente invecchiamento conferisce un profumo delicato e complesso, caldi colori ambrati e un gusto piacevolmente morbido ed equilibrato che fanno di \"riserva 10 anni\" un esclusivo distillato per gli intenditori più esigenti."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "51,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Vecchia Romagna"
+        },
+        "V-59-8": {
+          "c": [],
+          "d": {
+            "it": "Dal 1946 Zabov è lo Zabaglione più amato dalle famiglie, per la bontà e la bassa gradazione. Inizialmente considerato come liquore corroborante, nell'arco degli anni ha rivelato doti di grande versatilità nella preparazione di bevande, drinks originali e gradevoli."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "13,34 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Moccia"
+        },
+        "V-59-9": {
+          "c": [],
+          "d": {
+            "it": "Gradazione: 38%. Il Brandy Vecchia Romagna Etichetta Nera, è un distillato di uve pregiate. Questo brandy è inconfondibile, attraverso un lungo invecchiamento in parte effettuato in piccole botti di rovere ed una sapiente ricettazione, gli conferiscono un gusto deciso e secco, un profumo aromatico e complesso, un colore caldo ed intenso."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "18,36 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Vecchia Romagna"
+        },
+        "V-59-10": {
+          "c": [],
+          "d": {
+            "it": "Distillato di uve pregiate, con almeno un anno di invecchiamento in botti di rovere, Vecchia Romagna Classica è un Brandy che si avvicina. alle esigenze anche di un pubblico più giovane. Il gusto morbido, il profumo fruttato e fresco, il colore ambrato e solare lo rendono versatile per un utilizzo \"mixable\", con ghiaccio o sul gelato."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "17,88 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Vecchia Romagna"
+        },
+        "V-59-11": {
+          "c": [],
+          "d": {
+            "it": "Birra Weiss, Ex Fabrica. Materia prima: Acqua, malto di frumento 60%, malto d'orzo 40%, luppolo, lievito. 5,5% vol. 7 giorni per trasformare l'orzo e il frumento in malto, 7 ore per generare una pigiatura, 7 giorni per la fermentazione tumultuosa, 7 settimane per la maturazione a temperature prossime agli 0 gradi. Colore giallo paglierino, con spuma fine e compatta. I profumi percepiti al naso sono fruttati e caratterizzati da note speziate."
+          },
+          "a": {
+            "it": "Abbinamenti: A tutto pasto, ottimo con fritture di pesce e carni bianche."
+          },
+          "pr": "7,64 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Ex Fabrica"
+        },
+        "V-59-12": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "Parmigiano Reggiano DOP di Montagna 26 Mesi, Malandrone 1477. Il colore giallo paglierino è accompagnato da sentori di latte fresco, burro ed erba, con aromi fruttati di ananas e frutti gialli. Presenta già un'ottima intensità organolettica, lasciando un palato dolce e pulito, con una buona solubilità e friabilità. Abbinabile a un vino acido e frizzante, come un Lambrusco oppure a una birra Session IPA."
+          },
+          "a": {
+            "it": "Ideale. da grattugiare su primi piatti delicati, ottimo in abbinamento a frutta di stagione e perfetto per. accompagnare insalate fresche."
+          },
+          "pr": "37,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Malandrone 1477"
+        },
+        "V-59-13": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "Il Parmigiano-Reggiano è un noto formaggio dell'Italia settentrionale a pasta dura tutelato dalla Denominazione d'Origine Protetta. Rientra nella tipologia dei formaggi a pasta dura, di cui è considerato, assieme al Grana Padano, il più rappresentativo. Le origini di questo formaggio risalgono al Medioevo e vengono generalmente collocate attorno al XII secolo."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "14,96 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Parmigiano Reggiano"
+        },
+        "V-59-14": {
+          "c": [],
+          "d": {
+            "it": "La vacca rossa nella storia: giunta nella pianura padana con i Longobardi, presente nelle stalle della contessa Matilde di Canossa e nelle corti dei monaci Benedettini che utilizzarono il suo latte per fare il primo parmigiano. Il tempo minimo di stagionatura del Parmigiano delle Vacche Rosse è di 24 mesi ed il risultato è un formaggio dal sapore dolce, delicato e persistente."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "26,96 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Consorzio Vacche Rosse"
+        },
+        "V-59-15": {
+          "c": [],
+          "d": {
+            "it": "Parmigiano Reggiano DOP di Caseificio Gennari nella qualità “disolabruna” è stato vincitore del 1° premio nella categoria Vacche Brune al World Cheese Awards. La Bruna Alpina si distingue per l'equilibrio tra qualità e quantità del latte prodotto, particolarmente adatto alla caseificazione. Con un patrimonio di circa 750.000 capi, è la seconda razza da latte in Italia in termini di diffusione."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "35,90 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Caseificio Gennari"
+        },
+        "V-59-16": {
+          "c": [],
+          "d": {
+            "it": "Il Parmigiano Reggiano di Vacche Rosse stravecchio, stagionato oltre 40 mesi rivela un sapore dolce, delicato ma persistente, saporito senza essere piccante anche a stagionatura avanzata. La pasta è minutamente granulosa, friabile, la lunga stagionatura assicura quell' aroma caratteristico, intenso ma delicato, impossibile da trovare in qualunque altro formaggio."
+          },
+          "a": {
+            "it": "Il Parmigiano Reggiano di Vacche Rosse è ideale per esaltare il sapore ed il gusto di minestre, secondi piatti ed insalate. Ottimo come ripieno per i tortelli, i ravioli e i cappelletti tipici, ma è anche un eccezionale piatto unico accompagnato da salumi, mostarde e marmellate."
+          },
+          "pr": "29,96 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Consorzio Vacche Rosse"
+        },
+        "V-59-17": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "Prosciutto di Parma D.O.P. Dolce favola da raccontare a tavola. Prodotto classico Devodier, garantito dal marchio del Consorzio del Prosciutto di Parma DOP; Consorzio alla cui fondazione partecipò Devodier Enrico nel lontano 1963."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "8,63 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Dolceparma"
+        },
+        "V-59-18": {
+          "c": [],
+          "d": {
+            "it": "S.Ilario nasce oltre 60 anni fa dalla passione di Piero Montali e dalla dedizione dei suoi figli, Stefano e Raffaele. Il processo produttivo inizia con la selezione della materia prima e la rifilatura “S.Ilario”, che conferisce a ogni prosciutto il suo profilo distintivo."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "8,50 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "S.Ilario Prosciutti"
+        },
+        "V-59-19": {
+          "c": [],
+          "d": {
+            "it": "Il Guanciale di Mora Romagnola Zavoli ha una scioglievolezza fuori dal comune, questo grazie alla genetica del maiale di Razza Mora Romagnola. Ottimo sia in cucina che come salume da mangiare in purezza, anche grazie ad una perfetta stagionatura del prodotto, che risulta così saporito e consistente al punto giusto."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "14,90 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Azienda Agricola Zavoli"
+        },
+        "V-59-20": {
+          "c": [],
+          "d": {
+            "it": "Le cosce vengono trattate con piccole dosi di sale marino e nient'altro; la sugnatura conserva il prosciutto e lo rende morbido al taglio; il riposo in cantina assicura una lenta e naturale stagionatura; il profumo che si sprigiona con la spillatura indica genuinità e rispetto delle fasi di lavorazione."
+          },
+          "a": {
+            "it": "Il Prosciutto Crudo Pedranzini conserva le caratteristiche della tradizione che lo rendono un prodotto apprezzato, ottimo per la salute, privo di conservanti e coloranti e soprattutto eccellente al palato per il suo inconfondibile gusto dolce."
+          },
+          "pr": "109,94 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Cavalier Umberto Boschi"
+        },
+        "V-59-21": {
+          "c": [],
+          "d": {
+            "it": "Oltre 24 mesi di stagionatura. Questo prodotto racchiude tutti i saperi della famiglia Spigaroli. Viene prodotto solo nei mesi invernali; dopo un massaggio con vino Fortana e aglio si procede alla salatura con sale e pepe spaccato (non ci sono nitrati, zuccheri, farine o qualsiasi altro additivo o stabilizzante)."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "209,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Antica Corte Pallavicina"
+        },
+        "V-59-22": {
+          "c": [],
+          "d": {
+            "it": "S.Ilario nasce oltre 60 anni fa dalla passione di Piero Montali e dalla dedizione dei suoi figli, Stefano e Raffaele. Il processo produttivo inizia con la selezione della materia prima e la rifilatura “S.Ilario”, che conferisce a ogni prosciutto il suo profilo distintivo."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "329,60 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "S.Ilario Prosciutti"
+        },
+        "V-59-23": {
+          "c": [],
+          "d": {
+            "it": "Tortellini bolognesi artigianali Soverinitortellini bolognesi artigianali Soverini."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "5,50 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Soverini"
+        },
+        "V-59-24": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "Il gioiello più raro della collezione, un capolavoro invecchiato in antiche botti di oltre 50 anni. Ogni goccia custodisce una tradizione senza tempo, dove pazienza e maestria creano un'armonia ineguagliabile di legni antichi, frutti maturi e note balsamiche profonde. La sua densità setosa regala un'indimenticabile persistenza al palato."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "175,90 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Acetaia del Cristo"
+        },
+        "V-59-25": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "Ottenuto da solo mosto d'uva cotto, l'Aceto Balsamico Tradizionale di Modena DOP Affinato è un prodotto unico e prezioso. Il lento e lungo invecchiamento, in antiche batterie composte da botticelle di legni diversi, secondo l'antico sistema dei “Travasi e Rincalzi”, conferisce grande densità e rotondità al prodotto. Ancora oggi è il simbolo inestimabile di un'antica arte modenese che si tramanda da secoli."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "84,98 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Aceto Balsamico Giusti"
+        },
+        "V-59-26": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": ": Aceto balsamico tradizionale di Modena D.O.P. Si gusta su: pasta, risotto, verdure grigliate o alla brace, salmone affumicato, tartine, pizza, pesce, carni bollite, arrosto o alla griglia, formaggi, gelato, fragole, cioccolato fondente, come digestivo a fine pasto. L'aceto Balsamico di modena DOP è stato affinato in botte per 25 anni, una delle grandi eccellenze italiane."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "104,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Don Giovanni Acetaia Leonardi"
+        },
+        "V-59-27": {
+          "c": [
+            "IGP"
+          ],
+          "d": {
+            "it": "L' Aceto Balsamico di Modena I.G.P. Bell Silver, ha un sapore agrodolce ben equlibrato, è un aceto di bassa, media densità. È affinato in botti di rovere. È indicato per insaporire primi piatti e pesce alla griglia."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "7,14 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Acetaia Bellei"
+        },
+        "V-59-28": {
+          "c": [
+            "Bio"
+          ],
+          "d": {
+            "it": "Farina ottenuta da un sapiente mix di diverse tipologie di grano per garantire la massima resa nella preparazione domestica del pane. Con Farina macinata a pietra come da antica tradizione molitoria."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "3,87 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Molino Spadoni"
+        },
+        "V-59-29": {
+          "c": [
+            "Bio"
+          ],
+          "d": {
+            "it": "Succhi di frutta biologici, senza utilizzo di additivi ed addensanti chimici: ingredienti."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "2,84 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Azienda Agricola Punto Verde"
+        },
+        "V-59-30": {
+          "c": [
+            "Bio"
+          ],
+          "d": {
+            "it": "Succhi di frutta biologici, senza utilizzo di additivi ed addensanti chimici: ingredienti."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "2,84 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Azienda Agricola Punto Verde"
+        }
+      },
+      "fonti": [
+        "https://www.soloprodottiitaliani.it/",
+        "https://www.soloprodottiitaliani.it/pages/progetto.html",
+        "https://www.soloprodottiitaliani.it/pages/winearchy-il-regno-del-vino.html",
+        "https://www.soloprodottiitaliani.it/catalogo.php?IdRegioni=57"
+      ]
+    },
+    {
+      "id": "V-60",
+      "n": "OIP · Toscana",
+      "cat": "vino",
+      "reg": "Toscana",
+      "city": "Selezione regionale OIP",
+      "lat": 43.77,
+      "lng": 11.256,
+      "y": null,
+      "certs": [
+        "DOP",
+        "DOCG",
+        "IGP",
+        "Bio"
+      ],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "logoBg": "#ffffff",
+      "d": {
+        "it": "La Toscana è la terra del Sangiovese: Chianti Classico, Brunello di Montalcino e Vino Nobile di Montepulciano, accanto ai rossi di Bolgheri, all'olio extravergine e ai salumi di tradizione. Questa vetrina raccoglie la selezione della Toscana di OIP, Only Italian Products: 42 prodotti di 28 produttori, scelti dal catalogo di soloprodottiitaliani.it e divisi per tipologia: vini (16), grappe, liquori e distillati (2), salumi (8), carni (2), pasta e riso (5), oli e aceti (1), salse e sughi (5), prodotti tipici (1), prodotti da forno, dolci e caffè (2). OIP è una boutique online del cibo e del vino italiano di qualità, con sede e magazzino a Rezzato, in provincia di Brescia, dove si trova anche l'enoteca Winearchy, con oltre 5.000 etichette in negozio. Seleziona fornitori artigianali, ha una sezione dedicata all'Ho.Re.Ca. e un sito disponibile nelle versioni nazionali di 15 Paesi. Il produttore di ogni referenza è indicato nella scheda del prodotto.",
+        "en": "Tuscany is the land of Sangiovese: Chianti Classico, Brunello di Montalcino and Vino Nobile di Montepulciano, alongside the reds of Bolgheri, extra virgin olive oil and traditional cured meats. This stand brings together OIP's selection from Tuscany: 42 products from 28 producers, chosen from the soloprodottiitaliani.it catalogue and grouped by type: wines (16), grappa, liqueurs and spirits (2), cured meats (8), meat (2), pasta and rice (5), oils and vinegars (1), sauces (5), regional specialities (1), bakery, sweets and coffee (2). OIP, Only Italian Products, is an online boutique for quality Italian food and wine, with headquarters and warehouse in Rezzato, near Brescia, where it also runs the Winearchy wine shop, with over 5,000 labels in store. It selects artisan suppliers, has a dedicated Ho.Re.Ca. section and a website available in national versions for 15 countries. The producer of each item is shown on its product sheet.",
+        "de": "Die Toskana ist das Land des Sangiovese: Chianti Classico, Brunello di Montalcino und Vino Nobile di Montepulciano, dazu die Rotweine aus Bolgheri, natives Olivenöl extra und traditionelle Wurstwaren. Dieser Stand zeigt die Auswahl von OIP aus der Toskana: 42 Produkte von 28 Herstellern, ausgewählt aus dem Katalog von soloprodottiitaliani.it und nach Produktart gegliedert: Weine (16), Grappa, Liköre und Spirituosen (2), Wurst und Schinken (8), Fleisch (2), Pasta und Reis (5), Öle und Essige (1), Saucen und Sughi (5), Regionale Spezialitäten (1), Backwaren, Süßes und Kaffee (2). OIP, Only Italian Products, ist eine Online-Boutique für hochwertige italienische Lebensmittel und Weine mit Sitz und Lager in Rezzato bei Brescia, wo sich auch die Vinothek Winearchy mit über 5.000 Etiketten im Geschäft befindet. OIP wählt handwerkliche Lieferanten aus, hat einen eigenen Ho.Re.Ca.-Bereich und eine Website in Länderversionen für 15 Länder. Der Hersteller jedes Artikels ist im Produktblatt angegeben."
+      },
+      "sub": [
+        {
+          "k": "vini",
+          "cat": "vino",
+          "n": {
+            "it": "Vini",
+            "en": "Wines",
+            "de": "Weine"
+          }
+        },
+        {
+          "k": "spirits",
+          "cat": "liquori",
+          "n": {
+            "it": "Grappe, liquori e distillati",
+            "en": "Grappa, liqueurs and spirits",
+            "de": "Grappa, Liköre und Spirituosen"
+          }
+        },
+        {
+          "k": "salumi",
+          "cat": "salumi",
+          "n": {
+            "it": "Salumi",
+            "en": "Cured meats",
+            "de": "Wurst und Schinken"
+          }
+        },
+        {
+          "k": "carni",
+          "cat": "salumi",
+          "n": {
+            "it": "Carni",
+            "en": "Meat",
+            "de": "Fleisch"
+          }
+        },
+        {
+          "k": "pasta",
+          "cat": "pasta",
+          "n": {
+            "it": "Pasta e riso",
+            "en": "Pasta and rice",
+            "de": "Pasta und Reis"
+          }
+        },
+        {
+          "k": "olio",
+          "cat": "olio",
+          "n": {
+            "it": "Oli e aceti",
+            "en": "Oils and vinegars",
+            "de": "Öle und Essige"
+          }
+        },
+        {
+          "k": "salse",
+          "cat": "conserve",
+          "n": {
+            "it": "Salse e sughi",
+            "en": "Sauces",
+            "de": "Saucen und Sughi"
+          }
+        },
+        {
+          "k": "tipici",
+          "cat": "misti",
+          "n": {
+            "it": "Prodotti tipici",
+            "en": "Regional specialities",
+            "de": "Regionale Spezialitäten"
+          }
+        },
+        {
+          "k": "forno",
+          "cat": "dolci",
+          "n": {
+            "it": "Prodotti da forno, dolci e caffè",
+            "en": "Bakery, sweets and coffee",
+            "de": "Backwaren, Süßes und Kaffee"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Tenuta Calimaia Vino Nobile di Montepulciano, Frescobaldi",
+          "bottiglia da 0,75 l, annata 2021",
+          "vini"
+        ],
+        [
+          "Morellino di Scansano, Poggio Argentiera",
+          "bottiglia da 0,75 l, annata 2020",
+          "vini"
+        ],
+        [
+          "Rosso di Montalcino, Tenuta Il Poggione",
+          "bottiglia da 0,75 l, annata 2023",
+          "vini"
+        ],
+        [
+          "Vin Santo Del Chianti Classico, Antinori",
+          "bottiglia da 0,375 l",
+          "vini"
+        ],
+        [
+          "Vermentino, Monteverro",
+          "bottiglia da 0,75 l, annata 2025",
+          "vini"
+        ],
+        [
+          "Barco Reale di Carmignano Bio, Fattoria Ambra",
+          "bottiglia da 0,75 l, annata 2025",
+          "vini"
+        ],
+        [
+          "Sidus Montecucco, Pianirossi",
+          "bottiglia da 0,75 l, annata 2020",
+          "vini"
+        ],
+        [
+          "Tenuta di Campriano Chianti Riserva, Buccia Nera",
+          "bottiglia da 0,75 l, annata 2017",
+          "vini"
+        ],
+        [
+          "Morellino di Scansano, La Mozza",
+          "bottiglia da 0,75 l, annata 2022",
+          "vini"
+        ],
+        [
+          "Brunello di Montalcino, Poggio Landi",
+          "bottiglia da 0,75 l, annata 2018",
+          "vini"
+        ],
+        [
+          "Etrusco Nero Vermouth, Tenuta Fertuna",
+          "bottiglia da 0,75 l",
+          "vini"
+        ],
+        [
+          "Valadorna, Arceno",
+          "bottiglia da 0,75 l, annata 2017",
+          "vini"
+        ],
+        [
+          "Il Fauno, Arceno",
+          "bottiglia da 0,75 l, annata 2022",
+          "vini"
+        ],
+        [
+          "Chianti Classico San Lorenzo Gran Selezione, Castello di Ama",
+          "bottiglia da 0,75 l, annata 2021",
+          "vini"
+        ],
+        [
+          "Brunello di Montalcino, Casanova di Neri",
+          "bottiglia da 0,75 l, annata 2020",
+          "vini"
+        ],
+        [
+          "Guarda Boschi Bolgheri Superiore, Fornacelle",
+          "bottiglia da 0,75 l, annata 2021",
+          "vini"
+        ],
+        [
+          "Negroni, Sabatini",
+          "bottiglia da 1 l",
+          "spirits"
+        ],
+        [
+          "Grappa di Brunello, Palazzo Vecchio",
+          "bottiglia da 0,5 l",
+          "spirits"
+        ],
+        [
+          "Sbriciolona da Cinta Senese DOP, Macelleria Agricola Patrone",
+          "pezzo da 500-600 g",
+          "salumi"
+        ],
+        [
+          "Guanciale di Cinta Senese DOP Bio, Macelleria Savigni",
+          "pezzo da 1 kg",
+          "salumi"
+        ],
+        [
+          "Lardo della Bottega di Adò, La Bottega di Adò",
+          "",
+          "salumi"
+        ],
+        [
+          "Capocollo Toscano, Salumeria di Monte San Savino",
+          "pezzo da 1,5 kg",
+          "salumi"
+        ],
+        [
+          "Salame Piccante da Cinta Senese DOP, Macelleria Agricola Patrone",
+          "",
+          "salumi"
+        ],
+        [
+          "Lonza Lardellata da Cinta Senese DOP, Macelleria Agricola Patrone",
+          "pezzo da 500-600 g",
+          "salumi"
+        ],
+        [
+          "Sbriciolona da Cinta Senese DOP Affettata, Macelleria Agricola Patrone",
+          "confezione da 100 g",
+          "salumi"
+        ],
+        [
+          "Guanciale da Cinta Senese DOP Affettato, Macelleria Agricola Patrone",
+          "confezione da 100 g",
+          "salumi"
+        ],
+        [
+          "Rigatino Toscano di Cinta Senese DOP, Macelleria Agricola Patrone",
+          "",
+          "carni"
+        ],
+        [
+          "Bistecca Fiorentina di Chianina, Co.Pro.Car.S.Nicolò",
+          "pezzo da 1 kg",
+          "carni"
+        ],
+        [
+          "Pappardelle all'uovo, Pastificio Caponi",
+          "confezione da 500 g",
+          "pasta"
+        ],
+        [
+          "Sfoglia /lasagne, Pastificio Caponi",
+          "confezione da 500 g",
+          "pasta"
+        ],
+        [
+          "Tagliolini all'uovo con tartufo Caponi, Pastificio Caponi",
+          "confezione da 250 g",
+          "pasta"
+        ],
+        [
+          "Tagliolini all'uovo Caponi, Pastificio Caponi",
+          "confezione da 250 g",
+          "pasta"
+        ],
+        [
+          "Taglierini all'uovo Caponi, Pastificio Caponi",
+          "confezione da 250 g",
+          "pasta"
+        ],
+        [
+          "Olio Extravergine di Oliva, Laudemio",
+          "bottiglia da 0,5 l",
+          "olio"
+        ],
+        [
+          "Ragù di Chianina IGP, I Toscanacci",
+          "confezione da 180 g",
+          "salse"
+        ],
+        [
+          "Patè per crostino Toscano, I Toscanacci",
+          "confezione da 180 g",
+          "salse"
+        ],
+        [
+          "Ragù di Carne Piemontese, I Toscanacci",
+          "",
+          "salse"
+        ],
+        [
+          "Sugo all'Aglione della Valdichiana, I Toscanacci",
+          "",
+          "salse"
+        ],
+        [
+          "Ragù con Salsiccia di Bra, I Toscanacci",
+          "",
+          "salse"
+        ],
+        [
+          "Panforte di Siena IGP, Antichi Dolci di Siena",
+          "confezione da 250 g",
+          "tipici"
+        ],
+        [
+          "Ricciarelli Antichi Dolci di Siena IGP, Sapori Siena",
+          "confezione da 250 g",
+          "forno"
+        ],
+        [
+          "Cantucci Toscani IGP con Mandorle, Fratelli Lunardi",
+          "confezione da 200 g",
+          "forno"
+        ]
+      ],
+      "pd": {
+        "V-60-0": {
+          "c": [],
+          "d": {
+            "it": "Il Vino Nobile di Montepulciano è un rosso DOCG a base di Sangiovese, localmente chiamato Prugnolo Gentile. Etichetta di Frescobaldi, annata 2021."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "23,88 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Frescobaldi"
+        },
+        "V-60-1": {
+          "c": [],
+          "d": {
+            "it": "Il Morellino di Scansano è un rosso DOCG della Maremma a base di Sangiovese. Etichetta di Poggio Argentiera, annata 2020."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "12,84 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Poggio Argentiera"
+        },
+        "V-60-2": {
+          "c": [],
+          "d": {
+            "it": "Il Rosso di Montalcino è un rosso DOC da uve Sangiovese, più giovane e immediato del Brunello. Etichetta di Tenuta Il Poggione, annata 2023."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "24,30 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Tenuta Il Poggione"
+        },
+        "V-60-3": {
+          "c": [],
+          "d": {
+            "it": "Il Vin Santo è il vino dolce tradizionale toscano, da uve appassite e lungo affinamento in caratelli. Etichetta di Antinori."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "42,88 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Antinori"
+        },
+        "V-60-4": {
+          "c": [],
+          "d": {
+            "it": "Il Vermentino è il bianco della costa toscana, dalla Maremma a Bolgheri. Etichetta di Monteverro, annata 2025."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "22,86 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Monteverro"
+        },
+        "V-60-5": {
+          "c": [
+            "Bio"
+          ],
+          "d": {
+            "it": "Il Carmignano è un rosso DOCG della provincia di Prato, a base di Sangiovese con Cabernet. Etichetta di Fattoria Ambra, annata 2025."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "9,79 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Fattoria Ambra"
+        },
+        "V-60-6": {
+          "c": [],
+          "d": {
+            "it": "Sidus Montecucco, Pianirossi. Presenta un colore rosso vivace con sfumature violacee, al naso c'è un fantastico connubio di profumi intensi e fruttati, con sentori di ciliegie e frutti di bosco. Il gusto è delicato ma persistente, con tannini morbidi che avvolgono la bocca."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "16,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Pianirossi"
+        },
+        "V-60-7": {
+          "c": [],
+          "d": {
+            "it": "Il Chianti è un rosso DOCG toscano a base di Sangiovese. Etichetta di Buccia Nera, annata 2017."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "18,46 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Buccia Nera"
+        },
+        "V-60-8": {
+          "c": [],
+          "d": {
+            "it": "Morellino di Scansano, La Mozza. Uve: Sangiovese 85%, Syrah 10%, Alicante Bouschet 5%. 14% vol. Colore rosso rubino intenso e brillante con riflessi violacei. Profumi molto fruttati, caldi e riccamente speziati, in cui si riconoscono note di mora matura e sentori di caramello. I tannini lunghi, importanti e vellutati sono supportati da ottimo volume e piacevole acidità. Finale sapido e minerale, che dona eleganza e vivacità al palato."
+          },
+          "a": {
+            "it": "Temperatura di servizio: 16-18°C. Abbinamenti: Ideale a tutto pasto con i piatti della terra della tradizione gastronomica toscana e maremmana."
+          },
+          "pr": "17,36 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "La Mozza"
+        },
+        "V-60-9": {
+          "c": [
+            "DOCG"
+          ],
+          "d": {
+            "it": "Gradazione: 14,50%. Il Brunello di Montalcino DOCG Poggio Landi nasce da una selezione di Sangiovese dei vigneti della tenuta Poggio Landi dislocati tra i 180 e i 500 metri sul livello del mare."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "36,69 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Poggio Landi"
+        },
+        "V-60-10": {
+          "c": [],
+          "d": {
+            "it": "Gradazione: 18%. Il Vermouth Etrusco Nero è prodotto da un blend di pregiato vino rosso Fertuna, aromatizzato con estratti naturali di erbe e spezie provenienti anche dalla zona della Maremma."
+          },
+          "a": {
+            "it": "Temperatura di servizio: 10-12ºC. Abbinamenti: Da bere fresco come aperitivo, oppure accompagnato da formaggi erborinati non troppo salati. Ideale da servire a fine portata con biscotti e altri prodotti da forno, oppure accompagnato da cioccolato fondente o speziato."
+          },
+          "pr": "25,88 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Tenuta Fertuna"
+        },
+        "V-60-11": {
+          "c": [],
+          "d": {
+            "it": "Valadorna, Arceno. Uve: 65% Merlot, 11% Cabernet Franc, 19% Cabernet Sauvignon e 5% Petit Verdot. 14,5% vol. La brillante acidità domina al palato e i tannini morbidi e piacevoli avvolgono il cuore per un finale sottile ma emozionante. Al palato mostra sapori di amarena, frutta rossa secca e liquirizia nera, con un lungo finale di pepe bianco, polvere di rosa e mineralità sabbiosa."
+          },
+          "a": {
+            "it": "Temperatura di servizio: 16º-18º C. aromi luminosi di amarene mature, bacca di vaniglia e cedro."
+          },
+          "pr": "75,06 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Arceno"
+        },
+        "V-60-12": {
+          "c": [],
+          "d": {
+            "it": "Il Fauno, Arceno. Uve: Merlot, Franco Cabernet, Cabernet Sauvignon, Petit Verdot. 14,5% vol. Al naso emanano grandi amarene mature, vaniglia terrosa e note di cedro del Cabernet Franc. Questo vino potente, delizioso e avvolgente ha sapori dominanti di fragole mature, cioccolato bianco e zucchero filato. I tannini forniscono struttura ma sono morbidi e flessibili."
+          },
+          "a": {
+            "it": "Temperatura di servizio: 16-18º C."
+          },
+          "pr": "37,60 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Arceno"
+        },
+        "V-60-13": {
+          "c": [],
+          "d": {
+            "it": "Il Chianti Classico è un rosso DOCG a base di Sangiovese prodotto tra Firenze e Siena, riconoscibile dal Gallo Nero. Etichetta di Castello di Ama, annata 2021."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "74,52 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Castello di Ama"
+        },
+        "V-60-14": {
+          "c": [],
+          "d": {
+            "it": "Il Brunello di Montalcino è un rosso DOCG da uve Sangiovese in purezza, affinato a lungo prima della vendita. Etichetta di Casanova di Neri, annata 2020."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "83,06 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Casanova di Neri"
+        },
+        "V-60-15": {
+          "c": [],
+          "d": {
+            "it": "Bolgheri è la denominazione della costa livornese nota per i rossi a base di Cabernet Sauvignon, Merlot e Cabernet Franc. Etichetta di Fornacelle, annata 2021."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "33,90 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Fornacelle"
+        },
+        "V-60-16": {
+          "c": [],
+          "d": {
+            "it": "Gradazione: 25% Vol. Il gusto e la qualità toscana del Negroni, con una ricetta ready-to-drink, pensata dalla famiglia Sabatini per tutti coloro che amano gustare il proprio cocktail preferito anche a casa. Realizzato miscelando in parti uguali: Sabatini Gin, Vermouth e Bitter."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "31,36 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Sabatini"
+        },
+        "V-60-17": {
+          "c": [],
+          "d": {
+            "it": "Gradazione: 45%. Gradazione alcolica: 45%. Questa vinaccia o grappa si ottiene dalla distillazione a vapore, con il classico sistema di doppia distillazione delle profumate vinacce del Brunello di Montalcino. Queste vinacce mantengono tutte le caratteristiche del vino da cui provengono e, dopo averle sottoposte a lunghi periodi di macerazione, offrono un elevato grado alcolico e una grande ricchezza aromatica."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "56,10 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Palazzo Vecchio"
+        },
+        "V-60-18": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "La Sbriciolona di Cinta Senese DOP è un salume dal gusto delicato e raffinato, ottenuto con 45% di spalla e 55% di pancia di Cinta Senese. Questa combinazione dona una consistenza morbida e friabile, arricchita dal profumo del finocchietto selvatico di Segesta."
+          },
+          "a": {
+            "it": "Insaccata in budelli naturali e perfetta da tagliare a coltello, è ideale per taglieri o focacce fragranti."
+          },
+          "pr": "27,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Macelleria Agricola Patrone"
+        },
+        "V-60-19": {
+          "c": [
+            "DOP",
+            "Bio"
+          ],
+          "d": {
+            "it": "Il guanciale da Cinta Senese Savigni si riconosce al primo sguardo. Preparato partendo dalla guancia dei suini allevati in montagna e si riconosce per le sue venature magre circondate dalla loro bianca copertura. E proprio con lui ci possiamo sbizzarrire con la fantasia! A fette sopra una bruschetta calda o tagliato a cubetti e listarelle per un sugo per la pasta o in una zuppa calda."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "27,90 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Macelleria Savigni"
+        },
+        "V-60-20": {
+          "c": [],
+          "d": {
+            "it": "Un prodotto dimenticato ed oggi riscoperto e rivalutato come uno dei salumi più buoni e delicati derivante dalla lavorazione delle carni suine. Il lardo si ottiene prendendo lo strato grasso della schiena del maiale e lo si taglia in corrispondenza della pancetta e si ripulisce della parte più grassa, detta sugnosa."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "15,05 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "La Bottega di Adò"
+        },
+        "V-60-21": {
+          "c": [],
+          "d": {
+            "it": "Un'antica ricetta toscana dal gusto memorabile, con l'aggiunta di finocchietto selvatico, caratteristiche le fette rosate decorate da saporiti inserti di grasso."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "41,94 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Salumeria di Monte San Savino"
+        },
+        "V-60-22": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "Salame piccante artigianale, perfetto sia in un tagliere che su una pizza o utilizzato in cucina. L'età minima di macellazione è di 2 anni, altra caratteristica che contribuisce ad una vita dell'animale più completa e ad una migliore maturazione della carne."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "22,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Macelleria Agricola Patrone"
+        },
+        "V-60-23": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "Un Salume che esprime il perfetto equilibrio tra magro e grasso sia alla vista che al gusto, dove è possibile avere il meglio dei salumi di cinta senese distribuite in parti bilanciate: l'intensità di gusto della parte magra e la scioglievolezza della parte di grasso tipica della razza."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "26,90 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Macelleria Agricola Patrone"
+        },
+        "V-60-24": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "La Sbriciolona di Cinta Senese DOP è un salume dal gusto delicato e raffinato, ottenuto con 45% di spalla e 55% di pancia di Cinta Senese. Questa combinazione dona una consistenza morbida e friabile, arricchita dal profumo del finocchietto selvatico di Segesta."
+          },
+          "a": {
+            "it": "Insaccata in budelli naturali e perfetta da tagliare a coltello, è ideale per taglieri o focacce fragranti."
+          },
+          "pr": "6,90 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Macelleria Agricola Patrone"
+        },
+        "V-60-25": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "Il Guanciale, soprannominato \"Prosciutto Bianco\" da Daniele Baruffaldi, presidente onorario del Consorzio della Cinta Senese DOP, è realizzato attraverso un meticoloso processo di salatura e stagionatura che assicura un prodotto di altissima qualità."
+          },
+          "a": {
+            "it": "L'attenzione artigianale e cura in ogni fase della lavorazione fanno del guanciale un prodotto perfetto per esaltare i sapori autentici di questi piatti iconici."
+          },
+          "pr": "6,50 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Macelleria Agricola Patrone"
+        },
+        "V-60-26": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "Il Rigatino è la Pancetta tradizionale Toscana per eccellenza, quindi rimane stesa e non arrotolata. Il suo forte è la spaziatura tipica con rosmarino, pepe e altri aromi locali. Alla Macelleria Agricola Toscana Patrone, l'allevamento segue principi rigorosi di etica e sostenibilità, andando ben oltre le disposizioni del disciplinare della Cinta Senese DOP."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "19,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Macelleria Agricola Patrone"
+        },
+        "V-60-27": {
+          "c": [],
+          "d": {
+            "it": "La Razza Chianina ha conquistato ormai fama nel mondo gastronomico per la Bistecca Alla Fiorentina. Articolo: Bistecca Fiorentina di Bovino Adulto. Provenienza: Nato in Italia, Ingrassato (allevato) in Italia, Macellato in Italia e Sezionato in Italia."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "52,10 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Co.Pro.Car.S.Nicolò"
+        },
+        "V-60-28": {
+          "c": [],
+          "d": {
+            "it": "La Produzione giornaliera del Pastifio Caponi è circa 200 Kg. L'azienda produce pasta all'uovo essiccata, effettuando una meticolosa ricerca delle materie prime della più elevata qualità. L'essiccazione è la fase più importante del processo produttivo ed è l'aspetto che distingue il Pastificio Caponi dalle altre realtà, infatti richiede un tempo lunghissimo di 70-80 ore a temperatura ambiente."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "8,82 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Pastificio Caponi"
+        },
+        "V-60-29": {
+          "c": [],
+          "d": {
+            "it": "Meravigliosa pasta per cucinare la migliore lasagna bolognese. L'azienda produce pasta all'uovo essiccata di alta qualità con ingredienti accuratamente selezionati. Semola di grano duro canadese (tipo canadese). Grazie al suo elevato contenuto proteico, questo è uno dei migliori tipi di grano. Le uova fresche provengono solo da allevamenti selezionati. Sono controllati e aperti da un lavoratore a mano."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "8,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Pastificio Caponi"
+        },
+        "V-60-30": {
+          "c": [],
+          "d": {
+            "it": "Tagliolini all'uovo con tartufo Caponi, Pastificio Caponi. Il ciclo di lavorazione ha come prima fase del processo miscelare a temperatura ambiente semola e uova fresche, spaccate rigorosamente a mano e controllate una per una da una apposita operatrice. La pasta durante il suo ciclo di lavorazione non subisce variazioni termiche, questo ci permette di non alterare le qualità organolettiche delle materie prime."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "8,44 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Pastificio Caponi"
+        },
+        "V-60-31": {
+          "c": [],
+          "d": {
+            "it": "Tagliolini all'uovo Caponi, Pastificio Caponi. Impasto di semola di grano duro di qualità superiore (tipo canadese) e uova fresche da allevamenti selezionati che vengono spaccate a mano e controllate una per una. Condimento: vengono esaltati da un buon tartufo bianco e nero. Il ciclo di lavorazione ha come prima fase del processo miscelare a temperatura ambiente semola e uova fresche, spaccate rigorosamente a mano e controllate una per una da una apposita operatrice."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "5,19 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Pastificio Caponi"
+        },
+        "V-60-32": {
+          "c": [],
+          "d": {
+            "it": "Taglierini all'uovo Caponi, Pastificio Caponi. Il ciclo di lavorazione ha come prima fase del processo miscelare a temperatura ambiente semola e uova fresche, spaccate rigorosamente a mano e controllate una per una da una apposita operatrice. La pasta durante il suo ciclo di lavorazione non subisce variazioni termiche, questo ci permette di non alterare le qualità organolettiche delle materie prime."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "5,19 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Pastificio Caponi"
+        },
+        "V-60-33": {
+          "c": [],
+          "d": {
+            "it": "Laudemio è il marchio che riunisce produttori di olio extravergine d'oliva delle colline della Toscana centrale: un olio di alta gamma, venduto nella caratteristica bottiglia ottagonale."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "26,84 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Laudemio"
+        },
+        "V-60-34": {
+          "c": [
+            "IGP"
+          ],
+          "d": {
+            "it": "Carne di Chianina dell'Appennino Centrale, preparata con materie prime di alta qualità e cucinata secondo la migliore tradizione. Un sugo gustoso ma delicato che saprà soddisfare tutti i palati. Caratteristiche del sugo: sapido, corposo, raffinato. Pasta consigliata: Tortelli di patate."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "5,30 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "I Toscanacci"
+        },
+        "V-60-35": {
+          "c": [],
+          "d": {
+            "it": "Un paté tipico dell'area umbro-toscana. Caratteristiche del paté: tipico e stuzzicante, con fondo amabilmente amaro."
+          },
+          "a": {
+            "it": "Denso e facile da spalmare è l'ideale per preparare crostini dal gusto ricercato. Ottimo per uno spuntino di grande qualità o per un aperitivo un po' speciale."
+          },
+          "pr": "4,74 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "I Toscanacci"
+        },
+        "V-60-36": {
+          "c": [],
+          "d": {
+            "it": "Un ragù dal gusto eccezionale grazie all'utilizzo di sola carne di razza Piemontese, rinomata per la sua tenerezza. Caratteristiche del sugo: delicato, raffinato, gustoso. Pasta consigliata: agnolotti. Vini consigliati: Barbaresco DOCG."
+          },
+          "a": {
+            "it": "Caratteristiche vino per abbinamento perfetto: rosso di media struttura, intenso, armonico."
+          },
+          "pr": "4,36 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "I Toscanacci"
+        },
+        "V-60-37": {
+          "c": [],
+          "d": {
+            "it": "Caratteristico sugo il cui ingrediente principale è l'aglione della Val di Chiana, una varietà di aglio dal sapore delicato ma più gustoso rispetto alle classiche tipologie di aglio. Caratteristiche del sugo: delicato, autentico, gustoso. Pasta consigliata: pici. Vini consigliati: Montepulciano."
+          },
+          "a": {
+            "it": "Caratteristiche vino per abbinamento perfetto: intenso, floreale, dal sapore equilibrato."
+          },
+          "pr": "3,06 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "I Toscanacci"
+        },
+        "V-60-38": {
+          "c": [],
+          "d": {
+            "it": "Ragù con Salsiccia di Bra, I Toscanacci. Caratteristiche del sugo: gustoso, delicato, profumato. Pasta consigliata: tagliolini. Vini consigliati: Dolcetto d'Alba DOC."
+          },
+          "a": {
+            "it": "Caratteristiche vino per abbinamento perfetto: rosso secco gradevole e ben strutturato."
+          },
+          "pr": "4,76 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "I Toscanacci"
+        },
+        "V-60-39": {
+          "c": [
+            "IGP"
+          ],
+          "d": {
+            "it": "Il Panforte Margherita fu preparato per la prima volta nel 1879 in occasione di una visita a Siena della regina Margherita. Impastato con canditi dal sapore tenue, con spezie dal gusto delicato e cosparso sulla superﬁcie con dello zucchero vanigliato è considerato il Panforte classico dei temp."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "10,70 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Antichi Dolci di Siena"
+        },
+        "V-60-40": {
+          "c": [
+            "IGP"
+          ],
+          "d": {
+            "it": "I Ricciarelli “Antichi dolci di Siena” sono pasticcini morbidissimi, a forma di losanga, fatti con mandorle, miele, zucchero, ammorbiditi con albume d'uovo e dopo essere stati sapientemente lavorati a mano uno ad uno, cotti dolcemente in forno cosparsi di zucchero a velo. Davvero inimitabili per gusto e fragranza, specie se consumati freschi."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "11,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Sapori Siena"
+        },
+        "V-60-41": {
+          "c": [
+            "IGP"
+          ],
+          "d": {
+            "it": "La Regina è la mandorla. Impasto friabile, mandorle croccanti, sapore unico. È il cantuccio toscano IGP alle mandorle, il biscotto tipico della tradizione toscana. È il cantuccio classico, ma non il classico cantuccio."
+          },
+          "a": {
+            "it": "Perfetto per ogni momento della giornata, leggermente croccante e ancora più buona per l'aggiunta di una tocca di buon burro. Buonissimo sempre, nel sacchetto da 200g, ottimo come regalo, perfetto col Vin Santo toscano!"
+          },
+          "pr": "6,88 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Fratelli Lunardi"
+        }
+      },
+      "fonti": [
+        "https://www.soloprodottiitaliani.it/",
+        "https://www.soloprodottiitaliani.it/pages/progetto.html",
+        "https://www.soloprodottiitaliani.it/pages/winearchy-il-regno-del-vino.html",
+        "https://www.soloprodottiitaliani.it/catalogo.php?IdRegioni=58"
+      ]
+    },
+    {
+      "id": "V-61",
+      "n": "OIP · Umbria",
+      "cat": "vino",
+      "reg": "Umbria",
+      "city": "Selezione regionale OIP",
+      "lat": 43.111,
+      "lng": 12.389,
+      "y": null,
+      "certs": [
+        "IGP",
+        "Bio"
+      ],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "logoBg": "#ffffff",
+      "d": {
+        "it": "L'Umbria è il cuore verde d'Italia: Sagrantino di Montefalco e bianchi di Orvieto, olio extravergine, legumi, tartufi e la norcineria che da Norcia ha preso il nome. Questa vetrina raccoglie la selezione dell'Umbria di OIP, Only Italian Products: 11 prodotti di 9 produttori, scelti dal catalogo di soloprodottiitaliani.it e divisi per tipologia: vini (4), birre (2), salumi (2), salse e sughi (1), prodotti tipici (2). OIP è una boutique online del cibo e del vino italiano di qualità, con sede e magazzino a Rezzato, in provincia di Brescia, dove si trova anche l'enoteca Winearchy, con oltre 5.000 etichette in negozio. Seleziona fornitori artigianali, ha una sezione dedicata all'Ho.Re.Ca. e un sito disponibile nelle versioni nazionali di 15 Paesi. Il produttore di ogni referenza è indicato nella scheda del prodotto.",
+        "en": "Umbria is the green heart of Italy: Sagrantino di Montefalco and the whites of Orvieto, extra virgin olive oil, pulses, truffles and the pork butchery tradition that takes its name from Norcia. This stand brings together OIP's selection from Umbria: 11 products from 9 producers, chosen from the soloprodottiitaliani.it catalogue and grouped by type: wines (4), beers (2), cured meats (2), sauces (1), regional specialities (2). OIP, Only Italian Products, is an online boutique for quality Italian food and wine, with headquarters and warehouse in Rezzato, near Brescia, where it also runs the Winearchy wine shop, with over 5,000 labels in store. It selects artisan suppliers, has a dedicated Ho.Re.Ca. section and a website available in national versions for 15 countries. The producer of each item is shown on its product sheet.",
+        "de": "Umbrien ist das grüne Herz Italiens: Sagrantino di Montefalco und die Weißweine aus Orvieto, natives Olivenöl extra, Hülsenfrüchte, Trüffel und die Wursttradition, die ihren Namen von Norcia hat. Dieser Stand zeigt die Auswahl von OIP aus Umbrien: 11 Produkte von 9 Herstellern, ausgewählt aus dem Katalog von soloprodottiitaliani.it und nach Produktart gegliedert: Weine (4), Biere (2), Wurst und Schinken (2), Saucen und Sughi (1), Regionale Spezialitäten (2). OIP, Only Italian Products, ist eine Online-Boutique für hochwertige italienische Lebensmittel und Weine mit Sitz und Lager in Rezzato bei Brescia, wo sich auch die Vinothek Winearchy mit über 5.000 Etiketten im Geschäft befindet. OIP wählt handwerkliche Lieferanten aus, hat einen eigenen Ho.Re.Ca.-Bereich und eine Website in Länderversionen für 15 Länder. Der Hersteller jedes Artikels ist im Produktblatt angegeben."
+      },
+      "sub": [
+        {
+          "k": "vini",
+          "cat": "vino",
+          "n": {
+            "it": "Vini",
+            "en": "Wines",
+            "de": "Weine"
+          }
+        },
+        {
+          "k": "birre",
+          "cat": "misti",
+          "n": {
+            "it": "Birre",
+            "en": "Beers",
+            "de": "Biere"
+          }
+        },
+        {
+          "k": "salumi",
+          "cat": "salumi",
+          "n": {
+            "it": "Salumi",
+            "en": "Cured meats",
+            "de": "Wurst und Schinken"
+          }
+        },
+        {
+          "k": "salse",
+          "cat": "conserve",
+          "n": {
+            "it": "Salse e sughi",
+            "en": "Sauces",
+            "de": "Saucen und Sughi"
+          }
+        },
+        {
+          "k": "tipici",
+          "cat": "misti",
+          "n": {
+            "it": "Prodotti tipici",
+            "en": "Regional specialities",
+            "de": "Regionale Spezialitäten"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Montefalco Sagrantino, Moretti Omero",
+          "bottiglia da 0,75 l, annata 2020",
+          "vini"
+        ],
+        [
+          "Adanti Riserva Montefalco Rosso",
+          "bottiglia da 0,75 l, annata 2019",
+          "vini"
+        ],
+        [
+          "I Rovi Grechetto, Peppucci",
+          "bottiglia da 0,75 l, annata 2024",
+          "vini"
+        ],
+        [
+          "Trebbiano Spoletino 'vigna Tonda', Biologico, Antonelli San Marco",
+          "bottiglia da 0,75 l, annata 2023",
+          "vini"
+        ],
+        [
+          "Birra Flea Bastola Rossa, Birrificio Flea",
+          "bottiglia da 0,75 l",
+          "birre"
+        ],
+        [
+          "Costanza Blonde Ale, Birrificio Flea",
+          "bottiglia da 33 cl",
+          "birre"
+        ],
+        [
+          "Prosciutto di Norcia IGP, La Colonica",
+          "pezzo da 7,5 kg circa",
+          "salumi"
+        ],
+        [
+          "Guanciale del Norcino, Renzini",
+          "pezzo da 500 g",
+          "salumi"
+        ],
+        [
+          "Specialità a base di Parmigiano e Tartufo bianchetto, Giuliano Tartufi",
+          "confezione da 80 g",
+          "salse"
+        ],
+        [
+          "Lenticchia dei Monti Sibillini, Sapori dei Sibillini",
+          "confezione da 500 g",
+          "tipici"
+        ],
+        [
+          "Specialità a base di Sale e Tartufo estivo, Giuliano Tartufi",
+          "confezione da 50 g",
+          "tipici"
+        ]
+      ],
+      "pd": {
+        "V-61-0": {
+          "c": [],
+          "d": {
+            "it": "Il Montefalco Sagrantino è un rosso DOCG umbro da uve Sagrantino in purezza, tra i più tannici d'Italia. Etichetta di Moretti Omero, annata 2020."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "30,06 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Moretti Omero"
+        },
+        "V-61-1": {
+          "c": [],
+          "d": {
+            "it": "Il Montefalco Rosso è un rosso DOC a base di Sangiovese con una quota di Sagrantino. Etichetta di Adanti, annata 2019."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "19,78 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Adanti"
+        },
+        "V-61-2": {
+          "c": [],
+          "d": {
+            "it": "Il Grechetto è il vitigno bianco più tipico dell'Umbria. Etichetta di Peppucci, annata 2024."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "16,50 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Peppucci"
+        },
+        "V-61-3": {
+          "c": [
+            "Bio"
+          ],
+          "d": {
+            "it": "Il Trebbiano Spoletino è un vitigno bianco autoctono dell'Umbria, fresco e longevo. Etichetta di Antonelli San Marco, annata 2023."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "16,90 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Antonelli San Marco"
+        },
+        "V-61-4": {
+          "c": [],
+          "d": {
+            "it": "Gradazione: alc. 6,9% vol. Birra dal colore ambrato scuro tendente al rosso, prodotta con malto d'orzo al 100%, dal gusto intenso, secca, leggermente amara e con retrogusto caramello e nocciola dato dall'utilizzo di malti speciali, schiuma compatta, cremosa e aderente. Non filtrata, non pastorizzata, ad alta fermentazione e rifermentata in bottiglia."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "7,70 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Birrificio Flea"
+        },
+        "V-61-5": {
+          "c": [],
+          "d": {
+            "it": "Costanza è la blonde ale del Birrificio Flea di Gualdo Tadino, in Umbria."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "3,50 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Birrificio Flea"
+        },
+        "V-61-6": {
+          "c": [
+            "IGP"
+          ],
+          "d": {
+            "it": "Il prosciutto di Norcia IGP è un crudo stagionato prodotto nell'area di Norcia, il cuore verde dell'Umbria con una secolare tradizione gastronomica specie nell'ambito dei salumi. Gustoso, aromatico e delicato, il crudo IGP conferma l'eccellenza dei professionisti umbri della salumeria, che non a caso in tutta Italia vengono ora definiti Norcini."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "197,94 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "La Colonica"
+        },
+        "V-61-7": {
+          "c": [],
+          "d": {
+            "it": "Il Guanciale Stagionato è prodotto con carne di suino nazionale pesante e si ottiene dalla guance, conservate sotto sale e pepe, mondate a mano. A forma di triangolo proprio per la rifilatura a mano, ha un gusto dolcissimo con una punta di sapidità che lo rendono un prodotto dal gusto appetitoso e molto versatile in cucina."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "11,44 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Renzini"
+        },
+        "V-61-8": {
+          "c": [],
+          "d": {
+            "it": "Specialità a base di Parmigiano Reggiano e tartufo bianchetto, della casa umbra Giuliano Tartufi: una crema pronta per condire pasta, risotti e crostini."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "7,36 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Giuliano Tartufi"
+        },
+        "V-61-9": {
+          "c": [],
+          "d": {
+            "it": "Lenticchia dei Monti Sibillini: seme piccolo, buccia sottile e cottura rapida, senza ammollo."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "3,84 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Sapori dei Sibillini"
+        },
+        "V-61-10": {
+          "c": [],
+          "d": {
+            "it": "Sale aromatizzato al tartufo estivo, della casa umbra Giuliano Tartufi: per insaporire carni, uova, patate e pasta."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "5,96 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Giuliano Tartufi"
+        }
+      },
+      "fonti": [
+        "https://www.soloprodottiitaliani.it/",
+        "https://www.soloprodottiitaliani.it/pages/progetto.html",
+        "https://www.soloprodottiitaliani.it/pages/winearchy-il-regno-del-vino.html",
+        "https://www.soloprodottiitaliani.it/catalogo.php?IdRegioni=59"
+      ]
+    },
+    {
+      "id": "V-62",
+      "n": "OIP · Marche",
+      "cat": "vino",
+      "reg": "Marche",
+      "city": "Selezione regionale OIP",
+      "lat": 43.616,
+      "lng": 13.519,
+      "y": null,
+      "certs": [
+        "IGP"
+      ],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "logoBg": "#ffffff",
+      "d": {
+        "it": "Le Marche vanno dall'Adriatico all'Appennino: Verdicchio dei Castelli di Jesi e di Matelica, Rosso Conero e Rosso Piceno, pasta di grano duro e salumi come il ciauscolo. Questa vetrina raccoglie la selezione delle Marche di OIP, Only Italian Products: 17 prodotti di 11 produttori, scelti dal catalogo di soloprodottiitaliani.it e divisi per tipologia: vini (6), grappe, liquori e distillati (1), birre (2), salumi (2), pasta e riso (5), prodotti tipici (1). OIP è una boutique online del cibo e del vino italiano di qualità, con sede e magazzino a Rezzato, in provincia di Brescia, dove si trova anche l'enoteca Winearchy, con oltre 5.000 etichette in negozio. Seleziona fornitori artigianali, ha una sezione dedicata all'Ho.Re.Ca. e un sito disponibile nelle versioni nazionali di 15 Paesi. Il produttore di ogni referenza è indicato nella scheda del prodotto.",
+        "en": "Marche stretches from the Adriatic to the Apennines: Verdicchio dei Castelli di Jesi and di Matelica, Rosso Conero and Rosso Piceno, durum wheat pasta and cured meats such as ciauscolo. This stand brings together OIP's selection from Marche: 17 products from 11 producers, chosen from the soloprodottiitaliani.it catalogue and grouped by type: wines (6), grappa, liqueurs and spirits (1), beers (2), cured meats (2), pasta and rice (5), regional specialities (1). OIP, Only Italian Products, is an online boutique for quality Italian food and wine, with headquarters and warehouse in Rezzato, near Brescia, where it also runs the Winearchy wine shop, with over 5,000 labels in store. It selects artisan suppliers, has a dedicated Ho.Re.Ca. section and a website available in national versions for 15 countries. The producer of each item is shown on its product sheet.",
+        "de": "Die Marken reichen von der Adria bis zum Apennin: Verdicchio dei Castelli di Jesi und di Matelica, Rosso Conero und Rosso Piceno, Hartweizenpasta und Wurstwaren wie der Ciauscolo. Dieser Stand zeigt die Auswahl von OIP aus den Marken: 17 Produkte von 11 Herstellern, ausgewählt aus dem Katalog von soloprodottiitaliani.it und nach Produktart gegliedert: Weine (6), Grappa, Liköre und Spirituosen (1), Biere (2), Wurst und Schinken (2), Pasta und Reis (5), Regionale Spezialitäten (1). OIP, Only Italian Products, ist eine Online-Boutique für hochwertige italienische Lebensmittel und Weine mit Sitz und Lager in Rezzato bei Brescia, wo sich auch die Vinothek Winearchy mit über 5.000 Etiketten im Geschäft befindet. OIP wählt handwerkliche Lieferanten aus, hat einen eigenen Ho.Re.Ca.-Bereich und eine Website in Länderversionen für 15 Länder. Der Hersteller jedes Artikels ist im Produktblatt angegeben."
+      },
+      "sub": [
+        {
+          "k": "vini",
+          "cat": "vino",
+          "n": {
+            "it": "Vini",
+            "en": "Wines",
+            "de": "Weine"
+          }
+        },
+        {
+          "k": "spirits",
+          "cat": "liquori",
+          "n": {
+            "it": "Grappe, liquori e distillati",
+            "en": "Grappa, liqueurs and spirits",
+            "de": "Grappa, Liköre und Spirituosen"
+          }
+        },
+        {
+          "k": "birre",
+          "cat": "misti",
+          "n": {
+            "it": "Birre",
+            "en": "Beers",
+            "de": "Biere"
+          }
+        },
+        {
+          "k": "salumi",
+          "cat": "salumi",
+          "n": {
+            "it": "Salumi",
+            "en": "Cured meats",
+            "de": "Wurst und Schinken"
+          }
+        },
+        {
+          "k": "pasta",
+          "cat": "pasta",
+          "n": {
+            "it": "Pasta e riso",
+            "en": "Pasta and rice",
+            "de": "Pasta und Reis"
+          }
+        },
+        {
+          "k": "tipici",
+          "cat": "misti",
+          "n": {
+            "it": "Prodotti tipici",
+            "en": "Regional specialities",
+            "de": "Regionale Spezialitäten"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Maccagnano Verdicchio di Matelica Riserva Edizione Trentennale, Gagliardi",
+          "bottiglia da 0,75 l, annata 2022",
+          "vini"
+        ],
+        [
+          "Piancarda Garofoli Rosso Conero",
+          "bottiglia da 0,75 l, annata 2023",
+          "vini"
+        ],
+        [
+          "Cervidoni Rosso Piceno, Tenuta di Tavignano",
+          "bottiglia da 0,75 l, annata 2023",
+          "vini"
+        ],
+        [
+          "Reve Offida Pecorino, Velenosi",
+          "bottiglia da 0,75 l, annata 2024",
+          "vini"
+        ],
+        [
+          "Tufilla Marche Passerina, Simone Capecci",
+          "bottiglia da 0,75 l, annata 2025",
+          "vini"
+        ],
+        [
+          "Barbarossa Lacrima di Morro d'Alba, Tenuta di Tavignano",
+          "bottiglia da 0,75 l, annata 2024",
+          "vini"
+        ],
+        [
+          "Grappa di Verdicchio di Matelica Lt, Colpaola",
+          "bottiglia da 0,4 l",
+          "spirits"
+        ],
+        [
+          "Collesi Bionda",
+          "",
+          "birre"
+        ],
+        [
+          "Collesi Rossa",
+          "",
+          "birre"
+        ],
+        [
+          "Ciauscolo IGP, Re Norcino",
+          "pezzo da 600 g",
+          "salumi"
+        ],
+        [
+          "Pancetta Arrotolata, Re Norcino",
+          "pezzo da 500 g",
+          "salumi"
+        ],
+        [
+          "Pappardelle La Campofilone",
+          "confezione da 250 g",
+          "pasta"
+        ],
+        [
+          "Rigatoni, Pasta Mancini",
+          "confezione da 500 g",
+          "pasta"
+        ],
+        [
+          "Fettuccine di Campofilone, Spinosi",
+          "confezione da 250 g",
+          "pasta"
+        ],
+        [
+          "Strozzapreti di Campofilone, La Campofilone",
+          "confezione da 250 g",
+          "pasta"
+        ],
+        [
+          "Maltagliati all'uovo Campofilone, La Campofilone",
+          "confezione da 250 g",
+          "pasta"
+        ],
+        [
+          "Ceci, Pasta Mancini",
+          "confezione da 500 g",
+          "tipici"
+        ]
+      ],
+      "pd": {
+        "V-62-0": {
+          "c": [],
+          "d": {
+            "it": "Il Verdicchio è il grande bianco delle Marche, nelle denominazioni Castelli di Jesi e Matelica. Etichetta di Gagliardi, annata 2022."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "35,60 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Gagliardi"
+        },
+        "V-62-1": {
+          "c": [],
+          "d": {
+            "it": "Il Rosso Conero è un rosso DOC a base di Montepulciano, coltivato intorno al Monte Conero. Etichetta di Garofoli, annata 2023."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "13,95 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Garofoli"
+        },
+        "V-62-2": {
+          "c": [],
+          "d": {
+            "it": "Il Rosso Piceno è un rosso DOC marchigiano da uve Montepulciano e Sangiovese. Etichetta di Tenuta di Tavignano, annata 2023."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "12,05 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Tenuta di Tavignano"
+        },
+        "V-62-3": {
+          "c": [],
+          "d": {
+            "it": "Il Pecorino è un vitigno bianco autoctono tra Marche e Abruzzo: dà vini freschi e strutturati. Etichetta di Velenosi, annata 2024."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "30,71 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Velenosi"
+        },
+        "V-62-4": {
+          "c": [],
+          "d": {
+            "it": "La Passerina è un vitigno bianco del medio Adriatico: dà vini freschi e leggeri. Etichetta di Simone Capecci, annata 2025."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "13,88 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Simone Capecci"
+        },
+        "V-62-5": {
+          "c": [],
+          "d": {
+            "it": "La Lacrima di Morro d'Alba è un rosso DOC aromatico, con profumi di rosa e viola. Etichetta di Tenuta di Tavignano, annata 2024."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "13,30 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Tenuta di Tavignano"
+        },
+        "V-62-6": {
+          "c": [],
+          "d": {
+            "it": "Grappa di Verdicchio di Matelica, distillata dalle vinacce dell'omonimo vino bianco marchigiano dell'azienda Colpaola."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "40,50 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Colpaola"
+        },
+        "V-62-7": {
+          "c": [],
+          "d": {
+            "it": "Birra artigianale chiara prodotta da Collesi ad Apecchio, nelle Marche, rifermentata in bottiglia."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "7,84 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Collesi"
+        },
+        "V-62-8": {
+          "c": [],
+          "d": {
+            "it": "Birra artigianale rossa prodotta da Collesi ad Apecchio, nelle Marche, rifermentata in bottiglia."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "7,94 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Collesi"
+        },
+        "V-62-9": {
+          "c": [
+            "IGP"
+          ],
+          "d": {
+            "it": "Il Ciauscolo IGP è il salame spalmabile delle Marche: carne di suino macinata finissima, morbida e profumata, da spalmare sul pane."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "19,70 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Re Norcino"
+        },
+        "V-62-10": {
+          "c": [],
+          "d": {
+            "it": "Pancetta di suino arrotolata e stagionata, della norcineria marchigiana Re Norcino."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "13,50 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Re Norcino"
+        },
+        "V-62-11": {
+          "c": [],
+          "d": {
+            "it": "Enzo Rossi, dopo aver studiato la lavorazione manuale della pasta all'uovo fatta dalle donne più anziane del borgo, è stato capace di riprodurre nel proprio laboratorio un prodotto dotato della stessa genuinità e delle stesse prerogative originali di un tempo, che nei secoli hanno reso la pasta di Campofilone una prelibatezza gastronomica e che oggi ne fanno un piatto ricercato ed amato in tutto il mondo."
+          },
+          "a": {
+            "it": "La semola impiegata viene estratta dal cuore del grano, in un mulino delle Marche, certificato per il biologico, così da conservare un alto indice glutinico e granulometrico, per evitare la collosità e garantire nervo e tenuta della pasta durante la cottura."
+          },
+          "pr": "4,43 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "La Campofilone"
+        },
+        "V-62-12": {
+          "c": [],
+          "d": {
+            "it": "Rigatoni, Pasta Mancini. La pasta Mancini viene prodotta con il grano duro coltivato direttamente dall'azienda. Gli unici ingredienti utilizzati sono la semola e l'acqua. Sono lunghi 45 mm ed hanno un diametro di 19,2 mm. Il tempo di cottura è di 9-11 minuti."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "3,79 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Pasta Mancini"
+        },
+        "V-62-13": {
+          "c": [],
+          "d": {
+            "it": "Le Fettuccine, a differenza delle tagliatelle, hanno una larghezza minore che può spaziare dai 3 ai 5 millimetri. Essendo un formato molto versatile, si presta bene a rivisitazioni e sperimentazioni culinarie. Con semola di grano duro e uova fresche italiane al 100%."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "6,90 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Spinosi"
+        },
+        "V-62-14": {
+          "c": [],
+          "d": {
+            "it": "Enzo Rossi, dopo aver studiato la lavorazione manuale della pasta all'uovo fatta dalle donne più anziane del borgo, è stato capace di riprodurre nel proprio laboratorio un prodotto dotato della stessa genuinità e delle stesse prerogative originali di un tempo, che nei secoli hanno reso la pasta di Campofilone una prelibatezza gastronomica e che oggi ne fanno un piatto ricercato ed amato in tutto il mondo."
+          },
+          "a": {
+            "it": "La semola impiegata viene estratta dal cuore del grano, in un mulino delle Marche, certificato per il biologico, così da conservare un alto indice glutinico e granulometrico, per evitare la collosità e garantire nervo e tenuta della pasta durante la cottura."
+          },
+          "pr": "4,64 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "La Campofilone"
+        },
+        "V-62-15": {
+          "c": [],
+          "d": {
+            "it": "Maltagliati all'uovo Campofilone, La Campofilone. I Grani duri selezionati, non OGM, coltivati esclusivamente nelle Marche, sono caratterizzati da un tenore proteico superiore al 14,5%, per garantire un ottimo valore nutritivo. La semola viene estratta dal cuore del grano, in modo da utilizzare una parte inferiore al 60% del chicco. Ciò conferisce un alto indice glutinico, oltre a garantire nervo e tenuta di cottura."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "4,99 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "La Campofilone"
+        },
+        "V-62-16": {
+          "c": [],
+          "d": {
+            "it": "Arricchisce naturalmente il terreno di azoto, elemento nutritivo fondamentale. È considerato una coltura \"miglioratrice\" perché aumenta la fertilità dei campi che l'anno successivo accoglieranno il grano duro della Pasta Agricola Mancini. Informazioni sui ceci: Il diametro medio è di 7,8-8,2 mm. Il tempo di ammollo consigliato è di 12 ore. Il tempo di cottura è di 2 ore."
+          },
+          "a": {
+            "it": "Prezioso per la terra, ideale per un'alimentazione ricca di fibre e proteine."
+          },
+          "pr": "3,50 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Pasta Mancini"
+        }
+      },
+      "fonti": [
+        "https://www.soloprodottiitaliani.it/",
+        "https://www.soloprodottiitaliani.it/pages/progetto.html",
+        "https://www.soloprodottiitaliani.it/pages/winearchy-il-regno-del-vino.html",
+        "https://www.soloprodottiitaliani.it/catalogo.php?IdRegioni=60"
+      ]
+    },
+    {
+      "id": "V-63",
+      "n": "OIP · Lazio",
+      "cat": "vino",
+      "reg": "Lazio",
+      "city": "Selezione regionale OIP",
+      "lat": 41.902,
+      "lng": 12.496,
+      "y": null,
+      "certs": [
+        "DOC",
+        "Bio"
+      ],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "logoBg": "#ffffff",
+      "d": {
+        "it": "Il Lazio è la regione di Roma e dei Castelli Romani: Frascati e Malvasia, il Cesanese del Piglio, e una cucina fatta di pecorino, guanciale e prodotti da forno. Questa vetrina raccoglie la selezione del Lazio di OIP, Only Italian Products: 11 prodotti di 9 produttori, scelti dal catalogo di soloprodottiitaliani.it e divisi per tipologia: vini (7), grappe, liquori e distillati (1), prodotti tipici (3). OIP è una boutique online del cibo e del vino italiano di qualità, con sede e magazzino a Rezzato, in provincia di Brescia, dove si trova anche l'enoteca Winearchy, con oltre 5.000 etichette in negozio. Seleziona fornitori artigianali, ha una sezione dedicata all'Ho.Re.Ca. e un sito disponibile nelle versioni nazionali di 15 Paesi. Il produttore di ogni referenza è indicato nella scheda del prodotto.",
+        "en": "Lazio is the region of Rome and the Castelli Romani: Frascati and Malvasia, Cesanese del Piglio, and a cuisine built on pecorino, guanciale and baked goods. This stand brings together OIP's selection from Lazio: 11 products from 9 producers, chosen from the soloprodottiitaliani.it catalogue and grouped by type: wines (7), grappa, liqueurs and spirits (1), regional specialities (3). OIP, Only Italian Products, is an online boutique for quality Italian food and wine, with headquarters and warehouse in Rezzato, near Brescia, where it also runs the Winearchy wine shop, with over 5,000 labels in store. It selects artisan suppliers, has a dedicated Ho.Re.Ca. section and a website available in national versions for 15 countries. The producer of each item is shown on its product sheet.",
+        "de": "Das Latium ist die Region Roms und der Castelli Romani: Frascati und Malvasia, Cesanese del Piglio und eine Küche aus Pecorino, Guanciale und Backwaren. Dieser Stand zeigt die Auswahl von OIP aus dem Latium: 11 Produkte von 9 Herstellern, ausgewählt aus dem Katalog von soloprodottiitaliani.it und nach Produktart gegliedert: Weine (7), Grappa, Liköre und Spirituosen (1), Regionale Spezialitäten (3). OIP, Only Italian Products, ist eine Online-Boutique für hochwertige italienische Lebensmittel und Weine mit Sitz und Lager in Rezzato bei Brescia, wo sich auch die Vinothek Winearchy mit über 5.000 Etiketten im Geschäft befindet. OIP wählt handwerkliche Lieferanten aus, hat einen eigenen Ho.Re.Ca.-Bereich und eine Website in Länderversionen für 15 Länder. Der Hersteller jedes Artikels ist im Produktblatt angegeben."
+      },
+      "sub": [
+        {
+          "k": "vini",
+          "cat": "vino",
+          "n": {
+            "it": "Vini",
+            "en": "Wines",
+            "de": "Weine"
+          }
+        },
+        {
+          "k": "spirits",
+          "cat": "liquori",
+          "n": {
+            "it": "Grappe, liquori e distillati",
+            "en": "Grappa, liqueurs and spirits",
+            "de": "Grappa, Liköre und Spirituosen"
+          }
+        },
+        {
+          "k": "tipici",
+          "cat": "misti",
+          "n": {
+            "it": "Prodotti tipici",
+            "en": "Regional specialities",
+            "de": "Regionale Spezialitäten"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Frascati Secco, Fontana Candida",
+          "bottiglia da 0,75 l, annata 2024",
+          "vini"
+        ],
+        [
+          "Cesanese di Olevano Romano Silene, Ciolli",
+          "bottiglia da 0,75 l, annata 2024",
+          "vini"
+        ],
+        [
+          "Malvasia Bianca di Candia, Il Sambuco",
+          "bottiglia da 0,75 l, annata 2024",
+          "vini"
+        ],
+        [
+          "Anthium Bellone, Casale del Giglio",
+          "bottiglia da 0,75 l, annata 2024",
+          "vini"
+        ],
+        [
+          "La Torre a Civitella Grechetto, Sergio Mottura",
+          "bottiglia da 0,75 l, annata 2023",
+          "vini"
+        ],
+        [
+          "Aburbecondita Roma 753 AC, Capizucchi",
+          "bottiglia da 0,75 l, annata 2020",
+          "vini"
+        ],
+        [
+          "Orvieto Secco, Sergio Mottura",
+          "bottiglia da 0,75 l, annata 2024",
+          "vini"
+        ],
+        [
+          "Amaro Erbes Tonico Digestivo, Fabbrica di liquori Izzi",
+          "bottiglia da 70 cl",
+          "spirits"
+        ],
+        [
+          "Funghi alla Contadina, Agnoni",
+          "confezione da 210 g",
+          "tipici"
+        ],
+        [
+          "Confettura Extra di Mela Golden e Cannella Bio, Fruttanuda",
+          "confezione da 230 g",
+          "tipici"
+        ],
+        [
+          "Confettura Extra di Pera Williams Bio, Fruttanuda",
+          "confezione da 230 g",
+          "tipici"
+        ]
+      ],
+      "pd": {
+        "V-63-0": {
+          "c": [],
+          "d": {
+            "it": "Il Frascati è il bianco dei Castelli Romani, a base di Malvasia e Trebbiano. Etichetta di Fontana Candida, annata 2024."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "8,68 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Fontana Candida"
+        },
+        "V-63-1": {
+          "c": [],
+          "d": {
+            "it": "Il Cesanese è il vitigno rosso autoctono del Lazio, alla base del Cesanese del Piglio DOCG. Etichetta di Ciolli, annata 2024."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "20,40 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Ciolli"
+        },
+        "V-63-2": {
+          "c": [],
+          "d": {
+            "it": "La Malvasia del Lazio, detta Puntinata, è il vitigno bianco tipico dei Castelli Romani. Etichetta di Il Sambuco, annata 2024."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "19,32 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Il Sambuco"
+        },
+        "V-63-3": {
+          "c": [],
+          "d": {
+            "it": "Il Bellone è un antico vitigno bianco del Lazio. Etichetta di Casale del Giglio, annata 2024."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "19,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Casale del Giglio"
+        },
+        "V-63-4": {
+          "c": [],
+          "d": {
+            "it": "Il Grechetto è un vitigno bianco diffuso tra Umbria e alto Lazio. Etichetta di Sergio Mottura, annata 2023."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "27,99 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Sergio Mottura"
+        },
+        "V-63-5": {
+          "c": [
+            "DOC"
+          ],
+          "d": {
+            "it": "Roma DOC è la denominazione dei vini prodotti intorno alla capitale. Etichetta di Capizucchi, annata 2020."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "8,14 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Capizucchi"
+        },
+        "V-63-6": {
+          "c": [],
+          "d": {
+            "it": "Uve: Procanico 45%, Verdello 25%, Grechetto 20%, Rupeccio 10%. 13% vol. Di colore giallo paglierino, il profumo è fruttato, fragrante e fortemente tipico della zona di produzione con sentori di mente selvatica ed erbe aromatiche. Il sapore è secco ma avvolgente con un leggero retrogusto amarognolo."
+          },
+          "a": {
+            "it": "Temperatura di servizio: 8°C. Abbinamenti: Ottimo come aperitivo, lasagne al forno, spaghetti conditi con verdure di stagione, crespelle agli asparagi, piatti di pesce in genere, formaggi freschi."
+          },
+          "pr": "16,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Sergio Mottura"
+        },
+        "V-63-7": {
+          "c": [],
+          "d": {
+            "it": "Amaro Erbes, tonico digestivo alle erbe della fabbrica di liquori Izzi, nel Lazio."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "22,34 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Fabbrica di liquori Izzi"
+        },
+        "V-63-8": {
+          "c": [],
+          "d": {
+            "it": "La lavorazione dal fresco mantiene la corposità e la freschezza della materia prima: funghi prataioli coltivati, attentamente selezionati anche nella pezzatura."
+          },
+          "a": {
+            "it": "Sfiziosi funghetti champignon alla brace conditi con prezzemolo, perfetti come antipasto pronto da gustare, ma anche per guarnire insalate di riso e accompagnare secondi piatti di carne."
+          },
+          "pr": "10,40 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Agnoni"
+        },
+        "V-63-9": {
+          "c": [
+            "Bio"
+          ],
+          "d": {
+            "it": "Confettura extra biologica di mela Golden e cannella Fruttanuda, preparata con frutta da agricoltura biologica."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "7,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Fruttanuda"
+        },
+        "V-63-10": {
+          "c": [
+            "Bio"
+          ],
+          "d": {
+            "it": "Confettura extra biologica di pera Williams Fruttanuda, preparata con frutta da agricoltura biologica."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "7,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Fruttanuda"
+        }
+      },
+      "fonti": [
+        "https://www.soloprodottiitaliani.it/",
+        "https://www.soloprodottiitaliani.it/pages/progetto.html",
+        "https://www.soloprodottiitaliani.it/pages/winearchy-il-regno-del-vino.html",
+        "https://www.soloprodottiitaliani.it/catalogo.php?IdRegioni=61"
+      ]
+    },
+    {
+      "id": "V-64",
+      "n": "OIP · Abruzzo",
+      "cat": "vino",
+      "reg": "Abruzzo",
+      "city": "Selezione regionale OIP",
+      "lat": 42.35,
+      "lng": 13.4,
+      "y": null,
+      "certs": [
+        "Bio"
+      ],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "logoBg": "#ffffff",
+      "d": {
+        "it": "L'Abruzzo sta tra il Gran Sasso e l'Adriatico: Montepulciano d'Abruzzo, Trebbiano e Cerasuolo, Pecorino e Passerina, e una grande tradizione pastaia. Questa vetrina raccoglie la selezione dell'Abruzzo di OIP, Only Italian Products: 11 prodotti di 9 produttori, scelti dal catalogo di soloprodottiitaliani.it e divisi per tipologia: vini (8), grappe, liquori e distillati (1), pasta e riso (2). OIP è una boutique online del cibo e del vino italiano di qualità, con sede e magazzino a Rezzato, in provincia di Brescia, dove si trova anche l'enoteca Winearchy, con oltre 5.000 etichette in negozio. Seleziona fornitori artigianali, ha una sezione dedicata all'Ho.Re.Ca. e un sito disponibile nelle versioni nazionali di 15 Paesi. Il produttore di ogni referenza è indicato nella scheda del prodotto.",
+        "en": "Abruzzo lies between the Gran Sasso and the Adriatic: Montepulciano d'Abruzzo, Trebbiano and Cerasuolo, Pecorino and Passerina, and a great pasta-making tradition. This stand brings together OIP's selection from Abruzzo: 11 products from 9 producers, chosen from the soloprodottiitaliani.it catalogue and grouped by type: wines (8), grappa, liqueurs and spirits (1), pasta and rice (2). OIP, Only Italian Products, is an online boutique for quality Italian food and wine, with headquarters and warehouse in Rezzato, near Brescia, where it also runs the Winearchy wine shop, with over 5,000 labels in store. It selects artisan suppliers, has a dedicated Ho.Re.Ca. section and a website available in national versions for 15 countries. The producer of each item is shown on its product sheet.",
+        "de": "Die Abruzzen liegen zwischen Gran Sasso und Adria: Montepulciano d'Abruzzo, Trebbiano und Cerasuolo, Pecorino und Passerina und eine große Pastatradition. Dieser Stand zeigt die Auswahl von OIP aus den Abruzzen: 11 Produkte von 9 Herstellern, ausgewählt aus dem Katalog von soloprodottiitaliani.it und nach Produktart gegliedert: Weine (8), Grappa, Liköre und Spirituosen (1), Pasta und Reis (2). OIP, Only Italian Products, ist eine Online-Boutique für hochwertige italienische Lebensmittel und Weine mit Sitz und Lager in Rezzato bei Brescia, wo sich auch die Vinothek Winearchy mit über 5.000 Etiketten im Geschäft befindet. OIP wählt handwerkliche Lieferanten aus, hat einen eigenen Ho.Re.Ca.-Bereich und eine Website in Länderversionen für 15 Länder. Der Hersteller jedes Artikels ist im Produktblatt angegeben."
+      },
+      "sub": [
+        {
+          "k": "vini",
+          "cat": "vino",
+          "n": {
+            "it": "Vini",
+            "en": "Wines",
+            "de": "Weine"
+          }
+        },
+        {
+          "k": "spirits",
+          "cat": "liquori",
+          "n": {
+            "it": "Grappe, liquori e distillati",
+            "en": "Grappa, liqueurs and spirits",
+            "de": "Grappa, Liköre und Spirituosen"
+          }
+        },
+        {
+          "k": "pasta",
+          "cat": "pasta",
+          "n": {
+            "it": "Pasta e riso",
+            "en": "Pasta and rice",
+            "de": "Pasta und Reis"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Trebbiano, Emidio Pepe",
+          "bottiglia da 0,75 l, annata 2024",
+          "vini"
+        ],
+        [
+          "Baldovino Cerasuolo d'Abruzzo, Tenuta I Fauri",
+          "bottiglia da 0,75 l, annata 2025",
+          "vini"
+        ],
+        [
+          "Passerina Bio, Spinelli",
+          "bottiglia da 0,75 l, annata 2022",
+          "vini"
+        ],
+        [
+          "Cococciola, Tenuta Ulisse",
+          "bottiglia da 0,75 l, annata 2024",
+          "vini"
+        ],
+        [
+          "Tralumescuro, Montetino",
+          "bottiglia da 0,75 l, annata 2024",
+          "vini"
+        ],
+        [
+          "Liburnio, Orlandi Contucci Ponno",
+          "bottiglia da 0,75 l, annata 2013",
+          "vini"
+        ],
+        [
+          "Le Foci, Montetino",
+          "bottiglia da 0,75 l",
+          "vini"
+        ],
+        [
+          "Lemàrie, Montetino",
+          "bottiglia da 0,75 l",
+          "vini"
+        ],
+        [
+          "Centerba Toro, Distilleria Casauria",
+          "bottiglia da 0,7 l",
+          "spirits"
+        ],
+        [
+          "Spaghetti al Peperone Dolce d'Abruzzo, Pastificio Masciarelli",
+          "confezione da 500 g",
+          "pasta"
+        ],
+        [
+          "Pennette Bronzo, Delverde",
+          "confezione da 1 kg",
+          "pasta"
+        ]
+      ],
+      "pd": {
+        "V-64-0": {
+          "c": [],
+          "d": {
+            "it": "Il Trebbiano d'Abruzzo è un bianco DOC fresco, capace anche di invecchiare. Etichetta di Emidio Pepe, annata 2024."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "82,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Emidio Pepe"
+        },
+        "V-64-1": {
+          "c": [],
+          "d": {
+            "it": "Gradazione: 13,5%. Denominazione: Cerasuolo d'Abruzzo DOC. Vitigni: montepulciano 100%. Momento per degustarlo: Pranzo leggero. Rosso ciliegia il colore, chiaro, limpido e luminoso alla vista. Il naso è floreale e fruttato, caratterizzato in particolare dal richiamo alle fragole, alla melagrana e alle ciliegie rosse."
+          },
+          "a": {
+            "it": "Temperatura di servizio: 10/12 °C. Abbinamenti: Pizza, Salumi, Zuppe. Abbinamenti. Versatile negli abbinamenti gastronomici, è ottimo per accompagnare la zuppa di pesce."
+          },
+          "pr": "13,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Tenuta I Fauri"
+        },
+        "V-64-2": {
+          "c": [
+            "Bio"
+          ],
+          "d": {
+            "it": "La Passerina è un vitigno bianco del medio Adriatico: dà vini freschi e leggeri. Etichetta di Spinelli, annata 2022."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "10,98 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Spinelli"
+        },
+        "V-64-3": {
+          "c": [],
+          "d": {
+            "it": "La Cococciola è un vitigno bianco autoctono abruzzese, fresco e leggero. Etichetta di Tenuta Ulisse, annata 2024."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "15,29 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Tenuta Ulisse"
+        },
+        "V-64-4": {
+          "c": [],
+          "d": {
+            "it": "Il rosato, ottenuto da uve Montepulciano d'Abruzzo, è un vino tipico della regione."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "29,90 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Montetino"
+        },
+        "V-64-5": {
+          "c": [],
+          "d": {
+            "it": "Liburnio, Orlandi Contucci Ponno. Uve: Cabernet Sauvignon 80% - Carbenet Franc 20%. 13,5% vol. Colore rosso rubino tendente al granato. Aroma persistente e vellutato. Il sapore è morbido, pieno e armonico."
+          },
+          "a": {
+            "it": "Temperatura di servizio: 16-18°C. Abbinamenti: Carni rosse e piatti di selvaggina."
+          },
+          "pr": "25,91 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Orlandi Contucci Ponno"
+        },
+        "V-64-6": {
+          "c": [],
+          "d": {
+            "it": "Il vino bianco, composto da uve Trebbiano d'Abruzzo, fonde l'essenza varietale con le caratteristiche del territorio in cui viene coltivato. Le uve, diraspate e poi pressate, rimangono brevemente a contatto con il mostro fiore. L'esito è un vino di luce ed energia che bilancia l'eleganza del frutto ad un' aromaticità vibrante. Spiccata acidità, complesso, longevo ed identitario."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "29,90 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Montetino"
+        },
+        "V-64-7": {
+          "c": [],
+          "d": {
+            "it": "Il Montepulciano d'altura si distingue come un'icona dell'identità territoriale. Le uve vengono diraspate a mano, ai fini di preservare quanto più possibile l'integrità della buccia. Caratterizzato da una grande freschezza, promette di svelare sorprese eccezionali negli anni a venire, longevo."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "29,90 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Montetino"
+        },
+        "V-64-8": {
+          "c": [],
+          "d": {
+            "it": "Gradazione: 70° alcool. Il Centerba Toro nasce dalla sapiente cernita di spontanee erbe aromatiche del Monte Maiella ben conosciute in erboristeria e da spezie pregiate, il tutto posto in lunga infusione in particolari contenitori. Le materie prime e il sistema sempre identico a quello creato da Beniamino Toro nel 1817 e tramandato da padre in figli, sono la migliore garanzia per questo tipico forte liquore d'Abruzzo."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "28,94 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Distilleria Casauria"
+        },
+        "V-64-9": {
+          "c": [],
+          "d": {
+            "it": "Dal felice connubio tra l'esperienza ultracentenaria dei Pastieri Masciarelli e il Peperone Dolce d'Abruzzo. Questa varietà di peperone, dal colore rosso vivo, scelta per l'aroma particolarmente intenso, viene abbinata alle tecniche tradizionali di pastificazione tramandate ininterrottamente dalla famiglia Masciarelli da metà '800."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "4,90 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Pastificio Masciarelli"
+        },
+        "V-64-10": {
+          "c": [],
+          "d": {
+            "it": "Pennette trafilate al bronzo Delverde, pasta di semola di grano duro prodotta a Fara San Martino, in Abruzzo, ai piedi della Majella."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "2,40 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Delverde"
+        }
+      },
+      "fonti": [
+        "https://www.soloprodottiitaliani.it/",
+        "https://www.soloprodottiitaliani.it/pages/progetto.html",
+        "https://www.soloprodottiitaliani.it/pages/winearchy-il-regno-del-vino.html",
+        "https://www.soloprodottiitaliani.it/catalogo.php?IdRegioni=62"
+      ]
+    },
+    {
+      "id": "V-65",
+      "n": "OIP · Molise",
+      "cat": "vino",
+      "reg": "Molise",
+      "city": "Selezione regionale OIP",
+      "lat": 41.561,
+      "lng": 14.668,
+      "y": null,
+      "certs": [],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "logoBg": "#ffffff",
+      "d": {
+        "it": "Il Molise è una regione piccola e poco conosciuta, con un vitigno tutto suo, la Tintilia, e una tradizione di pasta di grano duro. Questa vetrina raccoglie la selezione del Molise di OIP, Only Italian Products: 7 prodotti di 4 produttori, scelti dal catalogo di soloprodottiitaliani.it e divisi per tipologia: vini (5), pasta e riso (2). OIP è una boutique online del cibo e del vino italiano di qualità, con sede e magazzino a Rezzato, in provincia di Brescia, dove si trova anche l'enoteca Winearchy, con oltre 5.000 etichette in negozio. Seleziona fornitori artigianali, ha una sezione dedicata all'Ho.Re.Ca. e un sito disponibile nelle versioni nazionali di 15 Paesi. Il produttore di ogni referenza è indicato nella scheda del prodotto.",
+        "en": "Molise is a small and little-known region, with a grape variety all its own, Tintilia, and a tradition of durum wheat pasta. This stand brings together OIP's selection from Molise: 7 products from 4 producers, chosen from the soloprodottiitaliani.it catalogue and grouped by type: wines (5), pasta and rice (2). OIP, Only Italian Products, is an online boutique for quality Italian food and wine, with headquarters and warehouse in Rezzato, near Brescia, where it also runs the Winearchy wine shop, with over 5,000 labels in store. It selects artisan suppliers, has a dedicated Ho.Re.Ca. section and a website available in national versions for 15 countries. The producer of each item is shown on its product sheet.",
+        "de": "Molise ist eine kleine und wenig bekannte Region mit einer ganz eigenen Rebsorte, der Tintilia, und einer Tradition der Hartweizenpasta. Dieser Stand zeigt die Auswahl von OIP aus Molise: 7 Produkte von 4 Herstellern, ausgewählt aus dem Katalog von soloprodottiitaliani.it und nach Produktart gegliedert: Weine (5), Pasta und Reis (2). OIP, Only Italian Products, ist eine Online-Boutique für hochwertige italienische Lebensmittel und Weine mit Sitz und Lager in Rezzato bei Brescia, wo sich auch die Vinothek Winearchy mit über 5.000 Etiketten im Geschäft befindet. OIP wählt handwerkliche Lieferanten aus, hat einen eigenen Ho.Re.Ca.-Bereich und eine Website in Länderversionen für 15 Länder. Der Hersteller jedes Artikels ist im Produktblatt angegeben."
+      },
+      "sub": [
+        {
+          "k": "vini",
+          "cat": "vino",
+          "n": {
+            "it": "Vini",
+            "en": "Wines",
+            "de": "Weine"
+          }
+        },
+        {
+          "k": "pasta",
+          "cat": "pasta",
+          "n": {
+            "it": "Pasta e riso",
+            "en": "Pasta and rice",
+            "de": "Pasta und Reis"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Lame del Sorbo Tintilia del Molise Riserva, Vinica",
+          "bottiglia da 0,75 l, annata 2018",
+          "vini"
+        ],
+        [
+          "Macchiarossa, Claudio Cipressi",
+          "bottiglia da 0,75 l, annata 2019",
+          "vini"
+        ],
+        [
+          "Apianae, Di Majo Norante",
+          "bottiglia da 0,5 l, annata 2020",
+          "vini"
+        ],
+        [
+          "Lame del Sorbo Tintilia del Molise, Vinica",
+          "bottiglia da 0,75 l, annata 2020",
+          "vini"
+        ],
+        [
+          "Ramitello Rosso di Majo, Di Majo Norante",
+          "bottiglia da 0,75 l, annata 2021",
+          "vini"
+        ],
+        [
+          "Penne rigate integrali, Molisana",
+          "confezione da 500 g",
+          "pasta"
+        ],
+        [
+          "Spaghetto quadrato integrale, Molisana",
+          "confezione da 500 g",
+          "pasta"
+        ]
+      ],
+      "pd": {
+        "V-65-0": {
+          "c": [],
+          "d": {
+            "it": "La Tintilia è il vitigno rosso autoctono del Molise. Etichetta di Vinica, annata 2018."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "27,13 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Vinica"
+        },
+        "V-65-1": {
+          "c": [],
+          "d": {
+            "it": "Macchiarossa, Claudio Cipressi. Uve: Tintilia. 14,5% vol. Ha un colore rosso con riflessi. tendente al granato con riflessi luminosi. Al naso predominano note balsamiche e speziate. In bocca è morbido, rotondo e avvolgente."
+          },
+          "a": {
+            "it": "Temperatura di servizio: 16-18°C. Abbinamenti: Si sposa bene con arrosti e formaggi di media stagionatura."
+          },
+          "pr": "30,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Claudio Cipressi"
+        },
+        "V-65-2": {
+          "c": [],
+          "d": {
+            "it": "Apianae è il Moscato del Molise passito di Di Majo Norante, da uve Moscato Reale. Etichetta di Di Majo Norante, annata 2020."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "23,10 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Di Majo Norante"
+        },
+        "V-65-3": {
+          "c": [],
+          "d": {
+            "it": "La Tintilia è il vitigno rosso autoctono del Molise. Etichetta di Vinica, annata 2020."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "15,55 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Vinica"
+        },
+        "V-65-4": {
+          "c": [],
+          "d": {
+            "it": "Ramitello è il rosso di Di Majo Norante da uve Montepulciano e Aglianico, coltivate a Campomarino, sulla costa del Molise. Etichetta di Di Majo Norante, annata 2021."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "13,87 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Di Majo Norante"
+        },
+        "V-65-5": {
+          "c": [],
+          "d": {
+            "it": "Penne rigate integrali La Molisana, pastificio di Campobasso: pasta di semola integrale di grano duro, trafilata al bronzo."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "2,60 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Molisana"
+        },
+        "V-65-6": {
+          "c": [],
+          "d": {
+            "it": "Spaghetto quadrato integrale La Molisana, pastificio di Campobasso: il formato a sezione quadrata simbolo della casa, in versione integrale, trafilato al bronzo."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "2,60 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Molisana"
+        }
+      },
+      "fonti": [
+        "https://www.soloprodottiitaliani.it/",
+        "https://www.soloprodottiitaliani.it/pages/progetto.html",
+        "https://www.soloprodottiitaliani.it/pages/winearchy-il-regno-del-vino.html",
+        "https://www.soloprodottiitaliani.it/catalogo.php?IdRegioni=63"
+      ]
+    },
+    {
+      "id": "V-66",
+      "n": "OIP · Campania",
+      "cat": "vino",
+      "reg": "Campania",
+      "city": "Selezione regionale OIP",
+      "lat": 40.852,
+      "lng": 14.268,
+      "y": null,
+      "certs": [
+        "DOP",
+        "DOC",
+        "IGP",
+        "Bio"
+      ],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "logoBg": "#ffffff",
+      "d": {
+        "it": "La Campania è la regione della pasta di Gragnano, del pomodoro San Marzano e della mozzarella di bufala, con i vini dell'Irpinia, Taurasi, Fiano di Avellino e Greco di Tufo, e quelli del Vesuvio e della Costiera. Questa vetrina raccoglie la selezione della Campania di OIP, Only Italian Products: 39 prodotti di 29 produttori, scelti dal catalogo di soloprodottiitaliani.it e divisi per tipologia: vini (9), grappe, liquori e distillati (4), formaggi (7), salumi (3), carni (2), pasta e riso (4), salse e sughi (2), prodotti tipici (1), specialità di mare (4), frutta e verdura (1), prodotti da forno, dolci e caffè (2). OIP è una boutique online del cibo e del vino italiano di qualità, con sede e magazzino a Rezzato, in provincia di Brescia, dove si trova anche l'enoteca Winearchy, con oltre 5.000 etichette in negozio. Seleziona fornitori artigianali, ha una sezione dedicata all'Ho.Re.Ca. e un sito disponibile nelle versioni nazionali di 15 Paesi. Il produttore di ogni referenza è indicato nella scheda del prodotto.",
+        "en": "Campania is the region of Gragnano pasta, San Marzano tomatoes and buffalo mozzarella, with the wines of Irpinia, Taurasi, Fiano di Avellino and Greco di Tufo, and those of Vesuvius and the Amalfi Coast. This stand brings together OIP's selection from Campania: 39 products from 29 producers, chosen from the soloprodottiitaliani.it catalogue and grouped by type: wines (9), grappa, liqueurs and spirits (4), cheese (7), cured meats (3), meat (2), pasta and rice (4), sauces (2), regional specialities (1), seafood specialities (4), fruit and vegetables (1), bakery, sweets and coffee (2). OIP, Only Italian Products, is an online boutique for quality Italian food and wine, with headquarters and warehouse in Rezzato, near Brescia, where it also runs the Winearchy wine shop, with over 5,000 labels in store. It selects artisan suppliers, has a dedicated Ho.Re.Ca. section and a website available in national versions for 15 countries. The producer of each item is shown on its product sheet.",
+        "de": "Kampanien ist die Region der Pasta aus Gragnano, der San-Marzano-Tomate und des Büffelmozzarellas, mit den Weinen Irpiniens, Taurasi, Fiano di Avellino und Greco di Tufo, und jenen vom Vesuv und von der Amalfiküste. Dieser Stand zeigt die Auswahl von OIP aus Kampanien: 39 Produkte von 29 Herstellern, ausgewählt aus dem Katalog von soloprodottiitaliani.it und nach Produktart gegliedert: Weine (9), Grappa, Liköre und Spirituosen (4), Käse (7), Wurst und Schinken (3), Fleisch (2), Pasta und Reis (4), Saucen und Sughi (2), Regionale Spezialitäten (1), Meeresspezialitäten (4), Obst und Gemüse (1), Backwaren, Süßes und Kaffee (2). OIP, Only Italian Products, ist eine Online-Boutique für hochwertige italienische Lebensmittel und Weine mit Sitz und Lager in Rezzato bei Brescia, wo sich auch die Vinothek Winearchy mit über 5.000 Etiketten im Geschäft befindet. OIP wählt handwerkliche Lieferanten aus, hat einen eigenen Ho.Re.Ca.-Bereich und eine Website in Länderversionen für 15 Länder. Der Hersteller jedes Artikels ist im Produktblatt angegeben."
+      },
+      "sub": [
+        {
+          "k": "vini",
+          "cat": "vino",
+          "n": {
+            "it": "Vini",
+            "en": "Wines",
+            "de": "Weine"
+          }
+        },
+        {
+          "k": "spirits",
+          "cat": "liquori",
+          "n": {
+            "it": "Grappe, liquori e distillati",
+            "en": "Grappa, liqueurs and spirits",
+            "de": "Grappa, Liköre und Spirituosen"
+          }
+        },
+        {
+          "k": "formaggi",
+          "cat": "formaggi",
+          "n": {
+            "it": "Formaggi",
+            "en": "Cheese",
+            "de": "Käse"
+          }
+        },
+        {
+          "k": "salumi",
+          "cat": "salumi",
+          "n": {
+            "it": "Salumi",
+            "en": "Cured meats",
+            "de": "Wurst und Schinken"
+          }
+        },
+        {
+          "k": "carni",
+          "cat": "salumi",
+          "n": {
+            "it": "Carni",
+            "en": "Meat",
+            "de": "Fleisch"
+          }
+        },
+        {
+          "k": "pasta",
+          "cat": "pasta",
+          "n": {
+            "it": "Pasta e riso",
+            "en": "Pasta and rice",
+            "de": "Pasta und Reis"
+          }
+        },
+        {
+          "k": "salse",
+          "cat": "conserve",
+          "n": {
+            "it": "Salse e sughi",
+            "en": "Sauces",
+            "de": "Saucen und Sughi"
+          }
+        },
+        {
+          "k": "tipici",
+          "cat": "misti",
+          "n": {
+            "it": "Prodotti tipici",
+            "en": "Regional specialities",
+            "de": "Regionale Spezialitäten"
+          }
+        },
+        {
+          "k": "mare",
+          "cat": "conserve",
+          "n": {
+            "it": "Specialità di mare",
+            "en": "Seafood specialities",
+            "de": "Meeresspezialitäten"
+          }
+        },
+        {
+          "k": "frutta",
+          "cat": "conserve",
+          "n": {
+            "it": "Frutta e verdura",
+            "en": "Fruit and vegetables",
+            "de": "Obst und Gemüse"
+          }
+        },
+        {
+          "k": "forno",
+          "cat": "dolci",
+          "n": {
+            "it": "Prodotti da forno, dolci e caffè",
+            "en": "Bakery, sweets and coffee",
+            "de": "Backwaren, Süßes und Kaffee"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Taurasi Riserva \"Radici\", Mastroberardino",
+          "bottiglia da 0,75 l, annata 2017",
+          "vini"
+        ],
+        [
+          "Cecerale Fiano Paestum, San Salvatore",
+          "bottiglia da 0,75 l, annata 2021",
+          "vini"
+        ],
+        [
+          "Greco di Tufo Cutizzi, Feudi di San Gregorio - Vigne di Mezzo",
+          "bottiglia da 0,75 l, annata 2023",
+          "vini"
+        ],
+        [
+          "Campo della Luna Falanghina, Passo delle Tortore",
+          "bottiglia da 0,75 l, annata 2024",
+          "vini"
+        ],
+        [
+          "Celsì Irpinia Aglianico, Fiorentino",
+          "bottiglia da 0,75 l, annata 2018",
+          "vini"
+        ],
+        [
+          "Forgiato Lacryma Christi del Vesuvio Rosso, Villa Dora",
+          "bottiglia da 0,75 l, annata 2022",
+          "vini"
+        ],
+        [
+          "Cunto Pallagrello Nero, Alois",
+          "bottiglia da 0,75 l, annata 2022",
+          "vini"
+        ],
+        [
+          "Taurasi Feudi di San Gregorio",
+          "bottiglia da 0,75 l, annata 2021",
+          "vini"
+        ],
+        [
+          "Taurasi Puro Sangue Riserva, Luigi Tecce",
+          "bottiglia da 0,75 l, annata 2019",
+          "vini"
+        ],
+        [
+          "Strega Liquore, Strega Alberti",
+          "bottiglia da 0,7 l",
+          "spirits"
+        ],
+        [
+          "Limoncello, Villa Massa",
+          "bottiglia da 0,7 l",
+          "spirits"
+        ],
+        [
+          "Grappa Fiorduva Invecchiata, Marisa Cuomo",
+          "bottiglia da 0,5 l",
+          "spirits"
+        ],
+        [
+          "Grappa Riserva di Taurasi Macchia della Corte, D'Antiche Terre Azienda Agricola",
+          "bottiglia da 70 cl",
+          "spirits"
+        ],
+        [
+          "Treccia di Mozzarella di Bufala Campana DOP, Caseificio Il Casolare",
+          "pezzo da 500 g",
+          "formaggi"
+        ],
+        [
+          "Caciocavallo Silano DOP",
+          "pezzo da 500-600 g",
+          "formaggi"
+        ],
+        [
+          "Mozzarella di Bufala Campana DOP, La Contadina",
+          "1 pezzi da 250 g",
+          "formaggi"
+        ],
+        [
+          "Blu di Bufala, Formaggio erborinato, Caseificio Artigianale Esposito",
+          "confezione da 350 g",
+          "formaggi"
+        ],
+        [
+          "Fiordilatte di Agerola, Caseificio Bel Fiore",
+          "pezzo da 500 g",
+          "formaggi"
+        ],
+        [
+          "Mozzarella di Bufala Campana DOP, Caseificio Il Casolare",
+          "2 pezzi da 125 g",
+          "formaggi"
+        ],
+        [
+          "Scamorza Affumicata, Caseificio Il Casolare",
+          "confezione da 250 g",
+          "formaggi"
+        ],
+        [
+          "Porchetta Artigianale, Porchetta D'Alterio",
+          "pezzo da 2,5 kg",
+          "salumi"
+        ],
+        [
+          "Mortadella con pistacchio, Sapori del Sud",
+          "pezzo da 2,6-2,8 kg",
+          "salumi"
+        ],
+        [
+          "Salame Piccante Tipo Napoli 100% Carne Italiana, Sapori del Sud",
+          "pezzo da 1,2 kg",
+          "salumi"
+        ],
+        [
+          "Salsiccia Napoletana a Punta di Coltello, Grancarni",
+          "pezzo da 500 g",
+          "carni"
+        ],
+        [
+          "Pulled Pork, Porchetta D'Alterio",
+          "pezzo da 1 kg",
+          "carni"
+        ],
+        [
+          "Calamarata di Gragnano IGP, Pastificio Faella",
+          "",
+          "pasta"
+        ],
+        [
+          "Linguine di Gragnano IGP, Pastificio Faella",
+          "confezione da 500 g",
+          "pasta"
+        ],
+        [
+          "Fusilli Artigianali Ferretto di Gragnano IGP, Pastificio Faella",
+          "",
+          "pasta"
+        ],
+        [
+          "Tofe di Gragnano IGP, Pastificio Faella",
+          "",
+          "pasta"
+        ],
+        [
+          "Pomodori San Marzano DOP, Agrigenus Coop. Agricola",
+          "confezione da 400 g",
+          "salse"
+        ],
+        [
+          "Pomodori Biologici Pelati, Manfuso",
+          "confezione da 400 g",
+          "salse"
+        ],
+        [
+          "Macinato di peperoni piccanti, Sapori del Sud",
+          "confezione da 50 g",
+          "tipici"
+        ],
+        [
+          "Filetti di Tonno Rosso in Olio d'Oliva, Armatore",
+          "confezione da 110 g",
+          "mare"
+        ],
+        [
+          "Acciughe Salate Lavorazione Storica Cetara, Sapori di Mare",
+          "",
+          "mare"
+        ],
+        [
+          "Ventresca di Tonno rosso in olio di oliva, Armatore",
+          "confezione da 110 g",
+          "mare"
+        ],
+        [
+          "Colatura di Alici di Cetara Riserva, Armatore",
+          "bottiglia da 50 ml",
+          "mare"
+        ],
+        [
+          "Pomodorino del Piennolo del Vesuvio, Masseria dello Sbirro",
+          "confezione da 1,5 kg",
+          "frutta"
+        ],
+        [
+          "Taralli Napoletani Sugna e Pepe con Mandorla, Iazzetta",
+          "",
+          "forno"
+        ],
+        [
+          "Sfogliatella Riccia Napoletana, Accattatavillo",
+          "",
+          "forno"
+        ]
+      ],
+      "pd": {
+        "V-66-0": {
+          "c": [],
+          "d": {
+            "it": "Il Taurasi è un rosso DOCG dell'Irpinia da uve Aglianico, adatto a lunghi invecchiamenti. Etichetta di Mastroberardino, annata 2017."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "54,80 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Mastroberardino"
+        },
+        "V-66-1": {
+          "c": [],
+          "d": {
+            "it": "Il Fiano di Avellino è un bianco DOCG dell'Irpinia, elegante e longevo. Etichetta di San Salvatore, annata 2021."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "24,06 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "San Salvatore"
+        },
+        "V-66-2": {
+          "c": [],
+          "d": {
+            "it": "Il Greco di Tufo è un bianco DOCG dell'Irpinia, sapido e strutturato. Etichetta di Feudi di San Gregorio - Vigne di Mezzo, annata 2023."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "16,74 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Feudi di San Gregorio - Vigne di Mezzo"
+        },
+        "V-66-3": {
+          "c": [],
+          "d": {
+            "it": "La Falanghina è il bianco più diffuso della Campania, fresco e profumato. Etichetta di Passo delle Tortore, annata 2024."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "12,90 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Passo delle Tortore"
+        },
+        "V-66-4": {
+          "c": [],
+          "d": {
+            "it": "L'Aglianico è il grande vitigno rosso della Campania, alla base del Taurasi. Etichetta di Fiorentino, annata 2018."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "18,56 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Fiorentino"
+        },
+        "V-66-5": {
+          "c": [],
+          "d": {
+            "it": "Il Lacryma Christi del Vesuvio è un vino DOC prodotto sulle pendici del vulcano. Etichetta di Villa Dora, annata 2022."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "27,35 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Villa Dora"
+        },
+        "V-66-6": {
+          "c": [],
+          "d": {
+            "it": "Il Pallagrello è un vitigno autoctono del casertano, a bacca bianca e nera. Etichetta di Alois, annata 2022."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "21,38 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Alois"
+        },
+        "V-66-7": {
+          "c": [
+            "DOC"
+          ],
+          "d": {
+            "it": "Gradazione: 13,5% vol. Prodotto con le uve di Aglianico dei vigneti di Taurasi, Pietradefusi e Sant'Angelo all'esca.La raccolta delle uve, manuale, è svolta nelle tarde ore pomeridiane e prime mattutine e portata in cantina con mezzi termocondizionati."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "27,89 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Feudi di San Gregorio"
+        },
+        "V-66-8": {
+          "c": [],
+          "d": {
+            "it": "Taurasi Puro Sangue Riserva, Luigi Tecce. Uve: Aglianico. 14,5% vol. Colore degli occhi rubino molto intenso. Al naso note balsamiche, note di menta, tocchi molto decisi di ciliegia e ribes. In bocca, toni speziati di tabacco e vaniglia, un sapore caldo, avvolgente e asciutto, caratterizzato da una grande trama tannica e da un finale sorprendente per persistenza."
+          },
+          "a": {
+            "it": "Temperatura di servizio: 16-18°C. Abbinamenti: Si abbina perfettamente a carni alla griglia e arrosto, formaggi stagionati e selvaggina."
+          },
+          "pr": "71,30 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Luigi Tecce"
+        },
+        "V-66-9": {
+          "c": [],
+          "d": {
+            "it": "Nel 1860, evocando un'antica leggenda che narra la città di Benevento quale ritrovo di tutte le streghe del mondo, nasce il Liquore Strega. Prodotto assolutamente naturale ottenuto dalla distillazione di circa 70 erbe e spezie provenienti da ogni parte del mondo."
+          },
+          "a": {
+            "it": "Dal gusto fine e vellutato, il Liquore Strega è amato per la sua versatilità che lo rende ideale in ogni momento della giornata."
+          },
+          "pr": "17,85 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Strega Alberti"
+        },
+        "V-66-10": {
+          "c": [],
+          "d": {
+            "it": "Il tradizionale Limoncello di Sorrento è prodotto dall'azienda Villa Massa utilizzando un'antica ricetta di famiglia."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "23,74 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Villa Massa"
+        },
+        "V-66-11": {
+          "c": [],
+          "d": {
+            "it": "Gradazione: 43%. Provenienza: Campania, Italia. La Grappa di Fior d'uva è il risultato ottenuto dalla distillazione delle vinacce delle uve Fenile, Ginestra e Ripoli e matura per diversi anni in botti di rovere francese. Dal 1980 Marisa fa vino in un territorio duro, difficile e unico. Da minuscoli appezzamenti di olio, dove si pratica un'agricoltura eroica, si generano vini estremi."
+          },
+          "a": {
+            "it": "Temperatura di servizio: 12-14°."
+          },
+          "pr": "46,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Marisa Cuomo"
+        },
+        "V-66-12": {
+          "c": [],
+          "d": {
+            "it": "Uva: Aglianico. 42% vol. Note di degustazione: Grappa ottenuta dalle migliori vinacce di Aglianico. Distillato in alambicco in un unico passaggio, conserva e fa maturare gli aromi nobili e le essenze primarie per 3 anni."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "39,94 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "D'Antiche Terre Azienda Agricola"
+        },
+        "V-66-13": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "Per fare la treccia si parte da una porzione di pasta filata che viene allungata e poi intrecciata a mano. Il cuore della treccia di bufala è leggermente più denso e asciutto rispetto alla classica forma tondeggiante della mozzarella, la sua forma elegante rende bello ogni antipasto. Produzione quotidiana, lavorazione entro le 16 ore dalla mungitura: così nasce la regina delle mozzarelle di bufala DOP."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "9,60 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Caseificio Il Casolare"
+        },
+        "V-66-14": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "Il \"Caciocavallo Silano\", formaggio sano e genuino, è ricco di vitamine, sali minerali, proteine e, per le sue spiccate qualità nutritive, è particolarmente indicato nella dieta dei bambini, degli sportivi e degli anziani. Per produrre un Kg di \"Caciocavallo Silano\" occorrono circa 10 litri di latte fresco ed il suo valore nutritivo, per 100 gr. di formaggio, corrisponde a ben 180 gr. di carne bovina e a 200 gr. di trota."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "17,96 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Caciocavallo Silano DOP"
+        },
+        "V-66-15": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "Mozzarella di Bufala Campana DOP, La Contadina. La raccolta avviene giornalmente attraverso propri automezzi cisterna con personale dipendente. Periodicamente, gli addetti dell' Ufficio Qualità compiono degli audit di verifica all'interno degli allevamenti controllando stalle e sale di mungitura, al fine di monitorare sia il benessere animale che le condizioni igienico sanitarie."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "6,96 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "La Contadina"
+        },
+        "V-66-16": {
+          "c": [],
+          "d": {
+            "it": "Formaggio erborinato di forma squadrata dalla crosta asciutta e rugosa di colore grigio ambrato. Presenta una pasta da cremosa a friabile di colore panna chiaro percorsa da venature blu. Il profumo presenta uno spunto lattico acido. Il sapore è distinto, mediamente intenso. Si percepisce la dolcezza del latte di bufala."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "15,96 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Caseificio Artigianale Esposito"
+        },
+        "V-66-17": {
+          "c": [],
+          "d": {
+            "it": "Il Fiordilatte di Agerola è un formaggio fresco a pasta filata, annoverato tra le grandi eccellenze del settore agroalimentare Campano. È un prodotto tipico realizzato dai maestri casari seguendo scrupolosamente il metodo tradizionale, utilizzando solo le migliori materie prime."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "6,30 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Caseificio Bel Fiore"
+        },
+        "V-66-18": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "Il formato da 250g è un ottimo mix tra consistenza tenace e quantità di latte, il più versatile di tutti. Produzione quotidiana, lavorazione entro le 16 ore dalla mungitura: così nasce la regina delle mozzarelle di bufala DOP. Qualcuno ha definito il prodotto “una DOP nella DOP”."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "4,80 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Caseificio Il Casolare"
+        },
+        "V-66-19": {
+          "c": [],
+          "d": {
+            "it": "Scamorza e caciocavallo di latte vaccino sono prodotti tipici che segnano la storia dei monti del Matese: si utilizza latte vaccino cotto a mano, salatura in salamoia e poi asciugate in cella."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "4,20 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Caseificio Il Casolare"
+        },
+        "V-66-20": {
+          "c": [],
+          "d": {
+            "it": "Specializzati nella lavorazione della porchetta dal 1983. I maiali Vengono sezionati, conditi, cuciti e, dopo qualche ora di marinatura, cotti. Ogni fase del lavoro viene svolta prestando la massima cura e attenzione, per preservare intatte le qualità nutrizionali del maiale e il suo sapore."
+          },
+          "a": {
+            "it": "Porchetta artigianale cotta e condita con un mix di spezie e aromi che ne accentuano il sapore e la rendono ideale per ogni occasione."
+          },
+          "pr": "45,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Porchetta D'Alterio"
+        },
+        "V-66-21": {
+          "c": [],
+          "d": {
+            "it": "Prodotto con magro di spalla suina nazionale e magro di prosciutto, con aggiunta di lardelli di gola suina, insaporita con sali, aromi naturali e pistacchi siciliani freschi e sbucciati, insaccata e cotta in vescica naturale."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "35,94 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Sapori del Sud"
+        },
+        "V-66-22": {
+          "c": [],
+          "d": {
+            "it": "Il Salame Piccante Tipo Napoli è un salame a grana media, ottenuto con aggiunta di paprika e peperoncino all'impasto. Il prodotto è stagionato per circa 30 - 40 giorni."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "19,50 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Sapori del Sud"
+        },
+        "V-66-23": {
+          "c": [],
+          "d": {
+            "it": "La Salsiccia Napoletana a punta di coltello è un prodotto tipico della norcineria Campana di lunga tradizione. Si presenta con colore rosso scuro, caratterizzata per la grana grossolana con cui vengono tritate le parti del maiale appunto maualmente a coltello e per il suo sapore dolce e saporito."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "7,50 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Grancarni"
+        },
+        "V-66-24": {
+          "c": [],
+          "d": {
+            "it": "Pulled Pork, Porchetta D'Alterio. Spalla di maiale cotta a bassa temperatura. Primi produttori in Italia. I maiali Vengono sezionati, conditi, cuciti e, dopo qualche ora di marinatura, cotti. Ogni fase del lavoro viene svolta prestando la massima cura e attenzione, per preservare intatte le qualità nutrizionali del maiale e il suo sapore."
+          },
+          "a": {
+            "it": "Gia sfilacciata e condita, pronta da gustare."
+          },
+          "pr": "19,90 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Porchetta D'Alterio"
+        },
+        "V-66-25": {
+          "c": [
+            "IGP"
+          ],
+          "d": {
+            "it": "La \"Pasta di Gragnano IGP\" è ottenuta con semole di grano duro 100% italiano e acqua dei monti Lattari secondo tradizione."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "3,50 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Pastificio Faella"
+        },
+        "V-66-26": {
+          "c": [
+            "IGP"
+          ],
+          "d": {
+            "it": "La \"Pasta di Gragnano IGP\" è ottenuta con semole di grano duro 100% italiano e acqua dei monti Lattari secondo tradizione."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "3,50 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Pastificio Faella"
+        },
+        "V-66-27": {
+          "c": [
+            "IGP"
+          ],
+          "d": {
+            "it": "La \"Pasta di Gragnano IGP\" è ottenuta con semole di grano duro 100% italiano e acqua dei monti Lattari secondo tradizione."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "4,90 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Pastificio Faella"
+        },
+        "V-66-28": {
+          "c": [
+            "IGP"
+          ],
+          "d": {
+            "it": "La \"Pasta di Gragnano IGP\" è ottenuta con semole di grano duro 100% italiano e acqua dei monti Lattari secondo tradizione."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "3,50 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Pastificio Faella"
+        },
+        "V-66-29": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "Marzano dell'Agro Sarnese-Nocerino D.O.P. Il pomodoro è originario dell'America Centrale. Nel 1600 è arrivato in Europa importato dagli Spagnoli che gli avevano dato valore ornamentale; forse per questo motivo non ha mantenuto il nome di provenienza \"tomate\" ma è stato chiamato pomo d'oro."
+          },
+          "a": {
+            "it": "Nel 1900 assunse grande apprezzamento dal punto di vista gastronomico, e sorsero le prime industrie di conservazione."
+          },
+          "pr": "2,89 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Agrigenus Coop. Agricola"
+        },
+        "V-66-30": {
+          "c": [
+            "Bio"
+          ],
+          "d": {
+            "it": "Pomodori Pelati Biologici Manfuso sono particolarmente. adatti alla reparazione di sughi a lunga cottura com il celebre ragù, hanno un gusto vero e fresco perché ottenuti solo da pomodori italiani biologici sani e polposi, maturati al sole delle terre del Sud, raccolti e lavorati in giornata, privati semplicemente della loro buccia ed immersi in una densa salsa di pomodoro."
+          },
+          "a": {
+            "it": "Modalita' di Conservazione. Conservare in luogo fresco e asciutto."
+          },
+          "pr": "1,99 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Manfuso"
+        },
+        "V-66-31": {
+          "c": [],
+          "d": {
+            "it": "Il Peperone di Senise è un ortaggio che si produce in numerosi comuni delle province di Potenza e Matera, nelle valli del Sinni e dell'Agri. Una volta raccolto da agosto a settembre, viene infilato in lunghe collane e messo ad essiccare lentamente secondo metodi locali naturali, per mezzo di esposizione indiretta ai raggi solari."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "5,12 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Sapori del Sud"
+        },
+        "V-66-32": {
+          "c": [],
+          "d": {
+            "it": "Il Tonno Rosso è, tra le tante specie di tonno esistenti, sicuramente quello più pregiato e ricercato. Interamente lavorati a mano entro poche ore dalla battuta di pesca, i filetti di Tonno Rosso in vetro di Armatore hanno un gusto saporito e deciso."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "15,44 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Armatore"
+        },
+        "V-66-33": {
+          "c": [],
+          "d": {
+            "it": "Le acciughe di Cetara, il vero prosciutto di mare, appartengono alla categoria del pesce azzurro, un alimento sano e gustoso con larghissima utilizzazione gastronomica. Sono pescate nel periodo primaverile-estivo dalle barche di Cetara le cosiddette “Lampare” proprio per le luci che attirano il pesce nelle reti e grazie ad una tradizionale tecnica di circuizione, le alici quando vengono issate in barca sono ancora vive."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "22,94 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Sapori di Mare"
+        },
+        "V-66-34": {
+          "c": [],
+          "d": {
+            "it": "La Ventresca di Tonno Rosso è la parte più tenera e pregiata del Tonno, in quanto ne ricopre i fianchi e le cavità addominali. Si presenta al palato soffice e delicata. Parliamo di un taglio molto particolare e difficile da reperire, proprio perché ricavabile da una piccola porzione del Tonno Rosso."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "18,94 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Armatore"
+        },
+        "V-66-35": {
+          "c": [],
+          "d": {
+            "it": "La Colatura di Alici è l'oro di Cetara, una preparazione prelibata che nasce da una tradizione secolare. Le Alici pescate durante la primavera in Costiera Amalfitana, dai pescherecci di Cetara, vengono lavorate poche ore dopo la cattura. Le Alici vengono eviscerate e successivamente. disposte all'interno di una botte di castagno, alternandole a strati di sale marino. I tempi di maturazione vanno dai 18 ai 30 mesi."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "11,44 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Armatore"
+        },
+        "V-66-36": {
+          "c": [],
+          "d": {
+            "it": "Il “Pomodorino del Piennolo del Vesuvio DOP” è uno dei prodotti più antichi e tipici dell'agricoltura campana. In realtà, in diversi territori della Campania, esistono raggruppamenti di ecotipi con bacche di piccola pezzatura, i cosiddetti “pomodorini”, che si distinguono tra loro per tipicità, rusticità e qualità organolettica. I più famosi da sempre sono però quelli tuttora diffusi sulle pendici del Vesuvio."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "33,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Masseria dello Sbirro"
+        },
+        "V-66-37": {
+          "c": [],
+          "d": {
+            "it": "I taralli sono prodotti da forno altamente digeribili che richiamano alla memoria i sapori di un tempo, specialità della tradizione fornaia Napoletana. Farina, acqua, materie prime di altissima qualità, sacrificio e passione sono gli ingredienti che da sempre contraddistinguono il Panificio Iazzetta."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "8,40 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Iazzetta"
+        },
+        "V-66-38": {
+          "c": [],
+          "d": {
+            "it": "La sfogliatella fa parte dei dolci tipici napoletani per eccellenza. Viene prodotta sia con la pasta frolla friabile (sfogliatella frolla) che con pasta sfoglia (sfogliatella riccia). È farcita con una succulenta crema a base di ricotta, zucchero e pasta di arance."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "16,94 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Accattatavillo"
+        }
+      },
+      "fonti": [
+        "https://www.soloprodottiitaliani.it/",
+        "https://www.soloprodottiitaliani.it/pages/progetto.html",
+        "https://www.soloprodottiitaliani.it/pages/winearchy-il-regno-del-vino.html",
+        "https://www.soloprodottiitaliani.it/catalogo.php?IdRegioni=64"
+      ]
+    },
+    {
+      "id": "V-67",
+      "n": "OIP · Puglia",
+      "cat": "vino",
+      "reg": "Puglia",
+      "city": "Selezione regionale OIP",
+      "lat": 41.117,
+      "lng": 16.872,
+      "y": null,
+      "certs": [
+        "DOP",
+        "DOC",
+        "DOCG",
+        "IGP"
+      ],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "logoBg": "#ffffff",
+      "d": {
+        "it": "La Puglia è la prima regione olivicola d'Italia e una terra di rossi generosi come Primitivo e Negroamaro, di grano duro, taralli, orecchiette e conserve. Questa vetrina raccoglie la selezione della Puglia di OIP, Only Italian Products: 37 prodotti di 25 produttori, scelti dal catalogo di soloprodottiitaliani.it e divisi per tipologia: vini (10), grappe, liquori e distillati (1), birre (1), formaggi (7), salumi (5), pasta e riso (3), oli e aceti (2), salse e sughi (3), prodotti tipici (3), prodotti da forno, dolci e caffè (2). OIP è una boutique online del cibo e del vino italiano di qualità, con sede e magazzino a Rezzato, in provincia di Brescia, dove si trova anche l'enoteca Winearchy, con oltre 5.000 etichette in negozio. Seleziona fornitori artigianali, ha una sezione dedicata all'Ho.Re.Ca. e un sito disponibile nelle versioni nazionali di 15 Paesi. Il produttore di ogni referenza è indicato nella scheda del prodotto.",
+        "en": "Apulia is Italy's leading olive-growing region and a land of generous reds such as Primitivo and Negroamaro, of durum wheat, taralli, orecchiette and preserves. This stand brings together OIP's selection from Apulia: 37 products from 25 producers, chosen from the soloprodottiitaliani.it catalogue and grouped by type: wines (10), grappa, liqueurs and spirits (1), beers (1), cheese (7), cured meats (5), pasta and rice (3), oils and vinegars (2), sauces (3), regional specialities (3), bakery, sweets and coffee (2). OIP, Only Italian Products, is an online boutique for quality Italian food and wine, with headquarters and warehouse in Rezzato, near Brescia, where it also runs the Winearchy wine shop, with over 5,000 labels in store. It selects artisan suppliers, has a dedicated Ho.Re.Ca. section and a website available in national versions for 15 countries. The producer of each item is shown on its product sheet.",
+        "de": "Apulien ist die erste Olivenregion Italiens und ein Land großzügiger Rotweine wie Primitivo und Negroamaro, des Hartweizens, der Taralli, Orecchiette und Konserven. Dieser Stand zeigt die Auswahl von OIP aus Apulien: 37 Produkte von 25 Herstellern, ausgewählt aus dem Katalog von soloprodottiitaliani.it und nach Produktart gegliedert: Weine (10), Grappa, Liköre und Spirituosen (1), Biere (1), Käse (7), Wurst und Schinken (5), Pasta und Reis (3), Öle und Essige (2), Saucen und Sughi (3), Regionale Spezialitäten (3), Backwaren, Süßes und Kaffee (2). OIP, Only Italian Products, ist eine Online-Boutique für hochwertige italienische Lebensmittel und Weine mit Sitz und Lager in Rezzato bei Brescia, wo sich auch die Vinothek Winearchy mit über 5.000 Etiketten im Geschäft befindet. OIP wählt handwerkliche Lieferanten aus, hat einen eigenen Ho.Re.Ca.-Bereich und eine Website in Länderversionen für 15 Länder. Der Hersteller jedes Artikels ist im Produktblatt angegeben."
+      },
+      "sub": [
+        {
+          "k": "vini",
+          "cat": "vino",
+          "n": {
+            "it": "Vini",
+            "en": "Wines",
+            "de": "Weine"
+          }
+        },
+        {
+          "k": "spirits",
+          "cat": "liquori",
+          "n": {
+            "it": "Grappe, liquori e distillati",
+            "en": "Grappa, liqueurs and spirits",
+            "de": "Grappa, Liköre und Spirituosen"
+          }
+        },
+        {
+          "k": "birre",
+          "cat": "misti",
+          "n": {
+            "it": "Birre",
+            "en": "Beers",
+            "de": "Biere"
+          }
+        },
+        {
+          "k": "formaggi",
+          "cat": "formaggi",
+          "n": {
+            "it": "Formaggi",
+            "en": "Cheese",
+            "de": "Käse"
+          }
+        },
+        {
+          "k": "salumi",
+          "cat": "salumi",
+          "n": {
+            "it": "Salumi",
+            "en": "Cured meats",
+            "de": "Wurst und Schinken"
+          }
+        },
+        {
+          "k": "pasta",
+          "cat": "pasta",
+          "n": {
+            "it": "Pasta e riso",
+            "en": "Pasta and rice",
+            "de": "Pasta und Reis"
+          }
+        },
+        {
+          "k": "olio",
+          "cat": "olio",
+          "n": {
+            "it": "Oli e aceti",
+            "en": "Oils and vinegars",
+            "de": "Öle und Essige"
+          }
+        },
+        {
+          "k": "salse",
+          "cat": "conserve",
+          "n": {
+            "it": "Salse e sughi",
+            "en": "Sauces",
+            "de": "Saucen und Sughi"
+          }
+        },
+        {
+          "k": "tipici",
+          "cat": "misti",
+          "n": {
+            "it": "Prodotti tipici",
+            "en": "Regional specialities",
+            "de": "Regionale Spezialitäten"
+          }
+        },
+        {
+          "k": "forno",
+          "cat": "dolci",
+          "n": {
+            "it": "Prodotti da forno, dolci e caffè",
+            "en": "Bakery, sweets and coffee",
+            "de": "Backwaren, Süßes und Kaffee"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Villa Santera Primitivo di Manduria, Leone De Castris",
+          "bottiglia da 0,75 l, annata 2022",
+          "vini"
+        ],
+        [
+          "Sire Negroamaro, Mocavero",
+          "bottiglia da 0,75 l, annata 2022",
+          "vini"
+        ],
+        [
+          "Salentini More Salice Salentino, Feudi Salentini",
+          "bottiglia da 0,75 l, annata 2021",
+          "vini"
+        ],
+        [
+          "Nero Uve di Troia Rosso, Sigillo",
+          "bottiglia da 0,75 l, annata 2022",
+          "vini"
+        ],
+        [
+          "Amai Susumaniello Rosé, San Marzano",
+          "bottiglia da 0,75 l, annata 2025",
+          "vini"
+        ],
+        [
+          "Primitivo Salento, Mottura",
+          "bottiglia da 0,75 l, annata 2024",
+          "vini"
+        ],
+        [
+          "Primaluce Bombino Nero, Carpentiere",
+          "bottiglia da 0,75 l, annata 2023",
+          "vini"
+        ],
+        [
+          "Fiano, Greco, A Mano",
+          "bottiglia da 0,75 l, annata 2025",
+          "vini"
+        ],
+        [
+          "Greco, L'Archetipo",
+          "bottiglia da 0,75 l, annata 2025",
+          "vini"
+        ],
+        [
+          "Litrotto Rosso, L'Archetipo",
+          "bottiglia da 1 l, annata 2024",
+          "vini"
+        ],
+        [
+          "Elisir San Marzano Borsci",
+          "bottiglia da 0,7 l",
+          "spirits"
+        ],
+        [
+          "Birra Raffo",
+          "bottiglia da 33 cl",
+          "birre"
+        ],
+        [
+          "Burrata di Andria IGP, Caseificio Montrone",
+          "confezione da 300 g",
+          "formaggi"
+        ],
+        [
+          "Canestrato Pugliese DOP",
+          "pezzo da 500 g",
+          "formaggi"
+        ],
+        [
+          "Stracciatella Pugliese, La Golosa di Puglia",
+          "confezione da 250 g",
+          "formaggi"
+        ],
+        [
+          "Formaggio Cacionerone di Puglia, Cordisco",
+          "forma da 1 kg",
+          "formaggi"
+        ],
+        [
+          "Burrata Pugliese, La Golosa di Puglia",
+          "confezione da 250 g",
+          "formaggi"
+        ],
+        [
+          "Burrata Pugliese, Caseificio Montrone",
+          "confezione da 300 g",
+          "formaggi"
+        ],
+        [
+          "Bocconcini di Mozzarella Pugliesi, Caseificio Montrone",
+          "confezione da 30 g",
+          "formaggi"
+        ],
+        [
+          "Capocollo di Martina Franca, Salumificio Santoro",
+          "pezzo da 1,8 kg",
+          "salumi"
+        ],
+        [
+          "Pancetta Cotta Leggermente Affumicata, Giannelli Salumi",
+          "pezzo da 1 kg",
+          "salumi"
+        ],
+        [
+          "Capocollo di Martina Franca a Metà, Salumificio Santoro",
+          "pezzo da 0,9 kg",
+          "salumi"
+        ],
+        [
+          "Pancetta Arrotolata, Salumificio Santoro",
+          "pezzo da 1 kg",
+          "salumi"
+        ],
+        [
+          "Capocollo al Vino Cotto e Fichi, Giannelli Salumi",
+          "pezzo da 1 kg",
+          "salumi"
+        ],
+        [
+          "Paccheri di Grani Antichi, Agrimò - Mulino e Pastificio",
+          "confezione da 500 g",
+          "pasta"
+        ],
+        [
+          "Orecchiette Pugliesi, Agrimò - Mulino e Pastificio",
+          "confezione da 500 g",
+          "pasta"
+        ],
+        [
+          "Sagne 'Ncannulate, Agrimò - Mulino e Pastificio",
+          "confezione da 500 g",
+          "pasta"
+        ],
+        [
+          "Mint, condimento all'olio extravergine d'oliva e menta, Agriè",
+          "bottiglia da 250 ml",
+          "olio"
+        ],
+        [
+          "Condimento Aromatico al Limone Fresco, Frantoio Muraglia",
+          "bottiglia da 200 ml",
+          "olio"
+        ],
+        [
+          "Passata di ciliegino Dolce, iContadini",
+          "confezione da 250 g",
+          "salse"
+        ],
+        [
+          "Passata Pomodori Prunill, Paglione",
+          "confezione da 580 g",
+          "salse"
+        ],
+        [
+          "Passata di pomodoro Gialla, iContadini",
+          "confezione da 250 g",
+          "salse"
+        ],
+        [
+          "Patè di olive nere, iContadini",
+          "confezione da 100 g",
+          "tipici"
+        ],
+        [
+          "Olive verdi Bella Cerignola, Iposea",
+          "bottiglia da 0,58 l",
+          "tipici"
+        ],
+        [
+          "Patè di carciofi, iContadini",
+          "confezione da 100 g",
+          "tipici"
+        ],
+        [
+          "Tarallini al Finocchio, Terra dei Sapori",
+          "",
+          "forno"
+        ],
+        [
+          "Taralli Pugliesi Tradizionali, Panificio Adriatico",
+          "confezione da 250 g",
+          "forno"
+        ]
+      ],
+      "pd": {
+        "V-67-0": {
+          "c": [],
+          "d": {
+            "it": "Il Primitivo di Manduria è un rosso DOC pugliese, caldo, fruttato e di buona struttura. Etichetta di Leone De Castris, annata 2022."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "15,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Leone De Castris"
+        },
+        "V-67-1": {
+          "c": [],
+          "d": {
+            "it": "Il Negroamaro è il vitigno rosso simbolo del Salento. Etichetta di Mocavero, annata 2022."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "10,94 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Mocavero"
+        },
+        "V-67-2": {
+          "c": [
+            "DOC"
+          ],
+          "d": {
+            "it": "Il Salice Salentino è un rosso DOC del Salento a base di Negroamaro. Etichetta di Feudi Salentini, annata 2021."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "12,99 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Feudi Salentini"
+        },
+        "V-67-3": {
+          "c": [],
+          "d": {
+            "it": "Uve: Uve di troia. 13,5% vol. Note di degustazione: Di medio corpo, colore rosso rubino intenso; Profumo di frutti neri di bosco, noccioline, con un parco strutturale di frutti di bosco e spezie di peperone brillante; Al palato frutti di bosco maturi e confettura di lamponi, mirtilli e amarene mature, a cui si aggiunge una vivace speziatura con erbe essiccate."
+          },
+          "a": {
+            "it": "Temperatura di servizio: 15-17°C. Abbinamenti: Perfetto per accompagnare piatti di carne alla griglia, sughi di pomodoro, sughi rossi più forti, spezzatini di maiale, formaggi stagionati."
+          },
+          "pr": "10,85 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Sigillo"
+        },
+        "V-67-4": {
+          "c": [],
+          "d": {
+            "it": "Il Susumaniello è un vitigno rosso autoctono del brindisino, riscoperto negli ultimi anni. Etichetta di San Marzano, annata 2025."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "12,19 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "San Marzano"
+        },
+        "V-67-5": {
+          "c": [],
+          "d": {
+            "it": "Il Primitivo è il vitigno rosso più noto della Puglia: dà vini caldi e fruttati. Etichetta di Mottura, annata 2024."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "8,90 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Mottura"
+        },
+        "V-67-6": {
+          "c": [
+            "DOCG"
+          ],
+          "d": {
+            "it": "Denominazione: Castel del Monte Bombino Nero DOCG. Vitigni: bombino nero 100%. Consumo ideale: 2020/2023. Momento per degustarlo: Pranzo leggero. Colore rosa corallo, con sfumature ciliegia. Al naso si esprime con note eleganti di piccoli frutti rossi, in particolare ribes, e cenni di erbe aromatiche. Al palato si presenta fresco, con una piacevole vena sapida e una buona componente tannica."
+          },
+          "a": {
+            "it": "Temperatura di servizio: 12/14 °C. Abbinamenti: Piatti vegetariani, Secondi di pesce. Abbinamenti. Ottimo in abbinamento alle insalate di riso e al pesce in umido, si sposa bene anche con le verdure, grigliate o ripiene al forno."
+          },
+          "pr": "12,58 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Carpentiere"
+        },
+        "V-67-7": {
+          "c": [],
+          "d": {
+            "it": "Il Fiano in Puglia dà bianchi profumati e morbidi. Etichetta di A Mano, annata 2025."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "12,97 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "A Mano"
+        },
+        "V-67-8": {
+          "c": [],
+          "d": {
+            "it": "Greco, L'Archetipo. Uva: fiano 100%. 12,5% vol. Colore: giallo paglierino con riflessi verdognoli. Profumo: note di fiori di campo, mela verde, ananas e un leggero tocco di miele. Sapore: In bocca è vivace, snello, di buon corpo, molto fresco, caratterizzato da un retrogusto minerale."
+          },
+          "a": {
+            "it": "Temperatura di servizio: 8 - 10°C. Abbinamenti: si abbina molto bene con crostacei, risotti di pesce fresco e piatti vegetariani."
+          },
+          "pr": "14,59 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "L'Archetipo"
+        },
+        "V-67-9": {
+          "c": [],
+          "d": {
+            "it": "Litrotto Rosso, L'Archetipo. Uve: Montepulciano 30%, Merlot 20%, Cabernet Sauvignon 20%, Primitivo 20%, Susumaniello 10%. 13,5% vol. I suoi aromi freschi e fragranti di frutti di bosco, erbe di campo e macchia mediterranea con un fondale delicato. In bocca è semplice, succoso, attraente e di intensa freschezza. Vino prodotto con metodi artigianali di una volta, Tripla A."
+          },
+          "a": {
+            "it": "Temperatura di servizio: 14 - 16°C. Abbinamenti: ottimo come aperitivo ma anche a tutto pasto, abbinando primi piatti a base di carne o sugo di pomodoro. Da provare con focaccia e pucce."
+          },
+          "pr": "17,90 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "L'Archetipo"
+        },
+        "V-67-10": {
+          "c": [],
+          "d": {
+            "it": "Elisir San Marzano Borsci. In epoca remota i Borsci, originari del Caucaso, in seguito a sommovimenti politici si trasferiscono in Albania."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "19,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Borsci"
+        },
+        "V-67-11": {
+          "c": [],
+          "d": {
+            "it": "Raffo è la storica birra di Taranto, una lager chiara nata nel 1919."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "1,10 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Birra Raffo"
+        },
+        "V-67-12": {
+          "c": [
+            "IGP"
+          ],
+          "d": {
+            "it": "Un formaggio fresco dal ripieno irresistibile: la Burrata di Andria I.G.P. si riconosce subito. Preparata con latte vaccino, la Burrata è famosa per il suo goloso e sorprendente ripieno a base di pasta sfilacciata a mano e amalgamata con panna. Caratteristiche organolettiche: il prodotto ha un sapore prevalentemente dolce ed è utilizzato soprattutto come prodotto da tavola."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "6,96 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Caseificio Montrone"
+        },
+        "V-67-13": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "Il Canestrato Pugliese giovane, stagionato per circa novanta giorni, viene servito come accompagnamento di fave, pere o verdure crude in pinzimonio, abbinato a vini bianchi o rosati fermi."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "18,96 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Canestrato Pugliese"
+        },
+        "V-67-14": {
+          "c": [],
+          "d": {
+            "it": "Formaggio fresco tipico pugliese composto da straccetti di mozzarella e panna fresca, dalla. consistenza morbida e delicata, oggi diffusa in tutta Italia per via della sua irresistibile bontà. La Golosa di Puglia è una delle poche aziende con una vera filiera verticale integrata, dalla raccolta del latte alla tavola: dal produttore al consumatore."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "4,20 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "La Golosa di Puglia"
+        },
+        "V-67-15": {
+          "c": [],
+          "d": {
+            "it": "Il caciocavallo è senza alcun dubbio, fra i più antichi e tipici formaggio a pasta filata del mezzogiorno d'Italia. Da l'antica esperienza Cordisco nasce “Cacionerone di Puglia”, un vero e proprio caciocavallo gigante; Prodotto esclusivamente con latte controllato, ha un sapore aromatico, piacevole, che si fonde in bocca."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "38,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Cordisco"
+        },
+        "V-67-16": {
+          "c": [],
+          "d": {
+            "it": "La Burratina, delicatissimo formaggio fresco a pasta filata, racchiude al suo interno un cremoso ripieno di mozzarella sfliacciata e panna. Punto di forza del caseificio, la Burrata classica rappresenta l'eccellenza pugliese e il gusto antico della tradizione. La Golosa di Puglia è una delle poche aziende con una vera filiera verticale integrata, dalla raccolta del latte alla tavola: dal produttore al consumatore."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "4,30 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "La Golosa di Puglia"
+        },
+        "V-67-17": {
+          "c": [],
+          "d": {
+            "it": ": Per garantire la freschezza del prodotto verrà spedito il lunedi e il mercoledi. Sono un formaggio fresco a pasta filata tipico pugliese; sono praticamente un sacchetto ottenuto con una sfoglia di pasta filata che contiene un cuore morbido di panna e sfilacci di mozzarella, avvolti con degli steli di vizzo, un erba locale che cresce spontanea e trasmette una nota aromatica e pungente al formaggio."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "6,96 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Caseificio Montrone"
+        },
+        "V-67-18": {
+          "c": [],
+          "d": {
+            "it": "Bocconcini di Mozzarella Pugliesi, Caseificio Montrone. Una tradizione forte più del tempo è alla base della lavorazione del latte al caseificio Olanda, una produzione ancor oggi artigianale, se pur coadiuvata dai macchinari più innovativi."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "4,96 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Caseificio Montrone"
+        },
+        "V-67-19": {
+          "c": [],
+          "d": {
+            "it": "Il Capocollo di Martina Franca è, semplicemente, il prodotto locale più conosciuto ed apprezzato, nato da antiche tradizioni contadine che lo hanno conservato fino ai giorni, grazie alla lenta marinatura e al profumo dell'affumicatura con la corteccia di Fragno, quercia tipica della Valle d'Itria."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "63,90 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Salumificio Santoro"
+        },
+        "V-67-20": {
+          "c": [],
+          "d": {
+            "it": "Ha il sapore ricco e dolce della pancetta e la delicatezza del prosciutto cotto, con un leggero sentore di fumo. La pancetta cotta di Salumi Giannelli viene cotta in differenti fasi, intervallate dal raffreddamento. La “mission” aziendale si basa su un semplice concetto: la produzione di salumi pugliesi senza conservanti."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "24,50 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Giannelli Salumi"
+        },
+        "V-67-21": {
+          "c": [],
+          "d": {
+            "it": "Il Capocollo di Martina Franca è, semplicemente, il prodotto locale più conosciuto ed apprezzato, nato da antiche tradizioni contadine che lo hanno conservato fino ai giorni, grazie alla lenta marinatura e al profumo dell'affumicatura con la corteccia di Fragno, quercia tipica della Valle d'Itria."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "34,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Salumificio Santoro"
+        },
+        "V-67-22": {
+          "c": [],
+          "d": {
+            "it": "Almeno 5 mesi di attesa per questo capolavoro. Rigorosamente salata e arrotolata a mano e nemmeno a dirlo, figlia della Valle d'Itria in tutto il suo essere, dai suini all'affumicatura al profumo di Fragno. Particolari difficilmente ripetibili, per questo unici."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "29,20 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Salumificio Santoro"
+        },
+        "V-67-23": {
+          "c": [],
+          "d": {
+            "it": "Tradizione, passione e amore sono gli ingredienti alla base di questo salume che racconta la storia norcina della Puglia. Lavorato con tecniche artigianali tramandate da secoli di storia, il Capocollo Giannelli ha un sapore molto delicato. A rendere unico questo salume è l'aggiunta di un ingrediente tipico Pugliese, il vincotto."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "36,90 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Giannelli Salumi"
+        },
+        "V-67-24": {
+          "c": [],
+          "d": {
+            "it": "I Paccheri sono un formato di pasta tipico della Campania, dalla forma di un grande tubo liscio e cavo, che ricorda un maccherone ma con dimensioni più generose, tanto da essere soprannominato \"schiaffone\" per via del suono che emette cadendo nel piatto. La loro consistenza ruvida e porosa, ottenuta spesso grazie alla trafilatura al bronzo, li rende ideali a diversi tipi di condimento."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "4,80 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Agrimò - Mulino e Pastificio"
+        },
+        "V-67-25": {
+          "c": [],
+          "d": {
+            "it": "Le Orecchiette sono un tipo di pasta fresca pugliese di forma rotonda e concava, con una superficie interna rugosa e liscia all'esterno, che ricorda appunto delle piccole orecchie. Sono un simbolo della cucina pugliese, ideali per condimenti ricchi. Nel leccese è tipico la domenica, preparare sughi con carne di cavallo e cucinare le orecchiette insieme ai maccheroncini (nascono cosi i Maritati)."
+          },
+          "a": {
+            "it": "L'abbinamento più celebre è con le cime di rapa, ma vengono servite anche con sughi a base di pomodoro, aglio, olio, o con ragù di carne o verdure."
+          },
+          "pr": "4,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Agrimò - Mulino e Pastificio"
+        },
+        "V-67-26": {
+          "c": [],
+          "d": {
+            "it": "Le Sagne sono un formato di pasta tipico di varie regioni italiane, specialmente Abruzzo e Salento, caratterizzato da strisce di pasta fresca o secca. Le sagne 'ncannulate (salentine) sono nastri di pasta ritorti su se stessi, che ricordano trucioli di legno e trattengono bene il sugo. Le sagne 'ncannulate sono eccellenti con sughi ricchi, come ragù di carne, oppure con pomodoro fresco, ricotta piccante o ceci (Ciciri e Tria)."
+          },
+          "a": {
+            "it": "Particolarmente tradizionale in Salento è l'abbinamento delle sagne con un sugo di pomodoro e costine di maiale."
+          },
+          "pr": "4,20 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Agrimò - Mulino e Pastificio"
+        },
+        "V-67-27": {
+          "c": [],
+          "d": {
+            "it": "Mint, condimento all'olio extravergine d'oliva e menta, Agriè. Ottimo sulle melanzane grigliate, sui carciofini o insalate estive di sedano e patate. Blending di Coratina, Ogliarola e Nociara."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "9,25 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Agriè"
+        },
+        "V-67-28": {
+          "c": [],
+          "d": {
+            "it": "Quando le eccellenze si contaminano, l'aroma si fa essenza. L'unione dei gusti, la loro contaminazione, avviene durante il processo di produzione. Restano insieme e vengono franti insieme alle olive."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "17,80 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Frantoio Muraglia"
+        },
+        "V-67-29": {
+          "c": [],
+          "d": {
+            "it": "Da questo pomodoro viene fuori una passata dalla consistenza fine e dal sapore delicato, particolarmente dolce. È la passata che piace proprio a tutti, anche ai bambini, può essere usata nei primi piatti classici, ma anche nei secondi a base di carne."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "2,80 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "iContadini"
+        },
+        "V-67-30": {
+          "c": [],
+          "d": {
+            "it": "Coltivato in arido coltura, il Prunill. è di piccola dimensione e di forma allungata, contraddistinto dalle estremità appuntite. Tipicamente i grappoli di pomodoro Prunill si raccolgono ad agosto e vengono. conservati appesi, tenuti insieme da un filo di ferro, nelle tipiche collane o corone. Il gusto unico e intenso di questo pomodoro, dalla texture setosa, lavorato fresco e. conservato in vaso, è inconfondibile."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "8,96 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Paglione"
+        },
+        "V-67-31": {
+          "c": [],
+          "d": {
+            "it": "Erano i primi pomodori che arrivavano dalle Americhe, da cui il nome \"pomo d'oro\", dovuto proprio alla colorazione gialla. È un pomodoro davvero speciale, per la colorazione, per la composizione (contiene carotenoidi, flavonoidi e vitamina C) e per la struttura: la buccia particolarmente spessa permette di ottenere un passata molto densa!"
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "3,10 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "iContadini"
+        },
+        "V-67-32": {
+          "c": [],
+          "d": {
+            "it": "Le olive leccine e celline sono tipiche della zona. Si raccolgono tra ottobre e novembre, e vengono subito conferite dal contadini olivicoltori nell'azienda. Vengono lavate e deamarizzate in acqua e sale per circa 6 mesi attraverso un metodo che quindi è naturale e legato alla tradizione."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "4,28 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "iContadini"
+        },
+        "V-67-33": {
+          "c": [],
+          "d": {
+            "it": "Queste Olive in salamoia sono famose in tutta Italia: si tratta della varietà ovale grande \"Bella di Cerignola\", della regione Puglia. Le più grandi olive del mondo, dicono. Sono polpose, carnose e gustose. Cerignola è una città costiera nella regione Puglia (sud-est d'Italia). Le olive di questa varietà devono provenire esclusivamente da tale zona."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "5,41 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Iposea"
+        },
+        "V-67-34": {
+          "c": [],
+          "d": {
+            "it": "Il Violetto è una varietà autoctona di carciofo molto speciale. Il carciofo viene raccolto e lavorato manualmente e delicatamente, nell'arco di 24 ore."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "4,50 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "iContadini"
+        },
+        "V-67-35": {
+          "c": [],
+          "d": {
+            "it": "I taralli sono uno dei prodotti da forno originari del sud Italia, ma diffusi in tutto il. paese, Puglia, Campania e Calabria sono le regioni nelle quali tradizionalmente i taralli. venivano cucinati nelle case utilizzando ingredienti semplici e facilmente reperibili, cioà farina, acqua, olio e sale. Alla ricetta dei taralli e stato aggiunto il seme di finocchio."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "3,46 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Terra dei Sapori"
+        },
+        "V-67-36": {
+          "c": [],
+          "d": {
+            "it": "Taralli pugliesi tradizionali, preparati con farina, olio extravergine d'oliva e vino bianco: friabili, da servire con l'aperitivo."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "3,50 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Panificio Adriatico"
+        }
+      },
+      "fonti": [
+        "https://www.soloprodottiitaliani.it/",
+        "https://www.soloprodottiitaliani.it/pages/progetto.html",
+        "https://www.soloprodottiitaliani.it/pages/winearchy-il-regno-del-vino.html",
+        "https://www.soloprodottiitaliani.it/catalogo.php?IdRegioni=65"
+      ]
+    },
+    {
+      "id": "V-68",
+      "n": "OIP · Basilicata",
+      "cat": "vino",
+      "reg": "Basilicata",
+      "city": "Selezione regionale OIP",
+      "lat": 40.64,
+      "lng": 15.805,
+      "y": null,
+      "certs": [],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "logoBg": "#ffffff",
+      "d": {
+        "it": "La Basilicata ha il suo grande rosso nell'Aglianico del Vulture, nato sui suoli vulcanici del monte Vulture, e una cucina di prodotti da forno e peperoni cruschi. Questa vetrina raccoglie la selezione della Basilicata di OIP, Only Italian Products: 9 prodotti di 6 produttori, scelti dal catalogo di soloprodottiitaliani.it e divisi per tipologia: vini (4), grappe, liquori e distillati (2), prodotti tipici (1), prodotti da forno, dolci e caffè (2). OIP è una boutique online del cibo e del vino italiano di qualità, con sede e magazzino a Rezzato, in provincia di Brescia, dove si trova anche l'enoteca Winearchy, con oltre 5.000 etichette in negozio. Seleziona fornitori artigianali, ha una sezione dedicata all'Ho.Re.Ca. e un sito disponibile nelle versioni nazionali di 15 Paesi. Il produttore di ogni referenza è indicato nella scheda del prodotto.",
+        "en": "Basilicata has its great red in Aglianico del Vulture, grown on the volcanic soils of Mount Vulture, and a cuisine of baked goods and crusco peppers. This stand brings together OIP's selection from Basilicata: 9 products from 6 producers, chosen from the soloprodottiitaliani.it catalogue and grouped by type: wines (4), grappa, liqueurs and spirits (2), regional specialities (1), bakery, sweets and coffee (2). OIP, Only Italian Products, is an online boutique for quality Italian food and wine, with headquarters and warehouse in Rezzato, near Brescia, where it also runs the Winearchy wine shop, with over 5,000 labels in store. It selects artisan suppliers, has a dedicated Ho.Re.Ca. section and a website available in national versions for 15 countries. The producer of each item is shown on its product sheet.",
+        "de": "Die Basilikata hat ihren großen Rotwein im Aglianico del Vulture, der auf den Vulkanböden des Monte Vulture wächst, und eine Küche aus Backwaren und Crusco-Paprika. Dieser Stand zeigt die Auswahl von OIP aus der Basilikata: 9 Produkte von 6 Herstellern, ausgewählt aus dem Katalog von soloprodottiitaliani.it und nach Produktart gegliedert: Weine (4), Grappa, Liköre und Spirituosen (2), Regionale Spezialitäten (1), Backwaren, Süßes und Kaffee (2). OIP, Only Italian Products, ist eine Online-Boutique für hochwertige italienische Lebensmittel und Weine mit Sitz und Lager in Rezzato bei Brescia, wo sich auch die Vinothek Winearchy mit über 5.000 Etiketten im Geschäft befindet. OIP wählt handwerkliche Lieferanten aus, hat einen eigenen Ho.Re.Ca.-Bereich und eine Website in Länderversionen für 15 Länder. Der Hersteller jedes Artikels ist im Produktblatt angegeben."
+      },
+      "sub": [
+        {
+          "k": "vini",
+          "cat": "vino",
+          "n": {
+            "it": "Vini",
+            "en": "Wines",
+            "de": "Weine"
+          }
+        },
+        {
+          "k": "spirits",
+          "cat": "liquori",
+          "n": {
+            "it": "Grappe, liquori e distillati",
+            "en": "Grappa, liqueurs and spirits",
+            "de": "Grappa, Liköre und Spirituosen"
+          }
+        },
+        {
+          "k": "tipici",
+          "cat": "misti",
+          "n": {
+            "it": "Prodotti tipici",
+            "en": "Regional specialities",
+            "de": "Regionale Spezialitäten"
+          }
+        },
+        {
+          "k": "forno",
+          "cat": "dolci",
+          "n": {
+            "it": "Prodotti da forno, dolci e caffè",
+            "en": "Bakery, sweets and coffee",
+            "de": "Backwaren, Süßes und Kaffee"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Titolo Riserva Aglianico del Vulture Superiore, Elena Fucci",
+          "bottiglia da 0,75 l, annata 2019",
+          "vini"
+        ],
+        [
+          "Daginestra Aglianico del Vulture Superiore, Grifalco",
+          "bottiglia da 0,75 l, annata 2021",
+          "vini"
+        ],
+        [
+          "Gricos, Grifalco",
+          "bottiglia da 0,75 l, annata 2023",
+          "vini"
+        ],
+        [
+          "Aglianico del Vulture Franco, Arteteke Wines",
+          "bottiglia da 0,75 l, annata 2020",
+          "vini"
+        ],
+        [
+          "Amaro Lucano",
+          "bottiglia da 0,7 l",
+          "spirits"
+        ],
+        [
+          "Limoncetta di Sorrento, Il Limoncello, Lucano",
+          "bottiglia da 0,5 l",
+          "spirits"
+        ],
+        [
+          "Peperone Crusco Fritto, Crocco Chips",
+          "",
+          "tipici"
+        ],
+        [
+          "Babà al Rhum, Calciano Pasticceria",
+          "confezione da 700 g",
+          "forno"
+        ],
+        [
+          "Babà Limoncello, Calciano Pasticceria",
+          "confezione da 700 g",
+          "forno"
+        ]
+      ],
+      "pd": {
+        "V-68-0": {
+          "c": [],
+          "d": {
+            "it": "L'Aglianico del Vulture è il grande rosso della Basilicata, nato sui suoli vulcanici del monte Vulture. Etichetta di Elena Fucci, annata 2019."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "122,90 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Elena Fucci"
+        },
+        "V-68-1": {
+          "c": [],
+          "d": {
+            "it": "L'Aglianico del Vulture è il grande rosso della Basilicata, nato sui suoli vulcanici del monte Vulture. Etichetta di Grifalco, annata 2021."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "47,30 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Grifalco"
+        },
+        "V-68-2": {
+          "c": [],
+          "d": {
+            "it": "Gricos, Grifalco. Gradazione: 13%. Uve: Aglianico. Note di degustazione: Colore rosso rubino di moderata intensità con strappo di tegola. Naso di frutta matura con prugne, spezie e morbide note legnose nell'evoluzione. Trama armoniosamente elegante con tannini cremosi e un finale abbastanza complesso."
+          },
+          "a": {
+            "it": "Temperatura di servizio: 16-18°C. Abbinamenti: Ideale per accompagnare piatti in umido di carni bianche e verdure saltate con spezie."
+          },
+          "pr": "19,88 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Grifalco"
+        },
+        "V-68-3": {
+          "c": [],
+          "d": {
+            "it": "L'Aglianico del Vulture è il grande rosso della Basilicata, nato sui suoli vulcanici del monte Vulture. Etichetta di Arteteke Wines, annata 2020."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "35,32 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Arteteke Wines"
+        },
+        "V-68-4": {
+          "c": [],
+          "d": {
+            "it": "L'amaro Lucano è prodotto secondo un'antica ricetta segreta. Si può gustare liscio, con ghiaccio o caldo.L'Amaro Lucano ha un gusto pieno e leggermente amarognolo, un aroma intenso e variegato di erbe, una tonalità scura rossastra e un tenore alcolico di 30°."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "14,84 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Lucano"
+        },
+        "V-68-5": {
+          "c": [],
+          "d": {
+            "it": "Gradazione: 30%. Limoncetta di Sorrento nasce nell'incantevole penisola Sorrentina, dalle scorze dei più pregiati Limoni di Sorrento. Viene prodotto con infuso di scorze di “Limone di Sorrento I.G.P.”, i cui standard di qualità e provenienza sono accuratamente controllati e certificati dal Consorzio di Tutela del “Limone di Sorrento I.G.P.”."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "10,74 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Lucano"
+        },
+        "V-68-6": {
+          "c": [],
+          "d": {
+            "it": "Un'esperienza unica che unisce croccantezza irresistibile e un gusto dolce inconfondibile. Nei fertili campi della Basilicata, i peperoni vengono coltivati secondo i ritmi della natura. Le pratiche agricole rispettano l'ambiente e permettono al prodotto di crescere in modo sano e armonioso, sotto l'occhio vigile di agricoltori esperti. Ogni peperone viene raccolto al momento giusto, quando raggiunge la sua piena maturazione."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "3,50 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Crocco Chips"
+        },
+        "V-68-7": {
+          "c": [],
+          "d": {
+            "it": "Un impasto lievitato e poco dolce generosamente imbevuto in una bagna al rhum. Il babà è soffice, umido, dal gusto delicatamente alcolico."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "19,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Calciano Pasticceria"
+        },
+        "V-68-8": {
+          "c": [],
+          "d": {
+            "it": "Un impasto lievitato e poco dolce generosamente imbevuto in una bagna al limoncello. Il babà è soffice, umido, dal gusto delicatamente alcolico."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "19,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Calciano Pasticceria"
+        }
+      },
+      "fonti": [
+        "https://www.soloprodottiitaliani.it/",
+        "https://www.soloprodottiitaliani.it/pages/progetto.html",
+        "https://www.soloprodottiitaliani.it/pages/winearchy-il-regno-del-vino.html",
+        "https://www.soloprodottiitaliani.it/catalogo.php?IdRegioni=66"
+      ]
+    },
+    {
+      "id": "V-69",
+      "n": "OIP · Calabria",
+      "cat": "salumi",
+      "reg": "Calabria",
+      "city": "Selezione regionale OIP",
+      "lat": 38.91,
+      "lng": 16.587,
+      "y": null,
+      "certs": [
+        "IGP",
+        "IGT"
+      ],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "logoBg": "#ffffff",
+      "d": {
+        "it": "La Calabria è la terra del Cirò e del Gaglioppo, del peperoncino e della 'nduja, del bergamotto e delle conserve sott'olio. Questa vetrina raccoglie la selezione della Calabria di OIP, Only Italian Products: 18 prodotti di 7 produttori, scelti dal catalogo di soloprodottiitaliani.it e divisi per tipologia: vini (4), grappe, liquori e distillati (2), salumi (5), salse e sughi (2), prodotti tipici (1), prodotti da forno, dolci e caffè (4). OIP è una boutique online del cibo e del vino italiano di qualità, con sede e magazzino a Rezzato, in provincia di Brescia, dove si trova anche l'enoteca Winearchy, con oltre 5.000 etichette in negozio. Seleziona fornitori artigianali, ha una sezione dedicata all'Ho.Re.Ca. e un sito disponibile nelle versioni nazionali di 15 Paesi. Il produttore di ogni referenza è indicato nella scheda del prodotto.",
+        "en": "Calabria is the land of Cirò and Gaglioppo, of chilli pepper and 'nduja, of bergamot and preserves in oil. This stand brings together OIP's selection from Calabria: 18 products from 7 producers, chosen from the soloprodottiitaliani.it catalogue and grouped by type: wines (4), grappa, liqueurs and spirits (2), cured meats (5), sauces (2), regional specialities (1), bakery, sweets and coffee (4). OIP, Only Italian Products, is an online boutique for quality Italian food and wine, with headquarters and warehouse in Rezzato, near Brescia, where it also runs the Winearchy wine shop, with over 5,000 labels in store. It selects artisan suppliers, has a dedicated Ho.Re.Ca. section and a website available in national versions for 15 countries. The producer of each item is shown on its product sheet.",
+        "de": "Kalabrien ist das Land des Cirò und des Gaglioppo, des Peperoncino und der 'Nduja, der Bergamotte und der in Öl eingelegten Konserven. Dieser Stand zeigt die Auswahl von OIP aus Kalabrien: 18 Produkte von 7 Herstellern, ausgewählt aus dem Katalog von soloprodottiitaliani.it und nach Produktart gegliedert: Weine (4), Grappa, Liköre und Spirituosen (2), Wurst und Schinken (5), Saucen und Sughi (2), Regionale Spezialitäten (1), Backwaren, Süßes und Kaffee (4). OIP, Only Italian Products, ist eine Online-Boutique für hochwertige italienische Lebensmittel und Weine mit Sitz und Lager in Rezzato bei Brescia, wo sich auch die Vinothek Winearchy mit über 5.000 Etiketten im Geschäft befindet. OIP wählt handwerkliche Lieferanten aus, hat einen eigenen Ho.Re.Ca.-Bereich und eine Website in Länderversionen für 15 Länder. Der Hersteller jedes Artikels ist im Produktblatt angegeben."
+      },
+      "sub": [
+        {
+          "k": "vini",
+          "cat": "vino",
+          "n": {
+            "it": "Vini",
+            "en": "Wines",
+            "de": "Weine"
+          }
+        },
+        {
+          "k": "spirits",
+          "cat": "liquori",
+          "n": {
+            "it": "Grappe, liquori e distillati",
+            "en": "Grappa, liqueurs and spirits",
+            "de": "Grappa, Liköre und Spirituosen"
+          }
+        },
+        {
+          "k": "salumi",
+          "cat": "salumi",
+          "n": {
+            "it": "Salumi",
+            "en": "Cured meats",
+            "de": "Wurst und Schinken"
+          }
+        },
+        {
+          "k": "salse",
+          "cat": "conserve",
+          "n": {
+            "it": "Salse e sughi",
+            "en": "Sauces",
+            "de": "Saucen und Sughi"
+          }
+        },
+        {
+          "k": "tipici",
+          "cat": "misti",
+          "n": {
+            "it": "Prodotti tipici",
+            "en": "Regional specialities",
+            "de": "Regionale Spezialitäten"
+          }
+        },
+        {
+          "k": "forno",
+          "cat": "dolci",
+          "n": {
+            "it": "Prodotti da forno, dolci e caffè",
+            "en": "Bakery, sweets and coffee",
+            "de": "Backwaren, Süßes und Kaffee"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Cirò Rosato, Cerminara",
+          "bottiglia da 0,75 l, annata 2023",
+          "vini"
+        ],
+        [
+          "Il Marinetto Rosato, Azienda Agricola Sergio Arcuri",
+          "bottiglia da 0,75 l, annata 2024",
+          "vini"
+        ],
+        [
+          "Più Vite Cirò Riserva, Azienda Agricola Sergio Arcuri",
+          "bottiglia da 0,75 l, annata 2018",
+          "vini"
+        ],
+        [
+          "Nanà, Ceraudo",
+          "bottiglia da 0,75 l, annata 2025",
+          "vini"
+        ],
+        [
+          "Vecchio Amaro Del Capo, Distilleria Caffo",
+          "bottiglia da 0,7 l",
+          "spirits"
+        ],
+        [
+          "Vecchio Amaro del Capo \"Riserva del Centenario\", Distilleria Caffo",
+          "bottiglia da 0,7 l",
+          "spirits"
+        ],
+        [
+          "Capocollo di suino nero di Calabria, Consorzio Nero di Calabria",
+          "pezzo da 551-600 g",
+          "salumi"
+        ],
+        [
+          "Guanciale di suino nero di Calabria, Consorzio Nero di Calabria",
+          "pezzo da 551-600 g",
+          "salumi"
+        ],
+        [
+          "Soppressata rossa dolce di suino nero di Calabria, Consorzio Nero di Calabria",
+          "confezione da 300-350 g",
+          "salumi"
+        ],
+        [
+          "'Nduja di Suino Nero, Consorzio Nero di Calabria",
+          "confezione da 400-450 g",
+          "salumi"
+        ],
+        [
+          "Fior di Lardo di Suino Nero di Calabria, Consorzio Nero di Calabria",
+          "confezione da 250-300 g",
+          "salumi"
+        ],
+        [
+          "Salsa di Pomodoro, Salsa per Amatori con Basilico, Famiglia Crispino",
+          "bottiglia da 0,72 l",
+          "salse"
+        ],
+        [
+          "Salsa di Pomodoro, Salsa per Amatori Classica, Famiglia Crispino",
+          "bottiglia da 0,72 l",
+          "salse"
+        ],
+        [
+          "Cipolla di Tropea IGP in Agrodolce, Famiglia Crispino",
+          "confezione da 314 g",
+          "tipici"
+        ],
+        [
+          "Liquirizia Amarelli Rossano",
+          "confezione da 40 g",
+          "forno"
+        ],
+        [
+          "Liquirizia Amarelli Spezzatina 'Rossa'",
+          "confezione da 40 g",
+          "forno"
+        ],
+        [
+          "Liquirizia Amarelli 'Arlecchino'",
+          "confezione da 40 g",
+          "forno"
+        ],
+        [
+          "Liquirizia Amarelli 'Bianconeri'",
+          "confezione da 40 g",
+          "forno"
+        ]
+      ],
+      "pd": {
+        "V-69-0": {
+          "c": [],
+          "d": {
+            "it": "Il Cirò è la denominazione storica della Calabria, con rossi e rosati a base di Gaglioppo e bianchi a base di Greco Bianco. Etichetta di Cerminara, annata 2023."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "21,13 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Cerminara"
+        },
+        "V-69-1": {
+          "c": [],
+          "d": {
+            "it": "Vitigno: Gaglioppo. 13,5% vol. Colore splendido, un melograno ciliegia brillante, molto luminoso e meridionale, ma fresco, marino, profumo sorprendentemente elegante e vivace, un bel bouquet succoso e allegro tutto lampone, ribes, sentori di ciliegia (nessuna traccia di fragola o gum deo gratias!), erbe aromatiche, agrumi e sale, per comporre un insieme fine e cremoso."
+          },
+          "a": {
+            "it": "Temperatura di servizio: 12°/14°C. Abbinamenti: si abbina a meraviglia con la varietà di piatti a base di verdure come le melanzane."
+          },
+          "pr": "28,90 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Azienda Agricola Sergio Arcuri"
+        },
+        "V-69-2": {
+          "c": [],
+          "d": {
+            "it": "Più Vite Cirò Riserva, Azienda Agricola Sergio Arcuri. Vitigno: Gaglioppo. 14,5% vol. Colore rosso rubino con riflessi leggermente aranciati tipici del gaglioppo calabrese, strutturato ma allo stesso tempo non pesante, disseta, induce alla bevuta, selvaggio, il primo bicchiere non si apre subito ma dal secondo con l'ossigenazione si lascia rapire."
+          },
+          "a": {
+            "it": "Temperatura di servizio: 18°-20°C. Abbinamenti: piatti saporiti e succosi, selvaggina, formaggi di media e lunga stagionatura, ma anche legumi con verdure e piatti speziati."
+          },
+          "pr": "47,70 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Azienda Agricola Sergio Arcuri"
+        },
+        "V-69-3": {
+          "c": [
+            "IGT"
+          ],
+          "d": {
+            "it": "Nanà, Ceraudo. Gradazione: 14% Vol. Vitigni: Gaglioppo 80% Magliocco 20%. Affinamento: in acciaio e fermenzione a freddo. Caratteristiche organolettiche: ● Colore: rosso rubino. ● Profumo: fruttato e caratterizzato dal richiamo alla prugna e alla ciliegia di bosco. ● Sapore: bevuta fresca e di medio corpo, appena tannica e di buona persistenza."
+          },
+          "a": {
+            "it": "Abbinamenti: a tutto pasto con le portate della cucina di terra."
+          },
+          "pr": "18,88 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Ceraudo"
+        },
+        "V-69-4": {
+          "c": [],
+          "d": {
+            "it": "Gradazione: 35% Vol. Prodotto simbolo della Distilleria Caffo è il Vecchio Amaro del Capo, liquore di erbe di Calabria, frutto di un'antica ricetta calabrese poi rielaborata e migliorata dall'esperienza acquisita dalle quattro generazioni della famiglia Caffo."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "16,97 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Distilleria Caffo"
+        },
+        "V-69-5": {
+          "c": [],
+          "d": {
+            "it": "Gradazione: 37,5°. La Riserva ha origine da una lunga, sapiente."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "54,86 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Distilleria Caffo"
+        },
+        "V-69-6": {
+          "c": [],
+          "d": {
+            "it": "Capocollo di suino nero di Calabria, antica razza autoctona calabrese, stagionato secondo la tradizione regionale."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "39,90 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Consorzio Nero di Calabria"
+        },
+        "V-69-7": {
+          "c": [],
+          "d": {
+            "it": "La razza del Suino Nero di Calabria è molto rustica e corre il rischio di estinzione a causa del lento accrescimento e della ridotta fertilità. È in corso un piano di recupero di questa razza attraverso la valorizzazione dei prodotti di alta qualità che si ottengono dall'allevamento brado e la lavorazione artigianale delle carni."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "29,95 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Consorzio Nero di Calabria"
+        },
+        "V-69-8": {
+          "c": [],
+          "d": {
+            "it": "Soppressate di suino nero di Calabria. La soppressata o soppressa è un tipo di salume simile alla salsiccia, leggermente più grande e schiacciata. Salume di suino nero, tipico, realizzato con cura utilizzando le migliori parti del suino e pepe rosso dolce."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "17,27 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Consorzio Nero di Calabria"
+        },
+        "V-69-9": {
+          "c": [],
+          "d": {
+            "it": "L'nduja è un insaccato spalmabile, realizzato con le parti grasse del suino e peperoncino piccante. Si consuma spalmandola su fette di pane abbrustolito, meglio se ancora calde, o utilizzata come soffritto per la base di un ragù o di un sugo di pomodoro; può essere usata per guarnire la pizza, prima degli altri condimenti se cruda, oppure appena sfornata."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "13,93 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Consorzio Nero di Calabria"
+        },
+        "V-69-10": {
+          "c": [],
+          "d": {
+            "it": "Lardo stagionato, ottenuto dalla schiena del suino nero di calabria. Notevole è lo spessore della cute della schiena, la materia prima adatta alla salatura per la realizzazione di lardo di altissima qualità. Assenza totale di glutine, OGM, lattosio, conservanti, antiossidanti, additivi, coloranti, aromi."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "9,99 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Consorzio Nero di Calabria"
+        },
+        "V-69-11": {
+          "c": [],
+          "d": {
+            "it": "Salsa per Amatori è una passata di pomodoro prodotta secondo un metodo di lavorazione tutto calabrese. Pomodori di eccellente qualità, accuratamente selezionati e lavorati entro poche ore dalla raccolta, passati in un setaccio a trama larga in grado di eliminare semi e bucce, ma al contempo utile a garantire un taglio corposo e più saporito."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "2,90 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Famiglia Crispino"
+        },
+        "V-69-12": {
+          "c": [],
+          "d": {
+            "it": "Salsa per Amatori è una passata di pomodoro prodotta secondo un metodo di lavorazione tutto calabrese. Pomodori di eccellente qualità, accuratamente selezionati e lavorati entro poche ore dalla raccolta, passati in un setaccio a trama larga in grado di eliminare semi e bucce, ma al contempo utile a garantire un taglio corposo e più saporito."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "2,90 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Famiglia Crispino"
+        },
+        "V-69-13": {
+          "c": [
+            "IGP"
+          ],
+          "d": {
+            "it": "Cipolla Rossa di Tropea Calabria IGP in agrodolce: dolce e croccante, da servire con salumi, formaggi e antipasti."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "6,10 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Famiglia Crispino"
+        },
+        "V-69-14": {
+          "c": [],
+          "d": {
+            "it": "Liquirizia pura in pezzi irregolari. La liquirizia (Glycyrrhiza glabra), è una specie perenne della famiglia delle Papilionaceae. Nota fin dall'antichità è stata chiamata Glycyrrhiza dal greco yλυχος = dolce e ριυα = radice, che significa pianta dalla dolce radice."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "5,53 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Amarelli"
+        },
+        "V-69-15": {
+          "c": [],
+          "d": {
+            "it": "Tronchetti di liquirizia nera. La liquirizia (Glycyrrhiza glabra), è una specie perenne della famiglia delle Papilionaceae. Nota fin dall'antichità è stata chiamata Glycyrrhiza dal greco yλυχος = dolce e ριυα = radice, che significa pianta dalla dolce radice."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "5,53 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Amarelli"
+        },
+        "V-69-16": {
+          "c": [],
+          "d": {
+            "it": "Piccoli rombetti di liquirizia pura all'anice. La liquirizia (Glycyrrhiza glabra), è una specie perenne della famiglia delle Papilionaceae. Nota fin dall'antichità è stata chiamata Glycyrrhiza dal greco yλυχος = dolce e ριυα = radice, che significa pianta dalla dolce radice."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "5,53 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Amarelli"
+        },
+        "V-69-17": {
+          "c": [],
+          "d": {
+            "it": "Confettini di liquirizia alla menta ricoperta di zucchero. La liquirizia (Glycyrrhiza glabra), è una specie perenne della famiglia delle Papilionaceae. Nota fin dall'antichità è stata chiamata Glycyrrhiza dal greco yλυχος = dolce e ριυα = radice, che significa pianta dalla dolce radice."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "5,53 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Amarelli"
+        }
+      },
+      "fonti": [
+        "https://www.soloprodottiitaliani.it/",
+        "https://www.soloprodottiitaliani.it/pages/progetto.html",
+        "https://www.soloprodottiitaliani.it/pages/winearchy-il-regno-del-vino.html",
+        "https://www.soloprodottiitaliani.it/catalogo.php?IdRegioni=67"
+      ]
+    },
+    {
+      "id": "V-70",
+      "n": "OIP · Sicilia",
+      "cat": "vino",
+      "reg": "Sicilia",
+      "city": "Selezione regionale OIP",
+      "lat": 38.116,
+      "lng": 13.361,
+      "y": null,
+      "certs": [
+        "DOP",
+        "DOC",
+        "IGP",
+        "Bio"
+      ],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "logoBg": "#ffffff",
+      "d": {
+        "it": "La Sicilia è un continente del gusto: Nero d'Avola e vini dell'Etna, Grillo e Marsala, pistacchi e mandorle, conserve di pesce, capperi e una pasticceria unica. Questa vetrina raccoglie la selezione della Sicilia di OIP, Only Italian Products: 43 prodotti di 35 produttori, scelti dal catalogo di soloprodottiitaliani.it e divisi per tipologia: vini (11), grappe, liquori e distillati (1), birre (2), formaggi (4), salumi (3), oli e aceti (4), salse e sughi (4), prodotti tipici (4), specialità di mare (3), frutta e verdura (3), prodotti da forno, dolci e caffè (4). OIP è una boutique online del cibo e del vino italiano di qualità, con sede e magazzino a Rezzato, in provincia di Brescia, dove si trova anche l'enoteca Winearchy, con oltre 5.000 etichette in negozio. Seleziona fornitori artigianali, ha una sezione dedicata all'Ho.Re.Ca. e un sito disponibile nelle versioni nazionali di 15 Paesi. Il produttore di ogni referenza è indicato nella scheda del prodotto.",
+        "en": "Sicily is a continent of flavour: Nero d'Avola and the wines of Etna, Grillo and Marsala, pistachios and almonds, preserved fish, capers and a unique pastry tradition. This stand brings together OIP's selection from Sicily: 43 products from 35 producers, chosen from the soloprodottiitaliani.it catalogue and grouped by type: wines (11), grappa, liqueurs and spirits (1), beers (2), cheese (4), cured meats (3), oils and vinegars (4), sauces (4), regional specialities (4), seafood specialities (3), fruit and vegetables (3), bakery, sweets and coffee (4). OIP, Only Italian Products, is an online boutique for quality Italian food and wine, with headquarters and warehouse in Rezzato, near Brescia, where it also runs the Winearchy wine shop, with over 5,000 labels in store. It selects artisan suppliers, has a dedicated Ho.Re.Ca. section and a website available in national versions for 15 countries. The producer of each item is shown on its product sheet.",
+        "de": "Sizilien ist ein Kontinent des Geschmacks: Nero d'Avola und die Weine vom Ätna, Grillo und Marsala, Pistazien und Mandeln, Fischkonserven, Kapern und eine einzigartige Konditorei. Dieser Stand zeigt die Auswahl von OIP aus Sizilien: 43 Produkte von 35 Herstellern, ausgewählt aus dem Katalog von soloprodottiitaliani.it und nach Produktart gegliedert: Weine (11), Grappa, Liköre und Spirituosen (1), Biere (2), Käse (4), Wurst und Schinken (3), Öle und Essige (4), Saucen und Sughi (4), Regionale Spezialitäten (4), Meeresspezialitäten (3), Obst und Gemüse (3), Backwaren, Süßes und Kaffee (4). OIP, Only Italian Products, ist eine Online-Boutique für hochwertige italienische Lebensmittel und Weine mit Sitz und Lager in Rezzato bei Brescia, wo sich auch die Vinothek Winearchy mit über 5.000 Etiketten im Geschäft befindet. OIP wählt handwerkliche Lieferanten aus, hat einen eigenen Ho.Re.Ca.-Bereich und eine Website in Länderversionen für 15 Länder. Der Hersteller jedes Artikels ist im Produktblatt angegeben."
+      },
+      "sub": [
+        {
+          "k": "vini",
+          "cat": "vino",
+          "n": {
+            "it": "Vini",
+            "en": "Wines",
+            "de": "Weine"
+          }
+        },
+        {
+          "k": "spirits",
+          "cat": "liquori",
+          "n": {
+            "it": "Grappe, liquori e distillati",
+            "en": "Grappa, liqueurs and spirits",
+            "de": "Grappa, Liköre und Spirituosen"
+          }
+        },
+        {
+          "k": "birre",
+          "cat": "misti",
+          "n": {
+            "it": "Birre",
+            "en": "Beers",
+            "de": "Biere"
+          }
+        },
+        {
+          "k": "formaggi",
+          "cat": "formaggi",
+          "n": {
+            "it": "Formaggi",
+            "en": "Cheese",
+            "de": "Käse"
+          }
+        },
+        {
+          "k": "salumi",
+          "cat": "salumi",
+          "n": {
+            "it": "Salumi",
+            "en": "Cured meats",
+            "de": "Wurst und Schinken"
+          }
+        },
+        {
+          "k": "olio",
+          "cat": "olio",
+          "n": {
+            "it": "Oli e aceti",
+            "en": "Oils and vinegars",
+            "de": "Öle und Essige"
+          }
+        },
+        {
+          "k": "salse",
+          "cat": "conserve",
+          "n": {
+            "it": "Salse e sughi",
+            "en": "Sauces",
+            "de": "Saucen und Sughi"
+          }
+        },
+        {
+          "k": "tipici",
+          "cat": "misti",
+          "n": {
+            "it": "Prodotti tipici",
+            "en": "Regional specialities",
+            "de": "Regionale Spezialitäten"
+          }
+        },
+        {
+          "k": "mare",
+          "cat": "conserve",
+          "n": {
+            "it": "Specialità di mare",
+            "en": "Seafood specialities",
+            "de": "Meeresspezialitäten"
+          }
+        },
+        {
+          "k": "frutta",
+          "cat": "conserve",
+          "n": {
+            "it": "Frutta e verdura",
+            "en": "Fruit and vegetables",
+            "de": "Obst und Gemüse"
+          }
+        },
+        {
+          "k": "forno",
+          "cat": "dolci",
+          "n": {
+            "it": "Prodotti da forno, dolci e caffè",
+            "en": "Bakery, sweets and coffee",
+            "de": "Backwaren, Süßes und Kaffee"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Etna Rosso 20th Anniversary, Tenuta delle Terre Nere",
+          "bottiglia da 0,75 l, annata 2022",
+          "vini"
+        ],
+        [
+          "Src Etna Bianco DOC, Crasà - Src",
+          "bottiglia da 0,75 l, annata 2024",
+          "vini"
+        ],
+        [
+          "Suliccènti Grillo, Terre di Giurfo",
+          "bottiglia da 0,75 l, annata 2024",
+          "vini"
+        ],
+        [
+          "Benede' Catarratto, Alessandro di Camporeale",
+          "bottiglia da 0,75 l, annata 2024",
+          "vini"
+        ],
+        [
+          "Dorilli Cerasuolo di Vittoria Classico, Planeta",
+          "bottiglia da 0,75 l, annata 2020",
+          "vini"
+        ],
+        [
+          "Frappato FL, Occhipinti",
+          "bottiglia da 0,75 l, annata 2024",
+          "vini"
+        ],
+        [
+          "Marsala Anita Garibaldi Dolce",
+          "bottiglia da 0,75 l",
+          "vini"
+        ],
+        [
+          "Passito di Pantelleria 'ben Ryè', Donnafugata",
+          "bottiglia da 0,375 l, annata 2023",
+          "vini"
+        ],
+        [
+          "Zibibbo Grotta dell'Oro, Hibiscus",
+          "bottiglia da 0,75 l, annata 2025",
+          "vini"
+        ],
+        [
+          "Malvasia, Trinacria",
+          "bottiglia da 0,75 l",
+          "vini"
+        ],
+        [
+          "Syrah Sicilia Riserva 'delia Nivolelli', Caruso e Minini",
+          "bottiglia da 0,75 l, annata 2018",
+          "vini"
+        ],
+        [
+          "Amaro Averna",
+          "bottiglia da 0,7 l",
+          "spirits"
+        ],
+        [
+          "Birra ai Cristalli di sale, Messina",
+          "bottiglia da 50 cl",
+          "birre"
+        ],
+        [
+          "Birra dello Stretto Lager, Birrificio Messina",
+          "bottiglia da 0,33 l",
+          "birre"
+        ],
+        [
+          "Pecorino Siciliano DOP Stagionato 12 Mesi, Caseificio Mangiapane",
+          "pezzo da 500 g",
+          "formaggi"
+        ],
+        [
+          "Vastedda Della Valle Del Belice DOP, Caseificio Manfrè",
+          "pezzo da 500-600 g",
+          "formaggi"
+        ],
+        [
+          "Primo Sale di Pecora Siciliana, Caseificio Poma Gioacchino",
+          "confezione da 400-450 g",
+          "formaggi"
+        ],
+        [
+          "Provola dei Nebrodi (Slow Food), La Paisanella - Agostino",
+          "pezzo da 500 g",
+          "formaggi"
+        ],
+        [
+          "Lardo di Suino Nero dei Nebrodi (Slow Food), La Paisanella - Agostino",
+          "confezione da 300-350 g",
+          "salumi"
+        ],
+        [
+          "Capocollo (Coppa) di Suino Nero dei Nebrodi (Slow Food), La Paisanella - Agostino",
+          "pezzo da 500-600 g",
+          "salumi"
+        ],
+        [
+          "Prosciutto di Suino Nero dei Nebrodi Riserva Ghiande 36 Mesi (Slow Food), La Paisanella - Agostino",
+          "pezzo da 1,5 kg",
+          "salumi"
+        ],
+        [
+          "Olio Extravergine d'Oliva Sicilia IGP Latta, Embrace",
+          "bottiglia da 3 l",
+          "olio"
+        ],
+        [
+          "Segreto IGP, Frantoi Cutrera",
+          "bottiglia da 0,75 l",
+          "olio"
+        ],
+        [
+          "Olio Extravergine di Oliva Bio, Azienda Agricola Biologica Adamo",
+          "bottiglia da 0,5 l",
+          "olio"
+        ],
+        [
+          "Condimento al Limone a Base di Olio Extravergine di Oliva, Oleificio Costa",
+          "bottiglia da 100 ml",
+          "olio"
+        ],
+        [
+          "Patè di Olive Verdi Nocellara Etnea, Conserve SoloSole",
+          "confezione da 180 g",
+          "salse"
+        ],
+        [
+          "Paté di peperoncino in olio, Rinascita Valledolmo - Rosso Siculo",
+          "confezione da 200 g",
+          "salse"
+        ],
+        [
+          "Patè di Finocchietto Selvatico con Pinoli e Uvetta, Embrace",
+          "confezione da 212 g",
+          "salse"
+        ],
+        [
+          "Pomodoro Ciliegino al Naturale Bio, Passoladro",
+          "bottiglia da 0,5 l",
+          "salse"
+        ],
+        [
+          "Sale Marino di Trapani IGP Fino, Antica Salina",
+          "",
+          "tipici"
+        ],
+        [
+          "Pomodori Secchi, Azienda Agricola Biologica Adamo",
+          "confezione da 250 g",
+          "tipici"
+        ],
+        [
+          "Venere Cioccolato Fondente Biologico 55% con Mandorla Pralinata, Sabadì",
+          "confezione da 50 g",
+          "tipici"
+        ],
+        [
+          "Lenticchia Siciliana del Contadino, Fastuchera Azienda Agricola",
+          "confezione da 500 g",
+          "tipici"
+        ],
+        [
+          "Tarantello di Tonno Rosso del Mediterraneo, Mare Puro",
+          "confezione da 180 g",
+          "mare"
+        ],
+        [
+          "Filetti di Sardine di Sciacca in Olio, Il Faro",
+          "confezione da 230 g",
+          "mare"
+        ],
+        [
+          "Sugo al Nero di Mare, Solo Sole, Conserve SoloSole",
+          "confezione da 314 g",
+          "mare"
+        ],
+        [
+          "Arance Siciliane di Ribera, Spremuta Washington, Azienda Agricola Guarraggi",
+          "confezione da 1 kg",
+          "frutta"
+        ],
+        [
+          "Mandorle Sgusciate Siciliane calibro 34/36, Nama Mandorle",
+          "confezione da 250 g",
+          "frutta"
+        ],
+        [
+          "Aglio Rosso di Nubia (qualità Fiorone), Az. Agr. Balducco Fulgatore",
+          "",
+          "frutta"
+        ],
+        [
+          "Cioccolato di Modica IGP BIO all'Arancia, Rossella, Sabadì",
+          "confezione da 50 g",
+          "forno"
+        ],
+        [
+          "Frutta di Martorana, Marzapane, Furco Biscotti",
+          "confezione da 250 g",
+          "forno"
+        ],
+        [
+          "Farina Maiorca di Grano Tenero Tipo 2 Bio, Mulino Angelica",
+          "confezione da 1 kg",
+          "forno"
+        ],
+        [
+          "Cialde di Cannoli Grandi, Pennisi - La Dolceria Siciliana",
+          "",
+          "forno"
+        ]
+      ],
+      "pd": {
+        "V-70-0": {
+          "c": [],
+          "d": {
+            "it": "L'Etna Rosso è un rosso DOC a base di Nerello Mascalese, coltivato sulle pendici del vulcano. Etichetta di Tenuta delle Terre Nere, annata 2022."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "55,68 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Tenuta delle Terre Nere"
+        },
+        "V-70-1": {
+          "c": [
+            "DOC"
+          ],
+          "d": {
+            "it": "Src Etna Bianco DOC, Crasà - Src. Uve: 80% Carricante, 20% Gracanico. 12,5% vol. In bocca è caratterizzato da una tipica nota minerale, accompagnata da un'agile freschezza, una trama salina e un sapore vibrante e schietto, che riempie aromi di agrumi di Sicilia, erbe mediterranee, note minerali, fiori bianchi ed echi marini."
+          },
+          "a": {
+            "it": "Temperatura di servizio: 8-10°C. Abbinamenti: Ideale con antipasti caldi di pesce, carni bianche in umido."
+          },
+          "pr": "35,90 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Crasà - Src"
+        },
+        "V-70-2": {
+          "c": [],
+          "d": {
+            "it": "Il Grillo è un vitigno bianco siciliano, storicamente legato al Marsala e oggi vinificato anche secco. Etichetta di Terre di Giurfo, annata 2024."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "13,70 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Terre di Giurfo"
+        },
+        "V-70-3": {
+          "c": [],
+          "d": {
+            "it": "Il Catarratto è il vitigno bianco più coltivato in Sicilia. Etichetta di Alessandro di Camporeale, annata 2024."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "11,66 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Alessandro di Camporeale"
+        },
+        "V-70-4": {
+          "c": [],
+          "d": {
+            "it": "Gradazione: 13,5% Vol. 70% Nero d'Avola, 30% Frappato. Nasce da un'attenta selezione delle vigne che circondano la bella e unica tenuta di Dorilli, dal nome del vicino fiume Dirillo, approdo del valoroso Enea. Un'espressione fine ed elegante, frutto dell'unione del nobile Nero d'Avola con il Frappato di Vittoria, vitigno ibleo per eccellenza, lievemente marcata dall'affinamento in legno."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "18,48 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Planeta"
+        },
+        "V-70-5": {
+          "c": [],
+          "d": {
+            "it": "Il Frappato è un vitigno rosso della Sicilia sud-orientale: dà vini leggeri e profumati. Etichetta di Occhipinti, annata 2024."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "33,70 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Occhipinti"
+        },
+        "V-70-6": {
+          "c": [
+            "DOC"
+          ],
+          "d": {
+            "it": "Il Marsala è lo storico vino liquoroso DOC della Sicilia occidentale."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "13,80 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          }
+        },
+        "V-70-7": {
+          "c": [],
+          "d": {
+            "it": "Il Passito di Pantelleria è un vino dolce DOC da uve Zibibbo appassite al sole. Etichetta di Donnafugata, annata 2023."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "36,94 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Donnafugata"
+        },
+        "V-70-8": {
+          "c": [],
+          "d": {
+            "it": "Lo Zibibbo, o Moscato d'Alessandria, è il vitigno aromatico di Pantelleria. Etichetta di Hibiscus, annata 2025."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "28,98 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Hibiscus"
+        },
+        "V-70-9": {
+          "c": [],
+          "d": {
+            "it": "La Malvasia delle Lipari è un vino dolce DOC delle isole Eolie. Etichetta di Trinacria."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "7,38 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Trinacria"
+        },
+        "V-70-10": {
+          "c": [],
+          "d": {
+            "it": "Il Syrah si è adattato bene al clima siciliano e dà rossi speziati e morbidi. Etichetta di Caruso e Minini, annata 2018."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "19,92 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Caruso e Minini"
+        },
+        "V-70-11": {
+          "c": [],
+          "d": {
+            "it": "Il suo gusto pieno e morbido è il principale ingrediente del successo di questo amaro, prodotto ancor oggi seguendo una procedura antica quanto la sua ricetta che risale al 1868.Tutte le fasi piu delicate del processo produttivo nel reparto erboristeria sono severamente controllate per garantire l'alta qualita e genuinità del prodotto e dei suoi ingredienti naturali: un successo che va espandendosi in tutto il mondo."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "17,94 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Averna"
+        },
+        "V-70-12": {
+          "c": [],
+          "d": {
+            "it": "Birra ai Cristalli di sale, Messina. Stile: Lager Non Filtrata, 5% Vol. Colore: Dorato, Naturalmente Opalescente. Schiuma: Compatta, Persistente."
+          },
+          "a": {
+            "it": "Gusto: Morbido, Fine ed Equilibrato. aroma: Floreale, Fruttato. temperatura di servizio: 3-5."
+          },
+          "pr": "1,99 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Messina"
+        },
+        "V-70-13": {
+          "c": [],
+          "d": {
+            "it": "Gradazione: 5% Vol. Una birra di altissima qualità, nata dalla più antica tradizione brassicola messinese. Puro malto, colore biondo e una schiuma compatta. Gusto bilanciatoe leggermente aromatico, eccellente all'olfatto e al palato. Una birra dall'animo nobile che, come un “Ponte sullo Stretto”, sarà in grado di unire tutti in ogni occasione. L ' Unica Birra dello Stretto."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "1,86 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Birrificio Messina"
+        },
+        "V-70-14": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "Il latte intero crudo coagula in una tina con caglio in pasta di agnello o capretto. La cagliata ottenuta, viene messa in delle fuscelle in giunco e subisce una maturazione sotto scotta. Dopo una breve sosta in salamoia le forme vengono stagionate per un periodo che và oltre i 12 mesi."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "19,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Caseificio Mangiapane"
+        },
+        "V-70-15": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": ": Vastedda della valle del Belice D.O.P. Se non l'unico, la Vastedda valle del Belìce DOP è uno dei pochissimi formaggi ovini a pasta filata. Ha un gusto particolare, tipico del formaggio fresco di pecora, con note lievemente acidule e mai piccanti. La sua pasta è bianca, compatta, con qualche striatura dovuta alla filatura artigianale."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "14,90 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Caseificio Manfrè"
+        },
+        "V-70-16": {
+          "c": [],
+          "d": {
+            "it": "Il Primosale è il formaggio siciliano per eccellenza. Ha un'antichissima tradizione e viene prodotto in Sicilia sin dai tempi più remoti. Appartiene alla categoria dei formaggi a pasta dura-cotta ed è prodotto esclusivamente con latte di pecora intero fatto coagulare mediante l'aggiunta di caglio di agnello."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "8,70 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Caseificio Poma Gioacchino"
+        },
+        "V-70-17": {
+          "c": [],
+          "d": {
+            "it": "La Provola Fresca è un formaggio a pasta filata, di latte vaccino intero crudo. Le forme hanno crosta liscia, lucida, di colore paglierino ambrato. Il periodo di produzione va da Marzo a Luglio. Il sapore è dolce e delicato, con stagionatura 3 mesi in locali seminterrati."
+          },
+          "a": {
+            "it": "Si consiglia di conservare in un panno di cotone o lino, in frigorifero."
+          },
+          "pr": "11,30 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "La Paisanella - Agostino"
+        },
+        "V-70-18": {
+          "c": [],
+          "d": {
+            "it": "La Paisanella è l'azienda Siciliana che ha per prima sostenuto e promosso l'allevamento del suino nero dei Nebrodi. Una specie che era vicina all'estinzione poichè la sua resa era bassa, e che anche grazie all'opera de la Paisanella, ha trovato un nuovo ripopolamento, affermandosi inoltre come grande eccellenza tra le carni ed i salumi."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "8,90 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "La Paisanella - Agostino"
+        },
+        "V-70-19": {
+          "c": [],
+          "d": {
+            "it": "La Paisanella è l'azienda Siciliana che ha per prima sostenuto e promosso l'allevamento del suino nero dei Nebrodi. Una specie che era vicina all'estinzione poichè la sua resa era bassa, e che anche grazie all'opera de la Paisanella, ha trovato un nuovo ripopolamento, affermandosi inoltre come grande eccellenza tra le carni ed i salumi."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "26,84 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "La Paisanella - Agostino"
+        },
+        "V-70-20": {
+          "c": [],
+          "d": {
+            "it": "La Paisanella è l'azienda Siciliana che ha per prima sostenuto e promosso l'allevamento del suino nero dei Nebrodi. Una specie che era vicina all'estinzione poichè la sua resa era bassa, e che anche grazie all'opera de la Paisanella, ha trovato un nuovo ripopolamento, affermandosi inoltre come grande eccellenza tra le carni ed i salumi."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "175,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "La Paisanella - Agostino"
+        },
+        "V-70-21": {
+          "c": [
+            "IGP"
+          ],
+          "d": {
+            "it": "La latta da 3 litri è il formato ideale per chef e ristoratori o per chi vuole avere sempre con sè una piccola scorta da utilizzare quotidianamente a casa per esaltare i sapori dei propri piatti."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "51,90 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Embrace"
+        },
+        "V-70-22": {
+          "c": [
+            "IGP"
+          ],
+          "d": {
+            "it": "Segreto IGP, Frantoi Cutrera. Il Frantoi Cutrera è un'azienda a conduzione familiare situata nella regione Chiaramonte Gulfi, nel sud-est della Sicilia. Viene prodotto dalla prima spremitura a freddo di olive raccolte a mano. circostanti. Viene prodotto dalla prima spremitura a freddo di olive raccolte a mano."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "25,88 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Frantoi Cutrera"
+        },
+        "V-70-23": {
+          "c": [
+            "Bio"
+          ],
+          "d": {
+            "it": ": Nuova Molitura 2021 Disponibile a Inizio Ottobre. Nel rispetto della tradizione, con passione e professionalità, l'azienda da cinquant'anni produce un pregiato olio extra vergine, dalle caratteristiche inconfondibili, determinate solo da particolari accorgimenti in fase di raccolta e di molitura."
+          },
+          "a": {
+            "it": "Solo tale procedimento permette all'olio di conservare inalterate tutte le caratteristiche di profumo e sapore del frutto."
+          },
+          "pr": "11,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Azienda Agricola Biologica Adamo"
+        },
+        "V-70-24": {
+          "c": [],
+          "d": {
+            "it": "Prodotto senza utilizzo di aromi ma solo da frangitura di olive e limoni. Limoni coltivati rigorosamente su terreni circostanti le zone dell'Etna. Indicato al crudo per condimento di insalate verdi, pesce ed arrosti di carne. Varietà olive: Blend composto da nocellara etnea, biancolilla, moresca, nostrale, carolea e catanese. Zone di produzione: Pendici dell'Etna, valle dell'Alcantara, valle del Simeto."
+          },
+          "a": {
+            "it": "Abbinamento: Indicato al crudo per il condimento di insalate verdi, pesce ed arrosti di carne."
+          },
+          "pr": "5,90 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Oleificio Costa"
+        },
+        "V-70-25": {
+          "c": [],
+          "d": {
+            "it": "Per questo la fragranza e il sapore di questo patè vi coinvolgeranno dando tanto gusto e sicilianità alle vostre preparazioni."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "5,86 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Conserve SoloSole"
+        },
+        "V-70-26": {
+          "c": [],
+          "d": {
+            "it": "Paté di peperoncino in olio, Rinascita Valledolmo - Rosso Siculo. Basterà un cucchiaio per dare sapore e vivacità in salse e sughi. Ottimo per accompagnare antipasti, per farcire tartine, crostini, pane tostato. Suggerimenti per la conservazione: una volta aperto si consiglia di conservare in luogo fresco."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "5,50 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Rinascita Valledolmo - Rosso Siculo"
+        },
+        "V-70-27": {
+          "c": [],
+          "d": {
+            "it": "Il finocchietto selvatico nasce spontaneo nelle campagne soleggiate e generose della Sicilia, attorno agli uliveti. Viene raccolto a mano, e lavato accuratamente. La preparazione di ogni vasetto segue le ricette originali della tradizione siciliana. Solo ingredienti naturali selezionati e solo lavorazione a mano nel rispetto della qualità."
+          },
+          "a": {
+            "it": "Ottima per condire soprattutto primi piatti, in particolar modo la pasta con le sarde, la pasta con tonno o pesce spada, ma esalta anche i sughi e i legumi, rende deliziose le bruschette e la pizza, ideale anche sulla carne alla brace o nel sugo di cinghiale."
+          },
+          "pr": "9,40 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Embrace"
+        },
+        "V-70-28": {
+          "c": [
+            "Bio"
+          ],
+          "d": {
+            "it": "Profumato e dal sapore unico il pomodoro ciliegino al naturale è perfetto per ogni."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "4,70 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Passoladro"
+        },
+        "V-70-29": {
+          "c": [
+            "IGP"
+          ],
+          "d": {
+            "it": "Antica Salina Sale Marino di Trapani IGP è un sale di altissima qualità prodotto esclusivamente nelle saline di Trapani e Marsala. Le migliori vasche, ad inizio anno, vengono identificate e segnalate come le più idonee alla produzione del Sale Marino di Trapani IGP."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "1,92 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Antica Salina"
+        },
+        "V-70-30": {
+          "c": [
+            "Bio"
+          ],
+          "d": {
+            "it": "I pomodori secchi di sicilia dove ancora si conserva la preparazione tradizionale dell'essiccamento naturale al sole, pomodori secchi tipici della cucina contadina siciliana. Durante i mesi più caldi dell'anno, luglio e agosto, i pomodori vengono messi ad essiccare."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "8,12 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Azienda Agricola Biologica Adamo"
+        },
+        "V-70-31": {
+          "c": [
+            "Bio"
+          ],
+          "d": {
+            "it": "Una barretta di Cioccolato molto golosa! Cioccolato fondente, mandorla caramellata e sale: dici che abbiamo esagerato stavolta? Tecnicamente irresistibile!"
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "5,50 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Sabadì"
+        },
+        "V-70-32": {
+          "c": [],
+          "d": {
+            "it": "La Lenticchia di Villalba risulta senza dubbio uno dei tre soli genotipi autoctoni italiani, con una valutazione di indubbio pregio tra le varietà esistenti. La Fondazione Slow Food l'ha riconosciuta come presidio. Di facile cottura, non ha bisogno di essere messa a bagno prima della cottura."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "6,90 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Fastuchera Azienda Agricola"
+        },
+        "V-70-33": {
+          "c": [],
+          "d": {
+            "it": "Il Tarantello è una delle parti più pregiate del tonno e al palato la sua carne sembra essere molto tenera. Il Tonno Rosso del Mar Mediterraneo è la tipologia di tonno più ricercata e pregiata dei mari. Viene pescato secondo le norme di rispetto della pesca consapevole ed etica. Il sapore del Tarantello è molto gustoso e delicato."
+          },
+          "a": {
+            "it": "In un packaging in latta, ideale per la conservazione di cibi pregiati è possibile gustare un prodotto tipico della tradizione culinaria siciliana."
+          },
+          "pr": "15,90 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Mare Puro"
+        },
+        "V-70-34": {
+          "c": [],
+          "d": {
+            "it": "I Filetti di Sarde Il Faro nascono a Sciacca, in provincia di Agrigento, cuore pulsante della tradizione marinara siciliana. Il pesce azzurro utilizzato viene pescato nelle acque limpide e incontaminate del Mar Mediterraneo antistante Sciacca, con tecniche di pesca sostenibili come il tradizionale cianciolo con lampara, nel pieno rispetto della biodiversità marina."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "7,20 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Il Faro"
+        },
+        "V-70-35": {
+          "c": [],
+          "d": {
+            "it": "La pasta al nero di seppia sono un classico primo piatto siciliano che fa riferimento ad una ricetta dalle origini umili (infatti tradizionalmente non si volevano scartare parti della seppia), ma oggi è considerata una tra le ricette più pregiate, dal persistente e piacevole profumo di mare."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "12,66 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Conserve SoloSole"
+        },
+        "V-70-36": {
+          "c": [],
+          "d": {
+            "it": "Un vero dono della natura, un frutto che sembra racchiuda in sé i raggi ed il calore del sole di Sicilia, identificato col pomo aureo del giardino delle Esperidi. L'arancia di Ribera è un'arancia bionda, del gruppo Navel, senza semi e dalla buccia facilmente staccabile dalla polpa, dal gusto gradevolissimo e croccante, dall'alto contenuto vitaminico (C, A, B, PP), sali minerali e zuccheri."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "1,80 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Azienda Agricola Guarraggi"
+        },
+        "V-70-37": {
+          "c": [],
+          "d": {
+            "it": "La mandorla è un prodotto tipico della Sicilia, il cui uso in pasticceria è simbolo della terra del sole soprattutto nelle famose paste di mandorla. La mandorla è un seme particolarmente ricco di magnesio, calcio e ferro: si tratta quindi di un alimento particolarmente nutriente oltre che indubbiamente buono!"
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "5,40 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Nama Mandorle"
+        },
+        "V-70-38": {
+          "c": [],
+          "d": {
+            "it": "Nubia piccola frazione di Paceco fondata nel 1500 da sempre la sua economia si è basata sulle saline e sulla coltivazione dell'aglio rosso. I nubioti, prevalentemente popolo di contadini, si sono tradizionalmente dedicati alla coltivazione dell'aglio rosso di Nubia, tanto da far acquisire a Nubia la denominazione dialettale di “u paisi di l'agghi” cioè il paese dell'aglio."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "1,60 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Az. Agr. Balducco Fulgatore"
+        },
+        "V-70-39": {
+          "c": [
+            "IGP",
+            "Bio"
+          ],
+          "d": {
+            "it": "Cioccolato di Modica biologico all'arancia, Le note aromatiche del cacao Nacional trovano in Rossella un piacevole contrasto con la persistenza delle scorzette di arancia rossa. Presenta una buccia rossa, ricca di oli essenziali e molto aromatica."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "5,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Sabadì"
+        },
+        "V-70-40": {
+          "c": [],
+          "d": {
+            "it": "La frutta di Martorana è il dolce di pasta di mandorle tipico della Sicilia, modellato e dipinto a mano a forma di frutta."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "7,50 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Furco Biscotti"
+        },
+        "V-70-41": {
+          "c": [
+            "Bio"
+          ],
+          "d": {
+            "it": "Maiorca è una varietà antica di grano tenero caratterizzata da ottime proprietà organolettiche e dall'alta digeribilità. Questa farina è facilmente riconoscibile per il suo aroma inebriante e la quasi impalpabilità al tatto. Per produrre un'ottima farina è certamente fondamentale avere un cereale di qualità, ma è altrettanto necessaria un'attenta e capace macinazione."
+          },
+          "a": {
+            "it": "Ottenuta dal grano Maiorca lavato e macinato a pietra è ideale per preparare dolci e biscotti, pani bianchi, grissini e pizze."
+          },
+          "pr": "4,58 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Mulino Angelica"
+        },
+        "V-70-42": {
+          "c": [],
+          "d": {
+            "it": "Croccanti e gustose cialde, preparate artigianalmente, da riempire con crema alla ricotta, con crema bianca o con crema al cioccolato, come vuole la tradizione."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "0,64 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Pennisi - La Dolceria Siciliana"
+        }
+      },
+      "fonti": [
+        "https://www.soloprodottiitaliani.it/",
+        "https://www.soloprodottiitaliani.it/pages/progetto.html",
+        "https://www.soloprodottiitaliani.it/pages/winearchy-il-regno-del-vino.html",
+        "https://www.soloprodottiitaliani.it/catalogo.php?IdRegioni=68"
+      ]
+    },
+    {
+      "id": "V-71",
+      "n": "OIP · Sardegna",
+      "cat": "vino",
+      "reg": "Sardegna",
+      "city": "Selezione regionale OIP",
+      "lat": 39.223,
+      "lng": 9.122,
+      "y": null,
+      "certs": [
+        "DOP"
+      ],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "logoBg": "#ffffff",
+      "d": {
+        "it": "La Sardegna è un'isola di Cannonau e Vermentino, di pecorini, pane carasau, bottarga e mirto. Questa vetrina raccoglie la selezione della Sardegna di OIP, Only Italian Products: 29 prodotti di 22 produttori, scelti dal catalogo di soloprodottiitaliani.it e divisi per tipologia: vini (8), grappe, liquori e distillati (2), birre (1), formaggi (5), salumi (1), pasta e riso (2), oli e aceti (1), prodotti tipici (2), specialità di mare (2), prodotti da forno, dolci e caffè (5). OIP è una boutique online del cibo e del vino italiano di qualità, con sede e magazzino a Rezzato, in provincia di Brescia, dove si trova anche l'enoteca Winearchy, con oltre 5.000 etichette in negozio. Seleziona fornitori artigianali, ha una sezione dedicata all'Ho.Re.Ca. e un sito disponibile nelle versioni nazionali di 15 Paesi. Il produttore di ogni referenza è indicato nella scheda del prodotto.",
+        "en": "Sardinia is an island of Cannonau and Vermentino, of pecorino cheeses, carasau bread, bottarga and myrtle liqueur. This stand brings together OIP's selection from Sardinia: 29 products from 22 producers, chosen from the soloprodottiitaliani.it catalogue and grouped by type: wines (8), grappa, liqueurs and spirits (2), beers (1), cheese (5), cured meats (1), pasta and rice (2), oils and vinegars (1), regional specialities (2), seafood specialities (2), bakery, sweets and coffee (5). OIP, Only Italian Products, is an online boutique for quality Italian food and wine, with headquarters and warehouse in Rezzato, near Brescia, where it also runs the Winearchy wine shop, with over 5,000 labels in store. It selects artisan suppliers, has a dedicated Ho.Re.Ca. section and a website available in national versions for 15 countries. The producer of each item is shown on its product sheet.",
+        "de": "Sardinien ist eine Insel des Cannonau und des Vermentino, der Pecorino-Käse, des Carasau-Brots, der Bottarga und des Myrtenlikörs. Dieser Stand zeigt die Auswahl von OIP aus Sardinien: 29 Produkte von 22 Herstellern, ausgewählt aus dem Katalog von soloprodottiitaliani.it und nach Produktart gegliedert: Weine (8), Grappa, Liköre und Spirituosen (2), Biere (1), Käse (5), Wurst und Schinken (1), Pasta und Reis (2), Öle und Essige (1), Regionale Spezialitäten (2), Meeresspezialitäten (2), Backwaren, Süßes und Kaffee (5). OIP, Only Italian Products, ist eine Online-Boutique für hochwertige italienische Lebensmittel und Weine mit Sitz und Lager in Rezzato bei Brescia, wo sich auch die Vinothek Winearchy mit über 5.000 Etiketten im Geschäft befindet. OIP wählt handwerkliche Lieferanten aus, hat einen eigenen Ho.Re.Ca.-Bereich und eine Website in Länderversionen für 15 Länder. Der Hersteller jedes Artikels ist im Produktblatt angegeben."
+      },
+      "sub": [
+        {
+          "k": "vini",
+          "cat": "vino",
+          "n": {
+            "it": "Vini",
+            "en": "Wines",
+            "de": "Weine"
+          }
+        },
+        {
+          "k": "spirits",
+          "cat": "liquori",
+          "n": {
+            "it": "Grappe, liquori e distillati",
+            "en": "Grappa, liqueurs and spirits",
+            "de": "Grappa, Liköre und Spirituosen"
+          }
+        },
+        {
+          "k": "birre",
+          "cat": "misti",
+          "n": {
+            "it": "Birre",
+            "en": "Beers",
+            "de": "Biere"
+          }
+        },
+        {
+          "k": "formaggi",
+          "cat": "formaggi",
+          "n": {
+            "it": "Formaggi",
+            "en": "Cheese",
+            "de": "Käse"
+          }
+        },
+        {
+          "k": "salumi",
+          "cat": "salumi",
+          "n": {
+            "it": "Salumi",
+            "en": "Cured meats",
+            "de": "Wurst und Schinken"
+          }
+        },
+        {
+          "k": "pasta",
+          "cat": "pasta",
+          "n": {
+            "it": "Pasta e riso",
+            "en": "Pasta and rice",
+            "de": "Pasta und Reis"
+          }
+        },
+        {
+          "k": "olio",
+          "cat": "olio",
+          "n": {
+            "it": "Oli e aceti",
+            "en": "Oils and vinegars",
+            "de": "Öle und Essige"
+          }
+        },
+        {
+          "k": "tipici",
+          "cat": "misti",
+          "n": {
+            "it": "Prodotti tipici",
+            "en": "Regional specialities",
+            "de": "Regionale Spezialitäten"
+          }
+        },
+        {
+          "k": "mare",
+          "cat": "conserve",
+          "n": {
+            "it": "Specialità di mare",
+            "en": "Seafood specialities",
+            "de": "Meeresspezialitäten"
+          }
+        },
+        {
+          "k": "forno",
+          "cat": "dolci",
+          "n": {
+            "it": "Prodotti da forno, dolci e caffè",
+            "en": "Bakery, sweets and coffee",
+            "de": "Backwaren, Süßes und Kaffee"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Cannonau di Sardegna, Sella & Mosca",
+          "bottiglia da 0,75 l, annata 2024",
+          "vini"
+        ],
+        [
+          "Ghineo Vermentino di Sardegna, Monserrato",
+          "bottiglia da 0,75 l, annata 2023",
+          "vini"
+        ],
+        [
+          "Vermentino di Gallura Superiore, Giogantinu",
+          "bottiglia da 0,75 l, annata 2024",
+          "vini"
+        ],
+        [
+          "Terre Brune Carignano del Sulcis Superiore, Santadi",
+          "bottiglia da 0,75 l, annata 2021",
+          "vini"
+        ],
+        [
+          "Nuracada Bovale Isola dei Nuraghi, Audarya",
+          "bottiglia da 0,75 l, annata 2020",
+          "vini"
+        ],
+        [
+          "Nuragus di Cagliari, Audarya",
+          "bottiglia da 0,75 l, annata 2025",
+          "vini"
+        ],
+        [
+          "Rosato, Sa Raja",
+          "bottiglia da 0,75 l, annata 2021",
+          "vini"
+        ],
+        [
+          "Tino Sur Lie Isola dei Nuraghi, Mora & Memo",
+          "bottiglia da 0,75 l, annata 2023",
+          "vini"
+        ],
+        [
+          "Mirto di Sardegna, Bresca Dorada",
+          "bottiglia da 70 cl",
+          "spirits"
+        ],
+        [
+          "Liquore di Mirto Bianco, U Tabarka - Carloforte",
+          "",
+          "spirits"
+        ],
+        [
+          "Anima Sarda, Ichnusa",
+          "bottiglia da 33 cl",
+          "birre"
+        ],
+        [
+          "Pecorino Sardo DOP Maturo, Sepi",
+          "pezzo da 500 g",
+          "formaggi"
+        ],
+        [
+          "Pecorino dell'Alta Baronia (Slow Food) Semistagionato, Casu 'e Babbu",
+          "pezzo da 500 g",
+          "formaggi"
+        ],
+        [
+          "Arenosu, pecorino stagionato, Selezione Luigi Bacciu",
+          "forma da 500 g",
+          "formaggi"
+        ],
+        [
+          "Pecorino dell'Alta Baronia (Slow Food) Stagionato, Casu 'e Babbu",
+          "pezzo da 500 g",
+          "formaggi"
+        ],
+        [
+          "Pecorino Principe stagionato 12 mesi, Selezione Luigi Bacciu",
+          "forma da 500 g",
+          "formaggi"
+        ],
+        [
+          "Prosciutto Crudo Della Barbagia, fATTORIE Gennargentu",
+          "pezzo da 6,5 kg circa",
+          "salumi"
+        ],
+        [
+          "Gnocchetti Sardi, Sunalle",
+          "confezione da 500 g",
+          "pasta"
+        ],
+        [
+          "Malloreddus lunghi, Sini",
+          "confezione da 500 g",
+          "pasta"
+        ],
+        [
+          "Olio extravergine d'Oliva DOP Sardegna, Primoli",
+          "bottiglia da 0,75 l",
+          "olio"
+        ],
+        [
+          "Seadas dolce tipico sardo con ripieno, I Sapori d'Ogliastra",
+          "confezione da 240 g",
+          "tipici"
+        ],
+        [
+          "Filetto di Tonno rosso di corsa sott'olio, Tonnare di Carloforte",
+          "confezione da 350 g",
+          "tipici"
+        ],
+        [
+          "Polpa di Riccio sterilizzata in lattina, Smeralda",
+          "confezione da 70 g",
+          "mare"
+        ],
+        [
+          "Bottarga di Muggine intera, Smeralda",
+          "confezione da 130-170 g",
+          "mare"
+        ],
+        [
+          "Pane Carasau, Panificio Puddu Raffaele",
+          "confezione da 850 g",
+          "forno"
+        ],
+        [
+          "Pane Carasau, Sunalle",
+          "confezione da 800 g",
+          "forno"
+        ],
+        [
+          "Torrone Sardo, Pruneddu",
+          "confezione da 350 g",
+          "forno"
+        ],
+        [
+          "Sfoglie di Pane Guttiau alla Cipolla, Sunalle",
+          "confezione da 180 g",
+          "forno"
+        ],
+        [
+          "Scricchiole di Guttiau Classiche, Sunalle",
+          "confezione da 75 g",
+          "forno"
+        ]
+      ],
+      "pd": {
+        "V-71-0": {
+          "c": [],
+          "d": {
+            "it": "Il Cannonau di Sardegna è il rosso DOC simbolo dell'isola. Etichetta di Sella & Mosca, annata 2024."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "9,75 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Sella & Mosca"
+        },
+        "V-71-1": {
+          "c": [],
+          "d": {
+            "it": "Il Vermentino di Sardegna è un bianco DOC fresco e sapido, prodotto in tutta l'isola. Etichetta di Monserrato, annata 2023."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "8,18 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Monserrato"
+        },
+        "V-71-2": {
+          "c": [],
+          "d": {
+            "it": "Il Vermentino di Gallura è l'unica DOCG della Sardegna, un bianco dei suoli granitici del nord-est dell'isola. Etichetta di Giogantinu, annata 2024."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "9,38 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Giogantinu"
+        },
+        "V-71-3": {
+          "c": [],
+          "d": {
+            "it": "Il Carignano del Sulcis è un rosso DOC del sud-ovest della Sardegna, spesso da vecchie vigne ad alberello. Etichetta di Santadi, annata 2021."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "57,29 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Santadi"
+        },
+        "V-71-4": {
+          "c": [],
+          "d": {
+            "it": "Il Bovale è un vitigno rosso sardo: dà vini scuri e strutturati. Etichetta di Audarya, annata 2020."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "30,70 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Audarya"
+        },
+        "V-71-5": {
+          "c": [],
+          "d": {
+            "it": "Il Nuragus di Cagliari è un bianco DOC della Sardegna meridionale, fresco e leggero. Etichetta di Audarya, annata 2025."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "12,12 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Audarya"
+        },
+        "V-71-6": {
+          "c": [],
+          "d": {
+            "it": "Delicato con richiamo di pesca bianca. Vellutato, suadente e speziato. Il suo colore tenue è memoria delle gocce di rugiada su bacche rosa. Come la quiete del granito antico, il Rosato nasce in un terreno di medio impasto, tendente allo sciolto sabbioso di origine marina."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "9,91 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Sa Raja"
+        },
+        "V-71-7": {
+          "c": [],
+          "d": {
+            "it": "Gradazione: 13,5%. Uve: Vermentino 80%, Sauvignon Blanc 20%. Note di degustazione: Colore paglierino con riflessi verdognoli, brillante. Profumo intenso e persistente con sentori di fiori e piante, foglia di pomodoro, salvia, mela verde, fiori d'acacia, capperi e crosta di pane. Sapore con netta predominanza di note vegetali, caldo e pieno di buon spessore, equilibrato."
+          },
+          "a": {
+            "it": "Temperatura di servizio: 10-12°C. Abbinamenti: Ideale per accompagnare piatti di mare in genere, carni delicate condite anche con sughi leggeri, minestre e pasta."
+          },
+          "pr": "22,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Mora & Memo"
+        },
+        "V-71-8": {
+          "c": [],
+          "d": {
+            "it": "Raccolte a mano, con amore e da raccoglitori esperti, solo le bacche migliori, mature, piene, vengono messe a macerare per lunghi mesi nell'alcool. L'infuso è il cuore vibrante del liquore: il “Mirto Rosso di Sardegna”."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "19,84 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Bresca Dorada"
+        },
+        "V-71-9": {
+          "c": [],
+          "d": {
+            "it": "Liquore di mirto bianco di Carloforte, ottenuto dall'infusione di foglie e germogli del mirto, la pianta simbolo della Sardegna."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "29,74 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "U Tabarka - Carloforte"
+        },
+        "V-71-10": {
+          "c": [],
+          "d": {
+            "it": "Ichnusa Anima Sarda, la birra lager del birrificio di Assemini, in Sardegna."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "1,20 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Ichnusa"
+        },
+        "V-71-11": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "Il Pecorino Sardo DOP è uno dei formaggi più rappresentativi del panorama lattiero-caseario della Sardegna. È prodotto esclusivamente con latte proveniente da allevamenti sardi, sulle tracce dell'antichissima tradizione casearia sarda."
+          },
+          "a": {
+            "it": "Si abbina perfettamente anche ad alimenti più saporiti come pancetta e speck o a quelli più dolci come ad esempio la confettura di fichi."
+          },
+          "pr": "18,90 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Sepi"
+        },
+        "V-71-12": {
+          "c": [],
+          "d": {
+            "it": "Con il pecorino tradizionale di Lodè, formaggio con il latte crudo, ad ogni assaggio si riescono a sentire i profumi del terreno, gli aromi delle erbe e dei fiori del pascolo, ma anche le peculiarità della razza ovina."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "19,50 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Casu 'e Babbu"
+        },
+        "V-71-13": {
+          "c": [],
+          "d": {
+            "it": "Arenosu, pecorino stagionato, Selezione Luigi Bacciu. Un pecorino intenso, dalla consistenza regolare ma leggermente granulosa, alle note di latte di pecora si aggiunge una leggerissima piccantezza."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "17,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Selezione Luigi Bacciu"
+        },
+        "V-71-14": {
+          "c": [],
+          "d": {
+            "it": "Con il pecorino tradizionale di Lodè, formaggio con il latte crudo, ad ogni assaggio si riescono a sentire i profumi del terreno, gli aromi delle erbe e dei fiori del pascolo, ma anche le peculiarità della razza ovina."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "21,50 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Casu 'e Babbu"
+        },
+        "V-71-15": {
+          "c": [],
+          "d": {
+            "it": "Pecorino dalla Sardegna dalla lunga stagionatura, che mantiene però una consistenza liscia e rotonda. Il sapore del latte di pecora è concentrato, con note anche di frutta secca e erbacee."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "17,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Selezione Luigi Bacciu"
+        },
+        "V-71-16": {
+          "c": [],
+          "d": {
+            "it": "Prima di arrivare sulla tavola stagiona per almeno 12 mesi in ventilazione naturale a Fonni, a 1000 metri di quota sul Gennargentu. L'aria della montagna e il profumo dei suoi boschi rappresentano una caratteristica unica e inimitabile. Il crudo di Fonni, con o senza osso, deve anche alle sue condizioni ambientali la gradevole consistenza al taglio e il suo perfetto equilibrio di sapori."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "155,94 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "fATTORIE Gennargentu"
+        },
+        "V-71-17": {
+          "c": [],
+          "d": {
+            "it": "Gnocchetti sardi, o malloreddus: la pasta di semola di grano duro tipica della Sardegna, piccola e rigata."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "3,50 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Sunalle"
+        },
+        "V-71-18": {
+          "c": [],
+          "d": {
+            "it": "Malloreddus, gli gnocchetti di semola di grano duro tipici della Sardegna, qui nel formato lungo."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "2,44 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Sini"
+        },
+        "V-71-19": {
+          "c": [
+            "DOP"
+          ],
+          "d": {
+            "it": "Gli olivi secolari sono una dote fra le generazioni di un popolo forte e orgoglioso che preserva un patrimonio di riti e tradizioni, anche alimentari. Lo scorrere del tempo e l'abilità umana hanno selezionato la cultivar autoctona Bosana, fonte di un olio che sorprende il palato con la sua forte identità. Zona di produzione: Regione Sardegna. Raccolta: entro il 31 Gennaio."
+          },
+          "a": {
+            "it": "Fruttato: Amaro: Piccante: Abbinamento con i piatti: a crudo su arrosti di maiale e agnello al forno."
+          },
+          "pr": "19,60 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Primoli"
+        },
+        "V-71-20": {
+          "c": [],
+          "d": {
+            "it": "Friggere in olio caldo fino alla doratura. Servire le Sebadas calde con miele o zucchero. Ingredienti Sfoglia: farina di grano tenero, semola di grano duro, acqua, strutto, sale. Ingredienti Ripieno: Formaggio fresco vaccino, scorza di limone, semola di grano duro."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "6,54 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "I Sapori d'Ogliastra"
+        },
+        "V-71-21": {
+          "c": [],
+          "d": {
+            "it": "Filetto di tonno rosso di corsa sott'olio, dalla tradizione delle tonnare di Carloforte, sull'isola di San Pietro."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "30,94 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Tonnare di Carloforte"
+        },
+        "V-71-22": {
+          "c": [],
+          "d": {
+            "it": "Estratta dai ricci di mare, col suo intenso profumo, la sua colorazione calda e il gusto dolce è uno dei prodotti più apprezzati. La polpa di ricci fa da antipasto su crostini o da condimento insieme alla bottarga per dei primi gustosi."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "17,54 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Smeralda"
+        },
+        "V-71-23": {
+          "c": [],
+          "d": {
+            "it": "La bottarga di muggine Smeralda è un prodotto semplice ma allo stesso tempo delicato, disponibile in diversi formati, o pezzature, proponendo l'eccellenza della tradizione gastronomica sarda. La bottarga di muggine intera Smeralda è ricavata dalla salatura delle uova del mugil cephalus esclusivamente con sale marino di Sardegna, essiccata e poi posta in confezioni sottovuoto."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "25,82 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Smeralda"
+        },
+        "V-71-24": {
+          "c": [],
+          "d": {
+            "it": "Il pane carasau, carasatu, carasadu o anche pane 'e fresa, è un tipico pane sardo, originario della Barbagia e diffuso in tutta la Sardegna, conosciuto con il nome italiano di carta musica per la sua caratteristica croccantezza, che ne rende rumorosa la masticazione."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "7,44 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Panificio Puddu Raffaele"
+        },
+        "V-71-25": {
+          "c": [],
+          "d": {
+            "it": "Il pane carasau è il pane tipico della Sardegna: sfoglie sottilissime e croccanti di semola di grano duro, cotte due volte."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "9,50 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Sunalle"
+        },
+        "V-71-26": {
+          "c": [],
+          "d": {
+            "it": "Da tantissimi anni facciamo il torrone sardo, non un semplice torrone sardo, ma il torrone sardo."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "9,86 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Pruneddu"
+        },
+        "V-71-27": {
+          "c": [],
+          "d": {
+            "it": "Il pane guttiau è pane carasau condito con olio e sale e ripassato in forno; qui in sfoglie, nella versione alla cipolla."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "5,00 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Sunalle"
+        },
+        "V-71-28": {
+          "c": [],
+          "d": {
+            "it": "Pane guttiau in piccole sfoglie croccanti: pane carasau condito con olio e sale e ripassato in forno."
+          },
+          "a": {
+            "it": ""
+          },
+          "pr": "2,10 €",
+          "prl": {
+            "it": "Prezzo online OIP",
+            "en": "OIP online price",
+            "de": "OIP-Onlinepreis"
+          },
+          "mk": "Sunalle"
+        }
+      },
+      "fonti": [
+        "https://www.soloprodottiitaliani.it/",
+        "https://www.soloprodottiitaliani.it/pages/progetto.html",
+        "https://www.soloprodottiitaliani.it/pages/winearchy-il-regno-del-vino.html",
+        "https://www.soloprodottiitaliani.it/catalogo.php?IdRegioni=69"
+      ]
     }
   ],
   "IMG": {
@@ -16407,6 +30818,599 @@ window.VETRINE = {
     "prod-V-50-2": "https://cantinagiacomocosta.it/cdn/shop/files/Product_Image_Bottle_Reshape-3.png?width=900",
     "prod-V-50-3": "https://cantinagiacomocosta.it/cdn/shop/files/Product_Image_Bottle_Reshape-2.png?width=900",
     "prod-V-50-4": "https://cantinagiacomocosta.it/cdn/shop/files/Progetto_senza_titolo-9.png?width=900",
-    "prod-V-50-5": "https://cantinagiacomocosta.it/cdn/shop/files/Progetto_senza_titolo-10.png?width=900"
+    "prod-V-50-5": "https://cantinagiacomocosta.it/cdn/shop/files/Progetto_senza_titolo-10.png?width=900",
+    "logo-V-51": "https://www.soloprodottiitaliani.it/immagini/logo.webp",
+    "prod-V-51-0": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/42650_immagine_0.jpg",
+    "prod-V-51-1": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/42651_immagine_0.jpg",
+    "prod-V-51-2": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/42819_immagine_0.jpg",
+    "prod-V-51-3": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1640_immagine_0.jpg",
+    "prod-V-51-4": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/8763_immagine_0.jpg",
+    "prod-V-51-5": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1635_immagine_0.jpg",
+    "prod-V-51-6": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1664_immagine_0.jpg",
+    "prod-V-51-7": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/4535_immagine_0.jpg",
+    "prod-V-51-8": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/64135_immagine_0.PNG",
+    "prod-V-51-9": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/8745_immagine_0.jpg",
+    "prod-V-51-10": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/8675_immagine_0.jpg",
+    "prod-V-51-11": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/8755_immagine_0.jpg",
+    "prod-V-51-12": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/8742_immagine_0.jpg",
+    "prod-V-51-13": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/8783_immagine_0.jpg",
+    "prod-V-51-14": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/9645_immagine_0.JPG",
+    "prod-V-51-15": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/4542_immagine_0.jpg",
+    "prod-V-51-16": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/7946_immagine_0.jpg",
+    "prod-V-51-17": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/7949_immagine_0.jpg",
+    "prod-V-51-18": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/9132_immagine_0.jpg",
+    "prod-V-51-19": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/9133_immagine_0.jpg",
+    "prod-V-51-20": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/9131_immagine_0.jpg",
+    "prod-V-51-21": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/9467_immagine_0.JPG",
+    "prod-V-51-22": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/9534_immagine_0.jpg",
+    "prod-V-51-23": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/19335_immagine_0.jpg",
+    "prod-V-51-24": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/20512_immagine_0.jpg",
+    "prod-V-51-25": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/8700_immagine_0.jpg",
+    "prod-V-51-26": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/24410_immagine_0.JPG",
+    "prod-V-51-27": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/30576_immagine_0.png",
+    "prod-V-51-28": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/20372_immagine_0.jpg",
+    "prod-V-51-29": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/9562_immagine_0.jpg",
+    "prod-V-51-30": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/8773_immagine_0.jpg",
+    "prod-V-51-31": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/9475_immagine_0.jpg",
+    "prod-V-51-32": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/8774_immagine_0.jpg",
+    "prod-V-51-33": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/8705_immagine_0.jpg",
+    "prod-V-51-34": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/8707_immagine_0.jpg",
+    "prod-V-51-35": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/68593_immagine_0.webp",
+    "prod-V-51-36": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/8842_immagine_0.jpg",
+    "prod-V-51-37": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/36881_immagine_0.jpg",
+    "prod-V-51-38": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/36890_immagine_0.jpg",
+    "prod-V-51-39": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/67238_immagine_0.jpg",
+    "prod-V-51-40": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/7424_immagine_0.jpg",
+    "prod-V-51-41": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/60325_immagine_0.jpg",
+    "prod-V-51-42": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/38029_immagine_0.jpg",
+    "prod-V-51-43": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/38025_immagine_0.JPG",
+    "prod-V-51-44": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/8830_immagine_0.JPG",
+    "prod-V-51-45": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/10952_immagine_0.JPG",
+    "logo-V-52": "https://www.soloprodottiitaliani.it/immagini/logo.webp",
+    "prod-V-52-0": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/18784_immagine_0.jpg",
+    "prod-V-52-1": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/58149_immagine_0.png",
+    "prod-V-52-2": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/55497_immagine_0.jpg",
+    "prod-V-52-3": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/61605_immagine_0.jpg",
+    "prod-V-52-4": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/18795_immagine_0.jpg",
+    "prod-V-52-5": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/41678_immagine_0.png",
+    "prod-V-52-6": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/32084_immagine_0.png",
+    "prod-V-52-7": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/6166_immagine_0.jpg",
+    "prod-V-52-8": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/50795_immagine_0.png",
+    "prod-V-52-9": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/42241_immagine_0.png",
+    "prod-V-52-10": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/18801_immagine_0.jpg",
+    "prod-V-52-11": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/36743_immagine_0.jpeg",
+    "prod-V-52-12": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/31363_immagine_0.jpg",
+    "prod-V-52-13": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/43026_immagine_0.png",
+    "prod-V-52-14": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1667_immagine_0.jpg",
+    "prod-V-52-15": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1650_immagine_0.jpg",
+    "prod-V-52-16": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/2591_immagine_0.jpg",
+    "prod-V-52-17": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/2590_immagine_0.JPG",
+    "prod-V-52-18": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1666_immagine_0.jpg",
+    "prod-V-52-19": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/8665_immagine_0.jpg",
+    "prod-V-52-20": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/16937_immagine_0.jpg",
+    "prod-V-52-21": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/8866_immagine_0.png",
+    "prod-V-52-22": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/30952_immagine_0.png",
+    "prod-V-52-23": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1582_immagine_0.webp",
+    "prod-V-52-24": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/36831_immagine_0.jpg",
+    "prod-V-52-25": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/18888_immagine_0.jpg",
+    "prod-V-52-26": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1583_immagine_0.webp",
+    "prod-V-52-27": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1585_immagine_0.webp",
+    "prod-V-52-28": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1587_immagine_0.jpg",
+    "prod-V-52-29": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/43517_immagine_0.jpg",
+    "prod-V-52-30": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/44099_immagine_0.jpg",
+    "prod-V-52-31": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/68116_immagine_0.webp",
+    "prod-V-52-32": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/43518_immagine_0.jpg",
+    "prod-V-52-33": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/43513_immagine_0.jpg",
+    "prod-V-52-34": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/34254_immagine_0.jpg",
+    "prod-V-52-35": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/44093_immagine_0.jpg",
+    "prod-V-52-36": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/8207_immagine_0.JPG",
+    "logo-V-53": "https://www.soloprodottiitaliani.it/immagini/logo.webp",
+    "prod-V-53-0": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/19412_immagine_0.jpg",
+    "prod-V-53-1": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/34846_immagine_0.png",
+    "prod-V-53-2": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/42161_immagine_0.png",
+    "prod-V-53-3": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/18398_immagine_0.png",
+    "prod-V-53-4": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/19411_immagine_0.jpg",
+    "prod-V-53-5": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/18402_immagine_0.png",
+    "prod-V-53-6": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1404_immagine_0.png",
+    "prod-V-53-7": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/14629_immagine_0.jpg",
+    "prod-V-53-8": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/23594_immagine_0.png",
+    "prod-V-53-9": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/14631_immagine_0.jpg",
+    "prod-V-53-10": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1656_immagine_0.jpg",
+    "prod-V-53-11": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/2588_immagine_0.jpg",
+    "prod-V-53-12": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/10984_immagine_0.JPG",
+    "prod-V-53-13": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/10972_immagine_0.jpeg",
+    "prod-V-53-14": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/55737_immagine_0.jpg",
+    "logo-V-54": "https://www.soloprodottiitaliani.it/immagini/logo.webp",
+    "prod-V-54-0": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/17145_immagine_0.JPG",
+    "prod-V-54-1": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/53117_immagine_0.png",
+    "prod-V-54-2": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/13116_immagine_0.jpeg",
+    "prod-V-54-3": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/44964_immagine_0.jpg",
+    "prod-V-54-4": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/13127_immagine_0.jpg",
+    "prod-V-54-5": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/848_immagine_0.jpeg",
+    "prod-V-54-6": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/10160_immagine_0.JPG",
+    "prod-V-54-7": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/18837_immagine_0.jpg",
+    "prod-V-54-8": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/31573_immagine_0.JPG",
+    "prod-V-54-9": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/9895_immagine_0.JPG",
+    "prod-V-54-10": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/30742_immagine_0.jpg",
+    "prod-V-54-11": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/53687_immagine_0.jpg",
+    "prod-V-54-12": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/2388_immagine_0.jpg",
+    "prod-V-54-13": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1530_immagine_0.jpg",
+    "prod-V-54-14": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1644_immagine_0.jpg",
+    "prod-V-54-15": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/9212_immagine_0.jpg",
+    "prod-V-54-16": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1643_immagine_0.png",
+    "prod-V-54-17": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/2592_immagine_0.jpg",
+    "prod-V-54-18": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/10971_immagine_0.jpg",
+    "prod-V-54-19": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/11069_immagine_0.JPG",
+    "prod-V-54-20": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/38703_immagine_0.jpeg",
+    "prod-V-54-21": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/58089_immagine_0.png",
+    "prod-V-54-22": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/6944_immagine_0.jpg",
+    "prod-V-54-23": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/6748_immagine_0.jpg",
+    "prod-V-54-24": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/10922_immagine_0.jpg",
+    "prod-V-54-25": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/2075_immagine_0.jpg",
+    "prod-V-54-26": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/3760_immagine_0.jpg",
+    "prod-V-54-27": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/10002_immagine_0.jpg",
+    "prod-V-54-28": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/11197_immagine_0.jpg",
+    "prod-V-54-29": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/9507_immagine_0.JPG",
+    "prod-V-54-30": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/55117_immagine_0.png",
+    "prod-V-54-31": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/38268_immagine_0.webp",
+    "prod-V-54-32": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/7876_immagine_0.JPG",
+    "prod-V-54-33": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/9102_immagine_0.jpg",
+    "prod-V-54-34": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/44389_immagine_0.jpeg",
+    "prod-V-54-35": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1232_immagine_0.png",
+    "prod-V-54-36": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/3980_immagine_0.jpg",
+    "logo-V-55": "https://www.soloprodottiitaliani.it/immagini/logo.webp",
+    "prod-V-55-0": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/26768_immagine_0.png",
+    "prod-V-55-1": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/55286_immagine_0.jpg",
+    "prod-V-55-2": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/19537_immagine_0.jpg",
+    "prod-V-55-3": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/54628_immagine_0.png",
+    "prod-V-55-4": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/5328_immagine_0.JPG",
+    "prod-V-55-5": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/54674_immagine_0.png",
+    "prod-V-55-6": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/26803_immagine_0.png",
+    "prod-V-55-7": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/58412_immagine_0.png",
+    "prod-V-55-8": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/29455_immagine_0.png",
+    "prod-V-55-9": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/55287_immagine_0.png",
+    "prod-V-55-10": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/55870_immagine_0.webp",
+    "prod-V-55-11": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/21717_immagine_0.png",
+    "prod-V-55-12": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/37623_immagine_0.jpg",
+    "prod-V-55-13": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/18549_immagine_0.jpg",
+    "prod-V-55-14": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/18434_immagine_0.jpg",
+    "prod-V-55-15": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/18090_immagine_0.jpg",
+    "prod-V-55-16": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/18955_immagine_0.jpg",
+    "prod-V-55-17": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/18939_immagine_0.jpg",
+    "prod-V-55-18": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/18950_immagine_0.jpg",
+    "prod-V-55-19": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/18855_immagine_0.jpg",
+    "prod-V-55-20": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/31808_immagine_0.png",
+    "prod-V-55-21": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/14727_immagine_0.jpg",
+    "prod-V-55-22": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/23097_immagine_0.jpg",
+    "prod-V-55-23": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/23613_immagine_0.jpg",
+    "prod-V-55-24": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/8789_immagine_0.jpg",
+    "prod-V-55-25": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/6006_immagine_0.jpg",
+    "prod-V-55-26": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/42845_immagine_0.jpg",
+    "prod-V-55-27": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/39236_immagine_0.jpg",
+    "prod-V-55-28": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/42466_immagine_0.jpg",
+    "prod-V-55-29": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/2076_immagine_0.jpg",
+    "prod-V-55-30": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/2594_immagine_0.jpg",
+    "prod-V-55-31": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/39237_immagine_0.jpg",
+    "prod-V-55-32": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/39979_immagine_0.jpg",
+    "prod-V-55-33": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/39982_immagine_0.jpeg",
+    "prod-V-55-34": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/61967_immagine_0.jpg",
+    "prod-V-55-35": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/68304_immagine_0.webp",
+    "prod-V-55-36": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/8822_immagine_0.JPG",
+    "prod-V-55-37": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/24288_immagine_0.jpg",
+    "logo-V-56": "https://www.soloprodottiitaliani.it/immagini/logo.webp",
+    "prod-V-56-0": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/6053_immagine_0.jpg",
+    "prod-V-56-1": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/11238_immagine_0.JPG",
+    "prod-V-56-2": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/10315_immagine_0.JPG",
+    "prod-V-56-3": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/35589_immagine_0.png",
+    "prod-V-56-4": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/18968_immagine_0.jpg",
+    "prod-V-56-5": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/14139_immagine_0.jpg",
+    "prod-V-56-6": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/33285_immagine_0.png",
+    "prod-V-56-7": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/33164_immagine_0.png",
+    "prod-V-56-8": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/55331_immagine_0.png",
+    "prod-V-56-9": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/33096_immagine_0.jpg",
+    "prod-V-56-10": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/32002_immagine_0.png",
+    "prod-V-56-11": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/29522_immagine_0.png",
+    "prod-V-56-12": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/8164_immagine_0.jpg",
+    "prod-V-56-13": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/18978_immagine_0.jpg",
+    "prod-V-56-14": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1269_immagine_0.JPG",
+    "prod-V-56-15": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1321_immagine_0.jpg",
+    "prod-V-56-16": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1185_immagine_0.jpg",
+    "prod-V-56-17": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/7410_immagine_0.JPG",
+    "prod-V-56-18": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/7411_immagine_0.JPG",
+    "prod-V-56-19": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/7412_immagine_0.JPG",
+    "prod-V-56-20": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1653_immagine_0.jpg",
+    "prod-V-56-21": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1658_immagine_0.jpg",
+    "prod-V-56-22": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1663_immagine_0.JPG",
+    "prod-V-56-23": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1654_immagine_0.jpg",
+    "prod-V-56-24": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1659_immagine_0.jpg",
+    "prod-V-56-25": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/10982_immagine_0.JPG",
+    "prod-V-56-26": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/28737_immagine_0.jpg",
+    "prod-V-56-27": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1751_immagine_0.jpg",
+    "prod-V-56-28": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/55270_immagine_0.png",
+    "prod-V-56-29": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/55269_immagine_0.png",
+    "prod-V-56-30": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/55268_immagine_0.png",
+    "prod-V-56-31": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/55263_immagine_0.png",
+    "prod-V-56-32": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/55266_immagine_0.png",
+    "prod-V-56-33": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/68361_immagine_0.png",
+    "prod-V-56-34": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/40597_immagine_0.webp",
+    "prod-V-56-35": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/40593_immagine_0.png",
+    "prod-V-56-36": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/40589_immagine_0.png",
+    "prod-V-56-37": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/68360_immagine_0.png",
+    "prod-V-56-38": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/2397_immagine_0.jpg",
+    "prod-V-56-39": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/3727_immagine_0.JPG",
+    "prod-V-56-40": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/3728_immagine_0.JPG",
+    "logo-V-57": "https://www.soloprodottiitaliani.it/immagini/logo.webp",
+    "prod-V-57-0": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/36905_immagine_0.png",
+    "prod-V-57-1": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/45334_immagine_0.jpg",
+    "prod-V-57-2": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/41786_immagine_0.jpg",
+    "prod-V-57-3": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/33492_immagine_0.jpg",
+    "prod-V-57-4": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/52409_immagine_0.jpg",
+    "prod-V-57-5": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/32707_immagine_0.png",
+    "prod-V-57-6": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/26348_immagine_0.jpg",
+    "prod-V-57-7": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/35129_immagine_0.png",
+    "prod-V-57-8": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/33297_immagine_0.jpg",
+    "prod-V-57-9": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/38202_immagine_0.jpeg",
+    "prod-V-57-10": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/31659_immagine_0.png",
+    "prod-V-57-11": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/2375_immagine_0.jpg",
+    "prod-V-57-12": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/5592_immagine_0.JPG",
+    "prod-V-57-13": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/19144_immagine_0.jpg",
+    "prod-V-57-14": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1369_immagine_0.JPG",
+    "prod-V-57-15": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1267_immagine_0.JPG",
+    "prod-V-57-16": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/8019_immagine_0.JPG",
+    "prod-V-57-17": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/8018_immagine_0.JPG",
+    "prod-V-57-18": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1657_immagine_0.jpg",
+    "prod-V-57-19": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/41425_immagine_0.jpg",
+    "prod-V-57-20": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/2326_immagine_0.jpg",
+    "prod-V-57-21": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/7761_immagine_0.jpeg",
+    "prod-V-57-22": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/2749_immagine_0.jpg",
+    "prod-V-57-23": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/4765_immagine_0.jpg",
+    "prod-V-57-24": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/7766_immagine_0.jpg",
+    "prod-V-57-25": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/7767_immagine_0.jpg",
+    "prod-V-57-26": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/67341_immagine_0.png",
+    "prod-V-57-27": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1939_immagine_0.jpg",
+    "prod-V-57-28": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/21538_immagine_0.JPG",
+    "prod-V-57-29": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/34763_immagine_0.png",
+    "prod-V-57-30": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/34764_immagine_0.png",
+    "logo-V-58": "https://www.soloprodottiitaliani.it/immagini/logo.webp",
+    "prod-V-58-0": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/41233_immagine_0.jpg",
+    "prod-V-58-1": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/16274_immagine_0.jpg",
+    "prod-V-58-2": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/5242_immagine_0.jpg",
+    "prod-V-58-3": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/12126_immagine_0.jpg",
+    "prod-V-58-4": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/28668_immagine_0.jpg",
+    "prod-V-58-5": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/13092_immagine_0.jpeg",
+    "prod-V-58-6": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/16273_immagine_0.jpg",
+    "prod-V-58-7": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/16270_immagine_0.jpg",
+    "prod-V-58-8": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/20059_immagine_0.JPG",
+    "prod-V-58-9": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/9872_immagine_0.JPG",
+    "prod-V-58-10": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/9875_immagine_0.JPG",
+    "prod-V-58-11": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/68331_immagine_0.jpg",
+    "prod-V-58-12": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/8696_immagine_0.jpg",
+    "prod-V-58-13": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/2289_immagine_0.jpg",
+    "prod-V-58-14": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/7648_immagine_0.jpg",
+    "prod-V-58-15": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/7650_immagine_0.jpg",
+    "prod-V-58-16": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/7651_immagine_0.jpg",
+    "prod-V-58-17": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/7656_immagine_0.jpg",
+    "prod-V-58-18": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/7657_immagine_0.jpg",
+    "prod-V-58-19": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/10948_immagine_0.JPG",
+    "prod-V-58-20": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/10949_immagine_0.JPG",
+    "prod-V-58-21": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/10950_immagine_0.JPG",
+    "logo-V-59": "https://www.soloprodottiitaliani.it/immagini/logo.webp",
+    "prod-V-59-0": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/64504_immagine_0.jpg",
+    "prod-V-59-1": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/33188_immagine_0.png",
+    "prod-V-59-2": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/32985_immagine_0.jpg",
+    "prod-V-59-3": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/34102_immagine_0.png",
+    "prod-V-59-4": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/62635_immagine_0.jpg",
+    "prod-V-59-5": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/13631_immagine_0.jpg",
+    "prod-V-59-6": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1192_immagine_0.jpg",
+    "prod-V-59-7": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/7636_immagine_0.jpg",
+    "prod-V-59-8": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1427_immagine_0.jpg",
+    "prod-V-59-9": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/7635_immagine_0.jpeg",
+    "prod-V-59-10": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/7634_immagine_0.JPG",
+    "prod-V-59-11": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/19377_immagine_0.jpg",
+    "prod-V-59-12": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/63093_immagine_0.png",
+    "prod-V-59-13": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1638_immagine_0.jpg",
+    "prod-V-59-14": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1641_immagine_0.png",
+    "prod-V-59-15": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/32824_immagine_0.jpg",
+    "prod-V-59-16": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/6118_immagine_0.jpg",
+    "prod-V-59-17": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/2490_immagine_0.jpg",
+    "prod-V-59-18": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/40474_immagine_0.png",
+    "prod-V-59-19": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/52853_immagine_0.jpg",
+    "prod-V-59-20": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/11070_immagine_0.jpg",
+    "prod-V-59-21": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1496_immagine_0.png",
+    "prod-V-59-22": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/40469_immagine_0.png",
+    "prod-V-59-23": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/64440_immagine_0.jpg",
+    "prod-V-59-24": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/61527_immagine_0.png",
+    "prod-V-59-25": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/32884_immagine_0.webp",
+    "prod-V-59-26": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/2258_immagine_0.jpg",
+    "prod-V-59-27": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/10065_immagine_0.jpg",
+    "prod-V-59-28": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1966_immagine_0.jpg",
+    "prod-V-59-29": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/9066_immagine_0.jpg",
+    "prod-V-59-30": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/9067_immagine_0.jpg",
+    "logo-V-60": "https://www.soloprodottiitaliani.it/immagini/logo.webp",
+    "prod-V-60-0": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/27167_immagine_0.png",
+    "prod-V-60-1": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/12426_immagine_0.jpg",
+    "prod-V-60-2": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/14172_immagine_0.png",
+    "prod-V-60-3": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/123_immagine_0.jpg",
+    "prod-V-60-4": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/44806_immagine_0.jpg",
+    "prod-V-60-5": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/62012_immagine_0.jpg",
+    "prod-V-60-6": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/30230_immagine_0.JPG",
+    "prod-V-60-7": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/32083_immagine_0.jpeg",
+    "prod-V-60-8": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/18459_immagine_0.jpg",
+    "prod-V-60-9": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/21957_immagine_0.jpg",
+    "prod-V-60-10": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/26252_immagine_0.jpg",
+    "prod-V-60-11": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/19558_immagine_0.png",
+    "prod-V-60-12": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/19557_immagine_0.png",
+    "prod-V-60-13": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/58235_immagine_0.png",
+    "prod-V-60-14": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/57557_immagine_0.png",
+    "prod-V-60-15": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/32161_immagine_0.png",
+    "prod-V-60-16": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/31277_immagine_0.png",
+    "prod-V-60-17": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/23045_immagine_0.jpg",
+    "prod-V-60-18": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/58284_immagine_0.png",
+    "prod-V-60-19": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/36720_immagine_0.png",
+    "prod-V-60-20": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/2445_immagine_0.JPG",
+    "prod-V-60-21": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/17105_immagine_0.jpg",
+    "prod-V-60-22": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/63763_immagine_0.png",
+    "prod-V-60-23": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/63762_immagine_0.png",
+    "prod-V-60-24": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/58300_immagine_0.png",
+    "prod-V-60-25": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/58298_immagine_0.png",
+    "prod-V-60-26": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/66767_immagine_0.webp",
+    "prod-V-60-27": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1928_immagine_0.jpg",
+    "prod-V-60-28": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/889_immagine_0.JPG",
+    "prod-V-60-29": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/9074_immagine_0.JPG",
+    "prod-V-60-30": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/899_immagine_0.jpg",
+    "prod-V-60-31": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/898_immagine_0.JPG",
+    "prod-V-60-32": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/897_immagine_0.JPG",
+    "prod-V-60-33": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/9510_immagine_0.JPG",
+    "prod-V-60-34": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/11435_immagine_0.png",
+    "prod-V-60-35": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/11432_immagine_0.png",
+    "prod-V-60-36": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/30291_immagine_0.png",
+    "prod-V-60-37": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/30290_immagine_0.png",
+    "prod-V-60-38": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/30288_immagine_0.png",
+    "prod-V-60-39": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/3678_immagine_0.jpg",
+    "prod-V-60-40": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/11058_immagine_0.JPG",
+    "prod-V-60-41": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/34056_immagine_0.jpg",
+    "logo-V-61": "https://www.soloprodottiitaliani.it/immagini/logo.webp",
+    "prod-V-61-0": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/32241_immagine_0.png",
+    "prod-V-61-1": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/62624_immagine_0.jpg",
+    "prod-V-61-2": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/55828_immagine_0.png",
+    "prod-V-61-3": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/53754_immagine_0.png",
+    "prod-V-61-4": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/9180_immagine_0.jpg",
+    "prod-V-61-5": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/42840_immagine_0.JPG",
+    "prod-V-61-6": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/10964_immagine_0.jpg",
+    "prod-V-61-7": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/18804_immagine_0.png",
+    "prod-V-61-8": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/31589_immagine_0.png",
+    "prod-V-61-9": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/20373_immagine_0.JPG",
+    "prod-V-61-10": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/31579_immagine_0.png",
+    "logo-V-62": "https://www.soloprodottiitaliani.it/immagini/logo.webp",
+    "prod-V-62-0": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/42936_immagine_0.jpg",
+    "prod-V-62-1": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/467_immagine_0.jpg",
+    "prod-V-62-2": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/29718_immagine_0.png",
+    "prod-V-62-3": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/45452_immagine_0.jpg",
+    "prod-V-62-4": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/44838_immagine_0.jpg",
+    "prod-V-62-5": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/29717_immagine_0.png",
+    "prod-V-62-6": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/55623_immagine_0.png",
+    "prod-V-62-7": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/10798_immagine_0.JPG",
+    "prod-V-62-8": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/10799_immagine_0.JPG",
+    "prod-V-62-9": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/39630_immagine_0.JPG",
+    "prod-V-62-10": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/39633_immagine_0.png",
+    "prod-V-62-11": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/913_immagine_0.jpg",
+    "prod-V-62-12": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/30774_immagine_0.jpg",
+    "prod-V-62-13": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/35495_immagine_0.png",
+    "prod-V-62-14": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/924_immagine_0.jpg",
+    "prod-V-62-15": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/921_immagine_0.jpg",
+    "prod-V-62-16": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/59910_immagine_0.webp",
+    "logo-V-63": "https://www.soloprodottiitaliani.it/immagini/logo.webp",
+    "prod-V-63-0": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/33133_immagine_0.png",
+    "prod-V-63-1": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/52167_immagine_0.jpg",
+    "prod-V-63-2": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/52377_immagine_0.jpg",
+    "prod-V-63-3": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/62076_immagine_0.png",
+    "prod-V-63-4": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/42789_immagine_0.jpg",
+    "prod-V-63-5": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/29616_immagine_0.png",
+    "prod-V-63-6": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/13798_immagine_0.jpg",
+    "prod-V-63-7": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/14709_immagine_0.JPG",
+    "prod-V-63-8": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/61905_immagine_0.jpg",
+    "prod-V-63-9": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/36554_immagine_0.JPG",
+    "prod-V-63-10": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/36553_immagine_0.JPG",
+    "logo-V-64": "https://www.soloprodottiitaliani.it/immagini/logo.webp",
+    "prod-V-64-0": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/49492_immagine_0.png",
+    "prod-V-64-1": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/11728_immagine_0.jpg",
+    "prod-V-64-2": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/33063_immagine_0.png",
+    "prod-V-64-3": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/45276_immagine_0.jpg",
+    "prod-V-64-4": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/66724_immagine_0.webp",
+    "prod-V-64-5": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/18107_immagine_0.jpg",
+    "prod-V-64-6": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/66723_immagine_0.webp",
+    "prod-V-64-7": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/66722_immagine_0.webp",
+    "prod-V-64-8": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1210_immagine_0.JPG",
+    "prod-V-64-9": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/35340_immagine_0.png",
+    "prod-V-64-10": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/60924_immagine_0.jpg",
+    "logo-V-65": "https://www.soloprodottiitaliani.it/immagini/logo.webp",
+    "prod-V-65-0": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/36402_immagine_0.jpg",
+    "prod-V-65-1": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/13826_immagine_0.jpg",
+    "prod-V-65-2": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/19398_immagine_0.png",
+    "prod-V-65-3": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/29115_immagine_0.png",
+    "prod-V-65-4": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/53266_immagine_0.png",
+    "prod-V-65-5": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/35025_immagine_0.jpg",
+    "prod-V-65-6": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/35026_immagine_0.jpg",
+    "logo-V-66": "https://www.soloprodottiitaliani.it/immagini/logo.webp",
+    "prod-V-66-0": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/7818_immagine_0.jpg",
+    "prod-V-66-1": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/32110_immagine_0.png",
+    "prod-V-66-2": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/60333_immagine_0.png",
+    "prod-V-66-3": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/35326_immagine_0.jpeg",
+    "prod-V-66-4": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/32244_immagine_0.png",
+    "prod-V-66-5": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/62869_immagine_0.jpg",
+    "prod-V-66-6": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/12596_immagine_0.png",
+    "prod-V-66-7": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/430_immagine_0.jpg",
+    "prod-V-66-8": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/16336_immagine_0.jpg",
+    "prod-V-66-9": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/2401_immagine_0.JPG",
+    "prod-V-66-10": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/5160_immagine_0.jpg",
+    "prod-V-66-11": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/23453_immagine_0.jpg",
+    "prod-V-66-12": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/12828_immagine_0.jpg",
+    "prod-V-66-13": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/35381_immagine_0.jpg",
+    "prod-V-66-14": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1655_immagine_0.jpg",
+    "prod-V-66-15": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/8326_immagine_0.jpg",
+    "prod-V-66-16": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/9716_immagine_0.JPG",
+    "prod-V-66-17": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/37578_immagine_0.jpg",
+    "prod-V-66-18": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/35406_immagine_0.jpg",
+    "prod-V-66-19": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/35403_immagine_0.jpg",
+    "prod-V-66-20": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/37639_immagine_0.jpeg",
+    "prod-V-66-21": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1949_immagine_0.jpg",
+    "prod-V-66-22": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1950_immagine_0.jpg",
+    "prod-V-66-23": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/37524_immagine_0.jpg",
+    "prod-V-66-24": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/37640_immagine_0.jpeg",
+    "prod-V-66-25": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/65715_immagine_0.jpg",
+    "prod-V-66-26": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/65699_immagine_0.jpg",
+    "prod-V-66-27": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/65704_immagine_0.jpg",
+    "prod-V-66-28": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/65706_immagine_0.jpg",
+    "prod-V-66-29": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/87_immagine_0.jpg",
+    "prod-V-66-30": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/8695_immagine_0.JPG",
+    "prod-V-66-31": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1959_immagine_0.jpg",
+    "prod-V-66-32": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/19278_immagine_0.JPG",
+    "prod-V-66-33": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/17819_immagine_0.jpg",
+    "prod-V-66-34": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/19279_immagine_0.JPG",
+    "prod-V-66-35": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/19280_immagine_0.JPG",
+    "prod-V-66-36": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/32456_immagine_0.jpg",
+    "prod-V-66-37": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/37643_immagine_0.png",
+    "prod-V-66-38": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/2549_immagine_0.jpg",
+    "logo-V-67": "https://www.soloprodottiitaliani.it/immagini/logo.webp",
+    "prod-V-67-0": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/62121_immagine_0.png",
+    "prod-V-67-1": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/26351_immagine_0.jpeg",
+    "prod-V-67-2": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/13927_immagine_0.jpg",
+    "prod-V-67-3": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/12059_immagine_0.jpg",
+    "prod-V-67-4": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/25277_immagine_0.png",
+    "prod-V-67-5": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/42946_immagine_0.png",
+    "prod-V-67-6": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/12919_immagine_0.jpg",
+    "prod-V-67-7": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/31836_immagine_0.png",
+    "prod-V-67-8": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/16344_immagine_0.png",
+    "prod-V-67-9": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/16347_immagine_0.png",
+    "prod-V-67-10": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/7960_immagine_0.jpg",
+    "prod-V-67-11": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/42796_immagine_0.JPG",
+    "prod-V-67-12": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/30202_immagine_0.jpg",
+    "prod-V-67-13": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1665_immagine_0.jpg",
+    "prod-V-67-14": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/37462_immagine_0.jpeg",
+    "prod-V-67-15": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/2585_immagine_0.jpg",
+    "prod-V-67-16": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/37463_immagine_0.jpg",
+    "prod-V-67-17": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1766_immagine_0.jpg",
+    "prod-V-67-18": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/3665_immagine_0.jpg",
+    "prod-V-67-19": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/35411_immagine_0.png",
+    "prod-V-67-20": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/40229_immagine_0.png",
+    "prod-V-67-21": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/35423_immagine_0.jpg",
+    "prod-V-67-22": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/36384_immagine_0.png",
+    "prod-V-67-23": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/40230_immagine_0.png",
+    "prod-V-67-24": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/58793_immagine_0.jpg",
+    "prod-V-67-25": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/58784_immagine_0.jpg",
+    "prod-V-67-26": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/58783_immagine_0.jpg",
+    "prod-V-67-27": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/2281_immagine_0.JPG",
+    "prod-V-67-28": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/25212_immagine_0.JPG",
+    "prod-V-67-29": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/18899_immagine_0.jpg",
+    "prod-V-67-30": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/31475_immagine_0.JPG",
+    "prod-V-67-31": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/18900_immagine_0.jpg",
+    "prod-V-67-32": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/18904_immagine_0.jpg",
+    "prod-V-67-33": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/8702_immagine_0.jpg",
+    "prod-V-67-34": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/18903_immagine_0.jpg",
+    "prod-V-67-35": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/2552_immagine_0.JPG",
+    "prod-V-67-36": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/37353_immagine_0.jpg",
+    "logo-V-68": "https://www.soloprodottiitaliani.it/immagini/logo.webp",
+    "prod-V-68-0": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/42907_immagine_0.png",
+    "prod-V-68-1": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/43184_immagine_0.jpeg",
+    "prod-V-68-2": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/14205_immagine_0.jpg",
+    "prod-V-68-3": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/57873_immagine_0.png",
+    "prod-V-68-4": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1196_immagine_0.jpg",
+    "prod-V-68-5": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/10937_immagine_0.jpg",
+    "prod-V-68-6": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/65397_immagine_0.jpg",
+    "prod-V-68-7": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/41488_immagine_0.jpg",
+    "prod-V-68-8": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/41489_immagine_0.jpg",
+    "logo-V-69": "https://www.soloprodottiitaliani.it/immagini/logo.webp",
+    "prod-V-69-0": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/52201_immagine_0.jpg",
+    "prod-V-69-1": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/16338_immagine_0.png",
+    "prod-V-69-2": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/16340_immagine_0.png",
+    "prod-V-69-3": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/11751_immagine_0.jpg",
+    "prod-V-69-4": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/7963_immagine_0.jpg",
+    "prod-V-69-5": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/26820_immagine_0.png",
+    "prod-V-69-6": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1081_immagine_0.jpg",
+    "prod-V-69-7": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1082_immagine_0.jpg",
+    "prod-V-69-8": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1087_immagine_0.jpg",
+    "prod-V-69-9": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/7213_immagine_0.jpg",
+    "prod-V-69-10": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/17080_immagine_0.jpg",
+    "prod-V-69-11": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/35486_immagine_0.jpg",
+    "prod-V-69-12": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/35487_immagine_0.jpg",
+    "prod-V-69-13": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/35534_immagine_0.jpg",
+    "prod-V-69-14": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1973_immagine_0.png",
+    "prod-V-69-15": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1974_immagine_0.jpg",
+    "prod-V-69-16": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1975_immagine_0.png",
+    "prod-V-69-17": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1976_immagine_0.png",
+    "logo-V-70": "https://www.soloprodottiitaliani.it/immagini/logo.webp",
+    "prod-V-70-0": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/34776_immagine_0.png",
+    "prod-V-70-1": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/16354_immagine_0.jpg",
+    "prod-V-70-2": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/40682_immagine_0.png",
+    "prod-V-70-3": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/27474_immagine_0.png",
+    "prod-V-70-4": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/17108_immagine_0.jpg",
+    "prod-V-70-5": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/33363_immagine_0.png",
+    "prod-V-70-6": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/10058_immagine_0.JPG",
+    "prod-V-70-7": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/54844_immagine_0.png",
+    "prod-V-70-8": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/55643_immagine_0.png",
+    "prod-V-70-9": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/33115_immagine_0.jpg",
+    "prod-V-70-10": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/59779_immagine_0.png",
+    "prod-V-70-11": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1198_immagine_0.jpg",
+    "prod-V-70-12": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/19971_immagine_0.JPG",
+    "prod-V-70-13": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/30573_immagine_0.PNG",
+    "prod-V-70-14": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/66830_immagine_0.webp",
+    "prod-V-70-15": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/7437_immagine_0.jpg",
+    "prod-V-70-16": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/2195_immagine_0.JPG",
+    "prod-V-70-17": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/55733_immagine_0.png",
+    "prod-V-70-18": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/22971_immagine_0.jpg",
+    "prod-V-70-19": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/23036_immagine_0.jpg",
+    "prod-V-70-20": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/23038_immagine_0.jpg",
+    "prod-V-70-21": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/32809_immagine_0.png",
+    "prod-V-70-22": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/9093_immagine_0.jpg",
+    "prod-V-70-23": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/7212_immagine_0.jpg",
+    "prod-V-70-24": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/7385_immagine_0.webp",
+    "prod-V-70-25": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/2302_immagine_0.jpg",
+    "prod-V-70-26": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/67278_immagine_0.png",
+    "prod-V-70-27": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/66159_immagine_0.webp",
+    "prod-V-70-28": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/37156_immagine_0.png",
+    "prod-V-70-29": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/28353_immagine_0.png",
+    "prod-V-70-30": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/7426_immagine_0.jpg",
+    "prod-V-70-31": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/69900_immagine_0.jpg",
+    "prod-V-70-32": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/4878_immagine_0.JPG",
+    "prod-V-70-33": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/35042_immagine_0.jpg",
+    "prod-V-70-34": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/66230_immagine_0.jpg",
+    "prod-V-70-35": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/2309_immagine_0.JPG",
+    "prod-V-70-36": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1979_immagine_0.jpg",
+    "prod-V-70-37": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/2203_immagine_0.jpg",
+    "prod-V-70-38": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/2327_immagine_0.PNG",
+    "prod-V-70-39": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/57894_immagine_0.jpg",
+    "prod-V-70-40": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1112_immagine_0.png",
+    "prod-V-70-41": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/34694_immagine_0.jpeg",
+    "prod-V-70-42": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/7479_immagine_0.jpg",
+    "logo-V-71": "https://www.soloprodottiitaliani.it/immagini/logo.webp",
+    "prod-V-71-0": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/29751_immagine_0.png",
+    "prod-V-71-1": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/33135_immagine_0.jpg",
+    "prod-V-71-2": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/33306_immagine_0.jpg",
+    "prod-V-71-3": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/64420_immagine_0.jpg",
+    "prod-V-71-4": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/19093_immagine_0.jpg",
+    "prod-V-71-5": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/33061_immagine_0.png",
+    "prod-V-71-6": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/15406_immagine_0.jpg",
+    "prod-V-71-7": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/14157_immagine_0.jpg",
+    "prod-V-71-8": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/10938_immagine_0.JPG",
+    "prod-V-71-9": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/28799_immagine_0.jpg",
+    "prod-V-71-10": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/42799_immagine_0.JPG",
+    "prod-V-71-11": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/70161_immagine_0.jpeg",
+    "prod-V-71-12": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/37952_immagine_0.jpg",
+    "prod-V-71-13": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/63408_immagine_0.png",
+    "prod-V-71-14": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/37953_immagine_0.jpg",
+    "prod-V-71-15": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/63410_immagine_0.png",
+    "prod-V-71-16": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/10969_immagine_0.jpg",
+    "prod-V-71-17": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/61928_immagine_0.jpg",
+    "prod-V-71-18": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/26029_immagine_0.jpg",
+    "prod-V-71-19": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/8698_immagine_0.jpg",
+    "prod-V-71-20": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/10930_immagine_0.JPG",
+    "prod-V-71-21": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/9360_immagine_0.jpg",
+    "prod-V-71-22": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/8677_immagine_0.jpg",
+    "prod-V-71-23": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/8678_immagine_0.jpg",
+    "prod-V-71-24": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/1674_immagine_0.jpg",
+    "prod-V-71-25": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/61918_immagine_0.png",
+    "prod-V-71-26": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/2661_immagine_0.jpg",
+    "prod-V-71-27": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/61922_immagine_0.png",
+    "prod-V-71-28": "https://www.soloprodottiitaliani.it/upload_pc/prodotti/61924_immagine_0.jpg"
   }
 };
