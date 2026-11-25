@@ -774,14 +774,15 @@ window.VETRINE = {
       ],
       "exp": [],
       "lg": [
-        "it"
+        "it",
+        "en"
       ],
       "moq": null,
       "logoBg": "#FF8800",
       "d": {
-        "it": "Diegale è un nome inventato in famiglia: unisce quelli dei nipoti, Diego e Alessandro. Dice molto di questa azienda di Podere Sant'Antimo, a Civitella Marittima, nella Maremma toscana, che Alessandro e Paola hanno creato da zero con il sostegno dei figli Gabriele e Sara. L'idea era semplice: fare vino rispettando la terra e i tempi delle stagioni. I vigneti stanno tra 230 e 280 metri di quota, guardano a sud e a sud-est e si vendemmiano a mano. Tra le etichette ce n'è una che in Maremma non ci si aspetta: un Pinot Noir, che porta il nome dell'azienda. Accanto ci sono il Rossoscuro, il rosato Ciarlibò e il bianco Chaver, tutti IGT Toscana, e uno spumante Metodo Classico a dosaggio zero, il Cuordicru.",
-        "en": "Diegale is a name invented within the family: it joins the names of the grandchildren, Diego and Alessandro. It says a lot about this estate at Podere Sant'Antimo, in Civitella Marittima, in the Tuscan Maremma, which Alessandro and Paola built from scratch with the support of their children Gabriele and Sara. The idea was simple: make wine while respecting the land and the pace of the seasons. The vineyards lie between 230 and 280 metres above sea level, face south and south-east, and are harvested by hand. One label is not what you expect from the Maremma: a Pinot Noir, which carries the estate's name. Next to it are Rossoscuro, the rosé Ciarlibò and the white Chaver, all IGT Toscana, and Cuordicru, a zero-dosage traditional-method sparkling wine.",
-        "de": "Familienweingut auf dem Podere Sant'Antimo in Civitella Marittima in der toskanischen Maremma. Alessandro und Paola haben es aus dem Nichts aufgebaut, unterstützt von ihren Kindern Gabriele und Sara, um Wein im Einklang mit Boden und Jahreszeiten zu machen. Der Name Diegale verbindet die Namen der Enkel Diego und Alessandro. Die Weinberge liegen auf 230 bis 280 Metern mit Süd-Südost-Ausrichtung, gelesen wird von Hand. Erzeugt werden Rotweine, ein Rosé und ein Weißwein IGT Toscana sowie ein Schaumwein nach klassischer Methode."
+        "it": "Diegale è un nome inventato in famiglia: unisce quelli dei nipoti, Diego e Alessandro. Dice molto di questa azienda di Podere Sant'Antimo, a Civitella Marittima, nella Maremma toscana, che Alessandro e Paola hanno creato da zero con il sostegno dei figli Gabriele e Sara. L'idea era semplice: fare vino rispettando la terra e i tempi delle stagioni. I vigneti stanno tra 230 e 280 metri di quota, guardano a sud e a sud-est e si vendemmiano a mano. Tra le etichette ce n'è una che in Maremma non ci si aspetta: un Pinot Noir, che porta il nome dell'azienda. Accanto ci sono il Rossoscuro, il rosato Ciarlibò e il bianco Chaver, tutti IGT Toscana, la novità Solosangio, Sangiovese in purezza, e il Cuordicru, spumante Metodo Classico a dosaggio zero in 4 versioni.",
+        "en": "Diegale is a name invented within the family: it joins the names of the grandchildren, Diego and Alessandro. It says a lot about this estate at Podere Sant'Antimo, in Civitella Marittima, in the Tuscan Maremma, which Alessandro and Paola built from scratch with the support of their children Gabriele and Sara. The idea was simple: make wine while respecting the land and the pace of the seasons. The vineyards lie between 230 and 280 metres above sea level, face south and south-east, and are harvested by hand. One label is not what you expect from the Maremma: a Pinot Noir, which carries the estate's name. Next to it are Rossoscuro, the rosé Ciarlibò and the white Chaver, all IGT Toscana, the new Solosangio, a pure Sangiovese, and Cuordicru, a zero-dosage traditional-method sparkling wine in 4 versions.",
+        "de": "Familienweingut auf dem Podere Sant'Antimo in Civitella Marittima in der toskanischen Maremma. Alessandro und Paola haben es aus dem Nichts aufgebaut, unterstützt von ihren Kindern Gabriele und Sara, um Wein im Einklang mit Boden und Jahreszeiten zu machen. Der Name Diegale verbindet die Namen der Enkel Diego und Alessandro. Die Weinberge liegen auf 230 bis 280 Metern mit Süd-Südost-Ausrichtung, gelesen wird von Hand. Erzeugt werden Rotweine, darunter der neue reinsortige Sangiovese Solosangio, ein Rosé und ein Weißwein IGT Toscana sowie der Schaumwein Cuordicru nach klassischer Methode in 4 Versionen."
       },
       "p": [
         [
@@ -797,11 +798,15 @@ window.VETRINE = {
           "bottiglia da 0,75 litri"
         ],
         [
+          "Solosangio, Sangiovese in purezza",
+          ""
+        ],
+        [
           "Chaver 2015, bianco",
           "bottiglia da 0,75 litri"
         ],
         [
-          "Cuordicru, Metodo Classico Dosaggio Zero",
+          "Cuordicru, Metodo Classico Dosaggio Zero, in 4 versioni",
           "bottiglia da 0,75 litri / 1,5 litri"
         ]
       ],
@@ -855,6 +860,20 @@ window.VETRINE = {
           }
         },
         "V-06-3": {
+          "c": [],
+          "pr": "15,00 €",
+          "d": {
+            "it": "Novità di Diegale: un rosso da Sangiovese in purezza, il vitigno simbolo della Toscana, dalle vigne di Podere Sant'Antimo a Civitella Marittima, nella Maremma toscana.",
+            "en": "New from Diegale: a red made from 100% Sangiovese, Tuscany's signature grape, from the vineyards of Podere Sant'Antimo in Civitella Marittima, in the Tuscan Maremma.",
+            "de": "Neu von Diegale: ein reinsortiger Rotwein aus Sangiovese, der Leitrebsorte der Toskana, aus den Weinbergen des Podere Sant'Antimo in Civitella Marittima in der toskanischen Maremma."
+          },
+          "a": {
+            "it": "Vigneti a 230-280 m di quota con esposizione sud-sud/est, vendemmia a mano.",
+            "en": "Vineyards at 230-280 m facing south-southeast, harvested by hand.",
+            "de": "Weinberge auf 230-280 m Höhe mit Süd-Südost-Ausrichtung, Handlese."
+          }
+        },
+        "V-06-4": {
           "c": [
             "IGT"
           ],
@@ -870,13 +889,13 @@ window.VETRINE = {
             "de": "Weinberge auf 230-280 m Höhe mit Süd-Südost-Ausrichtung, Handlese."
           }
         },
-        "V-06-4": {
+        "V-06-5": {
           "c": [],
-          "pr": "30,00 € (0,75 l) · 60,00 € (1,5 l)",
+          "pr": "30,00 € (0,75 l) · 35,00 € (48 mesi, 0,75 l) · 60,00 € (1,5 l)",
           "d": {
-            "it": "Spumante Metodo Classico da Chardonnay e Pinot Noir, dosaggio zero, 36 mesi sui lieviti. Vino spumante di qualità (VSQ) Extra Brut.",
-            "en": "Traditional-method sparkling wine from Chardonnay and Pinot Noir, zero dosage, 36 months on the lees. Quality sparkling wine (VSQ) Extra Brut.",
-            "de": "Schaumwein nach klassischer Methode aus Chardonnay und Pinot Noir, ohne Dosage, 36 Monate auf der Hefe. Qualitätsschaumwein (VSQ) Extra Brut."
+            "it": "Spumante Metodo Classico a dosaggio zero, vino spumante di qualità (VSQ) Extra Brut. Le bollicine Cuordicru sono disponibili in 4 versioni: Chardonnay e Pinot Nero con 36 mesi sui lieviti, Chardonnay e Pinot Nero con 48 mesi sui lieviti, solo Chardonnay e solo Pinot Nero.",
+            "en": "Zero-dosage traditional-method sparkling wine, quality sparkling wine (VSQ) Extra Brut. Cuordicru comes in 4 versions: Chardonnay and Pinot Noir with 36 months on the lees, Chardonnay and Pinot Noir with 48 months on the lees, Chardonnay only and Pinot Noir only.",
+            "de": "Schaumwein nach klassischer Methode ohne Dosage, Qualitätsschaumwein (VSQ) Extra Brut. Cuordicru gibt es in 4 Versionen: Chardonnay und Pinot Noir mit 36 Monaten auf der Hefe, Chardonnay und Pinot Noir mit 48 Monaten auf der Hefe, nur Chardonnay und nur Pinot Noir."
           },
           "a": {
             "it": "Vigneti a 230-280 m di quota con esposizione sud-sud/est, vendemmia a mano.",
@@ -15662,8 +15681,9 @@ window.VETRINE = {
     "prod-V-06-0": "https://static.wixstatic.com/media/5ae127_fbc9ac03fc5d4dda905674e1e99f438f~mv2.jpg",
     "prod-V-06-1": "https://www.diegale.it/wp-content/uploads/2026/01/diegale-ciarlibo-2026-1.jpg",
     "prod-V-06-2": "https://static.wixstatic.com/media/5ae127_abb39bd697b349bc979ffeefc8f965ad~mv2.jpg",
-    "prod-V-06-3": "https://static.wixstatic.com/media/5ae127_d82e050c2f454bf89d62456c53993b06~mv2.jpg",
-    "prod-V-06-4": "https://static.wixstatic.com/media/5ae127_fb5e2f125d8343469531eb59c2c4b22e~mv2.jpg",
+    "prod-V-06-3": "https://static.wixstatic.com/media/5ae127_54375faa1a6441998b0580a8f0243242~mv2.jpeg",
+    "prod-V-06-4": "https://static.wixstatic.com/media/5ae127_d82e050c2f454bf89d62456c53993b06~mv2.jpg",
+    "prod-V-06-5": "https://static.wixstatic.com/media/5ae127_fb5e2f125d8343469531eb59c2c4b22e~mv2.jpg",
     "logo-V-07": "https://www.cadecartocci.it/wp-content/uploads/2022/12/logo-cadecartocci.png",
     "prod-V-07-0": "https://www.cadecartocci.it/wp-content/uploads/2024/11/100ml-new.png",
     "prod-V-07-1": "https://www.cadecartocci.it/wp-content/uploads/2025/06/2-1.jpg",
