@@ -15347,100 +15347,135 @@ window.VETRINE = {
       "pd": {
         "V-49-0": {
           "c": [],
-          "pr": "40,00 € (shop online)",
+          "pr": "40,00 €",
           "d": {
-            "it": "The Skulls Dry Gin, 40% vol: un distillato artigianale versatile, ottenuto dalla distillazione di ginepro, limetta, limone, cardamomo e pepe rosa. Design accattivante e gusto deciso, per i momenti in compagnia e per dare un sapore inaspettato ai cocktail. Premiato con il Platinum, la fascia più alta (96-100 punti), al The WineHunter Award del Merano WineFestival 2026. Confezionato nella bottiglia termica di design in acciaio 304 per alimenti a doppia camera, riutilizzabile: mantiene la temperatura per 12 ore e il tappo touch-led la mostra al tocco di un dito.",
-            "en": "The Skulls Dry Gin, 40% ABV: a versatile craft spirit distilled from juniper, lime, lemon, cardamom and pink pepper. Eye-catching design and a bold taste, for time with friends and for giving cocktails an unexpected twist. Awarded Platinum, the top band (96-100 points), at The WineHunter Award, Merano WineFestival 2026. Packed in the reusable designer thermal bottle in double-walled 304 food-grade steel: it holds the temperature for 12 hours and the touch-LED cap shows it at the touch of a finger.",
-            "de": "The Skulls Dry Gin, 40% Vol.: ein vielseitiges Craft-Destillat aus Wacholder, Limette, Zitrone, Kardamom und rosa Pfeffer. Auffälliges Design und kräftiger Geschmack, für gesellige Momente und für eine überraschende Note in Cocktails. Ausgezeichnet mit Platinum, der höchsten Stufe (96-100 Punkte), beim The WineHunter Award des Merano WineFestival 2026. Abgefüllt in der wiederverwendbaren Design-Thermoflasche aus doppelwandigem 304-Lebensmittelstahl: Sie hält die Temperatur 12 Stunden, der Touch-LED-Verschluss zeigt sie per Fingertipp an."
+            "it": "The Skulls Dry Gin, 40% vol: un distillato artigianale versatile, ottenuto dalla distillazione di ginepro, limetta, limone, cardamomo e pepe rosa. Design accattivante e gusto deciso, per i momenti in compagnia e per dare un sapore inaspettato ai cocktail. Premiato con il Platinum, la fascia più alta (96-100 punti), al The WineHunter Award del Merano WineFestival 2026. Confezionato nella bottiglia termica di design in acciaio 304 per alimenti a doppia camera, riutilizzabile, che mantiene la temperatura per 12 ore. Per i buyer esteri il prezzo è al netto di IVA e accise: l'eventuale IVA è a carico dell'acquirente nel suo Paese.",
+            "en": "The Skulls Dry Gin, 40% ABV: a versatile craft spirit distilled from juniper, lime, lemon, cardamom and pink pepper. Eye-catching design and a bold taste, for time with friends and for giving cocktails an unexpected twist. Awarded Platinum, the top band (96-100 points), at The WineHunter Award, Merano WineFestival 2026. Packed in the reusable designer thermal bottle in double-walled 304 food-grade steel that holds the temperature for 12 hours. For foreign buyers the price is net of Italian VAT and excise duty: any VAT is paid by the buyer in their own country.",
+            "de": "The Skulls Dry Gin, 40% Vol.: ein vielseitiges Craft-Destillat aus Wacholder, Limette, Zitrone, Kardamom und rosa Pfeffer. Auffälliges Design und kräftiger Geschmack, für gesellige Momente und für eine überraschende Note in Cocktails. Ausgezeichnet mit Platinum, der höchsten Stufe (96-100 Punkte), beim The WineHunter Award des Merano WineFestival 2026. Abgefüllt in der wiederverwendbaren Design-Thermoflasche aus doppelwandigem 304-Lebensmittelstahl, die die Temperatur 12 Stunden hält. Für ausländische Käufer gilt der Preis ohne italienische MwSt. und Verbrauchsteuer: Eine etwaige MwSt. zahlt der Käufer in seinem Land."
           },
           "a": {
             "it": "Liscio, nel gin tonic e nei cocktail. Senza aromi artificiali.",
             "en": "Neat, in a gin and tonic and in cocktails. No artificial flavourings.",
             "de": "Pur, im Gin Tonic und in Cocktails. Ohne künstliche Aromen."
+          },
+          "prl": {
+            "it": "Prezzo Italia, IVA e accise incluse",
+            "en": "Price in Italy, VAT and excise included",
+            "de": "Preis in Italien, inkl. MwSt. und Verbrauchsteuer"
           }
         },
         "V-49-1": {
           "c": [],
-          "pr": "40,00 € (shop online)",
+          "pr": "40,00 €",
           "d": {
-            "it": "The Akiram Dry Gin, 43% vol: il gin più elegante della casa, evoluzione del precedente Instinct Dry Gin. Nasce dalla distillazione di ginepro, limetta, limone, pepe rosa, pompelmo rosa, arancia, cardamomo, aneto, cannella e altre botaniche che restano segrete. Il suo segreto è il marmo di Carrara inserito nell'alambicco, che gli dona una bevuta minerale, raffinata e dall'equilibrio inconfondibile. Premiato al The WineHunter Award del Merano WineFestival 2026 (fascia 90-92,9 punti). Confezionato nella bottiglia termica di design in acciaio 304 per alimenti a doppia camera, riutilizzabile: mantiene la temperatura per 12 ore e il tappo touch-led la mostra al tocco di un dito.",
-            "en": "The Akiram Dry Gin, 43% ABV: the house's most elegant gin, an evolution of the earlier Instinct Dry Gin. It is distilled from juniper, lime, lemon, pink pepper, pink grapefruit, orange, cardamom, dill, cinnamon and other botanicals that remain secret. Its secret is Carrara marble placed in the still, which gives it a mineral, refined character and an unmistakable balance. Awarded at The WineHunter Award, Merano WineFestival 2026 (90-92.9 point band). Packed in the reusable designer thermal bottle in double-walled 304 food-grade steel: it holds the temperature for 12 hours and the touch-LED cap shows it at the touch of a finger.",
-            "de": "The Akiram Dry Gin, 43% Vol.: der eleganteste Gin des Hauses, eine Weiterentwicklung des früheren Instinct Dry Gin. Destilliert aus Wacholder, Limette, Zitrone, rosa Pfeffer, rosa Grapefruit, Orange, Kardamom, Dill, Zimt und weiteren Botanicals, die geheim bleiben. Sein Geheimnis ist Carrara-Marmor in der Brennblase, der ihm einen mineralischen, feinen Charakter und eine unverwechselbare Balance verleiht. Ausgezeichnet beim The WineHunter Award des Merano WineFestival 2026 (Stufe 90-92,9 Punkte). Abgefüllt in der wiederverwendbaren Design-Thermoflasche aus doppelwandigem 304-Lebensmittelstahl: Sie hält die Temperatur 12 Stunden, der Touch-LED-Verschluss zeigt sie per Fingertipp an."
+            "it": "The Akiram Dry Gin, 43% vol: il gin più elegante della casa, evoluzione del precedente Instinct Dry Gin. Nasce dalla distillazione di ginepro, limetta, limone, pepe rosa, pompelmo rosa, arancia, cardamomo, aneto, cannella e altre botaniche che restano segrete. Il suo segreto è il marmo di Carrara inserito nell'alambicco, che gli dona una bevuta minerale, raffinata e dall'equilibrio inconfondibile. Premiato al The WineHunter Award del Merano WineFestival 2026 (fascia 90-92,9 punti). Confezionato nella bottiglia termica di design in acciaio 304 per alimenti a doppia camera, riutilizzabile, che mantiene la temperatura per 12 ore. Per i buyer esteri il prezzo è al netto di IVA e accise: l'eventuale IVA è a carico dell'acquirente nel suo Paese.",
+            "en": "The Akiram Dry Gin, 43% ABV: the house's most elegant gin, an evolution of the earlier Instinct Dry Gin. It is distilled from juniper, lime, lemon, pink pepper, pink grapefruit, orange, cardamom, dill, cinnamon and other botanicals that remain secret. Its secret is Carrara marble placed in the still, which gives it a mineral, refined character and an unmistakable balance. Awarded at The WineHunter Award, Merano WineFestival 2026 (90-92.9 point band). Packed in the reusable designer thermal bottle in double-walled 304 food-grade steel that holds the temperature for 12 hours. For foreign buyers the price is net of Italian VAT and excise duty: any VAT is paid by the buyer in their own country.",
+            "de": "The Akiram Dry Gin, 43% Vol.: der eleganteste Gin des Hauses, eine Weiterentwicklung des früheren Instinct Dry Gin. Destilliert aus Wacholder, Limette, Zitrone, rosa Pfeffer, rosa Grapefruit, Orange, Kardamom, Dill, Zimt und weiteren Botanicals, die geheim bleiben. Sein Geheimnis ist Carrara-Marmor in der Brennblase, der ihm einen mineralischen, feinen Charakter und eine unverwechselbare Balance verleiht. Ausgezeichnet beim The WineHunter Award des Merano WineFestival 2026 (Stufe 90-92,9 Punkte). Abgefüllt in der wiederverwendbaren Design-Thermoflasche aus doppelwandigem 304-Lebensmittelstahl, die die Temperatur 12 Stunden hält. Für ausländische Käufer gilt der Preis ohne italienische MwSt. und Verbrauchsteuer: Eine etwaige MwSt. zahlt der Käufer in seinem Land."
           },
           "a": {
             "it": "Liscio, nel gin tonic e nei cocktail. Senza aromi artificiali.",
             "en": "Neat, in a gin and tonic and in cocktails. No artificial flavourings.",
             "de": "Pur, im Gin Tonic und in Cocktails. Ohne künstliche Aromen."
+          },
+          "prl": {
+            "it": "Prezzo Italia, IVA e accise incluse",
+            "en": "Price in Italy, VAT and excise included",
+            "de": "Preis in Italien, inkl. MwSt. und Verbrauchsteuer"
           }
         },
         "V-49-2": {
           "c": [],
-          "pr": "40,00 € (shop online)",
+          "pr": "40,00 €",
           "d": {
-            "it": "Golosity Premium Dry Gin, 41% vol: un gin dal gusto fresco e dissetante, ottenuto dalla distillazione di ginepro, limone, limetta, pompelmo rosa, pepe rosa, cardamomo, aneto e arancia. Premiato con il Gold al The WineHunter Spirits Award del Merano WineFestival 2026. Confezionato nella bottiglia termica di design in acciaio 304 per alimenti a doppia camera, riutilizzabile: mantiene la temperatura per 12 ore e il tappo touch-led la mostra al tocco di un dito.",
-            "en": "Golosity Premium Dry Gin, 41% ABV: a fresh, thirst-quenching gin distilled from juniper, lemon, lime, pink grapefruit, pink pepper, cardamom, dill and orange. Awarded Gold at The WineHunter Spirits Award, Merano WineFestival 2026. Packed in the reusable designer thermal bottle in double-walled 304 food-grade steel: it holds the temperature for 12 hours and the touch-LED cap shows it at the touch of a finger.",
-            "de": "Golosity Premium Dry Gin, 41% Vol.: ein frischer, durstlöschender Gin, destilliert aus Wacholder, Zitrone, Limette, rosa Grapefruit, rosa Pfeffer, Kardamom, Dill und Orange. Ausgezeichnet mit Gold beim The WineHunter Spirits Award des Merano WineFestival 2026. Abgefüllt in der wiederverwendbaren Design-Thermoflasche aus doppelwandigem 304-Lebensmittelstahl: Sie hält die Temperatur 12 Stunden, der Touch-LED-Verschluss zeigt sie per Fingertipp an."
+            "it": "Golosity Premium Dry Gin, 41% vol: un gin dal gusto fresco e dissetante, ottenuto dalla distillazione di ginepro, limone, limetta, pompelmo rosa, pepe rosa, cardamomo, aneto e arancia. Premiato con il Gold al The WineHunter Spirits Award del Merano WineFestival 2026. Confezionato nella bottiglia termica di design in acciaio 304 per alimenti a doppia camera, riutilizzabile, che mantiene la temperatura per 12 ore. Per i buyer esteri il prezzo è al netto di IVA e accise: l'eventuale IVA è a carico dell'acquirente nel suo Paese.",
+            "en": "Golosity Premium Dry Gin, 41% ABV: a fresh, thirst-quenching gin distilled from juniper, lemon, lime, pink grapefruit, pink pepper, cardamom, dill and orange. Awarded Gold at The WineHunter Spirits Award, Merano WineFestival 2026. Packed in the reusable designer thermal bottle in double-walled 304 food-grade steel that holds the temperature for 12 hours. For foreign buyers the price is net of Italian VAT and excise duty: any VAT is paid by the buyer in their own country.",
+            "de": "Golosity Premium Dry Gin, 41% Vol.: ein frischer, durstlöschender Gin, destilliert aus Wacholder, Zitrone, Limette, rosa Grapefruit, rosa Pfeffer, Kardamom, Dill und Orange. Ausgezeichnet mit Gold beim The WineHunter Spirits Award des Merano WineFestival 2026. Abgefüllt in der wiederverwendbaren Design-Thermoflasche aus doppelwandigem 304-Lebensmittelstahl, die die Temperatur 12 Stunden hält. Für ausländische Käufer gilt der Preis ohne italienische MwSt. und Verbrauchsteuer: Eine etwaige MwSt. zahlt der Käufer in seinem Land."
           },
           "a": {
             "it": "Liscio, nel gin tonic e nei cocktail. Senza aromi artificiali.",
             "en": "Neat, in a gin and tonic and in cocktails. No artificial flavourings.",
             "de": "Pur, im Gin Tonic und in Cocktails. Ohne künstliche Aromen."
+          },
+          "prl": {
+            "it": "Prezzo Italia, IVA e accise incluse",
+            "en": "Price in Italy, VAT and excise included",
+            "de": "Preis in Italien, inkl. MwSt. und Verbrauchsteuer"
           }
         },
         "V-49-3": {
           "c": [],
-          "pr": "45,00 € (shop online)",
+          "pr": "40,00 €",
           "d": {
-            "it": "The Skulls Dry Gin, 40% vol: un distillato artigianale versatile, ottenuto dalla distillazione di ginepro, limetta, limone, cardamomo e pepe rosa. Design accattivante e gusto deciso, per i momenti in compagnia e per dare un sapore inaspettato ai cocktail. Premiato con il Platinum, la fascia più alta (96-100 punti), al The WineHunter Award del Merano WineFestival 2026. Nella bottiglia in vetro da 700 ml.",
-            "en": "The Skulls Dry Gin, 40% ABV: a versatile craft spirit distilled from juniper, lime, lemon, cardamom and pink pepper. Eye-catching design and a bold taste, for time with friends and for giving cocktails an unexpected twist. Awarded Platinum, the top band (96-100 points), at The WineHunter Award, Merano WineFestival 2026. In the 700 ml glass bottle.",
-            "de": "The Skulls Dry Gin, 40% Vol.: ein vielseitiges Craft-Destillat aus Wacholder, Limette, Zitrone, Kardamom und rosa Pfeffer. Auffälliges Design und kräftiger Geschmack, für gesellige Momente und für eine überraschende Note in Cocktails. Ausgezeichnet mit Platinum, der höchsten Stufe (96-100 Punkte), beim The WineHunter Award des Merano WineFestival 2026. In der 700-ml-Glasflasche."
+            "it": "The Skulls Dry Gin, 40% vol: un distillato artigianale versatile, ottenuto dalla distillazione di ginepro, limetta, limone, cardamomo e pepe rosa. Design accattivante e gusto deciso, per i momenti in compagnia e per dare un sapore inaspettato ai cocktail. Premiato con il Platinum, la fascia più alta (96-100 punti), al The WineHunter Award del Merano WineFestival 2026. Nella bottiglia in vetro da 700 ml. Per i buyer esteri il prezzo è al netto di IVA e accise: l'eventuale IVA è a carico dell'acquirente nel suo Paese.",
+            "en": "The Skulls Dry Gin, 40% ABV: a versatile craft spirit distilled from juniper, lime, lemon, cardamom and pink pepper. Eye-catching design and a bold taste, for time with friends and for giving cocktails an unexpected twist. Awarded Platinum, the top band (96-100 points), at The WineHunter Award, Merano WineFestival 2026. In the 700 ml glass bottle. For foreign buyers the price is net of Italian VAT and excise duty: any VAT is paid by the buyer in their own country.",
+            "de": "The Skulls Dry Gin, 40% Vol.: ein vielseitiges Craft-Destillat aus Wacholder, Limette, Zitrone, Kardamom und rosa Pfeffer. Auffälliges Design und kräftiger Geschmack, für gesellige Momente und für eine überraschende Note in Cocktails. Ausgezeichnet mit Platinum, der höchsten Stufe (96-100 Punkte), beim The WineHunter Award des Merano WineFestival 2026. In der 700-ml-Glasflasche. Für ausländische Käufer gilt der Preis ohne italienische MwSt. und Verbrauchsteuer: Eine etwaige MwSt. zahlt der Käufer in seinem Land."
           },
           "a": {
             "it": "Liscio, nel gin tonic e nei cocktail. Senza aromi artificiali.",
             "en": "Neat, in a gin and tonic and in cocktails. No artificial flavourings.",
             "de": "Pur, im Gin Tonic und in Cocktails. Ohne künstliche Aromen."
+          },
+          "prl": {
+            "it": "Prezzo Italia, IVA e accise incluse",
+            "en": "Price in Italy, VAT and excise included",
+            "de": "Preis in Italien, inkl. MwSt. und Verbrauchsteuer"
           }
         },
         "V-49-4": {
           "c": [],
-          "pr": "45,00 € (shop online)",
+          "pr": "40,00 €",
           "d": {
-            "it": "The Akiram Dry Gin, 43% vol: il gin più elegante della casa, evoluzione del precedente Instinct Dry Gin. Nasce dalla distillazione di ginepro, limetta, limone, pepe rosa, pompelmo rosa, arancia, cardamomo, aneto, cannella e altre botaniche che restano segrete. Il suo segreto è il marmo di Carrara inserito nell'alambicco, che gli dona una bevuta minerale, raffinata e dall'equilibrio inconfondibile. Premiato al The WineHunter Award del Merano WineFestival 2026 (fascia 90-92,9 punti). Nella bottiglia in vetro da 700 ml.",
-            "en": "The Akiram Dry Gin, 43% ABV: the house's most elegant gin, an evolution of the earlier Instinct Dry Gin. It is distilled from juniper, lime, lemon, pink pepper, pink grapefruit, orange, cardamom, dill, cinnamon and other botanicals that remain secret. Its secret is Carrara marble placed in the still, which gives it a mineral, refined character and an unmistakable balance. Awarded at The WineHunter Award, Merano WineFestival 2026 (90-92.9 point band). In the 700 ml glass bottle.",
-            "de": "The Akiram Dry Gin, 43% Vol.: der eleganteste Gin des Hauses, eine Weiterentwicklung des früheren Instinct Dry Gin. Destilliert aus Wacholder, Limette, Zitrone, rosa Pfeffer, rosa Grapefruit, Orange, Kardamom, Dill, Zimt und weiteren Botanicals, die geheim bleiben. Sein Geheimnis ist Carrara-Marmor in der Brennblase, der ihm einen mineralischen, feinen Charakter und eine unverwechselbare Balance verleiht. Ausgezeichnet beim The WineHunter Award des Merano WineFestival 2026 (Stufe 90-92,9 Punkte). In der 700-ml-Glasflasche."
+            "it": "The Akiram Dry Gin, 43% vol: il gin più elegante della casa, evoluzione del precedente Instinct Dry Gin. Nasce dalla distillazione di ginepro, limetta, limone, pepe rosa, pompelmo rosa, arancia, cardamomo, aneto, cannella e altre botaniche che restano segrete. Il suo segreto è il marmo di Carrara inserito nell'alambicco, che gli dona una bevuta minerale, raffinata e dall'equilibrio inconfondibile. Premiato al The WineHunter Award del Merano WineFestival 2026 (fascia 90-92,9 punti). Nella bottiglia in vetro da 700 ml. Per i buyer esteri il prezzo è al netto di IVA e accise: l'eventuale IVA è a carico dell'acquirente nel suo Paese.",
+            "en": "The Akiram Dry Gin, 43% ABV: the house's most elegant gin, an evolution of the earlier Instinct Dry Gin. It is distilled from juniper, lime, lemon, pink pepper, pink grapefruit, orange, cardamom, dill, cinnamon and other botanicals that remain secret. Its secret is Carrara marble placed in the still, which gives it a mineral, refined character and an unmistakable balance. Awarded at The WineHunter Award, Merano WineFestival 2026 (90-92.9 point band). In the 700 ml glass bottle. For foreign buyers the price is net of Italian VAT and excise duty: any VAT is paid by the buyer in their own country.",
+            "de": "The Akiram Dry Gin, 43% Vol.: der eleganteste Gin des Hauses, eine Weiterentwicklung des früheren Instinct Dry Gin. Destilliert aus Wacholder, Limette, Zitrone, rosa Pfeffer, rosa Grapefruit, Orange, Kardamom, Dill, Zimt und weiteren Botanicals, die geheim bleiben. Sein Geheimnis ist Carrara-Marmor in der Brennblase, der ihm einen mineralischen, feinen Charakter und eine unverwechselbare Balance verleiht. Ausgezeichnet beim The WineHunter Award des Merano WineFestival 2026 (Stufe 90-92,9 Punkte). In der 700-ml-Glasflasche. Für ausländische Käufer gilt der Preis ohne italienische MwSt. und Verbrauchsteuer: Eine etwaige MwSt. zahlt der Käufer in seinem Land."
           },
           "a": {
             "it": "Liscio, nel gin tonic e nei cocktail. Senza aromi artificiali.",
             "en": "Neat, in a gin and tonic and in cocktails. No artificial flavourings.",
             "de": "Pur, im Gin Tonic und in Cocktails. Ohne künstliche Aromen."
+          },
+          "prl": {
+            "it": "Prezzo Italia, IVA e accise incluse",
+            "en": "Price in Italy, VAT and excise included",
+            "de": "Preis in Italien, inkl. MwSt. und Verbrauchsteuer"
           }
         },
         "V-49-5": {
           "c": [],
-          "pr": "45,00 € (shop online)",
+          "pr": "40,00 €",
           "d": {
-            "it": "Golosity Premium Dry Gin, 41% vol: un gin dal gusto fresco e dissetante, ottenuto dalla distillazione di ginepro, limone, limetta, pompelmo rosa, pepe rosa, cardamomo, aneto e arancia. Premiato con il Gold al The WineHunter Spirits Award del Merano WineFestival 2026. Nella bottiglia in vetro da 700 ml.",
-            "en": "Golosity Premium Dry Gin, 41% ABV: a fresh, thirst-quenching gin distilled from juniper, lemon, lime, pink grapefruit, pink pepper, cardamom, dill and orange. Awarded Gold at The WineHunter Spirits Award, Merano WineFestival 2026. In the 700 ml glass bottle.",
-            "de": "Golosity Premium Dry Gin, 41% Vol.: ein frischer, durstlöschender Gin, destilliert aus Wacholder, Zitrone, Limette, rosa Grapefruit, rosa Pfeffer, Kardamom, Dill und Orange. Ausgezeichnet mit Gold beim The WineHunter Spirits Award des Merano WineFestival 2026. In der 700-ml-Glasflasche."
+            "it": "Golosity Premium Dry Gin, 41% vol: un gin dal gusto fresco e dissetante, ottenuto dalla distillazione di ginepro, limone, limetta, pompelmo rosa, pepe rosa, cardamomo, aneto e arancia. Premiato con il Gold al The WineHunter Spirits Award del Merano WineFestival 2026. Nella bottiglia in vetro da 700 ml. Per i buyer esteri il prezzo è al netto di IVA e accise: l'eventuale IVA è a carico dell'acquirente nel suo Paese.",
+            "en": "Golosity Premium Dry Gin, 41% ABV: a fresh, thirst-quenching gin distilled from juniper, lemon, lime, pink grapefruit, pink pepper, cardamom, dill and orange. Awarded Gold at The WineHunter Spirits Award, Merano WineFestival 2026. In the 700 ml glass bottle. For foreign buyers the price is net of Italian VAT and excise duty: any VAT is paid by the buyer in their own country.",
+            "de": "Golosity Premium Dry Gin, 41% Vol.: ein frischer, durstlöschender Gin, destilliert aus Wacholder, Zitrone, Limette, rosa Grapefruit, rosa Pfeffer, Kardamom, Dill und Orange. Ausgezeichnet mit Gold beim The WineHunter Spirits Award des Merano WineFestival 2026. In der 700-ml-Glasflasche. Für ausländische Käufer gilt der Preis ohne italienische MwSt. und Verbrauchsteuer: Eine etwaige MwSt. zahlt der Käufer in seinem Land."
           },
           "a": {
             "it": "Liscio, nel gin tonic e nei cocktail. Senza aromi artificiali.",
             "en": "Neat, in a gin and tonic and in cocktails. No artificial flavourings.",
             "de": "Pur, im Gin Tonic und in Cocktails. Ohne künstliche Aromen."
+          },
+          "prl": {
+            "it": "Prezzo Italia, IVA e accise incluse",
+            "en": "Price in Italy, VAT and excise included",
+            "de": "Preis in Italien, inkl. MwSt. und Verbrauchsteuer"
           }
         },
         "V-49-6": {
           "c": [],
-          "pr": "40,00 € (shop online)",
+          "pr": "40,00 €",
           "d": {
-            "it": "Monte Campo Cold Compound Gin, 40% vol: nasce unendo una ricetta moderna ed elegante all'antico procedimento dell'infusione a freddo. Le botaniche naturali (bergamotto, arancia, melissa, angelica, rosa canina e foglie di liquirizia) sono messe in infusione diretta e sprigionano profumi intensi e sapori balsamici. Un gin dal tocco classico con una nota moderna, dal gusto unico e sorprendente.",
-            "en": "Monte Campo Cold Compound Gin, 40% ABV: born from a modern, elegant recipe joined to the old cold-infusion method. The natural botanicals (bergamot, orange, lemon balm, angelica, rosehip and liquorice leaves) are infused directly and release intense aromas and balsamic flavours. A gin with a classic touch and a modern note, unique and surprising.",
-            "de": "Monte Campo Cold Compound Gin, 40% Vol.: ein modernes, elegantes Rezept, verbunden mit dem alten Verfahren der Kaltinfusion. Die natürlichen Botanicals (Bergamotte, Orange, Melisse, Angelika, Hagebutte und Süßholzblätter) werden direkt angesetzt und entfalten intensive Düfte und balsamische Aromen. Ein Gin mit klassischem Charakter und moderner Note, einzigartig und überraschend."
+            "it": "Monte Campo Cold Compound Gin, 40% vol: nasce unendo una ricetta moderna ed elegante all'antico procedimento dell'infusione a freddo. Le botaniche naturali (bergamotto, arancia, melissa, angelica, rosa canina e foglie di liquirizia) sono messe in infusione diretta e sprigionano profumi intensi e sapori balsamici. Un gin dal tocco classico con una nota moderna, dal gusto unico e sorprendente. Per i buyer esteri il prezzo è al netto di IVA e accise: l'eventuale IVA è a carico dell'acquirente nel suo Paese.",
+            "en": "Monte Campo Cold Compound Gin, 40% ABV: born from a modern, elegant recipe joined to the old cold-infusion method. The natural botanicals (bergamot, orange, lemon balm, angelica, rosehip and liquorice leaves) are infused directly and release intense aromas and balsamic flavours. A gin with a classic touch and a modern note, unique and surprising. For foreign buyers the price is net of Italian VAT and excise duty: any VAT is paid by the buyer in their own country.",
+            "de": "Monte Campo Cold Compound Gin, 40% Vol.: ein modernes, elegantes Rezept, verbunden mit dem alten Verfahren der Kaltinfusion. Die natürlichen Botanicals (Bergamotte, Orange, Melisse, Angelika, Hagebutte und Süßholzblätter) werden direkt angesetzt und entfalten intensive Düfte und balsamische Aromen. Ein Gin mit klassischem Charakter und moderner Note, einzigartig und überraschend. Für ausländische Käufer gilt der Preis ohne italienische MwSt. und Verbrauchsteuer: Eine etwaige MwSt. zahlt der Käufer in seinem Land."
           },
           "a": {
             "it": "Ottimo da meditazione, miscelato per un grande Negroni, delicato nel gin tonic.",
             "en": "Excellent for sipping, mixed into a great Negroni, delicate in a gin and tonic.",
             "de": "Hervorragend pur zum Genießen, gemixt in einem großen Negroni, zart im Gin Tonic."
+          },
+          "prl": {
+            "it": "Prezzo Italia, IVA e accise incluse",
+            "en": "Price in Italy, VAT and excise included",
+            "de": "Preis in Italien, inkl. MwSt. und Verbrauchsteuer"
           }
         }
       },
