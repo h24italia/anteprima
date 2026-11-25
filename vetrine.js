@@ -9092,11 +9092,13 @@ window.VETRINE = {
       "lng": 10.886,
       "y": 2022,
       "certs": [
-        "Bio"
+        "Bio (solo le piante, non l'olio)"
       ],
       "exp": [],
       "lg": [
-        "it"
+        "it",
+        "fr",
+        "en"
       ],
       "moq": null,
       "d": {
@@ -9157,9 +9159,7 @@ window.VETRINE = {
       ],
       "pd": {
         "V-27-0": {
-          "c": [
-            "Bio"
-          ],
+          "c": [],
           "pr": "250 ml 12,00 € · 500 ml 20,00 € · 3 litri 70,00 € (shop online)",
           "d": {
             "it": "Monocultivar di Casaliva, la cultivar autoctona del Lago di Garda, dalle due tenute di famiglia ad Arco (TN): l'oliveto “Giuseppe”, piantato dal nonno negli anni Novanta su terreno calcareo e argilloso a circa 200 metri, e l'oliveto “Rolando”, piantato nel 2011 a 130 metri. Olio extravergine di oliva di categoria superiore da olive raccolte nella seconda decade di ottobre, in anticipo di maturazione, e lavorate la sera stessa per non disperdere le caratteristiche salutistiche e nutraceutiche; estrazione a freddo con impianto a ciclo continuo a due fasi. Colore dorato con striature verdi, profumo fruttato medio con piacevoli sensazioni erbacee dovute all'anticipo della raccolta. Disponibile anche nel formato da 3 litri.",
@@ -9173,9 +9173,7 @@ window.VETRINE = {
           }
         },
         "V-27-1": {
-          "c": [
-            "Bio"
-          ],
+          "c": [],
           "pr": "20,00 € (shop online)",
           "d": {
             "it": "Blend di tre cultivar alloctone, Pendolino e Frantoio, originarie della Toscana, e Favarol, originaria del Veneto, da un numero limitato di piante dell'oliveto “Rolando” ad Arco (TN). Olio extravergine di oliva di categoria superiore da olive raccolte nella prima decade di ottobre, a inizio invaiatura, e lavorate la sera stessa per non disperdere le caratteristiche salutistiche e nutraceutiche; estrazione a freddo con impianto a ciclo continuo a due fasi. Colore dorato, profumo fruttato leggero con piacevoli sensazioni di mandorla verde e carciofo date da Frantoio e Pendolino, e note leggermente amare e piccanti grazie al Favarol.",
@@ -9189,9 +9187,7 @@ window.VETRINE = {
           }
         },
         "V-27-2": {
-          "c": [
-            "Bio"
-          ],
+          "c": [],
           "pr": "250 ml 10,00 € · 500 ml 16,00 € (shop online)",
           "d": {
             "it": "Dall'oliveto “Laura” a Stio (SA), a 700 metri sul livello del mare nel cuore del Parco Nazionale del Cilento, con esposizione a sud, tra cinghiali, cervi e caprioli. Olio extravergine di oliva di categoria superiore ottenuto per oltre il 50% da varietà tipiche del Cilento (Pisciottana, Rotondella e Ogliarola); nell'oliveto crescono anche Frantoio e Leccino. Olive raccolte nell'ultima decade di ottobre, a invaiatura, e lavorate la sera stessa in un frantoio di ultima generazione. Colore dorato e giallo con riflessi verdi, fruttato medio con note di foglia verde; al gusto amaro e piccante di media intensità, con un gradevole retrogusto di mandorla e leggeri sentori di frutta secca.",
@@ -9205,9 +9201,7 @@ window.VETRINE = {
           }
         },
         "V-27-3": {
-          "c": [
-            "Bio"
-          ],
+          "c": [],
           "pr": "55,00 € (shop online)",
           "d": {
             "it": "Set degustazione che riunisce i tre oli extravergine Extraemo: Nord “Trittico”, Nord “Casaliva” e Sud “700 m”. Tre territori e tre identità sensoriali con un'unica filosofia: olive raccolte e molite in giornata per preservare proprietà nutraceutiche, profumo e gusto. Trittico: blend di Pendolino, Favarol e Frantoio raccolti nella prima decade di ottobre, dorato, fruttato leggero con mandorla verde e carciofo, gusto equilibrato con piacevoli sensazioni amare e piccanti. Casaliva: monocultivar autoctono del Lago di Garda raccolto in anticipo di maturazione, dorato con riflessi verdi, fruttato medio e ricche note erbacee. 700 m: Pisciottana, Rotondella e Ogliarola coltivate a 700 metri nel cuore del Cilento, dorato con riflessi verdi, fruttato medio con foglia verde e finale di mandorla e frutta secca. Adatto anche come confezione regalo.",
