@@ -7150,9 +7150,9 @@ window.VETRINE = {
       ],
       "moq": null,
       "d": {
-        "it": "Mosca bianca si dice di ciò che è raro. Barbara e Corrado lo sono a modo loro: nessuno dei due veniva dall'agricoltura. Lei piemontese, lui lombardo, hanno lasciato la città per le colline di Nizza Monferrato e da allora imbottigliano fughe dalla monotonia. Barbara segue vendite e fiere, Corrado la vigna. La loro filosofia è lo slow living: vini biologici, autentici e testardi, fatti con calma e senza stereotipi. Tra i filari solo rame e zolfo minerali in dosi ridotte, nessun prodotto di sintesi e niente diserbo; in cantina fermentazioni senza lieviti aggiunti e lunghi affinamenti. Le quantità sono piccole: la Barbera d'Asti DOCG La S'cetta, il Cabernet Sauvignon, lo Chardonnay in legno, frizzante col metodo ancestrale o orange come il Bastian Contrari, gli spumanti metodo classico, un Moscato da uve stramature e due grappe. In cantina si fanno wine tour con degustazione per gruppi fino a 15 persone, in italiano e in inglese, e ai locali è dedicata una collaborazione B2B.",
-        "en": "In Italian a \"mosca bianca\", a white fly, is something rare. Barbara and Corrado are rare in their own way: neither of them came from farming. She is from Piedmont, he is from Lombardy; they left the city for the hills of Nizza Monferrato and have been bottling escapes from monotony ever since. Barbara looks after sales and trade fairs, Corrado the vineyard. Their philosophy is slow living: organic wines, authentic and stubborn, made unhurriedly and without stereotypes. Among the rows only mineral copper and sulphur in small doses, no synthetic products and no weedkiller; in the cellar, fermentations without added yeasts and long ageing. Quantities are small: the Barbera d'Asti DOCG La S'cetta, Cabernet Sauvignon, Chardonnay aged in wood, sparkling by the ancestral method or as an orange wine such as Bastian Contrari, traditional-method sparkling wines, a Moscato from overripe grapes and two grappas. The winery runs wine tours with tastings for groups of up to 15, in Italian and English, and offers bars and restaurants a B2B partnership.",
-        "de": "Biologisches Weingut in den Hügeln von Nizza Monferrato, entstanden aus der Begegnung von Barbara aus dem Piemont, die Verkauf und Messen betreut, und Corrado aus der Lombardei, der sich um den Weinberg kümmert: zwei Quereinsteiger, die die Stadt verlassen haben, um Fluchten aus der Monotonie in Flaschen zu füllen. Ihre Philosophie ist Slow Living: biologische, authentische und eigensinnige Weine, ohne Eile und ohne Klischees. Im Weinberg nur mineralisches Kupfer und Schwefel in reduzierter Menge, keine synthetischen Mittel oder Herbizide; im Keller Gärung ohne Reinzuchthefe und lange Reifung. Sie erzeugen Barbera d'Asti DOCG, Cabernet Sauvignon, Chardonnay in mehreren Stilen (im Holz ausgebaut, perlend nach Méthode ancestrale, Orange Wine), Schaumweine nach traditioneller Methode, einen Moscato aus überreifen Trauben und zwei Grappe, alles in kleinen Mengen. Im Weingut bieten sie Weintouren mit Verkostung für Gruppen bis 15 Personen auf Italienisch und Englisch an. Gastronomen bieten sie eine B2B-Zusammenarbeit mit Weinen, die man gern erzählt."
+        "it": "Mosca bianca si dice di ciò che è raro. Barbara e Corrado lo sono a modo loro: nessuno dei due veniva dall'agricoltura. Lei piemontese, lui lombardo, hanno lasciato la città per le colline di Nizza Monferrato e da allora imbottigliano fughe dalla monotonia. Barbara segue vendite e fiere, Corrado la vigna. La loro filosofia è lo slow living: vini biologici, autentici e testardi, fatti con calma e senza stereotipi. Tra i filari solo rame e zolfo minerali in dosi ridotte, nessun prodotto di sintesi e niente diserbo; in cantina fermentazioni senza lieviti aggiunti e lunghi affinamenti. Le quantità sono piccole: la Barbera d'Asti DOCG La S'cetta, il Cabernet Sauvignon, lo Chardonnay in legno o frizzante col metodo ancestrale, gli spumanti metodo classico e due grappe. In cantina si fanno wine tour con degustazione per gruppi fino a 15 persone, in italiano e in inglese, e ai locali è dedicata una collaborazione B2B.",
+        "en": "In Italian a \"mosca bianca\", a white fly, is something rare. Barbara and Corrado are rare in their own way: neither of them came from farming. She is from Piedmont, he is from Lombardy; they left the city for the hills of Nizza Monferrato and have been bottling escapes from monotony ever since. Barbara looks after sales and trade fairs, Corrado the vineyard. Their philosophy is slow living: organic wines, authentic and stubborn, made unhurriedly and without stereotypes. Among the rows only mineral copper and sulphur in small doses, no synthetic products and no weedkiller; in the cellar, fermentations without added yeasts and long ageing. Quantities are small: the Barbera d'Asti DOCG La S'cetta, Cabernet Sauvignon, Chardonnay aged in wood or sparkling by the ancestral method, traditional-method sparkling wines and two grappas. The winery runs wine tours with tastings for groups of up to 15, in Italian and English, and offers bars and restaurants a B2B partnership.",
+        "de": "Biologisches Weingut in den Hügeln von Nizza Monferrato, entstanden aus der Begegnung von Barbara aus dem Piemont, die Verkauf und Messen betreut, und Corrado aus der Lombardei, der sich um den Weinberg kümmert: zwei Quereinsteiger, die die Stadt verlassen haben, um Fluchten aus der Monotonie in Flaschen zu füllen. Ihre Philosophie ist Slow Living: biologische, authentische und eigensinnige Weine, ohne Eile und ohne Klischees. Im Weinberg nur mineralisches Kupfer und Schwefel in reduzierter Menge, keine synthetischen Mittel oder Herbizide; im Keller Gärung ohne Reinzuchthefe und lange Reifung. Sie erzeugen Barbera d'Asti DOCG, Cabernet Sauvignon, Chardonnay im Holz ausgebaut oder perlend nach Méthode ancestrale, Schaumweine nach traditioneller Methode und zwei Grappe, alles in kleinen Mengen. Im Weingut bieten sie Weintouren mit Verkostung für Gruppen bis 15 Personen auf Italienisch und Englisch an. Gastronomen bieten sie eine B2B-Zusammenarbeit mit Weinen, die man gern erzählt."
       },
       "sub": [
         {
@@ -7216,21 +7216,6 @@ window.VETRINE = {
         [
           "Amourusa, Chardonnay frizzante metodo ancestrale",
           "bottiglia da 750 ml",
-          "bianchi"
-        ],
-        [
-          "Bastian Contrari, Chardonnay orange wine",
-          "bottiglia da 750 ml",
-          "bianchi"
-        ],
-        [
-          "Saltamartì, Chardonnay rifermentato in bottiglia",
-          "bottiglia da 750 ml",
-          "bianchi"
-        ],
-        [
-          "Rus du Sul, Moscato Bianco da uve stramature",
-          "",
           "bianchi"
         ],
         [
@@ -7340,54 +7325,6 @@ window.VETRINE = {
           "c": [
             "Bio"
           ],
-          "pr": "18,00 € (al momento non disponibile)",
-          "d": {
-            "it": "Orange wine da Chardonnay 100%: dopo la pigiadiraspatura lunghe fermentazioni sulle bucce senza lieviti aggiunti, in vasche d'acciaio. Colore fortemente ambrato, sentori di frutta matura, piacevole struttura e lieve tannicità, tanto da poter essere confuso con un rosso. È il vino di chi va oltre regole e consuetudini. Circa 2.000-3.000 bottiglie l'anno. Vigneti in cima alla collina a 200-210 m esposti a nord-est, su terreno argilloso con intercalazioni sabbiose; Guyot a potatura corta, 5.000 viti per ettaro, resa 50-60 quintali per ettaro, vendemmia manuale in cassetta tra metà e fine agosto. Coltivazione biologica: solo rame e zolfo minerali in dosi ridotte, nessun prodotto di sintesi né diserbo, erba sfalciata a mano.",
-            "en": "An orange wine from 100% Chardonnay: after crushing and destemming, long skin-contact fermentations with no added yeast in steel tanks. Deep amber colour, ripe fruit notes, pleasant structure and light tannins, so much so it can pass for a red. The wine for those who go beyond rules and habits. About 2,000-3,000 bottles a year. Hilltop vineyards at 200-210 m facing north-east, on clay soil with sandy layers; short-pruned Guyot, 5,000 vines per hectare, yield 50-60 quintals per hectare, harvested by hand into crates from mid to late August. Organic farming: only mineral copper and sulphur in reduced doses, no synthetic products or herbicides, grass cut by hand.",
-            "de": "Orange Wine aus 100% Chardonnay: nach dem Abbeeren lange Gärung auf der Schale ohne Reinzuchthefe im Stahltank. Kräftig bernsteinfarben, Noten reifer Frucht, angenehme Struktur und leichte Tannine, fast wie ein Rotwein. Der Wein für alle, die Regeln und Gewohnheiten hinter sich lassen. Etwa 2.000-3.000 Flaschen im Jahr. Lagen auf der Hügelkuppe auf 200-210 m mit Nordostausrichtung, auf Tonboden mit Sandeinlagerungen; Guyot mit kurzem Schnitt, 5.000 Reben je Hektar, Ertrag 50-60 Doppelzentner je Hektar, Handlese in Kisten von Mitte bis Ende August. Biologischer Anbau: nur mineralisches Kupfer und Schwefel in reduzierter Menge, keine synthetischen Mittel oder Herbizide, Gras von Hand gemäht."
-          },
-          "a": {
-            "it": "Con primi piatti, carni bianche e pesce grasso. Abbinamento originale: bruschette con burrata e acciughe.",
-            "en": "With pasta dishes, white meat and oily fish. Unusual pairing: bruschetta with burrata and anchovies.",
-            "de": "Zu Pasta, hellem Fleisch und fettem Fisch. Ausgefallene Empfehlung: Bruschetta mit Burrata und Sardellen."
-          }
-        },
-        "V-22-6": {
-          "c": [
-            "Bio"
-          ],
-          "pr": "13,00 € (al momento non disponibile)",
-          "d": {
-            "it": "Chardonnay 100% frizzante, raccolto in leggero anticipo; breve sosta sulle bucce, fermentazione fermata con il freddo e rifermentazione naturale in bottiglia in primavera secondo il metodo ancestrale, senza lieviti aggiunti. Ambrato, sentori di agrumi e frutta acida, bollicina fine. Saltamartì in dialetto indica gli insetti che saltano, come la cavalletta in etichetta. Circa 2.000-3.000 bottiglie l'anno. Vigneti in cima alla collina a 200-210 m esposti a nord-est, su terreno argilloso con intercalazioni sabbiose; Guyot a potatura corta, 5.000 viti per ettaro, resa 50-60 quintali per ettaro, vendemmia manuale in cassetta tra metà e fine agosto. Coltivazione biologica: solo rame e zolfo minerali in dosi ridotte, nessun prodotto di sintesi né diserbo, erba sfalciata a mano.",
-            "en": "100% sparkling Chardonnay picked slightly early; brief skin contact, fermentation stopped by cold and natural refermentation in bottle in spring, following the ancestral method, with no added yeast. Amber, citrus and tart fruit notes, fine bubbles. In dialect Saltamartì means jumping insects, like the grasshopper on the label. About 2,000-3,000 bottles a year. Hilltop vineyards at 200-210 m facing north-east, on clay soil with sandy layers; short-pruned Guyot, 5,000 vines per hectare, yield 50-60 quintals per hectare, harvested by hand into crates from mid to late August. Organic farming: only mineral copper and sulphur in reduced doses, no synthetic products or herbicides, grass cut by hand.",
-            "de": "Perlender 100% Chardonnay, etwas früher gelesen; kurz auf der Schale, Gärung durch Kälte gestoppt und natürliche Flaschengärung im Frühling nach der Méthode ancestrale, ohne Reinzuchthefe. Bernsteinfarben, Noten von Zitrus und säuerlicher Frucht, feine Perlage. Saltamartì heißt im Dialekt hüpfendes Insekt, wie die Heuschrecke auf dem Etikett. Etwa 2.000-3.000 Flaschen im Jahr. Lagen auf der Hügelkuppe auf 200-210 m mit Nordostausrichtung, auf Tonboden mit Sandeinlagerungen; Guyot mit kurzem Schnitt, 5.000 Reben je Hektar, Ertrag 50-60 Doppelzentner je Hektar, Handlese in Kisten von Mitte bis Ende August. Biologischer Anbau: nur mineralisches Kupfer und Schwefel in reduzierter Menge, keine synthetischen Mittel oder Herbizide, Gras von Hand gemäht."
-          },
-          "a": {
-            "it": "Dall'aperitivo alle cene informali, con piatti di pesce. Abbinamento originale: sushi e pizza gourmet.",
-            "en": "From aperitivo to informal dinners, with fish. Unusual pairing: sushi and gourmet pizza.",
-            "de": "Vom Aperitif bis zum zwanglosen Abendessen, zu Fisch. Ausgefallene Empfehlung: Sushi und Gourmet-Pizza."
-          }
-        },
-        "V-22-7": {
-          "c": [
-            "Bio"
-          ],
-          "pr": "27,00 €",
-          "d": {
-            "it": "Vino dolce da Moscato Bianco 100%: le uve raccolte surmature vengono essiccate in fruttaio per altri 4-5 mesi, poi torchiate; lunghe fermentazioni, leggera filtrazione e almeno 6 mesi in bottiglia. Giallo intenso, sentori di fiori e frutta matura, dolcissimo ma sostenuto da buona acidità, ottima struttura. In piemontese Rus du Sul richiama la fatica del lavoro sotto la canicola estiva. Prodotto solo nelle annate migliori. Vigneti in cima alla collina a 200-210 m esposti a nord-est, su terreno argilloso con intercalazioni sabbiose; Guyot a potatura corta, 5.000 viti per ettaro, resa 50-60 quintali per ettaro, vendemmia manuale in cassetta tra metà e fine agosto. Coltivazione biologica: solo rame e zolfo minerali in dosi ridotte, nessun prodotto di sintesi né diserbo, erba sfalciata a mano.",
-            "en": "A sweet wine from 100% Moscato Bianco: grapes picked overripe are dried in a fruit loft for another 4-5 months, then pressed; long fermentations, light filtration and at least 6 months in bottle. Deep yellow, floral and ripe fruit notes, very sweet yet balanced by good acidity, great structure. In Piedmontese Rus du Sul recalls the toil of working under the summer heat. Made only in the best vintages. Hilltop vineyards at 200-210 m facing north-east, on clay soil with sandy layers; short-pruned Guyot, 5,000 vines per hectare, yield 50-60 quintals per hectare, harvested by hand into crates from mid to late August. Organic farming: only mineral copper and sulphur in reduced doses, no synthetic products or herbicides, grass cut by hand.",
-            "de": "Süßwein aus 100% Moscato Bianco: die überreif gelesenen Trauben trocknen weitere 4-5 Monate auf dem Dachboden und werden dann gepresst; lange Gärung, leichte Filtration und mindestens 6 Monate Flaschenreife. Intensives Gelb, Noten von Blüten und reifer Frucht, sehr süß, aber von guter Säure getragen, große Struktur. Rus du Sul erinnert auf Piemontesisch an die Mühe der Arbeit in der Sommerhitze. Nur in den besten Jahrgängen erzeugt. Lagen auf der Hügelkuppe auf 200-210 m mit Nordostausrichtung, auf Tonboden mit Sandeinlagerungen; Guyot mit kurzem Schnitt, 5.000 Reben je Hektar, Ertrag 50-60 Doppelzentner je Hektar, Handlese in Kisten von Mitte bis Ende August. Biologischer Anbau: nur mineralisches Kupfer und Schwefel in reduzierter Menge, keine synthetischen Mittel oder Herbizide, Gras von Hand gemäht."
-          },
-          "a": {
-            "it": "Con pasticceria secca e formaggi erborinati, o da solo come vino da meditazione. Abbinamento originale: croccante di frutta secca e paste di mandorla.",
-            "en": "With dry pastries and blue cheeses, or on its own as a meditation wine. Unusual pairing: nut brittle and almond pastries.",
-            "de": "Zu trockenem Gebäck und Blauschimmelkäse oder pur als Meditationswein. Ausgefallene Empfehlung: Nusskrokant und Mandelgebäck."
-          }
-        },
-        "V-22-8": {
-          "c": [
-            "Bio"
-          ],
           "pr": "25,00 €",
           "d": {
             "it": "Spumante brut rosato metodo classico millesimato da Cabernet Sauvignon 100%, oltre 30 mesi sui lieviti, senza zuccheri aggiunti. Bollicine fini ed eleganti. Festina lente, dal latino affrettati lentamente: agire con prontezza ma con ponderazione. Prodotto solo nelle annate migliori. Vigneti in cima alla collina a 200-210 m esposti a nord-est, su terreno argilloso con intercalazioni sabbiose; Guyot a potatura corta, 5.000 viti per ettaro, resa 50-60 quintali per ettaro, vendemmia manuale in cassetta tra metà e fine agosto. Coltivazione biologica: solo rame e zolfo minerali in dosi ridotte, nessun prodotto di sintesi né diserbo, erba sfalciata a mano.",
@@ -7400,7 +7337,7 @@ window.VETRINE = {
             "de": "Für Feste, zu Aperitif und Vorspeisen; Barbara und Corrado kombinieren ihn mit mediterraner Küche, Käse und kräftigen Gerichten."
           }
         },
-        "V-22-9": {
+        "V-22-6": {
           "c": [
             "Bio"
           ],
@@ -7416,7 +7353,7 @@ window.VETRINE = {
             "de": "Für Feste, zu Aperitif und Vorspeisen. Ausgefallene Empfehlung: Löffeldesserts wie Crème caramel oder Crema catalana."
           }
         },
-        "V-22-10": {
+        "V-22-7": {
           "c": [],
           "pr": "26,00 €",
           "d": {
@@ -7430,7 +7367,7 @@ window.VETRINE = {
             "de": "Zum Genießen in Ruhe: Ausdruck des Slow Living."
           }
         },
-        "V-22-11": {
+        "V-22-8": {
           "c": [],
           "pr": "26,00 €",
           "d": {
@@ -16021,13 +15958,10 @@ window.VETRINE = {
     "prod-V-22-2": "https://lamoscabiancabio.it/wp-content/uploads/superego-2017.jpeg",
     "prod-V-22-3": "https://lamoscabiancabio.it/wp-content/uploads/IMG-20240426-WA0015.jpg",
     "prod-V-22-4": "https://lamoscabiancabio.it/wp-content/uploads/amourusa-1.jpeg",
-    "prod-V-22-5": "https://lamoscabiancabio.it/wp-content/uploads/20220918_141819-scaled.jpg",
-    "prod-V-22-6": "https://lamoscabiancabio.it/wp-content/uploads/20220918_141852-scaled.jpg",
-    "prod-V-22-7": "https://lamoscabiancabio.it/wp-content/uploads/passito-moscato-piemonte-ros-du-sul-biologico.jpg",
-    "prod-V-22-8": "https://lamoscabiancabio.it/wp-content/uploads/FESTINA-LENTE-3.jpeg",
-    "prod-V-22-9": "https://lamoscabiancabio.it/wp-content/uploads/sursum-coda-2026-3.jpeg",
-    "prod-V-22-10": "https://lamoscabiancabio.it/wp-content/uploads/grappa-gava.jpg",
-    "prod-V-22-11": "https://lamoscabiancabio.it/wp-content/uploads/grappa-rus-du-sul-500.jpeg",
+    "prod-V-22-5": "https://lamoscabiancabio.it/wp-content/uploads/FESTINA-LENTE-3.jpeg",
+    "prod-V-22-6": "https://lamoscabiancabio.it/wp-content/uploads/sursum-coda-2026-3.jpeg",
+    "prod-V-22-7": "https://lamoscabiancabio.it/wp-content/uploads/grappa-gava.jpg",
+    "prod-V-22-8": "https://lamoscabiancabio.it/wp-content/uploads/grappa-rus-du-sul-500.jpeg",
     "logo-V-23": "https://tenutefascetto.it/wp-content/uploads/2026/10/TenuteFascetto_logo_verde72dpi.png",
     "prod-V-23-0": "https://tenutefascetto.it/wp-content/uploads/2026/10/olio_50cl.png",
     "prod-V-23-1": "https://tenutefascetto.it/wp-content/uploads/2026/10/olio_25cl.png",
