@@ -15301,6 +15301,199 @@ window.VETRINE = {
         "https://www.lunafunghi.it/",
         "https://www.reteimprese.it/alimenti-surgelati-produzione/soveria-mannelli/azienda/3586718"
       ]
+    },
+    {
+      "id": "V-49",
+      "n": "Gin Monte Campo",
+      "cat": "liquori",
+      "reg": "Abruzzo",
+      "city": "Castel di Sangro (AQ)",
+      "lat": 41.784,
+      "lng": 14.108,
+      "y": null,
+      "certs": [],
+      "exp": [],
+      "lg": [
+        "it"
+      ],
+      "moq": null,
+      "d": {
+        "it": "Gin Monte Campo è il progetto di Daniele Tramontano e Alessandra, che a Castel di Sangro, nell'Abruzzo di montagna, hanno dato vita con la loro società Akiram al marchio MC Natural Spirits. Tutto nasce dalla passione per l'arte della distillazione e per gli ingredienti di qualità: le ricette sono pensate da Daniele, mentre in distilleria lavora al loro fianco la IVAL di Francesco Jannamico, famiglia abruzzese di distillatori dal 1888. È l'incontro tra un'idea nuova e più di un secolo di mestiere. I gin sono prodotti in modo naturale, con botaniche selezionate con cura e senza aromi artificiali né composti chimici; sono interamente made in Italy e sul retro dell'etichetta portano il logo Abruzzo, a garanzia della regione in cui sono distillati. Ogni ricetta ha una sua firma: The Skulls è il dry gin versatile, Golosity quello agrumato e dissetante, The Akiram il più elegante, distillato con marmo di Carrara nell'alambicco, e il Cold Compound riprende l'antica infusione a freddo delle botaniche. Anche la bottiglia fa parte dell'idea: la linea Dry Gin è proposta in thermos di design in acciaio, che conservano le proprietà organolettiche del gin e si riusano all'infinito nella vita di tutti i giorni, andando oltre il semplice riciclo; accanto c'è la classica bottiglia in vetro da 700 ml. Al Merano WineFestival 2026 sono arrivate le medaglie The WineHunter Award: Platinum per The Skulls, Gold per Golosity e il riconoscimento per The Akiram. La missione è regalare un'esperienza sensoriale autentica e superare le aspettative: in ogni bottiglia c'è la passione di chi l'ha pensata.",
+        "en": "Gin Monte Campo is the project of Daniele Tramontano and Alessandra, who in Castel di Sangro, in the mountains of Abruzzo, created the MC Natural Spirits brand through their company Akiram. It all starts from a passion for the art of distilling and for quality ingredients: the recipes are devised by Daniele, while in the distillery they work alongside IVAL of Francesco Jannamico, an Abruzzo family of distillers since 1888. It is the meeting of a new idea and more than a century of craft. The gins are made naturally, with carefully selected botanicals and no artificial flavourings or chemical compounds; they are entirely made in Italy and carry the Abruzzo logo on the back label, a guarantee of the region where they are distilled. Each recipe has its own signature: The Skulls is the versatile dry gin, Golosity the citrusy, thirst-quenching one, The Akiram the most elegant, distilled with Carrara marble in the still, and the Cold Compound revives the old cold infusion of botanicals. The bottle is part of the idea too: the Dry Gin line comes in designer steel thermos bottles, which preserve the gin's character and can be reused endlessly in everyday life, going beyond simple recycling; alongside is the classic 700 ml glass bottle. Merano WineFestival 2026 brought The WineHunter Award medals: Platinum for The Skulls, Gold for Golosity and an award for The Akiram. The mission is to offer an authentic sensory experience and exceed expectations: every bottle holds the passion of the people who imagined it.",
+        "de": "Gin Monte Campo ist das Projekt von Daniele Tramontano und Alessandra, die in Castel di Sangro, in den Bergen der Abruzzen, mit ihrer Firma Akiram die Marke MC Natural Spirits geschaffen haben. Am Anfang steht die Leidenschaft für die Kunst des Destillierens und für hochwertige Zutaten: Die Rezepte stammen von Daniele, in der Brennerei arbeitet an ihrer Seite IVAL von Francesco Jannamico, einer abruzzesischen Destillateursfamilie seit 1888. Hier trifft eine neue Idee auf mehr als ein Jahrhundert Handwerk. Die Gins entstehen auf natürliche Weise, mit sorgfältig ausgewählten Botanicals und ohne künstliche Aromen oder chemische Zusätze; sie sind vollständig made in Italy und tragen auf dem Rückenetikett das Abruzzen-Logo als Garantie für die Region, in der sie destilliert werden. Jedes Rezept hat seine eigene Handschrift: The Skulls ist der vielseitige Dry Gin, Golosity der zitrusfrische, durstlöschende, The Akiram der eleganteste, destilliert mit Carrara-Marmor in der Brennblase, und der Cold Compound greift die alte Kaltinfusion der Botanicals auf. Auch die Flasche gehört zur Idee: Die Dry-Gin-Linie kommt in Design-Thermoflaschen aus Stahl, die den Charakter des Gins bewahren und sich im Alltag unbegrenzt wiederverwenden lassen, über bloßes Recycling hinaus; daneben gibt es die klassische 700-ml-Glasflasche. Beim Merano WineFestival 2026 gab es die Medaillen des The WineHunter Award: Platinum für The Skulls, Gold für Golosity und eine Auszeichnung für The Akiram. Das Ziel ist ein authentisches Geschmackserlebnis, das Erwartungen übertrifft: In jeder Flasche steckt die Leidenschaft derer, die sie erdacht haben."
+      },
+      "sub": [
+        {
+          "k": "termica",
+          "cat": "liquori",
+          "n": {
+            "it": "Dry Gin in bottiglia termica",
+            "en": "Dry Gin in thermal bottle",
+            "de": "Dry Gin in Thermoflasche"
+          }
+        },
+        {
+          "k": "vetro",
+          "cat": "liquori",
+          "n": {
+            "it": "Dry Gin in vetro",
+            "en": "Dry Gin in glass",
+            "de": "Dry Gin in Glas"
+          }
+        },
+        {
+          "k": "compound",
+          "cat": "liquori",
+          "n": {
+            "it": "Cold Compound",
+            "en": "Cold Compound",
+            "de": "Cold Compound"
+          }
+        }
+      ],
+      "p": [
+        [
+          "The Skulls Dry Gin",
+          "bottiglia termica da 500 ml",
+          "termica"
+        ],
+        [
+          "The Akiram Dry Gin",
+          "bottiglia termica da 500 ml",
+          "termica"
+        ],
+        [
+          "Golosity Premium Dry Gin",
+          "bottiglia termica da 500 ml",
+          "termica"
+        ],
+        [
+          "The Skulls Dry Gin",
+          "bottiglia da 700 ml",
+          "vetro"
+        ],
+        [
+          "The Akiram Dry Gin",
+          "bottiglia da 700 ml",
+          "vetro"
+        ],
+        [
+          "Golosity Premium Dry Gin",
+          "bottiglia da 700 ml",
+          "vetro"
+        ],
+        [
+          "Monte Campo Cold Compound Gin",
+          "bottiglia da 500 ml",
+          "compound"
+        ]
+      ],
+      "pd": {
+        "V-49-0": {
+          "c": [],
+          "pr": "40,00 € (shop online)",
+          "d": {
+            "it": "The Skulls Dry Gin, 40% vol: un distillato artigianale versatile, ottenuto dalla distillazione di ginepro, limetta, limone, cardamomo e pepe rosa. Design accattivante e gusto deciso, per i momenti in compagnia e per dare un sapore inaspettato ai cocktail. Premiato con il Platinum, la fascia più alta (96-100 punti), al The WineHunter Award del Merano WineFestival 2026. Confezionato nella bottiglia termica di design in acciaio 304 per alimenti a doppia camera, riutilizzabile: mantiene la temperatura per 12 ore e il tappo touch-led la mostra al tocco di un dito.",
+            "en": "The Skulls Dry Gin, 40% ABV: a versatile craft spirit distilled from juniper, lime, lemon, cardamom and pink pepper. Eye-catching design and a bold taste, for time with friends and for giving cocktails an unexpected twist. Awarded Platinum, the top band (96-100 points), at The WineHunter Award, Merano WineFestival 2026. Packed in the reusable designer thermal bottle in double-walled 304 food-grade steel: it holds the temperature for 12 hours and the touch-LED cap shows it at the touch of a finger.",
+            "de": "The Skulls Dry Gin, 40% Vol.: ein vielseitiges Craft-Destillat aus Wacholder, Limette, Zitrone, Kardamom und rosa Pfeffer. Auffälliges Design und kräftiger Geschmack, für gesellige Momente und für eine überraschende Note in Cocktails. Ausgezeichnet mit Platinum, der höchsten Stufe (96-100 Punkte), beim The WineHunter Award des Merano WineFestival 2026. Abgefüllt in der wiederverwendbaren Design-Thermoflasche aus doppelwandigem 304-Lebensmittelstahl: Sie hält die Temperatur 12 Stunden, der Touch-LED-Verschluss zeigt sie per Fingertipp an."
+          },
+          "a": {
+            "it": "Liscio, nel gin tonic e nei cocktail. Senza aromi artificiali.",
+            "en": "Neat, in a gin and tonic and in cocktails. No artificial flavourings.",
+            "de": "Pur, im Gin Tonic und in Cocktails. Ohne künstliche Aromen."
+          }
+        },
+        "V-49-1": {
+          "c": [],
+          "pr": "40,00 € (shop online)",
+          "d": {
+            "it": "The Akiram Dry Gin, 43% vol: il gin più elegante della casa, evoluzione del precedente Instinct Dry Gin. Nasce dalla distillazione di ginepro, limetta, limone, pepe rosa, pompelmo rosa, arancia, cardamomo, aneto, cannella e altre botaniche che restano segrete. Il suo segreto è il marmo di Carrara inserito nell'alambicco, che gli dona una bevuta minerale, raffinata e dall'equilibrio inconfondibile. Premiato al The WineHunter Award del Merano WineFestival 2026 (fascia 90-92,9 punti). Confezionato nella bottiglia termica di design in acciaio 304 per alimenti a doppia camera, riutilizzabile: mantiene la temperatura per 12 ore e il tappo touch-led la mostra al tocco di un dito.",
+            "en": "The Akiram Dry Gin, 43% ABV: the house's most elegant gin, an evolution of the earlier Instinct Dry Gin. It is distilled from juniper, lime, lemon, pink pepper, pink grapefruit, orange, cardamom, dill, cinnamon and other botanicals that remain secret. Its secret is Carrara marble placed in the still, which gives it a mineral, refined character and an unmistakable balance. Awarded at The WineHunter Award, Merano WineFestival 2026 (90-92.9 point band). Packed in the reusable designer thermal bottle in double-walled 304 food-grade steel: it holds the temperature for 12 hours and the touch-LED cap shows it at the touch of a finger.",
+            "de": "The Akiram Dry Gin, 43% Vol.: der eleganteste Gin des Hauses, eine Weiterentwicklung des früheren Instinct Dry Gin. Destilliert aus Wacholder, Limette, Zitrone, rosa Pfeffer, rosa Grapefruit, Orange, Kardamom, Dill, Zimt und weiteren Botanicals, die geheim bleiben. Sein Geheimnis ist Carrara-Marmor in der Brennblase, der ihm einen mineralischen, feinen Charakter und eine unverwechselbare Balance verleiht. Ausgezeichnet beim The WineHunter Award des Merano WineFestival 2026 (Stufe 90-92,9 Punkte). Abgefüllt in der wiederverwendbaren Design-Thermoflasche aus doppelwandigem 304-Lebensmittelstahl: Sie hält die Temperatur 12 Stunden, der Touch-LED-Verschluss zeigt sie per Fingertipp an."
+          },
+          "a": {
+            "it": "Liscio, nel gin tonic e nei cocktail. Senza aromi artificiali.",
+            "en": "Neat, in a gin and tonic and in cocktails. No artificial flavourings.",
+            "de": "Pur, im Gin Tonic und in Cocktails. Ohne künstliche Aromen."
+          }
+        },
+        "V-49-2": {
+          "c": [],
+          "pr": "40,00 € (shop online)",
+          "d": {
+            "it": "Golosity Premium Dry Gin, 41% vol: un gin dal gusto fresco e dissetante, ottenuto dalla distillazione di ginepro, limone, limetta, pompelmo rosa, pepe rosa, cardamomo, aneto e arancia. Premiato con il Gold al The WineHunter Spirits Award del Merano WineFestival 2026. Confezionato nella bottiglia termica di design in acciaio 304 per alimenti a doppia camera, riutilizzabile: mantiene la temperatura per 12 ore e il tappo touch-led la mostra al tocco di un dito.",
+            "en": "Golosity Premium Dry Gin, 41% ABV: a fresh, thirst-quenching gin distilled from juniper, lemon, lime, pink grapefruit, pink pepper, cardamom, dill and orange. Awarded Gold at The WineHunter Spirits Award, Merano WineFestival 2026. Packed in the reusable designer thermal bottle in double-walled 304 food-grade steel: it holds the temperature for 12 hours and the touch-LED cap shows it at the touch of a finger.",
+            "de": "Golosity Premium Dry Gin, 41% Vol.: ein frischer, durstlöschender Gin, destilliert aus Wacholder, Zitrone, Limette, rosa Grapefruit, rosa Pfeffer, Kardamom, Dill und Orange. Ausgezeichnet mit Gold beim The WineHunter Spirits Award des Merano WineFestival 2026. Abgefüllt in der wiederverwendbaren Design-Thermoflasche aus doppelwandigem 304-Lebensmittelstahl: Sie hält die Temperatur 12 Stunden, der Touch-LED-Verschluss zeigt sie per Fingertipp an."
+          },
+          "a": {
+            "it": "Liscio, nel gin tonic e nei cocktail. Senza aromi artificiali.",
+            "en": "Neat, in a gin and tonic and in cocktails. No artificial flavourings.",
+            "de": "Pur, im Gin Tonic und in Cocktails. Ohne künstliche Aromen."
+          }
+        },
+        "V-49-3": {
+          "c": [],
+          "pr": "45,00 € (shop online)",
+          "d": {
+            "it": "The Skulls Dry Gin, 40% vol: un distillato artigianale versatile, ottenuto dalla distillazione di ginepro, limetta, limone, cardamomo e pepe rosa. Design accattivante e gusto deciso, per i momenti in compagnia e per dare un sapore inaspettato ai cocktail. Premiato con il Platinum, la fascia più alta (96-100 punti), al The WineHunter Award del Merano WineFestival 2026. Nella bottiglia in vetro da 700 ml.",
+            "en": "The Skulls Dry Gin, 40% ABV: a versatile craft spirit distilled from juniper, lime, lemon, cardamom and pink pepper. Eye-catching design and a bold taste, for time with friends and for giving cocktails an unexpected twist. Awarded Platinum, the top band (96-100 points), at The WineHunter Award, Merano WineFestival 2026. In the 700 ml glass bottle.",
+            "de": "The Skulls Dry Gin, 40% Vol.: ein vielseitiges Craft-Destillat aus Wacholder, Limette, Zitrone, Kardamom und rosa Pfeffer. Auffälliges Design und kräftiger Geschmack, für gesellige Momente und für eine überraschende Note in Cocktails. Ausgezeichnet mit Platinum, der höchsten Stufe (96-100 Punkte), beim The WineHunter Award des Merano WineFestival 2026. In der 700-ml-Glasflasche."
+          },
+          "a": {
+            "it": "Liscio, nel gin tonic e nei cocktail. Senza aromi artificiali.",
+            "en": "Neat, in a gin and tonic and in cocktails. No artificial flavourings.",
+            "de": "Pur, im Gin Tonic und in Cocktails. Ohne künstliche Aromen."
+          }
+        },
+        "V-49-4": {
+          "c": [],
+          "pr": "45,00 € (shop online)",
+          "d": {
+            "it": "The Akiram Dry Gin, 43% vol: il gin più elegante della casa, evoluzione del precedente Instinct Dry Gin. Nasce dalla distillazione di ginepro, limetta, limone, pepe rosa, pompelmo rosa, arancia, cardamomo, aneto, cannella e altre botaniche che restano segrete. Il suo segreto è il marmo di Carrara inserito nell'alambicco, che gli dona una bevuta minerale, raffinata e dall'equilibrio inconfondibile. Premiato al The WineHunter Award del Merano WineFestival 2026 (fascia 90-92,9 punti). Nella bottiglia in vetro da 700 ml.",
+            "en": "The Akiram Dry Gin, 43% ABV: the house's most elegant gin, an evolution of the earlier Instinct Dry Gin. It is distilled from juniper, lime, lemon, pink pepper, pink grapefruit, orange, cardamom, dill, cinnamon and other botanicals that remain secret. Its secret is Carrara marble placed in the still, which gives it a mineral, refined character and an unmistakable balance. Awarded at The WineHunter Award, Merano WineFestival 2026 (90-92.9 point band). In the 700 ml glass bottle.",
+            "de": "The Akiram Dry Gin, 43% Vol.: der eleganteste Gin des Hauses, eine Weiterentwicklung des früheren Instinct Dry Gin. Destilliert aus Wacholder, Limette, Zitrone, rosa Pfeffer, rosa Grapefruit, Orange, Kardamom, Dill, Zimt und weiteren Botanicals, die geheim bleiben. Sein Geheimnis ist Carrara-Marmor in der Brennblase, der ihm einen mineralischen, feinen Charakter und eine unverwechselbare Balance verleiht. Ausgezeichnet beim The WineHunter Award des Merano WineFestival 2026 (Stufe 90-92,9 Punkte). In der 700-ml-Glasflasche."
+          },
+          "a": {
+            "it": "Liscio, nel gin tonic e nei cocktail. Senza aromi artificiali.",
+            "en": "Neat, in a gin and tonic and in cocktails. No artificial flavourings.",
+            "de": "Pur, im Gin Tonic und in Cocktails. Ohne künstliche Aromen."
+          }
+        },
+        "V-49-5": {
+          "c": [],
+          "pr": "45,00 € (shop online)",
+          "d": {
+            "it": "Golosity Premium Dry Gin, 41% vol: un gin dal gusto fresco e dissetante, ottenuto dalla distillazione di ginepro, limone, limetta, pompelmo rosa, pepe rosa, cardamomo, aneto e arancia. Premiato con il Gold al The WineHunter Spirits Award del Merano WineFestival 2026. Nella bottiglia in vetro da 700 ml.",
+            "en": "Golosity Premium Dry Gin, 41% ABV: a fresh, thirst-quenching gin distilled from juniper, lemon, lime, pink grapefruit, pink pepper, cardamom, dill and orange. Awarded Gold at The WineHunter Spirits Award, Merano WineFestival 2026. In the 700 ml glass bottle.",
+            "de": "Golosity Premium Dry Gin, 41% Vol.: ein frischer, durstlöschender Gin, destilliert aus Wacholder, Zitrone, Limette, rosa Grapefruit, rosa Pfeffer, Kardamom, Dill und Orange. Ausgezeichnet mit Gold beim The WineHunter Spirits Award des Merano WineFestival 2026. In der 700-ml-Glasflasche."
+          },
+          "a": {
+            "it": "Liscio, nel gin tonic e nei cocktail. Senza aromi artificiali.",
+            "en": "Neat, in a gin and tonic and in cocktails. No artificial flavourings.",
+            "de": "Pur, im Gin Tonic und in Cocktails. Ohne künstliche Aromen."
+          }
+        },
+        "V-49-6": {
+          "c": [],
+          "pr": "40,00 € (shop online)",
+          "d": {
+            "it": "Monte Campo Cold Compound Gin, 40% vol: nasce unendo una ricetta moderna ed elegante all'antico procedimento dell'infusione a freddo. Le botaniche naturali (bergamotto, arancia, melissa, angelica, rosa canina e foglie di liquirizia) sono messe in infusione diretta e sprigionano profumi intensi e sapori balsamici. Un gin dal tocco classico con una nota moderna, dal gusto unico e sorprendente.",
+            "en": "Monte Campo Cold Compound Gin, 40% ABV: born from a modern, elegant recipe joined to the old cold-infusion method. The natural botanicals (bergamot, orange, lemon balm, angelica, rosehip and liquorice leaves) are infused directly and release intense aromas and balsamic flavours. A gin with a classic touch and a modern note, unique and surprising.",
+            "de": "Monte Campo Cold Compound Gin, 40% Vol.: ein modernes, elegantes Rezept, verbunden mit dem alten Verfahren der Kaltinfusion. Die natürlichen Botanicals (Bergamotte, Orange, Melisse, Angelika, Hagebutte und Süßholzblätter) werden direkt angesetzt und entfalten intensive Düfte und balsamische Aromen. Ein Gin mit klassischem Charakter und moderner Note, einzigartig und überraschend."
+          },
+          "a": {
+            "it": "Ottimo da meditazione, miscelato per un grande Negroni, delicato nel gin tonic.",
+            "en": "Excellent for sipping, mixed into a great Negroni, delicate in a gin and tonic.",
+            "de": "Hervorragend pur zum Genießen, gemixt in einem großen Negroni, zart im Gin Tonic."
+          }
+        }
+      },
+      "fonti": [
+        "https://www.ginmontecampo.it/prodotti",
+        "https://www.ginmontecampo.it/",
+        "https://www.ginmontecampo.it/domande-frequenti",
+        "https://www.b2match.com/e/sirha-2024-b2b-event/participants/2456845"
+      ]
     }
   ],
   "IMG": {
@@ -16059,6 +16252,14 @@ window.VETRINE = {
     "prod-V-48-41": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/SUGO-AL-BASILICO-314ML-luna-1.jpg",
     "prod-V-48-42": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/ORIGANO-20GR-luna.jpg",
     "prod-V-48-43": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/LOGO-lunafunghi.png",
-    "prod-V-48-44": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/LOGO-lunafunghi.png"
+    "prod-V-48-44": "https://tipicifoodsitaly.it/wp-content/uploads/2026/02/LOGO-lunafunghi.png",
+    "logo-V-49": "https://primary.jwwb.nl/public/s/u/k/temp-amodpxraadvaqyfzitmz/image-standard-0kscyz.png",
+    "prod-V-49-0": "https://primary.jwwb.nl/public/s/u/k/temp-amodpxraadvaqyfzitmz/copilot_20260506_091533-high.png",
+    "prod-V-49-1": "https://primary.jwwb.nl/public/s/u/k/temp-amodpxraadvaqyfzitmz/copilot_20260506_092419-high.png",
+    "prod-V-49-2": "https://primary.jwwb.nl/public/s/u/k/temp-amodpxraadvaqyfzitmz/copilot_20260506_093031-high.png",
+    "prod-V-49-3": "https://primary.jwwb.nl/public/s/u/k/temp-amodpxraadvaqyfzitmz/image-6-high.jpg",
+    "prod-V-49-4": "https://primary.jwwb.nl/public/s/u/k/temp-amodpxraadvaqyfzitmz/1782350857212-high.png",
+    "prod-V-49-5": "https://primary.jwwb.nl/public/s/u/k/temp-amodpxraadvaqyfzitmz/1782350978631-high.png",
+    "prod-V-49-6": "https://primary.jwwb.nl/public/s/u/k/temp-amodpxraadvaqyfzitmz/image-high-a05mqv.png"
   }
 };
