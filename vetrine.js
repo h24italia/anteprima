@@ -7264,7 +7264,7 @@ window.VETRINE = {
             "DOCG",
             "Bio"
           ],
-          "pr": "18,00 € · 6 bottiglie: offerta su richiesta",
+          "pr": "18,00 € · 6 bottiglie 100,00 €",
           "d": {
             "it": "Barbera 100% delle colline di Nizza Monferrato, vendemmiata a inizio-metà settembre a piena maturazione. Pigiadiraspatura e lunghe fermentazioni senza lieviti aggiunti, fermentazione e affinamento in acciaio. Rosso intenso, profumi di ciliegia, lampone, fragolina e mirtillo; morbido e sostenuto da buona acidità. Il nome evoca una ragazzina giovane e determinata: un vino giovane che promette di evolvere. Circa 5.000-6.000 bottiglie l'anno. Vigneti collinari a 200-210 m esposti a sud-ovest, su terreno argilloso con intercalazioni sabbiose; Guyot a potatura corta, 5.000 viti per ettaro, resa 50-60 quintali per ettaro, vendemmia manuale in cassetta. Coltivazione biologica: solo rame e zolfo minerali in dosi ridotte, nessun prodotto di sintesi né diserbo, erba sfalciata a mano.",
             "en": "100% Barbera from the hills of Nizza Monferrato, picked fully ripe in early to mid September. Crushing and destemming, long fermentations with no added yeast, fermented and aged in steel. Deep red, with cherry, raspberry, wild strawberry and blueberry; soft and supported by good acidity. The name evokes a young, determined girl: a young wine with the potential to evolve. About 5,000-6,000 bottles a year. Hillside vineyards at 200-210 m facing south-west, on clay soil with sandy layers; short-pruned Guyot, 5,000 vines per hectare, yield 50-60 quintals per hectare, harvested by hand into crates. Organic farming: only mineral copper and sulphur in reduced doses, no synthetic products or herbicides, grass cut by hand.",
@@ -7296,7 +7296,7 @@ window.VETRINE = {
           "c": [
             "Bio"
           ],
-          "pr": "24,00 € · 6 bottiglie: offerta su richiesta",
+          "pr": "24,00 € · 6 bottiglie 125,00 €",
           "d": {
             "it": "La versione più potente del Cabernet Sauvignon aziendale, vendemmiato a inizio-metà ottobre. Lunghe fermentazioni senza lieviti aggiunti, fermentazione in vasche di cemento e maturazione in tonneaux di rovere francese esausti per 60 mesi, poi 12-18 mesi in bottiglia. Rosso rubino intenso a tratti cupo, sentori erbacei e speziati, tannino intenso ed avvolgente, grande struttura e complessità. Circa 5.000-6.000 bottiglie l'anno. Vigneti collinari a 200-210 m esposti a sud-ovest, su terreno argilloso con intercalazioni sabbiose; Guyot a potatura corta, 5.000 viti per ettaro, resa 50-60 quintali per ettaro, vendemmia manuale in cassetta. Coltivazione biologica: solo rame e zolfo minerali in dosi ridotte, nessun prodotto di sintesi né diserbo, erba sfalciata a mano.",
             "en": "The most powerful version of the estate's Cabernet Sauvignon, picked in early to mid October. Long fermentations with no added yeast, fermented in concrete tanks and aged in used French oak tonneaux for 60 months, then 12-18 months in bottle. Deep, at times dark ruby, herbaceous and spicy notes, intense and enveloping tannins, great structure and complexity. About 5,000-6,000 bottles a year. Hillside vineyards at 200-210 m facing south-west, on clay soil with sandy layers; short-pruned Guyot, 5,000 vines per hectare, yield 50-60 quintals per hectare, harvested by hand into crates. Organic farming: only mineral copper and sulphur in reduced doses, no synthetic products or herbicides, grass cut by hand.",
