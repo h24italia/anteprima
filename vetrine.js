@@ -15494,6 +15494,192 @@ window.VETRINE = {
         "https://www.ginmontecampo.it/domande-frequenti",
         "https://www.b2match.com/e/sirha-2024-b2b-event/participants/2456845"
       ]
+    },
+    {
+      "id": "V-50",
+      "n": "Cantina Giacomo Costa",
+      "cat": "vino",
+      "reg": "Piemonte",
+      "city": "Castagnito (CN)",
+      "lat": 44.756,
+      "lng": 8.031,
+      "y": null,
+      "certs": [
+        "DOCG",
+        "DOC"
+      ],
+      "exp": [],
+      "lg": [
+        "it",
+        "en"
+      ],
+      "moq": null,
+      "d": {
+        "it": "La Cantina Giacomo Costa è un'azienda vitivinicola di famiglia a Castagnito, nel cuore del Roero, in provincia di Cuneo. Ha oltre sessant'anni di storia: nasce dalla passione e dal lavoro instancabile del nonno Giacomo, il primo a credere nella forza di questa terra e nel valore della viticoltura. Oggi Rinaldo e Gabriella, la seconda generazione, la portano avanti insieme a Giacomo con determinazione, innovazione e rispetto per l'ambiente, custodendo e ampliando l'eredità di famiglia. Dalla terra inizia ogni grande bottiglia: la famiglia segue passo dopo passo tutto il ciclo di produzione, curando di persona i lavori in vigna nel rispetto delle tradizioni. Le uve sono raccolte a mano e in cantina il lavoro prosegue con pressatura soffice, controllo delle fermentazioni e affinamento in legno, in botti grandi di rovere e tonneau. I vini nascono dai vitigni storici del Roero e ne riflettono le colline: eleganza, finezza aromatica e forte identità. L'Arneis è il simbolo della casa, proposto nelle versioni Roero Arneis DOCG “Rio Sorito” e “San Quirico” e come spumante brut millesimato “Le Bule”; accanto ci sono la Barbera d'Alba, anche Superiore “Valentina”, e il Nebbiolo d'Alba. La cantina accoglie i visitatori su prenotazione per visite e degustazioni, con i prodotti tipici di Langhe e Roero.",
+        "en": "Cantina Giacomo Costa is a family winery in Castagnito, in the heart of the Roero, in the province of Cuneo. It has more than sixty years of history: it was born from the passion and tireless work of grandfather Giacomo, the first to believe in the strength of this land and in the value of winegrowing. Today Rinaldo and Gabriella, the second generation, run it together with Giacomo with determination, innovation and respect for the environment, safeguarding and extending the family legacy. Every great bottle begins from the land: the family follows the whole production cycle step by step, personally tending the vineyards in keeping with tradition. The grapes are picked by hand, and in the cellar the work continues with gentle pressing, controlled fermentation and ageing in wood, in large oak casks and tonneaux. The wines come from the historic grape varieties of the Roero and reflect its hills: elegance, aromatic finesse and a strong identity. Arneis is the house symbol, offered as Roero Arneis DOCG “Rio Sorito” and “San Quirico” and as the vintage brut sparkling wine “Le Bule”; alongside are Barbera d'Alba, including the Superiore “Valentina”, and Nebbiolo d'Alba. The winery welcomes visitors by appointment for tours and tastings, with typical products of the Langhe and Roero.",
+        "de": "Die Cantina Giacomo Costa ist ein Familienweingut in Castagnito, im Herzen des Roero, in der Provinz Cuneo. Es blickt auf mehr als sechzig Jahre Geschichte zurück: entstanden aus der Leidenschaft und der unermüdlichen Arbeit von Großvater Giacomo, der als Erster an die Kraft dieses Landes und den Wert des Weinbaus glaubte. Heute führen Rinaldo und Gabriella, die zweite Generation, es gemeinsam mit Giacomo mit Entschlossenheit, Innovation und Respekt für die Umwelt weiter und bewahren und erweitern das Familienerbe. Jede große Flasche beginnt in der Erde: Die Familie begleitet den gesamten Produktionszyklus Schritt für Schritt und pflegt die Weinberge persönlich, im Einklang mit der Tradition. Die Trauben werden von Hand gelesen, im Keller geht die Arbeit weiter mit schonender Pressung, kontrollierter Gärung und Reifung im Holz, in großen Eichenfässern und Tonneaux. Die Weine entstehen aus den historischen Rebsorten des Roero und spiegeln seine Hügel wider: Eleganz, aromatische Finesse und starke Identität. Der Arneis ist das Symbol des Hauses, als Roero Arneis DOCG „Rio Sorito“ und „San Quirico“ sowie als Jahrgangs-Brut-Schaumwein „Le Bule“; daneben stehen der Barbera d'Alba, auch als Superiore „Valentina“, und der Nebbiolo d'Alba. Das Weingut empfängt Besucher nach Voranmeldung zu Führungen und Verkostungen mit typischen Produkten aus Langhe und Roero."
+      },
+      "sub": [
+        {
+          "k": "classici",
+          "cat": "vino",
+          "n": {
+            "it": "Classici",
+            "en": "Classics",
+            "de": "Klassiker"
+          }
+        },
+        {
+          "k": "selezioni",
+          "cat": "vino",
+          "n": {
+            "it": "Selezioni",
+            "en": "Selections",
+            "de": "Selektionen"
+          }
+        },
+        {
+          "k": "spumanti",
+          "cat": "vino",
+          "n": {
+            "it": "Spumanti",
+            "en": "Sparkling wines",
+            "de": "Schaumweine"
+          }
+        }
+      ],
+      "p": [
+        [
+          "Roero Arneis DOCG “Rio Sorito”",
+          "",
+          "classici"
+        ],
+        [
+          "Barbera d'Alba DOC",
+          "",
+          "classici"
+        ],
+        [
+          "Nebbiolo d'Alba DOC",
+          "",
+          "classici"
+        ],
+        [
+          "Roero Arneis DOCG “San Quirico”",
+          "",
+          "selezioni"
+        ],
+        [
+          "Barbera d'Alba Superiore DOC “Valentina”",
+          "",
+          "selezioni"
+        ],
+        [
+          "Spumante Arneis Brut Millesimato “Le Bule”",
+          "",
+          "spumanti"
+        ]
+      ],
+      "pd": {
+        "V-50-0": {
+          "c": [
+            "DOCG"
+          ],
+          "pr": "12,00 € (shop online)",
+          "d": {
+            "it": "Arneis 100%. Uva raccolta a mano, pressatura soffice, raffreddamento e decantazione del mosto, fermentazione a temperatura controllata; stabilizzazione a freddo, filtrazione e imbottigliamento sterile. Cristallino, giallo paglierino con riflessi verdolini. Profumo intenso e di qualità fine, ricco di sentori floreali, leggermente mandorlato, con sensazioni di frutta fresca (pesca e melone). Al palato è elegante e armonico, con sapidità e freschezza elevate.",
+            "en": "100% Arneis. Hand-picked grapes, gentle pressing, chilling and settling of the must, temperature-controlled fermentation; cold stabilisation, filtration and sterile bottling. Crystal clear, straw yellow with greenish tints. An intense, fine nose rich in floral notes, lightly almondy, with fresh fruit (peach and melon). Elegant and harmonious on the palate, with marked savouriness and freshness.",
+            "de": "100% Arneis. Handlese, schonende Pressung, Kühlung und Klärung des Mosts, temperaturkontrollierte Gärung; Kältestabilisierung, Filtration und sterile Abfüllung. Kristallklar, strohgelb mit grünlichen Reflexen. Intensiver, feiner Duft mit reichen Blütennoten, leicht mandelig, mit frischer Frucht (Pfirsich und Melone). Am Gaumen elegant und harmonisch, mit ausgeprägter Würze und Frische."
+          },
+          "a": {
+            "it": "Come aperitivo, con antipasti, primi e piatti a base di pesce.",
+            "en": "As an aperitif, with starters, first courses and fish dishes.",
+            "de": "Als Aperitif, zu Vorspeisen, ersten Gängen und Fischgerichten."
+          }
+        },
+        "V-50-1": {
+          "c": [
+            "DOC"
+          ],
+          "d": {
+            "it": "Barbera 100%. Vinificazione tradizionale: uva raccolta a mano, pigiadiraspatura, macerazione di cinque giorni e fermentazione in vasche di acciaio inox, stabilizzazione a freddo e filtrazione. Rosso rubino intenso con riflessi violacei. Profumo intenso e fragrante, con note di ciliegia, marasca e piccoli frutti rossi e delicati sentori floreali. Al palato è fresco, con buona acidità, tannini morbidi e una piacevole scorrevolezza: il frutto è protagonista, il finale pulito e armonico.",
+            "en": "100% Barbera. Traditional winemaking: hand-picked grapes, destemming and crushing, five days of maceration and fermentation in stainless steel vats, cold stabilisation and filtration. Deep ruby red with violet tints. An intense, fragrant nose of cherry, morello cherry and small red fruits with delicate floral hints. Fresh on the palate, with good acidity, soft tannins and easy drinkability: fruit leads, the finish is clean and harmonious.",
+            "de": "100% Barbera. Traditioneller Ausbau: Handlese, Entrappen und Mahlen, fünf Tage Maischestandzeit und Gärung in Edelstahltanks, Kältestabilisierung und Filtration. Intensives Rubinrot mit violetten Reflexen. Intensiver, duftiger Duft nach Kirsche, Sauerkirsche und kleinen roten Früchten mit zarten Blütennoten. Am Gaumen frisch, mit guter Säure, weichen Tanninen und angenehmem Trinkfluss: Die Frucht steht im Mittelpunkt, der Abgang ist sauber und harmonisch."
+          },
+          "a": {
+            "it": "Primi piatti, carni rosse e bianche, salumi e formaggi.",
+            "en": "Pasta and rice dishes, red and white meats, cured meats and cheeses.",
+            "de": "Pasta- und Reisgerichte, rotes und weißes Fleisch, Wurstwaren und Käse."
+          }
+        },
+        "V-50-2": {
+          "c": [
+            "DOC"
+          ],
+          "pr": "15,00 € (shop online)",
+          "d": {
+            "it": "Nebbiolo 100%. Vinificazione tradizionale: uva raccolta a mano, pigiadiraspatura e macerazione di otto-dieci giorni, fermentazione in vasche di acciaio inox e affinamento per un anno in botti grandi di rovere e tonneau. Rosso rubino con tenui riflessi granato e sfumature amaranto. Profumo intenso e pulito, con note di ciliegia marasca, ribes nero e mora; al retrolfatto ricordi di fieno e pepe. Al palato è caldo e asciutto, con appena una nota vanigliata, ricordi di tabacco e cuoio e una leggera sensazione tannica.",
+            "en": "100% Nebbiolo. Traditional winemaking: hand-picked grapes, destemming and crushing, eight to ten days of maceration, fermentation in stainless steel vats and a year of ageing in large oak casks and tonneaux. Ruby red with faint garnet tints and amaranth shades. An intense, clean nose of morello cherry, blackcurrant and blackberry, with hay and pepper on the aftertaste. Warm and dry on the palate, with just a hint of vanilla, tobacco and leather and a light tannic grip.",
+            "de": "100% Nebbiolo. Traditioneller Ausbau: Handlese, Entrappen und Mahlen, acht bis zehn Tage Maischestandzeit, Gärung in Edelstahltanks und ein Jahr Reifung in großen Eichenfässern und Tonneaux. Rubinrot mit zarten granatroten Reflexen und amarantfarbenen Nuancen. Intensiver, sauberer Duft nach Sauerkirsche, schwarzer Johannisbeere und Brombeere, im Nachhall Heu und Pfeffer. Am Gaumen warm und trocken, mit einem Hauch Vanille, Tabak und Leder und leichtem Tannin."
+          },
+          "a": {
+            "it": "Primi piatti, carni rosse e bianche, salumi e formaggi.",
+            "en": "Pasta and rice dishes, red and white meats, cured meats and cheeses.",
+            "de": "Pasta- und Reisgerichte, rotes und weißes Fleisch, Wurstwaren und Käse."
+          }
+        },
+        "V-50-3": {
+          "c": [
+            "DOCG"
+          ],
+          "d": {
+            "it": "Arneis 100%. Uva raccolta a mano, diraspa-pigiatura, macerazione pellicolare sotto gas inerte per 3 ore e fermentazione alcolica a basse temperature; affinamento in acciaio inox per 6 mesi sui propri lieviti, stabilizzazione a freddo, filtrazione e imbottigliamento sterile. Cristallino, giallo paglierino con riflessi verdolini. Profumo di intensità elevata, pulito e complesso, con prevalenti note di frutta tropicale e sentori floreali. Al palato ha una spiccata verticalità, acidità e mineralità elevate e un retrogusto morbido e piacevolmente dolce.",
+            "en": "100% Arneis. Hand-picked grapes, destemming and crushing, 3 hours of skin contact under inert gas and alcoholic fermentation at low temperature; 6 months of ageing on its lees in stainless steel, cold stabilisation, filtration and sterile bottling. Crystal clear, straw yellow with greenish tints. A highly intense, clean and complex nose, led by tropical fruit with floral hints. Markedly vertical on the palate, with high acidity and minerality and a soft, pleasantly sweet aftertaste.",
+            "de": "100% Arneis. Handlese, Entrappen und Mahlen, 3 Stunden Schalenkontakt unter Inertgas und alkoholische Gärung bei niedriger Temperatur; 6 Monate Reifung auf der eigenen Hefe im Edelstahl, Kältestabilisierung, Filtration und sterile Abfüllung. Kristallklar, strohgelb mit grünlichen Reflexen. Sehr intensiver, sauberer und komplexer Duft, geprägt von tropischen Früchten mit Blütennoten. Am Gaumen ausgeprägt vertikal, mit hoher Säure und Mineralität und einem weichen, angenehm süßen Nachhall."
+          },
+          "a": {
+            "it": "Come aperitivo, con antipasti, primi e piatti a base di pesce.",
+            "en": "As an aperitif, with starters, first courses and fish dishes.",
+            "de": "Als Aperitif, zu Vorspeisen, ersten Gängen und Fischgerichten."
+          }
+        },
+        "V-50-4": {
+          "c": [
+            "DOC"
+          ],
+          "pr": "12,00 € (shop online)",
+          "d": {
+            "it": "Barbera 100%. Vinificazione tradizionale: uva raccolta a mano, pigiadiraspatura, macerazione di otto-nove giorni e fermentazione in vasche di acciaio inox; affinamento per un anno, una parte in botti grandi di legno e una parte in tonneau, con successivo assemblaggio alla ricerca dell'equilibrio perfetto. Rosso rubino intenso con riflessi porpora. Al naso un ricco bouquet di frutti di bosco, caffè e liquirizia. Al palato è caldo e asciutto, dal corpo pieno e avvolgente, con un'elegante sensazione tannica.",
+            "en": "100% Barbera. Traditional winemaking: hand-picked grapes, destemming and crushing, eight to nine days of maceration and fermentation in stainless steel vats; a year of ageing, part in large wooden casks and part in tonneaux, then blended in search of the perfect balance. Deep ruby red with purple tints. A rich bouquet of wild berries, coffee and liquorice. Warm and dry on the palate, full-bodied and enveloping, with an elegant tannic feel.",
+            "de": "100% Barbera. Traditioneller Ausbau: Handlese, Entrappen und Mahlen, acht bis neun Tage Maischestandzeit und Gärung in Edelstahltanks; ein Jahr Reifung, teils in großen Holzfässern, teils in Tonneaux, danach Assemblage auf der Suche nach der perfekten Balance. Intensives Rubinrot mit purpurnen Reflexen. In der Nase ein reiches Bukett von Waldbeeren, Kaffee und Lakritz. Am Gaumen warm und trocken, vollmundig und umhüllend, mit elegantem Tannin."
+          },
+          "a": {
+            "it": "Primi piatti, carni rosse e bianche, salumi e formaggi.",
+            "en": "Pasta and rice dishes, red and white meats, cured meats and cheeses.",
+            "de": "Pasta- und Reisgerichte, rotes und weißes Fleisch, Wurstwaren und Käse."
+          }
+        },
+        "V-50-5": {
+          "c": [],
+          "pr": "10,00 € (shop online)",
+          "d": {
+            "it": "Arneis 100%. Uva raccolta a mano, pressatura soffice, raffreddamento e decantazione del mosto, fermentazione a temperatura controllata in vasche di acciaio inox, rifermentazione in autoclave con metodo Charmat, filtrazione e imbottigliamento isobarico sterile. Cristallino, giallo paglierino, con bollicine piccole, persistenti e molto gradevoli. Profumo intenso, ricco di sentori fruttati e floreali, con una nota di crosta di pane data dai lieviti. In bocca le bollicine sono soffici e piacevoli e il sapore elegante richiama l'Arneis, il vitigno da cui nasce.",
+            "en": "100% Arneis. Hand-picked grapes, gentle pressing, chilling and settling of the must, temperature-controlled fermentation in stainless steel vats, second fermentation in pressure tank by the Charmat method, filtration and sterile isobaric bottling. Crystal clear, straw yellow, with fine, persistent and very pleasant bubbles. An intense nose rich in fruity and floral notes, with a bread-crust note from the yeasts. Soft, pleasant bubbles on the palate and an elegant taste that recalls Arneis, the grape it comes from.",
+            "de": "100% Arneis. Handlese, schonende Pressung, Kühlung und Klärung des Mosts, temperaturkontrollierte Gärung in Edelstahltanks, zweite Gärung im Drucktank nach der Charmat-Methode, Filtration und sterile isobare Abfüllung. Kristallklar, strohgelb, mit feiner, anhaltender und sehr angenehmer Perlage. Intensiver Duft mit reichen Frucht- und Blütennoten und einem Hauch Brotkruste von den Hefen. Am Gaumen weiche, angenehme Perlen und ein eleganter Geschmack, der an den Arneis erinnert, die Rebsorte, aus der er entsteht."
+          },
+          "a": {
+            "it": "Come aperitivo, con antipasti, primi e piatti a base di pesce; ottimo anche da sorseggiare dopo cena con un dolce.",
+            "en": "As an aperitif, with starters, first courses and fish dishes; also excellent after dinner with dessert.",
+            "de": "Als Aperitif, zu Vorspeisen, ersten Gängen und Fischgerichten; auch hervorragend nach dem Essen zum Dessert."
+          }
+        }
+      },
+      "fonti": [
+        "https://cantinagiacomocosta.it/collections/vino",
+        "https://cantinagiacomocosta.it/",
+        "https://cantinagiacomocosta.it/pages/degustazione",
+        "https://www.winedering.com/it/winery-azienda-agricola-giacomo-costa_d6796"
+      ]
     }
   ],
   "IMG": {
@@ -16260,6 +16446,13 @@ window.VETRINE = {
     "prod-V-49-3": "https://primary.jwwb.nl/public/s/u/k/temp-amodpxraadvaqyfzitmz/image-6-high.jpg",
     "prod-V-49-4": "https://primary.jwwb.nl/public/s/u/k/temp-amodpxraadvaqyfzitmz/1782350857212-high.png",
     "prod-V-49-5": "https://primary.jwwb.nl/public/s/u/k/temp-amodpxraadvaqyfzitmz/1782350978631-high.png",
-    "prod-V-49-6": "https://primary.jwwb.nl/public/s/u/k/temp-amodpxraadvaqyfzitmz/image-high-a05mqv.png"
+    "prod-V-49-6": "https://primary.jwwb.nl/public/s/u/k/temp-amodpxraadvaqyfzitmz/image-high-a05mqv.png",
+    "logo-V-50": "https://cantinagiacomocosta.it/cdn/shop/files/Giacomo_Costa_immagine_profilo_9eac9f50-ad4f-460c-9524-29c5f3e5172d.jpg?width=500",
+    "prod-V-50-0": "https://cantinagiacomocosta.it/cdn/shop/files/Progetto_senza_titolo-8.png?width=900",
+    "prod-V-50-1": "https://cantinagiacomocosta.it/cdn/shop/files/Progettosenzatitolo-6.png?width=900",
+    "prod-V-50-2": "https://cantinagiacomocosta.it/cdn/shop/files/Product_Image_Bottle_Reshape-3.png?width=900",
+    "prod-V-50-3": "https://cantinagiacomocosta.it/cdn/shop/files/Product_Image_Bottle_Reshape-2.png?width=900",
+    "prod-V-50-4": "https://cantinagiacomocosta.it/cdn/shop/files/Progetto_senza_titolo-9.png?width=900",
+    "prod-V-50-5": "https://cantinagiacomocosta.it/cdn/shop/files/Progetto_senza_titolo-10.png?width=900"
   }
 };
