@@ -15574,7 +15574,6 @@ window.VETRINE = {
           "c": [
             "DOCG"
           ],
-          "pr": "12,00 € (shop online)",
           "d": {
             "it": "Arneis 100%. Uva raccolta a mano, pressatura soffice, raffreddamento e decantazione del mosto, fermentazione a temperatura controllata; stabilizzazione a freddo, filtrazione e imbottigliamento sterile. Cristallino, giallo paglierino con riflessi verdolini. Profumo intenso e di qualità fine, ricco di sentori floreali, leggermente mandorlato, con sensazioni di frutta fresca (pesca e melone). Al palato è elegante e armonico, con sapidità e freschezza elevate.",
             "en": "100% Arneis. Hand-picked grapes, gentle pressing, chilling and settling of the must, temperature-controlled fermentation; cold stabilisation, filtration and sterile bottling. Crystal clear, straw yellow with greenish tints. An intense, fine nose rich in floral notes, lightly almondy, with fresh fruit (peach and melon). Elegant and harmonious on the palate, with marked savouriness and freshness.",
@@ -15605,7 +15604,6 @@ window.VETRINE = {
           "c": [
             "DOC"
           ],
-          "pr": "15,00 € (shop online)",
           "d": {
             "it": "Nebbiolo 100%. Vinificazione tradizionale: uva raccolta a mano, pigiadiraspatura e macerazione di otto-dieci giorni, fermentazione in vasche di acciaio inox e affinamento per un anno in botti grandi di rovere e tonneau. Rosso rubino con tenui riflessi granato e sfumature amaranto. Profumo intenso e pulito, con note di ciliegia marasca, ribes nero e mora; al retrolfatto ricordi di fieno e pepe. Al palato è caldo e asciutto, con appena una nota vanigliata, ricordi di tabacco e cuoio e una leggera sensazione tannica.",
             "en": "100% Nebbiolo. Traditional winemaking: hand-picked grapes, destemming and crushing, eight to ten days of maceration, fermentation in stainless steel vats and a year of ageing in large oak casks and tonneaux. Ruby red with faint garnet tints and amaranth shades. An intense, clean nose of morello cherry, blackcurrant and blackberry, with hay and pepper on the aftertaste. Warm and dry on the palate, with just a hint of vanilla, tobacco and leather and a light tannic grip.",
@@ -15636,7 +15634,6 @@ window.VETRINE = {
           "c": [
             "DOC"
           ],
-          "pr": "12,00 € (shop online)",
           "d": {
             "it": "Barbera 100%. Vinificazione tradizionale: uva raccolta a mano, pigiadiraspatura, macerazione di otto-nove giorni e fermentazione in vasche di acciaio inox; affinamento per un anno, una parte in botti grandi di legno e una parte in tonneau, con successivo assemblaggio alla ricerca dell'equilibrio perfetto. Rosso rubino intenso con riflessi porpora. Al naso un ricco bouquet di frutti di bosco, caffè e liquirizia. Al palato è caldo e asciutto, dal corpo pieno e avvolgente, con un'elegante sensazione tannica.",
             "en": "100% Barbera. Traditional winemaking: hand-picked grapes, destemming and crushing, eight to nine days of maceration and fermentation in stainless steel vats; a year of ageing, part in large wooden casks and part in tonneaux, then blended in search of the perfect balance. Deep ruby red with purple tints. A rich bouquet of wild berries, coffee and liquorice. Warm and dry on the palate, full-bodied and enveloping, with an elegant tannic feel.",
@@ -15650,7 +15647,6 @@ window.VETRINE = {
         },
         "V-50-5": {
           "c": [],
-          "pr": "10,00 € (shop online)",
           "d": {
             "it": "Arneis 100%. Uva raccolta a mano, pressatura soffice, raffreddamento e decantazione del mosto, fermentazione a temperatura controllata in vasche di acciaio inox, rifermentazione in autoclave con metodo Charmat, filtrazione e imbottigliamento isobarico sterile. Cristallino, giallo paglierino, con bollicine piccole, persistenti e molto gradevoli. Profumo intenso, ricco di sentori fruttati e floreali, con una nota di crosta di pane data dai lieviti. In bocca le bollicine sono soffici e piacevoli e il sapore elegante richiama l'Arneis, il vitigno da cui nasce.",
             "en": "100% Arneis. Hand-picked grapes, gentle pressing, chilling and settling of the must, temperature-controlled fermentation in stainless steel vats, second fermentation in pressure tank by the Charmat method, filtration and sterile isobaric bottling. Crystal clear, straw yellow, with fine, persistent and very pleasant bubbles. An intense nose rich in fruity and floral notes, with a bread-crust note from the yeasts. Soft, pleasant bubbles on the palate and an elegant taste that recalls Arneis, the grape it comes from.",
