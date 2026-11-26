@@ -2407,15 +2407,19 @@ window.VETRINE = {
       "certs": [
         "Bio"
       ],
-      "exp": [],
+      "exp": [
+        "FR",
+        "GB",
+        "CA"
+      ],
       "lg": [
         "it",
         "en"
       ],
       "moq": null,
       "d": {
-        "it": "Queste terre, un tempo dell'Abbazia di Vallombrosa, sono coltivate a vite e olivo dal 1586. Più di quattro secoli dopo, Il Casellino è un'azienda di 38 ettari a 350 metri di quota, in località Casellino-Torri, a Rignano sull'Arno, una trentina di chilometri a sud di Firenze. Sedici ettari sono oliveto biologico, con circa 6.000 ulivi delle cultivar tradizionali toscane. Le olive si raccolgono a mano e si spremono a freddo nel frantoio aziendale entro poche ore. L'olio, certificato biologico ICEA, si chiama Campo di Torri: profumato, gentile ma con carattere, con un sentore di erba appena tagliata. Dagli stessi campi arrivano gli oli aromatizzati e le miscele di spezie coltivate in azienda, dal finocchietto selvatico al mirto. E chi vuole vedere gli ulivi da vicino può fermarsi in uno dei tre casali.",
-        "en": "These lands, once owned by the Abbey of Vallombrosa, have been planted with vines and olive trees since 1586. More than four centuries later, Il Casellino is a 38-hectare estate at 350 metres above sea level, at Casellino-Torri in Rignano sull'Arno, about thirty kilometres south of Florence. Sixteen hectares are organic olive groves, with around 6,000 trees of traditional Tuscan cultivars. The olives are picked by hand and cold-pressed in the estate's own mill within a few hours. The oil, certified organic by ICEA, is called Campo di Torri: fragrant, gentle but with character, with a scent of freshly cut grass. The same fields give the flavoured oils and the blends of herbs and spices grown on the farm, from wild fennel to myrtle. And anyone who wants to see the olive trees up close can stay in one of the three farmhouses.",
+        "it": "Queste terre, un tempo dell'Abbazia di Vallombrosa, sono coltivate a vite e olivo dal 1586. Più di quattro secoli dopo, Il Casellino è un'azienda di 38 ettari a 350 metri di quota, in località Casellino-Torri, a Rignano sull'Arno, una trentina di chilometri a sud di Firenze. Sedici ettari sono oliveto biologico, con circa 6.000 ulivi delle cultivar tradizionali toscane. Le olive si raccolgono a mano e si spremono a freddo nel frantoio aziendale entro poche ore. L'olio, certificato biologico ICEA, si chiama Campo di Torri: profumato, gentile ma con carattere, con un sentore di erba appena tagliata. Dagli stessi campi arrivano gli oli aromatizzati e le miscele di spezie coltivate in azienda, dal finocchietto selvatico al rosmarino. E chi vuole vedere gli ulivi da vicino può fermarsi in uno dei tre casali.",
+        "en": "These lands, once owned by the Abbey of Vallombrosa, have been planted with vines and olive trees since 1586. More than four centuries later, Il Casellino is a 38-hectare estate at 350 metres above sea level, at Casellino-Torri in Rignano sull'Arno, about thirty kilometres south of Florence. Sixteen hectares are organic olive groves, with around 6,000 trees of traditional Tuscan cultivars. The olives are picked by hand and cold-pressed in the estate's own mill within a few hours. The oil, certified organic by ICEA, is called Campo di Torri: fragrant, gentle but with character, with a scent of freshly cut grass. The same fields give the flavoured oils and the blends of herbs and spices grown on the farm, from wild fennel to rosemary. And anyone who wants to see the olive trees up close can stay in one of the three farmhouses.",
         "de": "Landwirtschaftsbetrieb in Casellino-Torri bei Rignano sull'Arno, rund 30 km südlich von Florenz, der seit 1586 Olivenöl extra vergine erzeugt. Er bewirtschaftet 16 Hektar Bio-Olivenhaine mit etwa 6.000 Bäumen traditioneller toskanischer Sorten. Die Oliven werden von Hand geerntet und innerhalb weniger Stunden in der eigenen Ölmühle kalt gepresst. Das ICEA-zertifizierte Bio-Öl trägt die Marke \"Campo di Torri\"; dazu kommen aromatisierte Öle und Gewürze sowie drei Gästehäuser."
       },
       "sub": [
@@ -2535,9 +2539,9 @@ window.VETRINE = {
           "c": [],
           "pr": "14,00 €",
           "d": {
-            "it": "Quattro miscele di spezie coltivate e raccolte in azienda: Giallo di Campo (finocchietto selvatico), Macchia di Campo (mirto, rosmarino, limone e finocchietto), Vento di Campo (menta, salvia e limone) e Fuoco di Campo (peperoncino, aglio e santoreggia). Nella confezione, consigli per l'uso in cucina.",
-            "en": "Four spice blends grown and gathered on the farm: Giallo di Campo (wild fennel), Macchia di Campo (myrtle, rosemary, lemon and fennel), Vento di Campo (mint, sage and lemon) and Fuoco di Campo (chilli, garlic and savory). Cooking tips included.",
-            "de": "Vier Gewürzmischungen aus eigenem Anbau: Giallo di Campo (wilder Fenchel), Macchia di Campo (Myrte, Rosmarin, Zitrone und Fenchel), Vento di Campo (Minze, Salbei und Zitrone) und Fuoco di Campo (Chili, Knoblauch und Bohnenkraut). Mit Küchentipps in der Packung."
+            "it": "Quattro miscele di spezie coltivate e raccolte in azienda: Giallo di Campo (finocchietto selvatico), Macchia di Campo (rosmarino, limone e finocchietto), Vento di Campo (menta, salvia e limone) e Fuoco di Campo (peperoncino, aglio e santoreggia). Nella confezione, consigli per l'uso in cucina.",
+            "en": "Four spice blends grown and gathered on the farm: Giallo di Campo (wild fennel), Macchia di Campo (rosemary, lemon and fennel), Vento di Campo (mint, sage and lemon) and Fuoco di Campo (chilli, garlic and savory). Cooking tips included.",
+            "de": "Vier Gewürzmischungen aus eigenem Anbau: Giallo di Campo (wilder Fenchel), Macchia di Campo (Rosmarin, Zitrone und Fenchel), Vento di Campo (Minze, Salbei und Zitrone) und Fuoco di Campo (Chili, Knoblauch und Bohnenkraut). Mit Küchentipps in der Packung."
           },
           "a": {
             "it": "",
