@@ -48,6 +48,7 @@ window.VETRINE = {
       "id": "V-02",
       "n": "Podere Lucano",
       "cat": "olio",
+      "cat2": "vino",
       "reg": "Basilicata",
       "city": "Ripacandida (PZ)",
       "lat": 40.911,
@@ -55,6 +56,7 @@ window.VETRINE = {
       "y": null,
       "certs": [
         "Bio",
+        "DOC",
         "DOCG",
         "IGP",
         "IGT"
@@ -71,7 +73,8 @@ window.VETRINE = {
       },
       "sub": [
         {
-          "k": "vini", "cat": "vino",
+          "k": "vini",
+          "cat": "vino",
           "n": {
             "it": "Vini",
             "en": "Wines",
@@ -79,7 +82,8 @@ window.VETRINE = {
           }
         },
         {
-          "k": "distillati", "cat": "liquori",
+          "k": "distillati",
+          "cat": "liquori",
           "n": {
             "it": "Distillati",
             "en": "Spirits",
@@ -87,7 +91,8 @@ window.VETRINE = {
           }
         },
         {
-          "k": "olio", "cat": "olio",
+          "k": "olio",
+          "cat": "olio",
           "n": {
             "it": "Olio",
             "en": "Olive oil",
@@ -102,17 +107,17 @@ window.VETRINE = {
           "vini"
         ],
         [
-          "Augustus, rosso",
+          "Augustus, rosso DOC",
           null,
           "vini"
         ],
         [
-          "Symposium, Aglianico del Vulture",
+          "Symposium, Aglianico del Vulture DOC",
           null,
           "vini"
         ],
         [
-          "Settecolli, rosso",
+          "Settecolli, rosso DOC",
           null,
           "vini"
         ],
@@ -164,9 +169,9 @@ window.VETRINE = {
           ],
           "pr": "25,00 €",
           "d": {
-            "it": "Riserva da sole uve Aglianico del Vulture dei vigneti di famiglia, raccolte a mano. Macerazione di 20-25 giorni, 36 mesi in barrique nuove di rovere francese e almeno 24 mesi in bottiglia. 14% vol.",
-            "en": "Riserva made only from hand-picked Aglianico del Vulture grapes from the family vineyards. 20-25 days of maceration, 36 months in new French oak barriques and at least 24 months in bottle. 14% vol.",
-            "de": "Riserva ausschließlich aus handgelesenen Aglianico-del-Vulture-Trauben aus den eigenen Weinbergen. 20-25 Tage Maischestandzeit, 36 Monate in neuen Barriques aus französischer Eiche und mindestens 24 Monate auf der Flasche. 14% Vol."
+            "it": "Riserva da sole uve Aglianico del Vulture dei vigneti di famiglia, raccolte a mano. Macerazione di 20-25 giorni, 36 mesi in barrique nuove di rovere francese e almeno 24 mesi in bottiglia. 14,5% vol.",
+            "en": "Riserva made only from hand-picked Aglianico del Vulture grapes from the family vineyards. 20-25 days of maceration, 36 months in new French oak barriques and at least 24 months in bottle. 14.5% vol.",
+            "de": "Riserva ausschließlich aus handgelesenen Aglianico-del-Vulture-Trauben aus den eigenen Weinbergen. 20-25 Tage Maischestandzeit, 36 Monate in neuen Barriques aus französischer Eiche und mindestens 24 Monate auf der Flasche. 14,5% Vol."
           },
           "a": {
             "it": "",
@@ -175,7 +180,9 @@ window.VETRINE = {
           }
         },
         "V-02-1": {
-          "c": [],
+          "c": [
+            "DOC"
+          ],
           "pr": "18,00 €",
           "d": {
             "it": "Rosso a produzione limitata, con profumi intensi di ciliegia, amarena, prugna e spezie. Affinato in botti da 225 litri e almeno 6 mesi in bottiglia. 14% vol.",
@@ -189,7 +196,9 @@ window.VETRINE = {
           }
         },
         "V-02-2": {
-          "c": [],
+          "c": [
+            "DOC"
+          ],
           "pr": "15,00 €",
           "d": {
             "it": "Aglianico del Vulture in purezza da terreni vulcanici: un rosso morbido, armonico, con tannini delicati. 14% vol.",
@@ -203,12 +212,14 @@ window.VETRINE = {
           }
         },
         "V-02-3": {
-          "c": [],
+          "c": [
+            "DOC"
+          ],
           "pr": "8,00 €",
           "d": {
-            "it": "Rosso rubino da uve delle colline del Vulture, su suoli vulcanici sabbiosi. Passa in botti da 225 litri e almeno 3 mesi in bottiglia. 13% vol.",
-            "en": "Ruby red from grapes grown on the Vulture hills, on sandy volcanic soils. Aged in 225-litre barrels and at least 3 months in bottle. 13% vol.",
-            "de": "Rubinroter Wein aus Trauben von den Hügeln des Vulture, auf sandigen Vulkanböden. Ausbau in 225-Liter-Fässern und mindestens 3 Monate auf der Flasche. 13% Vol."
+            "it": "Rosso rubino da uve delle colline del Vulture, su suoli vulcanici sabbiosi. Affinato 5-6 mesi in barrique e almeno 3 mesi in bottiglia. 13,5% vol.",
+            "en": "Ruby red from grapes grown on the Vulture hills, on sandy volcanic soils. Aged 5-6 months in barriques and at least 3 months in bottle. 13.5% vol.",
+            "de": "Rubinroter Wein aus Trauben von den Hügeln des Vulture, auf sandigen Vulkanböden. 5-6 Monate Ausbau im Barrique und mindestens 3 Monate auf der Flasche. 13,5% Vol."
           },
           "a": {
             "it": "Aprire la bottiglia un'ora prima di servirlo.",
